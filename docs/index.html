@@ -1,0 +1,412 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>JPYC ニュースダッシュボード</title>
+<script src="https://cdn.jsdelivr.net/npm/papaparse@5.4.1/papaparse.min.js"></script>
+<style>
+  :root {
+    --bg: #f7f7f5;
+    --card-bg: #ffffff;
+    --border: #e4e2dd;
+    --text: #1c1b1a;
+    --text-muted: #6b6864;
+    --accent: #b5651d;
+    --accent-bg: #f3e6d8;
+    --chip-bg: #eeece8;
+    --chip-active-bg: #b5651d;
+    --chip-active-text: #ffffff;
+    --link: #a0522d;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --bg: #17161a;
+      --card-bg: #211f24;
+      --border: #34313a;
+      --text: #e9e6e2;
+      --text-muted: #a29d96;
+      --accent: #e0975a;
+      --accent-bg: #3a2d20;
+      --chip-bg: #2b2830;
+      --chip-active-bg: #e0975a;
+      --chip-active-text: #1c1409;
+      --link: #e0975a;
+    }
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, BlinkMacSystemFont, "Hiragino Sans", "Yu Gothic", sans-serif;
+    background: var(--bg);
+    color: var(--text);
+    line-height: 1.5;
+  }
+  header {
+    padding: 24px 20px 12px;
+    max-width: 1100px;
+    margin: 0 auto;
+  }
+  h1 { font-size: 1.4rem; margin: 0 0 4px; }
+  .subtitle { color: var(--text-muted); font-size: 0.85rem; }
+
+  .controls {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 12px 20px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 16px;
+    align-items: flex-start;
+  }
+  .control-group {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+  }
+  .control-group label {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    text-transform: uppercase;
+    letter-spacing: 0.03em;
+  }
+  input[type="text"], input[type="date"], select {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 6px;
+    padding: 6px 10px;
+    font-size: 0.9rem;
+  }
+  .tag-chips {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    max-width: 480px;
+  }
+  .chip {
+    background: var(--chip-bg);
+    border: 1px solid var(--border);
+    color: var(--text);
+    border-radius: 999px;
+    padding: 4px 12px;
+    font-size: 0.8rem;
+    cursor: pointer;
+    user-select: none;
+    white-space: nowrap;
+  }
+  .chip.active {
+    background: var(--chip-active-bg);
+    color: var(--chip-active-text);
+    border-color: var(--chip-active-bg);
+  }
+  .date-range { display: flex; gap: 6px; align-items: center; }
+
+  .meta-bar {
+    max-width: 1100px;
+    margin: 0 auto;
+    padding: 4px 20px 12px;
+    font-size: 0.8rem;
+    color: var(--text-muted);
+  }
+
+  main { max-width: 1100px; margin: 0 auto; padding: 0 20px 60px; }
+
+  .event-group {
+    background: var(--card-bg);
+    border: 1px solid var(--border);
+    border-radius: 10px;
+    margin-bottom: 14px;
+    overflow: hidden;
+  }
+  .event-header {
+    padding: 12px 16px;
+    cursor: pointer;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 12px;
+  }
+  .event-header:hover { background: var(--accent-bg); }
+  .event-title { font-weight: 600; font-size: 0.95rem; }
+  .event-sub { font-size: 0.78rem; color: var(--text-muted); margin-top: 2px; }
+  .severity-badge {
+    background: var(--accent-bg);
+    color: var(--accent);
+    border-radius: 6px;
+    padding: 2px 8px;
+    font-size: 0.75rem;
+    font-weight: 600;
+    white-space: nowrap;
+  }
+  .event-articles { border-top: 1px solid var(--border); display: none; }
+  .event-articles.open { display: block; }
+
+  .article-row {
+    padding: 10px 16px;
+    border-bottom: 1px solid var(--border);
+    display: flex;
+    flex-direction: column;
+    gap: 4px;
+  }
+  .article-row:last-child { border-bottom: none; }
+  .article-title a { color: var(--link); text-decoration: none; font-size: 0.9rem; }
+  .article-title a:hover { text-decoration: underline; }
+  .article-meta {
+    font-size: 0.75rem;
+    color: var(--text-muted);
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    align-items: center;
+  }
+  .tag-mini {
+    background: var(--chip-bg);
+    border-radius: 4px;
+    padding: 1px 6px;
+    font-size: 0.7rem;
+  }
+
+  #loading, #empty { text-align: center; color: var(--text-muted); padding: 40px 0; }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>JPYC ニュースダッシュボード</h1>
+  <div class="subtitle" id="lastUpdated">読み込み中...</div>
+</header>
+
+<div class="controls">
+  <div class="control-group">
+    <label>タグ絞り込み(複数選択可)</label>
+    <div class="tag-chips" id="tagChips"></div>
+  </div>
+  <div class="control-group">
+    <label>entities検索</label>
+    <input type="text" id="entitySearch" placeholder="例: 金融庁, HashPort">
+  </div>
+  <div class="control-group">
+    <label>日付範囲</label>
+    <div class="date-range">
+      <input type="date" id="dateFrom">
+      <span>〜</span>
+      <input type="date" id="dateTo">
+    </div>
+  </div>
+  <div class="control-group">
+    <label>並べ替え</label>
+    <select id="sortMode">
+      <option value="date_desc">日付(新しい順)</option>
+      <option value="date_asc">日付(古い順)</option>
+      <option value="severity_desc">severity_index(高い順)</option>
+    </select>
+  </div>
+  <div class="control-group">
+    <label>表示形式</label>
+    <select id="groupMode">
+      <option value="grouped">event_id単位でグループ表示</option>
+      <option value="flat">記事を1件ずつ表示</option>
+    </select>
+  </div>
+</div>
+
+<div class="meta-bar" id="metaBar"></div>
+
+<main>
+  <div id="loading">データを読み込んでいます...</div>
+  <div id="content"></div>
+  <div id="empty" style="display:none;">条件に一致する記事がありません。</div>
+</main>
+
+<script>
+const RAW_BASE = "https://raw.githubusercontent.com/matsuno04/jpyc-news-v2/master/data/";
+const TAGS = ["活用事例","実証実験","取扱い・対応","提携・連携","発行・資金","制度・規制","市場・統計","競合・市場環境","解説・論説","リスク・懸念","その他"];
+
+let articles = [];
+let eventMap = {};
+let activeTags = new Set();
+
+function parseCSV(text) {
+  return Papa.parse(text, { header: true, skipEmptyLines: true }).data;
+}
+
+async function loadData() {
+  try {
+    const [rawText, eventText] = await Promise.all([
+      fetch(RAW_BASE + "raw_articles.csv").then(r => r.text()),
+      fetch(RAW_BASE + "event_summary.csv").then(r => r.text()),
+    ]);
+    articles = parseCSV(rawText);
+    const events = parseCSV(eventText);
+    events.forEach(e => { eventMap[e.event_id] = e; });
+
+    articles.forEach(a => {
+      a._tags = (a.tags || "").split("、").map(t => t.trim()).filter(Boolean);
+      a._entities = (a.entities || "").split("、").map(t => t.trim()).filter(Boolean);
+      a._relevance = parseFloat(a.relevance) || 0;
+      a._severity = eventMap[a.event_id] ? parseFloat(eventMap[a.event_id].severity_index) || 0 : 0;
+    });
+
+    const dates = articles.map(a => a.date).filter(Boolean).sort();
+    document.getElementById("lastUpdated").textContent =
+      `記事数: ${articles.length}件 / 期間: ${dates[0]?.slice(0,10) || "?"} 〜 ${dates[dates.length-1]?.slice(0,10) || "?"} / event数: ${events.length}件`;
+
+    buildTagChips();
+    render();
+  } catch (err) {
+    document.getElementById("loading").textContent = "データの読み込みに失敗しました: " + err.message;
+  }
+}
+
+function buildTagChips() {
+  const container = document.getElementById("tagChips");
+  TAGS.forEach(tag => {
+    const chip = document.createElement("div");
+    chip.className = "chip";
+    chip.textContent = tag;
+    chip.onclick = () => {
+      if (activeTags.has(tag)) { activeTags.delete(tag); chip.classList.remove("active"); }
+      else { activeTags.add(tag); chip.classList.add("active"); }
+      render();
+    };
+    container.appendChild(chip);
+  });
+}
+
+function getFiltered() {
+  const entityQuery = document.getElementById("entitySearch").value.trim().toLowerCase();
+  const dateFrom = document.getElementById("dateFrom").value;
+  const dateTo = document.getElementById("dateTo").value;
+
+  return articles.filter(a => {
+    if (activeTags.size > 0 && !a._tags.some(t => activeTags.has(t))) return false;
+    if (entityQuery && !a._entities.some(e => e.toLowerCase().includes(entityQuery))) return false;
+    const day = (a.date || "").slice(0, 10);
+    if (dateFrom && day < dateFrom) return false;
+    if (dateTo && day > dateTo) return false;
+    return true;
+  });
+}
+
+function sortArticles(list) {
+  const mode = document.getElementById("sortMode").value;
+  const sorted = [...list];
+  if (mode === "date_desc") sorted.sort((a,b) => (b.date||"").localeCompare(a.date||""));
+  else if (mode === "date_asc") sorted.sort((a,b) => (a.date||"").localeCompare(b.date||""));
+  else if (mode === "severity_desc") sorted.sort((a,b) => b._severity - a._severity || (b.date||"").localeCompare(a.date||""));
+  return sorted;
+}
+
+function render() {
+  const filtered = sortArticles(getFiltered());
+  const content = document.getElementById("content");
+  const empty = document.getElementById("empty");
+  const loading = document.getElementById("loading");
+  loading.style.display = "none";
+  content.innerHTML = "";
+
+  if (filtered.length === 0) { empty.style.display = "block"; return; }
+  empty.style.display = "none";
+
+  document.getElementById("metaBar").textContent = `表示中: ${filtered.length}件`;
+
+  const groupMode = document.getElementById("groupMode").value;
+  if (groupMode === "flat") {
+    filtered.forEach(a => content.appendChild(renderArticleRow(a)));
+    return;
+  }
+
+  // grouped by event_id
+  const groups = {};
+  const noEvent = [];
+  filtered.forEach(a => {
+    if (a.event_id) {
+      (groups[a.event_id] = groups[a.event_id] || []).push(a);
+    } else {
+      noEvent.push(a);
+    }
+  });
+
+  let groupIds = Object.keys(groups);
+  const sortMode = document.getElementById("sortMode").value;
+  if (sortMode === "severity_desc") {
+    groupIds.sort((a,b) => (parseFloat(eventMap[b]?.severity_index)||0) - (parseFloat(eventMap[a]?.severity_index)||0));
+  } else if (sortMode === "date_asc") {
+    groupIds.sort((a,b) => (eventMap[a]?.burst_start_date||"").localeCompare(eventMap[b]?.burst_start_date||""));
+  } else {
+    groupIds.sort((a,b) => (eventMap[b]?.burst_start_date||"").localeCompare(eventMap[a]?.burst_start_date||""));
+  }
+
+  groupIds.forEach(eid => {
+    content.appendChild(renderEventGroup(eid, groups[eid]));
+  });
+
+  if (noEvent.length > 0) {
+    const wrap = document.createElement("div");
+    wrap.className = "event-group";
+    const header = document.createElement("div");
+    header.className = "event-header";
+    header.innerHTML = `<div><div class="event-title">event_idなし(低relevance等)</div><div class="event-sub">${noEvent.length}件</div></div>`;
+    const body = document.createElement("div");
+    body.className = "event-articles open";
+    noEvent.forEach(a => body.appendChild(renderArticleRow(a)));
+    header.onclick = () => body.classList.toggle("open");
+    wrap.appendChild(header); wrap.appendChild(body);
+    content.appendChild(wrap);
+  }
+}
+
+function renderEventGroup(eid, arts) {
+  const ev = eventMap[eid] || {};
+  const wrap = document.createElement("div");
+  wrap.className = "event-group";
+
+  const header = document.createElement("div");
+  header.className = "event-header";
+  header.innerHTML = `
+    <div>
+      <div class="event-title">${escapeHtml(ev.representative_title || eid)}</div>
+      <div class="event-sub">${eid} / burst開始: ${ev.burst_start_date || "?"} / 記事数: ${ev.event_article_count || arts.length} / 主要タグ: ${escapeHtml(ev.tags_mode || "")}</div>
+    </div>
+    <div class="severity-badge">severity ${parseFloat(ev.severity_index || 0).toFixed(2)}</div>
+  `;
+  const body = document.createElement("div");
+  body.className = "event-articles";
+  arts.sort((a,b) => (a.date||"").localeCompare(b.date||"")).forEach(a => body.appendChild(renderArticleRow(a)));
+  header.onclick = () => body.classList.toggle("open");
+  wrap.appendChild(header); wrap.appendChild(body);
+  return wrap;
+}
+
+function renderArticleRow(a) {
+  const row = document.createElement("div");
+  row.className = "article-row";
+  const tagsHtml = a._tags.map(t => `<span class="tag-mini">${escapeHtml(t)}</span>`).join(" ");
+  row.innerHTML = `
+    <div class="article-title"><a href="${escapeAttr(a.url)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></div>
+    <div class="article-meta">
+      <span>${(a.date||"").slice(0,10)}</span>
+      <span>${escapeHtml(a.domain || "")}</span>
+      <span>relevance ${a._relevance}</span>
+      ${tagsHtml}
+    </div>
+  `;
+  return row;
+}
+
+function escapeHtml(s) {
+  return String(s ?? "").replace(/[&<>"']/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;","'":"&#39;"}[c]));
+}
+function escapeAttr(s) { return escapeHtml(s); }
+
+["entitySearch","dateFrom","dateTo","sortMode","groupMode"].forEach(id => {
+  document.getElementById(id).addEventListener("input", render);
+  document.getElementById(id).addEventListener("change", render);
+});
+
+loadData();
+</script>
+
+</body>
+</html>
