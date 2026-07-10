@@ -1,0 +1,10 @@
+pandas
+openpyxl
+gnews
+newspaper3k
+lxml
+lxml_html_clean
+googlenewsdecoder
+trafilatura
+requests
+anthropic
