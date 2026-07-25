@@ -15,7 +15,15 @@ from datetime import datetime
 
 import pandas as pd
 
-from classifier import get_client, MAX_CHARS, CLASSIFY_MODEL, FULL_DATA_PATH
+from classifier import (
+    get_client,
+    MAX_CHARS,
+    CLASSIFY_MODEL,
+    FULL_DATA_PATH,
+    CODE_REPO_PATH,
+    DATA_REPO_PATH,
+    check_repo_up_to_date,
+)
 
 sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.stderr.reconfigure(encoding="utf-8", errors="replace")
@@ -81,6 +89,10 @@ def parse_args():
 
 def main():
     args = parse_args()
+
+    check_repo_up_to_date(CODE_REPO_PATH, "公開リポジトリ(jpyc-news)")
+    check_repo_up_to_date(DATA_REPO_PATH, "非公開リポジトリ(jpyc-news-data)")
+
     log("読み込み開始")
     if not os.path.exists(FULL_DATA_PATH):
         log(f"データファイルが見つかりません: {FULL_DATA_PATH}")

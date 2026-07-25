@@ -12,6 +12,7 @@ import os
 import sys
 import json
 import time
+import subprocess
 from datetime import datetime
 
 import pandas as pd
@@ -23,6 +24,10 @@ sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 FULL_DATA_PATH = os.environ.get(
     "FULL_DATA_PATH", os.path.join("..", "jpyc-news-data", "raw_articles_full.csv")
 )
+# 公開リポジトリ(jpyc-news, このスクリプト自身が属するリポジトリ)
+CODE_REPO_PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+# 非公開リポジトリ(jpyc-news-data, FULL_DATA_PATHが指すデータの置き場所)
+DATA_REPO_PATH = os.path.dirname(os.path.abspath(FULL_DATA_PATH))
 CLASSIFY_MODEL = "claude-haiku-4-5-20251001"
 MAX_CHARS = 4000
 BURST_WINDOW_DAYS = 14
@@ -46,6 +51,42 @@ TAGS = {
 
 def log(msg):
     print(f"[{datetime.now().strftime('%H:%M:%S')}] {msg}", flush=True)
+
+
+def check_repo_up_to_date(repo_path, label):
+    """repo_pathのローカルがoriginより遅れていないか確認する。
+
+    git fetch自体が失敗した場合(オフライン環境等)は警告のみ出して処理を続行する。
+    fetchに成功し、ローカルがリモートより遅れていると判明した場合のみ sys.exit(1) する。
+    """
+    try:
+        subprocess.run(
+            ["git", "-C", repo_path, "fetch", "origin"],
+            check=True, capture_output=True, text=True, timeout=30,
+        )
+    except Exception as e:
+        log(f"警告: {label} の git fetch に失敗しました(オフライン環境などの可能性があります): {e}")
+        log("  ローカルの最新性チェックをスキップして処理を続行します。")
+        return
+
+    try:
+        branch = subprocess.run(
+            ["git", "-C", repo_path, "rev-parse", "--abbrev-ref", "HEAD"],
+            check=True, capture_output=True, text=True, timeout=10,
+        ).stdout.strip()
+        result = subprocess.run(
+            ["git", "-C", repo_path, "log", f"HEAD..origin/{branch}", "--oneline"],
+            check=True, capture_output=True, text=True, timeout=10,
+        )
+    except Exception as e:
+        log(f"警告: {label} のgit状態確認に失敗しました: {e}")
+        return
+
+    behind_commits = [line for line in result.stdout.splitlines() if line.strip()]
+    if behind_commits:
+        log(f"FATAL: {label} のローカルが origin/{branch} より {len(behind_commits)} コミット遅れています。")
+        log("  ローカルが古い可能性があります。git pull してから再実行してください。")
+        sys.exit(1)
 
 
 def get_client():
@@ -141,6 +182,9 @@ def call_haiku(title, text, candidates):
 
 
 def main():
+    check_repo_up_to_date(CODE_REPO_PATH, "公開リポジトリ(jpyc-news)")
+    check_repo_up_to_date(DATA_REPO_PATH, "非公開リポジトリ(jpyc-news-data)")
+
     log("読み込み開始")
     if not os.path.exists(FULL_DATA_PATH):
         log(f"データファイルが見つかりません: {FULL_DATA_PATH}")
