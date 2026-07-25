@@ -92,6 +92,10 @@ def build_prompt(title, text, candidates):
 「JPYC」「ステーブルコイン」「日本円」等の頻出語は除外する。
 
 【relevance】JPYCがこの記事の主題としてどれだけ中心的かを0〜100のスコアで判定する。
+
+【summary】本文(text)を根拠に、日本語で2〜3文程度の要約を生成する。
+- 本文に書かれていない情報を推測・補完しない(non-fabrication厳守)
+- 固有名詞・数値は本文の表記をそのまま使う
 {burst_section}
 【relevanceが30未満の場合】event_id_choice は必ず null にしてください。
 
@@ -102,7 +106,7 @@ def build_prompt(title, text, candidates):
 {body}
 
 以下のJSON形式のみを出力してください(説明文不要):
-{{"tags": ["タグ名", ...], "entities": ["固有名詞", ...], "relevance": 0-100の整数, "event_id_choice": "既存event_id または NEW または null"}}
+{{"tags": ["タグ名", ...], "entities": ["固有名詞", ...], "relevance": 0-100の整数, "summary": "要約文", "event_id_choice": "既存event_id または NEW または null"}}
 """
 
 
@@ -113,7 +117,7 @@ def call_haiku(title, text, candidates):
         try:
             resp = client.messages.create(
                 model=CLASSIFY_MODEL,
-                max_tokens=400,
+                max_tokens=700,
                 messages=[{"role": "user", "content": prompt}],
             )
             raw = resp.content[0].text.strip()
@@ -122,8 +126,9 @@ def call_haiku(title, text, candidates):
             tags = [t for t in data.get("tags", []) if t in TAGS]
             entities = data.get("entities", [])
             relevance = int(data.get("relevance", 0))
+            summary = str(data.get("summary", "")).strip()
             event_choice = data.get("event_id_choice")
-            return tags, entities, relevance, event_choice
+            return tags, entities, relevance, summary, event_choice
         except Exception as e:
             msg = str(e)
             if "credit_balance_too_low" in msg:
@@ -143,7 +148,7 @@ def main():
 
     df = pd.read_csv(FULL_DATA_PATH)
     df["date"] = pd.to_datetime(df["date"], errors="coerce")
-    for col in ["tags", "entities", "event_id", "classification_status"]:
+    for col in ["tags", "entities", "event_id", "classification_status", "summary"]:
         if col in df.columns:
             df[col] = df[col].astype(object)
     df["is_commentary"] = df["is_commentary"].astype(object) if "is_commentary" in df.columns else None
@@ -193,7 +198,7 @@ def main():
             candidates = []
 
         try:
-            tags, entities, relevance, event_choice = call_haiku(row["title"], row["text"], candidates)
+            tags, entities, relevance, summary, event_choice = call_haiku(row["title"], row["text"], candidates)
         except Exception as e:
             log(f"[{i}/{len(todo_idx)}] 失敗(記録): {str(row['title'])[:30]} | {e}")
             df.at[idx, "classification_status"] = "failed"
@@ -222,6 +227,7 @@ def main():
         df.at[idx, "tags"] = "、".join(tags)
         df.at[idx, "entities"] = "、".join(entities)
         df.at[idx, "relevance"] = relevance
+        df.at[idx, "summary"] = summary
         df.at[idx, "is_commentary"] = is_commentary
         df.at[idx, "event_id"] = event_id_final
         df.at[idx, "burst_start_date"] = burst_start_date_final

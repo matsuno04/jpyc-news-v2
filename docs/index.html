@@ -152,6 +152,7 @@
   .article-row:last-child { border-bottom: none; }
   .article-title a { color: var(--link); text-decoration: none; font-size: 0.9rem; }
   .article-title a:hover { text-decoration: underline; }
+  .article-summary { font-size: 0.83rem; color: var(--text); opacity: 0.85; }
   .article-meta {
     font-size: 0.75rem;
     color: var(--text-muted);
@@ -383,8 +384,10 @@ function renderArticleRow(a) {
   const row = document.createElement("div");
   row.className = "article-row";
   const tagsHtml = a._tags.map(t => `<span class="tag-mini">${escapeHtml(t)}</span>`).join(" ");
+  const summaryHtml = a.summary ? `<div class="article-summary">${escapeHtml(a.summary)}</div>` : "";
   row.innerHTML = `
     <div class="article-title"><a href="${escapeAttr(a.url)}" target="_blank" rel="noopener">${escapeHtml(a.title)}</a></div>
+    ${summaryHtml}
     <div class="article-meta">
       <span>${(a.date||"").slice(0,10)}</span>
       <span>${escapeHtml(a.domain || "")}</span>
