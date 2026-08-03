@@ -1,6 +1,6 @@
 ﻿event_id,burst_start_date,event_article_count,event_relevance_mean,severity_index,tags_mode,entities_union,representative_title
 EVT-20210103-01,2021-01-03,1,75.0,0.5199,競合・市場環境,ソニー銀行、SBIホールディングス、3メガバンク（三菱UFJ・みずほ・三井住友）、Circle社,ステーブルコインとは？JPYC・USDC・銘柄比較・日本規制・買い方【2026】 - bittimes.net
-EVT-20250817-01,2025-08-17,64,84.8,3.5397,制度・規制,JPYC、金融庁、資金移動業、岡部典孝、Tether、Circle、改正資金決済法、資金移動業者、JPYC社、JPYC（企業）、SBI VCトレード、JPYC株式会社、TerraUSD、資金決済法、イーサリアム、三菱UFJ信託銀行、第二種資金移動業、岡部代表取締役、Circle（サークル）、アステリア、パーソルホールディングス、アイフル、PayPay、資金移動業者登録、SBIホールディングス、国際決済銀行、関東財務局、JPYC EX、デジタルアセットマーケッツ、電算システム、インタートレード、JPモルガン・チェース、JPYC関連銘柄、岡部則孝、Ethereum、Polygon、Avalanche、国民民主党、玉木代表、ブロックチェーン、JPYC（フィンテック企業）、アステリア株式会社、ASTERIA Warp、米国財務省、ブロックチェーン推進協会、AltPay株式会社、財務会計システム、JPYCアダプター、Warp、新JPYCアダプター、ブロックチェーン推進協会（BCCC）、電算システムホールディングス、SWIFT、ダイヤモンド・ライフ、Chainalysis、シティグループ、EXPO2025デジタルウォレット、HashPort、SBI VC、三井住友銀行、神庭亮介、TOKYO FM、N.Avenue、WebX 2025、メルコイン、岡部氏、WebX、4Gamer.net、GENIUS法,国内初の円建てステーブルコイン、金融庁承認へ JPYCが秋にも発行 - 日本経済新聞
+EVT-20250817-01,2025-08-17,64,84.8,3.5397,制度・規制,JPYC、金融庁、資金移動業、岡部典孝、Tether、Circle、改正資金決済法、資金移動業者、JPYC社、JPYC（企業）、SBI VCトレード、JPYC株式会社、TerraUSD、資金決済法、イーサリアム、三菱UFJ信託銀行、第二種資金移動業、岡部代表取締役、Circle（サークル）、アステリア、パーソルホールディングス、アイフル、PayPay、資金移動業者登録、SBIホールディングス、国際決済銀行、関東財務局、Ethereum、Avalanche、Polygon、岡部則孝、国民民主党、玉木代表、デジタルアセットマーケッツ、電算システム、インタートレード、JPモルガン・チェース、JPYC関連銘柄、JPYC EX、ブロックチェーン、JPYC（フィンテック企業）、アステリア株式会社、ASTERIA Warp、米国財務省、ブロックチェーン推進協会、AltPay株式会社、財務会計システム、JPYCアダプター、Warp、新JPYCアダプター、ブロックチェーン推進協会（BCCC）、電算システムホールディングス、ダイヤモンド・ライフ、Chainalysis、シティグループ、SWIFT、EXPO2025デジタルウォレット、HashPort、SBI VC、三井住友銀行、神庭亮介、TOKYO FM、N.Avenue、WebX 2025、メルコイン、岡部氏、WebX、4Gamer.net、GENIUS法,国内初の円建てステーブルコイン、金融庁承認へ JPYCが秋にも発行 - 日本経済新聞
 EVT-20250828-01,2025-08-28,2,55.0,0.6042,取扱い・対応,HashPort、EXPO2025デジタルウォレット、HashPort Wallet、EXPOトークン、大阪・関西万博、USDC、DOGE、MetaMask,万博のウォレットアプリ、終了後はステーブルコイン対応の新アプリに刷新 - Impress Watch
 EVT-20250901-01,2025-09-01,14,75.0,2.031,解説・論説,JPYC株式会社、金融庁、アステリア株式会社、資金移動業者登録、JVCEA、資金移動業、岡部典孝、グラッドキューブ、SPAIA、JPYC社、テラUSD、JVCEA（日本暗号資産等取引業協会）、JPYC、USDT、USDC、Speee、SBIホールディングス、シンプレクス・ホールディングス、GMOインターネットグループ、Circle社、藤川里絵、マネーポストWEB、ゆうちょ銀行、DCJPY、ナッジ、JPYC（発行企業）、クレジットカード、改正資金決済法、前払式支払手段、電子決済手段、暗号資産,国内初、日本円建てステーブルコイン「JPYC」金融庁が承認―今秋発行へ - 知財図鑑
 EVT-20250903-01,2025-09-03,2,55.0,0.6042,提携・連携,リブワーク、アステリア、住宅資産デジタルプラットフォーム、COINHUB,リブワークとアステリア、NFT活用「住宅資産デジタルプラットフォーム」開発へ。JPYC決済の導入も - あたらしい経済
@@ -20,7 +20,7 @@ EVT-20251016-01,2025-10-16,5,83.0,1.4872,取扱い・対応,クリプトリン�
 EVT-20251017-01,2025-10-17,4,72.5,1.1668,解説・論説,N.Avenue、岡部典孝、TMI総合法律事務所、double jump.tokyo、JPYC株式会社、ジーニアス法、ステーブルコイン、円建て、N.Avenue株式会社、double jump.tokyo株式会社,日本円建てステーブルコイン「JPYC」の発行迫る、N.Avenueが事業導入講座を11月5日開催 - Yahoo!ニュース
 EVT-20251021-01,2025-10-21,1,65.0,0.4505,提携・連携,double jump.tokyo株式会社、TIS株式会社、岡部典孝,JPYC岡部氏登壇、double jump.tokyo株式会社が2025年11月14日にステーブルコインビジネスイベントをTISと共催 - PR TIMES
 EVT-20251023-01,2025-10-23,4,87.5,1.4083,活用事例,double jump.tokyo、Bifrost、N Suite、BTCFi Boost、double jump .tokyo、岡部典孝,double jump .tokyoとBifrost、日本円建てステーブルコイン「JPYC」を活用したDeFiレンディングの企業向け提供を共同で推進 - PR TIMES
-EVT-20251024-01,2025-10-24,50,88.84,3.493,発行・資金,JPYC EX、資金移動業、株式会社電算システム、アステリア株式会社、資金移動業者、マイナンバーカード、JPYC株式会社、日本経済新聞、電算システム、アステリア、HashPort、資金決済法、Avalanche、Ethereum、Polygon、資金移動業者登録、金融庁、ナッジ、岡部典孝、CoinDesk JAPAN、三菱UFJ信託銀行、Circle、DeFi、Coinbase、インタートレード、SPEEE、Circle社、ナッジ株式会社、ゆうちょ銀行、三菱UFJ銀行、三井住友銀行、みずほ銀行、株式会社Liquid、LIQUID eKYC、日本テレビ、G7、電算システムホールディングス、ユナイテッド、EBC Financial Group、JPYC Analytics、MetaMask、改正資金決済法、日本国債、三菱UFJ金融グループ、日本銀行、ポリゴン、イーサリアム、朝日新聞、岡部CEO、犯罪収益移転防止法、資金移動業ライセンス、Dune、CoinPost、Secured Finance、SBIホールディングス、Maple、Lista、double jump.tokyo、N Suite,【国内初】日本円ステーブルコイン「JPYC」および発行・償還プラットフォーム「JPYC EX」を正式リリース - PR TIMES
+EVT-20251024-01,2025-10-24,50,88.84,3.493,発行・資金,JPYC EX、資金移動業、株式会社電算システム、アステリア株式会社、資金移動業者、マイナンバーカード、JPYC株式会社、日本経済新聞、電算システム、アステリア、HashPort、資金決済法、金融庁、資金移動業者登録、Avalanche、Ethereum、Polygon、ナッジ、岡部典孝、CoinDesk JAPAN、三菱UFJ信託銀行、Circle、DeFi、Coinbase、インタートレード、SPEEE、Circle社、ナッジ株式会社、ゆうちょ銀行、三菱UFJ銀行、三井住友銀行、みずほ銀行、日本テレビ、G7、電算システムホールディングス、ユナイテッド、EBC Financial Group、株式会社Liquid、LIQUID eKYC、JPYC Analytics、改正資金決済法、MetaMask、朝日新聞、ポリゴン、イーサリアム、三菱UFJ金融グループ、日本銀行、日本国債、岡部CEO、犯罪収益移転防止法、資金移動業ライセンス、Dune、CoinPost、Secured Finance、SBIホールディングス、Maple、Lista、double jump.tokyo、N Suite,【国内初】日本円ステーブルコイン「JPYC」および発行・償還プラットフォーム「JPYC EX」を正式リリース - PR TIMES
 EVT-20251027-01,2025-10-27,3,68.33,0.9473,解説・論説,ナッジ株式会社、岡部典孝、オキタイムズ、北国銀行、電算システム、岡部典孝氏,“未来の金融体験”を語るPodcast番組「オキタイムズ」配信開始！初回ゲストにJPYC代表 岡部典孝氏 - Excite エキサイト
 EVT-20251027-02,2025-10-27,5,81.0,1.4513,取扱い・対応,ナッジ株式会社、Nudgeカード、Avalancheネットワーク、Nudge、沖田貴史氏、日経トレンディ,ナッジ株式会社が提供する次世代クレジットカード「Nudge」にJPYCステーブルコイン対応 - ニュースメディアVOIX
 EVT-20251027-03,2025-10-27,4,77.5,1.2473,取扱い・対応,キリフダ株式会社、Dune、赤川英之、JPYC株式会社,キリフダ、日本円ステーブルコイン「JPYC」のダッシュボードを公開 - PR TIMES
@@ -46,8 +46,8 @@ EVT-20251111-02,2025-11-11,3,75.0,1.0397,提携・連携,KDDI、HashPort、Ponta
 EVT-20251112-01,2025-11-12,1,65.0,0.4505,解説・論説,岡部典孝、Web3 Business Hub、幻冬舎,ステーブルコインの進化と企業オペレーションの再設計──JPYCが拓くWeb3実装（講師：JPYC 岡部典孝）11/19 19:30〜 @幻冬舎 - あたらしい経済
 EVT-20251112-02,2025-11-12,1,85.0,0.5892,活用事例,株式会社タスキホールディングス、不動産クラウドファンディング、ブロックチェーン技術,株式会社タスキホールディングス、日本円ステーブルコイン『JPYC』を活用した不動産価値流通の取り組みを本格化 - PR TIMES
 EVT-20251113-01,2025-11-13,2,80.0,0.8789,解説・論説,SBI VCトレード、日本銀行、岡部紀孝、金融庁、岡部典孝、Payment Innovation Project,ステーブルコインは日本の９兆ドルの債券市場における中央銀行の需要に取って代わる可能性がある - SBI VCトレード
-EVT-20251113-02,2025-11-13,8,87.88,1.9308,市場・統計,JPYC株式会社、岡部典孝、ロイター通信、日本銀行、みずほ銀行、JPYC EX、ポリゴン、イーサリアム、HashPort、QuickSwap、HashPort Wallet、TIS株式会社、Circle社、Dune,日本円ステーブルコイン「JPYC」、発行額2億円＆ホルダー1.6万人突破 - crypto-times.jp
-EVT-20251114-02,2025-11-14,6,91.67,1.7838,提携・連携,Circle、StableFX、Arc、USDC、Circle Internet Financial、JPYC株式会社、Circle Partner Stablecoins,JPYC、米サークル社のオンチェーンFX網「StableFX」でパートナー通貨に採択 - CoinPost
+EVT-20251113-02,2025-11-13,8,87.88,1.9308,市場・統計,JPYC株式会社、岡部典孝、ロイター通信、日本銀行、みずほ銀行、JPYC EX、ポリゴン、イーサリアム、HashPort Wallet、HashPort、QuickSwap、TIS株式会社、Circle社、Dune,日本円ステーブルコイン「JPYC」、発行額2億円＆ホルダー1.6万人突破 - crypto-times.jp
+EVT-20251114-02,2025-11-14,6,91.67,1.7838,提携・連携,Circle、StableFX、Arc、USDC、Circle Internet Financial、Circle Partner Stablecoins、JPYC株式会社,JPYC、米サークル社のオンチェーンFX網「StableFX」でパートナー通貨に採択 - CoinPost
 EVT-20251114-01,2025-11-14,7,80.71,1.6784,提携・連携,TIS、JPYC株式会社、ステーブルコイン決済基盤、TIS株式会社、double jump.tokyo株式会社、ステーバルコイン決済支援サービス、アステリア、ASTERIA Warp、MikoSea、TECHFUND、TISインテックグループ、double jump.tokyo、Ethereum、JPYC、ステーブルコイン決済支援サービス,TISがステーブルコイン決済基盤の導入支援 フィンテック新興JPYCと - 日本経済新聞
 EVT-20251118-01,2025-11-18,1,75.0,0.5199,活用事例,JPYC EX、MetaMask、PayPay,【独自レポ】JPYCで決済してみた──腰痛記者が考えたWeb3社会実装のリアル - Yahoo!ニュース
 EVT-20251118-02,2025-11-18,6,85.0,1.654,提携・連携,デジタルプラットフォーマー株式会社、北國銀行、トチカ、Digital Platformer株式会社、Digital Platformer,円建てステーブルコインJPYC、地方金融機関との連携に向けた共同検討を開始 - bittimes.net
@@ -58,11 +58,11 @@ EVT-20251121-01,2025-11-21,1,85.0,0.5892,活用事例,OpenWorld株式会社、�
 EVT-20251121-02,2025-11-21,2,65.0,0.7141,取扱い・対応,HashPort Wallet、1inch、Kana Labs,HashPort Wallet、1inchのスワップ技術を統合 - CoinPost
 EVT-20251121-03,2025-11-21,4,82.5,1.3278,解説・論説,Secured Finance、菊池マサカズ、固定金利レンディングプロトコル、DeFi固定金利レンディング、JPYCマーケット、ゼロクーポン債,Secured Finance CEOが語るJPYC固定金利レンディングの挑戦｜独占インタビュー - CoinPost
 EVT-20251121-04,2025-11-21,1,75.0,0.5199,実証実験,アステリア、MikoSea、Circle社,JPYCステーブルコイン対応アプリ開発セミナーレポート - Asteria Corporation
-EVT-20251121-05,2025-11-21,8,77.5,1.7028,取扱い・対応,HashPort、ナッジ、HashPortカード、ナッジ株式会社、バイナンスジャパン、VISA、Nudge、HashPort Wallet、Avalanche、Tria、JPYC EX,HashPort、国内初クリプトクレカを発行＝JPYC決済に対応 - BeInCrypto
+EVT-20251121-05,2025-11-21,8,77.5,1.7028,取扱い・対応,HashPort、ナッジ、HashPortカード、ナッジ株式会社、バイナンスジャパン、Nudge、VISA、HashPort Wallet、Avalanche、Tria、JPYC EX,HashPort、国内初クリプトクレカを発行＝JPYC決済に対応 - BeInCrypto
 EVT-20251122-01,2025-11-22,1,65.0,0.4505,取扱い・対応,Lensa、暗号屋、日本公認会計士協会,暗号資産の会計監査ツール「Lensa」、日本円ステーブルコイン「JPYC」に対応開始 - PR TIMES
 EVT-20251122-02,2025-11-22,1,85.0,0.5892,活用事例,チェンジホールディングス、トラストバンク、ふるさとチョイス,ふるさと納税、インバウンド事業に円ステーブルコイン「JPYC」活用──JPYC発行量は9000万に迫る - Yahoo!ニュース
 EVT-20251125-01,2025-11-25,4,67.5,1.0864,取扱い・対応,クリプタクト、Polygon、株式会社pafin,クリプタクト、ステーブルコイン「JPYC」総額220万円分プレゼントキャンペーンを開催 - bittimes.net
-EVT-20251126-01,2025-11-26,5,85.0,1.523,提携・連携,Elliptic、資金移動業登録、AMLソリューション、Elliptic Enterprises Limited、JPYC株式会社、金融庁、資金決済法、AML,Ellipticと、AML体制整備を通じた日本円建ステーブルコイン「JPYC」の安全性・信頼性向上を実現 - PR TIMES
+EVT-20251126-01,2025-11-26,5,85.0,1.523,提携・連携,Elliptic Enterprises Limited、JPYC株式会社、金融庁、Elliptic、資金移動業登録、AMLソリューション、資金決済法、AML,EllipticのAMLソリューション、本邦初の金融庁承認済み円建てステーブルコイン「JPYC」の実現を支援 - PR TIMES
 EVT-20251127-02,2025-11-27,2,95.0,1.0437,提携・連携,PAO TECH Labs、Euler Finance、Morpho、IPOR Fusion、Napier Finance,InsureDAO開発元のPAO TECH Labs、JPYC DeFiエコシステム構想・Curator事業への参入を発表 - PR TIMES
 EVT-20251127-03,2025-11-27,2,80.0,0.8789,市場・統計,Dune、HashPort、Morpho,日本円ステーブルコイン「JPYC」保有者、6万人突破｜1週間で2倍 - crypto-times.jp
 EVT-20251127-01,2025-11-27,1,75.0,0.5199,取扱い・対応,アステリア株式会社、MikoSea株式会社、Click,ノーコードアプリ開発ツール「Click」のJPYC決済機能を提供開始！ | プレスリリース | ニュース - アステリア株式会社
@@ -70,8 +70,8 @@ EVT-20251128-01,2025-11-28,3,85.0,1.1784,提携・連携,Morpho、DeFiレンデ�
 EVT-20251201-01,2025-12-01,1,75.0,0.5199,活用事例,NewLo株式会社、NewLoクエスト,NewLo、日本円建てステーブルコイン「JPYC」とのポイント交換機能をリリース。リリースキャンペーンも開始！ - PR TIMES
 EVT-20251203-01,2025-12-03,2,78.5,0.8624,取扱い・対応,HashPort、KDDI、Ponta、au PAY,HashPortウォレット、Pontaポイントでステーブルコインの購入が可能に - CoinPost
 EVT-20251204-01,2025-12-04,5,93.0,1.6663,活用事例,Avacus、SOWAKA PTE. LTD.、JPYC株式会社、資金移動業、Avacus Pay、保有アドレス数、SOWAKA PTE.LTD.,Avacus、次世代決済ソリューション「Avacus Pay」を発表！円建てステーブルコインJPYCに対応し、いつものQR決済と同じ感覚で日常に溶け込む、新しいWeb3決済体験を提供！ | SOWAKA PTE.LTD.のプレスリリース - PR TIMES
-EVT-20251207-01,2025-12-07,3,85.0,1.1784,市場・統計,Dune、Tria、crypto-times.jp,日本円ステーブルコインJPYC、保有者数が10万アドレス突破 - CryptoDnes.bg
-EVT-20251208-01,2025-12-08,8,83.75,1.8402,提携・連携,アライドアキ、Morpho、アライドアーキテクツ、JPYC株式会社、岡部典孝、アライドアーキテクツ株式会社、JPYC、echoes、X キャンペーン支援ツール,【材料】 アライドアキが一時１９％高、ＪＰＹＣとステーブルコインを活用した次世代マーケティングで連携 - かぶたん
+EVT-20251207-01,2025-12-07,3,85.0,1.1784,市場・統計,Dune、Tria、crypto-times.jp,日本円ステーブルコイン「JPYC」保有者数が急増、3日間で2.4万アドレス増 - crypto-times.jp
+EVT-20251208-01,2025-12-08,8,83.75,1.8402,提携・連携,アライドアキ、Morpho、アライドアーキテクツ、JPYC株式会社、岡部典孝、JPYC、アライドアーキテクツ株式会社、echoes、X キャンペーン支援ツール,【材料】 アライドアキが一時１９％高、ＪＰＹＣとステーブルコインを活用した次世代マーケティングで連携 - かぶたん
 EVT-20251210-01,2025-12-10,5,77.0,1.3797,実証実験,株式会社シーエーシー、Komlock lab株式会社、TECHFUND Inc.、TECHFUND、CAC、Komlock lab、Stablecoin Innovation Challenge 2025、山口夏生氏、mameta氏,ステーブルコインでビジネス課題を解決するアイディアソン「Stablecoin(JPYC) Innovation Challenge 2025」を開催 - PR TIMES
 EVT-20251210-02,2025-12-10,2,80.0,0.8789,活用事例,PayPay、Morpho、Alipay+、crypto-times.jp,日本円ステーブルコイン「JPYC」は本当に便利？導入店舗が語るメリットと課題 - crypto-times.jp
 EVT-20251211-01,2025-12-11,3,68.33,0.9473,提携・連携,"MoneyX 2026、WebX実行委員会、SBIホールディングス、Progmat, Inc.、CoinPost、SBIホールディングス株式会社",JPYC株式会社、次世代金融カンファレンスMoneyX 2026の企画・運営として参画決定 - CoinPost
@@ -82,7 +82,7 @@ EVT-20251218-01,2025-12-18,5,86.4,1.5481,活用事例,アステリア株式会�
 EVT-20251218-02,2025-12-18,1,65.0,0.4505,提携・連携,Hashed、キム・ソジュン氏、岡部典孝氏、Blockchain Week in Busan 2025,Hashedのキム・ソジュン氏＆JPYC の岡部典孝氏、「BWB 2025」基調講演に登壇…デジタル資産の未来ビジョンに“注目集中” - ニフティニュース
 EVT-20251219-01,2025-12-19,1,75.0,0.5199,リスク・懸念,CAICA DIGITAL、子会社,ＣＡＩＣＡ ＤＩＧＩＴＡＬ[2315]：当社子会社が提供するJPYC決済ソリューションの新規販売停止について 2025年12月19日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
 EVT-20251220-01,2025-12-20,1,75.0,0.5199,制度・規制,JBA Blockchain Award 2025、岡部典孝、日本ブロックチェーン協会,JBA Blockchain Award 2025で『Product/Service of the Year』部門の他、５部門中４部門を受賞 - PR TIMES
-EVT-20251222-01,2025-12-22,6,76.67,1.4919,提携・連携,"ITCENGLOBAL、韓国、デジタル資産基本法、ITCENGLOBAL CO., Ltd.、ITCEN GLOBAL、釜山BDXコンソーシアム、JPYC EX、韓国IT大手、K-Gold",JPYC、「日韓ステーブルコイン」共同研究──韓国IT大手・ITCENと提携 - NADA NEWS
+EVT-20251222-01,2025-12-22,6,76.67,1.4919,提携・連携,"ITCENGLOBAL、韓国、デジタル資産基本法、ITCENGLOBAL CO., Ltd.、ITCEN GLOBAL、釜山BDXコンソーシアム、K-Gold、韓国IT大手、JPYC EX",JPYC、「日韓ステーブルコイン」共同研究──韓国IT大手・ITCENと提携 - NADA NEWS
 EVT-20251224-01,2025-12-24,4,72.5,1.1668,市場・統計,Dune、Tria、芝浦田町、朝日新聞、MetaMask、銀行口座、国内取引所,日本円ステーブルコイン「JPYC」、流通3.6億円へ急伸｜10日で20%急増 - crypto-times.jp
 EVT-20251224-02,2025-12-24,4,75.0,1.2071,活用事例,資さんうどん、PayPay、JPYC株式会社、外食産業、Aave、芝浦田町スポーツ整骨院・はり治療院、JPYC社,資さんうどんPayPay停止、手数料ゼロの「JPYC」に注目集まる - crypto-times.jp
 EVT-20251224-03,2025-12-24,2,70.0,0.769,実証実験,TDSE、Komlock lab、KAIZODE、Agentic Commerce、x402,TDSE、Komlock labと連携し、AIエージェントによる自律決済経済圏の実現に向けた実証実験を開始 - PR TIMES
@@ -102,9 +102,9 @@ EVT-20260116-02,2026-01-16,10,81.0,1.9423,提携・連携,アステリア、JPYC
 EVT-20260117-01,2026-01-17,1,65.0,0.4505,提携・連携,電通総研、Quant Network、Project Rosalind,電通総研が英Quantと提携、日本のステーブルコイン普及が急加速か - crypto-times.jp
 EVT-20260119-01,2026-01-19,6,81.67,1.5892,活用事例,JPYC Faucet、岡部典孝、FINOLAB、Ethereum Sepolia、Polygon Amoy、JPYC株式会社、イーサリアム・セポリア、金融庁、イーサリアム、ポリゴン、アバランチ,JPYC株式会社が提供開始した開発者支援ツール「JPYC Faucet」の魅力 - ニュースメディアVOIX
 EVT-20260120-01,2026-01-20,2,80.0,0.8789,市場・統計,Dune、Tria、岡部典孝、JPYC株式会社、JPYC Faucet,日本円ステーブルコイン「JPYC」、流通増もアドレス数は減少傾向 - crypto-times.jp
-EVT-20260120-02,2026-01-20,20,88.85,2.7051,提携・連携,LINE NEXT Inc.、LINEアプリ、ステーブルコインウォレット、LINE NEXT、JPYC株式会社、Kaiaブロックチェーン、ラインヤフー、岡部典孝、ウォレットサービス、アステリア、LINEヤフーグループ、JPYC社、岡部代表、LINEヤフー、アバランチ、アステリア株式会社、SBI VCトレード,JPYCとLINE NEXTが協業、日本円ステーブルコインをLINE基盤で展開へ - bittimes.net
+EVT-20260120-02,2026-01-20,20,88.85,2.7051,提携・連携,LINE NEXT Inc.、LINEアプリ、ステーブルコインウォレット、LINE NEXT、JPYC株式会社、Kaiaブロックチェーン、ラインヤフー、岡部典孝、ウォレットサービス、アステリア、LINEヤフーグループ、アステリア株式会社、LINEヤフー、アバランチ、JPYC社、岡部代表、SBI VCトレード,JPYCとLINE NEXTが協業、日本円ステーブルコインをLINE基盤で展開へ - bittimes.net
 EVT-20260120-03,2026-01-20,2,75.0,0.824,解説・論説,川崎ひでと、宮田裕章、岡部典孝、comilio,万博とJPYCに見る「輸出立国2.0」──ステーブルコインが支える日本の価値循環：N.Avenue Club「Year End Party 2025」セッションレポート(NADA NEWS) - Yahoo!ファイナンス
-EVT-20260121-01,2026-01-21,10,83.7,2.007,活用事例,デジタルプラスグループ、デジタルフィンテック、デジタルギフト、株式会社デジタルプラス、デジタルギフト®、JPYC株式会社、デジタルプラス、LINE NEXT、三井住友カード、API連携、LINE NEXT Inc.、TIS株式会社,「デジタルギフト」の受取先にステーブルコイン「JPYC」採用（JPYC） - ペイメントナビ
+EVT-20260121-01,2026-01-21,10,83.7,2.007,活用事例,デジタルプラスグループ、デジタルフィンテック、デジタルギフト、株式会社デジタルプラス、デジタルギフト®、JPYC株式会社、デジタルプラス、API連携、LINE NEXT、三井住友カード、LINE NEXT Inc.、TIS株式会社,「デジタルギフト」の受取先にステーブルコイン「JPYC」採用（JPYC） - ペイメントナビ
 EVT-20260121-02,2026-01-21,2,75.0,0.824,解説・論説,JPYC、メガバンク3行（三菱UFJ・三井住友・みずほ）、USDC、改正資金決済法、TIS、アステリア、電算システムHD、シンプレクスHD、Speee,【ステーブルコイン元年】日本市場が本格始動！注目の5銘柄 - トウシル
 EVT-20260122-01,2026-01-22,1,72.0,0.4991,解説・論説,岡部典孝、JPYC株式会社、セルフウォレット,「預金封鎖」でも動かせる？JPYCが資産防衛の切り札になる理由 - crypto-times.jp
 EVT-20260123-01,2026-01-23,2,70.0,0.769,提携・連携,日本ブロックチェーン協会、JBA Blockchain Hackathon 2026、JPYC Faucet、Komlock lab、シーエーシー、TECHFUND,一般社団法人 日本ブロックチェーン協会主催「JBA Blockchain Hackathon 2026」にスポンサーとして参画 - PR TIMES
@@ -115,8 +115,8 @@ EVT-20260128-01,2026-01-28,5,85.0,1.523,活用事例,Morpho、PAO TECH Labs、St
 EVT-20260128-03,2026-01-28,3,78.33,1.0859,提携・連携,アライドアーキテクツ、大木悠氏、アライドアーキテクツ株式会社、JPYC株式会社、大木悠,アライドアーキテクツがJPYC活用のステーブルコイン導入支援を開始する意義 - ニュースメディアVOIX
 EVT-20260129-02,2026-01-29,3,81.67,1.1321,取扱い・対応,HashPort、HashPort Wallet、EIP-7702、LINE NEXT、三井住友カード、大阪・関西万博,HashPort Wallet、JPYC決済とガスレスを実現｜万博の知見を活用 - crypto-times.jp
 EVT-20260129-01,2026-01-29,1,65.0,0.4505,実証実験,Komlock lab、CAC、TECHFUND、Stablecoin Innovation Challenge 2025,「Stablecoin(JPYC) Innovation Challenge 2025」賞金総額100万円、エントリー100件超。「通貨」を再設計するアイディアソンが大盛況のうちに閉幕 - PR TIMES
-EVT-20260203-01,2026-02-03,13,87.31,2.3041,市場・統計,JPYC EX、JPYC社、資金移動業者、岡部典孝、Avalanche、Ethereum、JPYC株式会社、資金決済法、LINE NEXT、HashPort、Zaif、JOCコイン、SBI VCトレード、Triaカード、三井住友カード、アステリア、TIS、東京都、DeFi、国債,日本円ステーブルコイン「JPYC」、累計発行額10億円を突破 - あたらしい経済
-EVT-20260204-01,2026-02-04,13,80.15,2.1153,提携・連携,"アステリア、ASTERIA Warp、アステリア株式会社、Asteria Vision Fund、B1種優先株式、Asteria Vision Fund I, L.P.、資本業務提携、デジタル決済基盤、JPYC株式会社、B2B決済、マイナカード、Click、ASTERIA、東証プライム、岡部典孝、平野洋一郎、MoneyX 2026",JPYCとアステリアが資本業務提携──ステーブルコインの「トレジャリー」活用など共同検討（NADA NEWS） - Yahoo!ニュース
+EVT-20260203-01,2026-02-03,13,87.31,2.3041,市場・統計,JPYC EX、JPYC社、資金移動業者、LINE NEXT、HashPort、岡部典孝、Avalanche、Ethereum、JPYC株式会社、資金決済法、Zaif、JOCコイン、SBI VCトレード、Triaカード、三井住友カード、アステリア、TIS、東京都、DeFi、国債,日本円ステーブルコイン「JPYC」、累計発行額10億円を突破 - あたらしい経済
+EVT-20260204-01,2026-02-04,13,80.15,2.1153,提携・連携,"アステリア株式会社、Asteria Vision Fund、B1種優先株式、アステリア、ASTERIA Warp、Asteria Vision Fund I, L.P.、資本業務提携、デジタル決済基盤、JPYC株式会社、B2B決済、マイナカード、Click、ASTERIA、東証プライム、岡部典孝、平野洋一郎、MoneyX 2026",アステリア株式会社との資本業務提携に関するお知らせ | JPYC株式会社のプレスリリース - PR TIMES
 EVT-20260205-01,2026-02-05,7,72.14,1.5002,活用事例,Secured Finance AG、DigiFT、UBS Asset Management、Secured Finance、UBSアセットマネジメント、UBSアセット・マネジメント,Secured Finance、UBSトークン化MMFを担保にJPYC・USDCの借入が可能に - CoinPost
 EVT-20260206-01,2026-02-06,1,95.0,0.6585,活用事例,HashPort、Ponta、LINE NEXT、Morpho,JPYC、1月は採用ラッシュ｜Ponta連携やLINE協業で実需拡大 - crypto-times.jp
 EVT-20260207-01,2026-02-07,2,80.0,0.8789,市場・統計,Dune、Triaカード、Bitget、Ponta、LINE,JPYC流通量が4.4億円突破、1人あたり平均保有額は5428円に - crypto-times.jp
@@ -127,16 +127,16 @@ EVT-20260218-01,2026-02-18,3,78.33,1.0859,取扱い・対応,株式会社Maximal
 EVT-20260219-01,2026-02-19,6,85.0,1.654,実証実験,JCB、デジタルガレージ、りそなホールディングス、マイナウォレット、マイナウォレット社、Pangaea Cafe & Bar,JCB、デジタルガレージ、りそなHD、実店舗におけるステーブルコイン決済の実証実験を開始 - PR TIMES
 EVT-20260220-01,2026-02-20,2,80.0,0.8789,活用事例,株式会社uniple、JPYC、Web3決済プラットフォーム、uniple,株式会社unipleが日本円ステーブルコイン活用のWeb3決済プラットフォーム「uniple」をプレリリース - コマースピック
 EVT-20260226-02,2026-02-26,8,71.25,1.5655,提携・連携,HEROZ株式会社、B1種優先株式、AIX（AIトランスフォーメーション）、HEROZ、AI技術、第三者割当増資、ウエルスアドバイザー、directX Ventures、directX Ventures1号ファンド、AIX、JPYC株式会社、BluePay、Maximal,JPYC株式会社、HEROZと業務提携｜AIシステムの開発加速に期待 - crypto-times.jp
-EVT-20260226-01,2026-02-26,16,89.19,2.5269,取扱い・対応,LINE NEXT Inc.、Unifi、Kaiaネットワーク、LINE NEXT、Kaia、HashPort、LINE、岡部典孝、ノンカストディアル型、JPYC社、Dune,JPYC、LINE上のweb3ウォレット「Unifi」に採用｜Kaiaネットワーク展開も検討 - Bitget
+EVT-20260226-01,2026-02-26,16,89.19,2.5269,取扱い・対応,LINE NEXT Inc.、Unifi、Kaiaネットワーク、LINE NEXT、Kaia、HashPort、LINE、ノンカストディアル型、岡部典孝、JPYC社、Dune,JPYC、LINE上のweb3ウォレット「Unifi」に採用｜Kaiaネットワーク展開も検討 - Bitget
 EVT-20260226-03,2026-02-26,1,75.0,0.5199,活用事例,デジタルプラス、デジタルギフト®、菊池誠晃,【事例紹介】デジタルプラス 国内初、ギフトサービスに「JPYC」を追加 個人投資家による株式の長期保有に寄与 - nikkinonline.com
 EVT-20260227-06,2026-02-27,3,78.33,1.0859,発行・資金,ちゅうぎんキャピタルパートナーズ、ちゅうぎんインフィニティファンド3号、ちゅうぎんフィナンシャルグループ、岡部典孝,ちゅうぎんインフィニティファンド3号による「JPYC株式会社」に対する投資実行 - PR TIMES
 EVT-20260227-07,2026-02-27,2,80.0,0.8789,発行・資金,L is B、directX Ventures、directX Ventures1号ファンド、JPYC株式会社,L is BがJPYC株式会社に出資、次世代ステーブルコインの未来を切り開く - ニュースメディアVOIX
 EVT-20260227-05,2026-02-27,3,81.67,1.1321,発行・資金,テクミラホールディングス、ネオス株式会社、テクミラ一号投資事業有限責任組合、JPYC株式会社,日本初の円建ステーブルコインの発行を行う JPYCに資本出資 - newscast.jp
-EVT-20260227-02,2026-02-27,6,83.33,1.6216,発行・資金,グローバル・ブレイン、明治安田生命保険相互会社、明治安田未来共創ファンド、JPYC株式会社,JPYC株式会社が発行する日本円連動ステーブルコイン『JPYC』に出資したグローバル・ブレインの意義 - ニュースメディアVOIX
+EVT-20260227-04,2026-02-27,3,78.33,1.0859,発行・資金,SBIグループ、北尾氏、MoneyX、JPYSC、SBIホールディングス、Startale Group、SBI VCトレード、スターテイル、新生信託銀行,【速報】「JPYSC」SBI北尾氏が円ステーブルコインの名称を明らかに（NADA NEWS） - Yahoo!ニュース
 EVT-20260227-03,2026-02-27,10,83.7,2.007,取扱い・対応,アステリア株式会社、JPYC Gateway、ASTERIA Warp、アステリア、Ethereum、Avalanche、LINE NEXT、Unifi、平野洋一郎、JPYC株式会社、岡部典孝、JPYCゲートウェイ,アステリアが提供するJPYC Gatewayで企業のJPYC利用が加速する新時代の到来 - ニュースメディアVOIX
-EVT-20260227-04,2026-02-27,3,78.33,1.0859,発行・資金,SBIホールディングス、Startale Group、SBI VCトレード、SBIグループ、北尾氏、MoneyX、JPYSC、スターテイル、新生信託銀行,SBIHDの円建てステーブルコイン「JPYSC」、26年4～6月にも提供開始 - 日経クロステック
-EVT-20260227-01,2026-02-27,29,83.86,2.8523,発行・資金,JPYC株式会社、アステリア株式会社、HEROZ、LINE NEXT、三井住友カード、テクミラホールディングス、ネオス、コーポレートベンチャーキャピタル、アステリア、平野洋一郎、JPYC Gateway、岡部典孝、bitFlyer Holdings、LINE Web3ウォレット Unifi、fundnote、匠のファンド あけぼの、JR西日本イノベーションズ、HEROZ株式会社、fundnote株式会社、GFTN フォーラム・ジャパン2026、Circle、AIエージェント、directX Ventures1号ファンド、L is B、Gazelle Capital、LINE、Unifi、Kaia、シリーズB資金調達、エルイズビー、directX Ventures、Circle社、StableFX、シリーズBラウンド、マルチチェーン、JPYC社、GFTNフォーラム・ジャパン2026、ちゅうぎんキャピタルパートナーズ、ちゅうぎんフィナンシャルグループ、ちゅうぎんインフィニティファンド3号、SBI、スターテイル、IPOクロスオーバーファンド、LINE Unifi,日本円ステーブルコイン「JPYC」が17.8億円調達へ────AI時代の円決済インフラ確立に向けマルチチェーン展開を加速 - JinaCoin
-EVT-20260302-01,2026-03-02,22,89.55,2.8077,提携・連携,ソニー銀行、JPYC株式会社、ソニーグループ、バスティオン・プラットフォームズ、BlockBloom株式会社、JPYC EX、BlockBloom、エンターテインメント領域、改正資金決済法、Bastion、ブロックブルーム、JPYC EXプラットフォーム、JPYC社、エンタメIP、Sony Bank、Asteria Corporation,ソニー銀行、エンタメにステーブルコイン導入 円建てJPYC - 日本経済新聞 - 日本経済新聞
+EVT-20260227-02,2026-02-27,6,83.33,1.6216,発行・資金,グローバル・ブレイン、明治安田生命保険相互会社、明治安田未来共創ファンド、JPYC株式会社,JPYC株式会社が発行する日本円連動ステーブルコイン『JPYC』に出資したグローバル・ブレインの意義 - ニュースメディアVOIX
+EVT-20260227-01,2026-02-27,29,83.86,2.8523,発行・資金,JPYC株式会社、アステリア株式会社、HEROZ、LINE NEXT、三井住友カード、テクミラホールディングス、ネオス、コーポレートベンチャーキャピタル、アステリア、平野洋一郎、JPYC Gateway、岡部典孝、bitFlyer Holdings、LINE Web3ウォレット Unifi、fundnote、匠のファンド あけぼの、LINE、Unifi、Kaia、JR西日本イノベーションズ、GFTN フォーラム・ジャパン2026、Circle、AIエージェント、directX Ventures1号ファンド、L is B、Gazelle Capital、fundnote株式会社、HEROZ株式会社、シリーズB資金調達、エルイズビー、directX Ventures、Circle社、StableFX、シリーズBラウンド、マルチチェーン、JPYC社、GFTNフォーラム・ジャパン2026、ちゅうぎんキャピタルパートナーズ、ちゅうぎんフィナンシャルグループ、ちゅうぎんインフィニティファンド3号、SBI、スターテイル、IPOクロスオーバーファンド、LINE Unifi,日本円ステーブルコイン「JPYC」が17.8億円調達へ────AI時代の円決済インフラ確立に向けマルチチェーン展開を加速 - JinaCoin
+EVT-20260302-01,2026-03-02,22,89.55,2.8077,提携・連携,ソニー銀行、JPYC株式会社、ソニーグループ、バスティオン・プラットフォームズ、BlockBloom株式会社、JPYC EX、BlockBloom、エンターテインメント領域、Bastion、改正資金決済法、ブロックブルーム、JPYC EXプラットフォーム、JPYC社、エンタメIP、Sony Bank、Asteria Corporation,ソニー銀行、エンタメにステーブルコイン導入 円建てJPYC - 日本経済新聞 - 日本経済新聞
 EVT-20260302-02,2026-03-02,1,85.0,0.5892,発行・資金,fundnote株式会社、匠のファンド あけぼの、JPYC株式会社,独立系運用会社fundnote、「匠のファンド あけぼの」未上場株投資第一号として日本円ステーブルコインのJPYC社へ出資 - 投信まるごとNEWS
 EVT-20260302-03,2026-03-02,4,75.0,1.2071,活用事例,Secured Finance AG、SF Yield Vault、Yearn V3、Secured Finance、Yearn Finance、JPYC Vault,Secured Finance、ステーブルコインを“入れておくだけ”でルールベース運用できる新プロダクト「SF Yield Vault」を公開 - PR TIMES
 EVT-20260303-01,2026-03-03,7,95.0,1.9755,提携・連携,日本免税、リファンド方式、JESTA、ブロックチェーン、JPYC株式会社、免税制度改正、日本免税株式会社、Web3ウォレット、日本版ESTA、日本版ESTA（JESTA）、免税リファンド制度、観光庁,日本免税とJPYC、ステーブルコイン活用の免税還付モデル構築で提携 - CoinPost
@@ -150,8 +150,8 @@ EVT-20260316-02,2026-03-16,2,65.0,0.7141,提携・連携,HEROZ、JPYC社、マ�
 EVT-20260316-03,2026-03-16,8,83.75,1.8402,提携・連携,JPYC株式会社、株式会社マツモト、DAT構想、マツモト、JPYC、JPYC社,JPYC株式会社がマツモトと提携、DAT構想で新たな価値創出へ - crypto-times.jp
 EVT-20260319-04,2026-03-19,1,45.0,0.3119,解説・論説,岡部典孝、XRP Tokyo 2026、八芳園,JPYC岡部氏、XRP Tokyo 2026登壇へ｜ステーブルコインの未来を語る - crypto-times.jp
 EVT-20260319-03,2026-03-19,4,77.5,1.2473,提携・連携,全銀システム、金融庁、資金移動業、第8次全銀システム、岡部典孝、全国銀行データ通信システム（全銀システム）、ブロックチェーン,全銀システムの刷新に関するJPYC社としての見解と対応 - PR TIMES
-EVT-20260319-01,2026-03-19,1,65.0,0.4505,活用事例,BluePay、株式会社Maximal、Ethereum,次世代決済インフラ「BluePay」、対応サービスを拡大中。新たにEthereumネットワークに対応し、USDC・JPYCでの「ガスレス決済」を提供開始 - PR TIMES
 EVT-20260319-02,2026-03-19,1,75.0,0.5199,提携・連携,アステリア、MoneyX、JPYC Gateway、片山さつき,次世代金融カンファレンス「MoneyX」参加レポート！ ステーブルコインが描く ”通貨の未来” とは - Asteria Corporation
+EVT-20260319-01,2026-03-19,1,65.0,0.4505,活用事例,BluePay、株式会社Maximal、Ethereum,次世代決済インフラ「BluePay」、対応サービスを拡大中。新たにEthereumネットワークに対応し、USDC・JPYCでの「ガスレス決済」を提供開始 - PR TIMES
 EVT-20260323-01,2026-03-23,1,75.0,0.5199,市場・統計,Dune、Bitget、Triaカード,日本円ステーブルコインJPYC、流通額4.99億円に増加｜手数料問題の代替手段となるか - crypto-times.jp
 EVT-20260325-01,2026-03-25,1,65.0,0.4505,解説・論説,KDDI ∞ Labo、岡部典孝、MUGENLABO Magazine,日本円連動型ステーブルコインを発行 - JPYC - MUGENLABO Magazine
 EVT-20260326-01,2026-03-26,1,95.0,0.6585,発行・資金,岡部典孝、金融庁、資金決済法,ステーブルコインの「風雲児」が明かす、初の円建てコイン発行の舞台裏 - 日経クロステック
@@ -162,25 +162,25 @@ EVT-20260330-01,2026-03-30,5,73.0,1.308,活用事例,CryptoBeer、代官山、�
 EVT-20260331-01,2026-03-31,9,86.44,1.9905,提携・連携,アステリア株式会社、株式会社ハウディ・クリプト、JPYC Gateway、Openloop、アステリア、ハウディ・クリプト,アステリアとハウディ・クリプトがステーブルコインで業務提携JPYC Gatewayが国内開発ハードウェアウォレット Openloopを標準サポート - RBB TODAY
 EVT-20260402-01,2026-04-02,2,80.0,0.8789,活用事例,エルサルバドル、ソニー銀行、日本免税、CurrencyCompetition.com、岡部典孝,JPYC、エルサルバドルで決済利用｜国際送金の課題解決なるか - crypto-times.jp
 EVT-20260402-02,2026-04-02,3,88.33,1.2246,提携・連携,ソニー銀行、日本免税、マツモト、アステリア、JPYSC、SBIホールディングス、Startale Group、JPモルガン、エルサルバドル、岡部典孝、ブロックブルーム,JPYCが3月レポート公開、ソニー銀行提携など進展 - crypto-times.jp
-EVT-20260403-01,2026-04-03,6,83.33,1.6216,活用事例,ガイアックス、峯荒夢、スマートコントラクト、LINE NEXT Unifi、Polygon、Ethereum、JPYC Gateway、EC・フリマ構築サービス、改正資金決済法、資金決済法,ガイアックス、日本円ステーブルコイン「JPYC」活用の次世代決済インフラ受託開発を開始 - コマースピック
+EVT-20260403-01,2026-04-03,6,83.33,1.6216,活用事例,ガイアックス、スマートコントラクト、LINE NEXT Unifi、峯荒夢、Polygon、Ethereum、JPYC Gateway、EC・フリマ構築サービス、改正資金決済法、資金決済法,決済手数料の常識を覆す。ガイアックス、ステーブルコイン活用により「決済代行業者不要」のEC・フリマ構築サービスを開始 - PR TIMES
 EVT-20260405-01,2026-04-05,3,75.0,1.0397,競合・市場環境,JPYSC、NADA NEWS、SBI、SBIホールディングス、SBI VCトレード、新生信託銀行,JPYCとJPYSCは“競合”なのか──円ステーブルコインをめぐる論点【編集長コラム・2日連続】 (NADA NEWS) - Yahoo!ニュース
-EVT-20260406-02,2026-04-06,12,83.33,2.1375,活用事例,ハッシュポート、千房、デジタルウォレット、千房株式会社、HashPort Wallet、NADA NEWS、JPYC株式会社、HashPort、HashPort Wallet for Biz、Polygon、Hash Port、JPYSC、吉田世博,お好み焼き「千房」で円ステーブルコイン決済可能に - 日本経済新聞
 EVT-20260406-01,2026-04-06,2,73.5,0.8075,解説・論説,JPYC株式会社、岡部典孝、ひろゆき氏、青ヶ島村、サナエトークン、資金決済法,ひろゆき氏×JPYC岡部氏──青ヶ島から挑む円ステーブルコインの生存戦略 - JinaCoin
+EVT-20260406-02,2026-04-06,12,83.33,2.1375,活用事例,ハッシュポート、千房、デジタルウォレット、JPYC株式会社、千房株式会社、HashPort Wallet、NADA NEWS、HashPort、HashPort Wallet for Biz、Polygon、Hash Port、JPYSC、吉田世博,お好み焼き「千房」で円ステーブルコイン決済可能に - 日本経済新聞
 EVT-20260407-01,2026-04-07,5,77.0,1.3797,市場・統計,Polygon、ChainCatcher、Alex、Avalanche、Ethereum、ポリゴン、Tria、Daimo、Token Terminal、ソニー銀行,日本のステーブルコインJPYCの総取引量は1.36億ドルに達し、Polygonが6割以上を占めています。 - Bitget
 EVT-20260410-01,2026-04-10,1,75.0,0.5199,取扱い・対応,HashPort Wallet、JPYC EX、Kanalabs,JPYC公式推奨のHashPort Walletとは？ 特徴と外部接続先でSWAP手数料0円のメリットを徹底解説 - あたらしい経済
 EVT-20260411-01,2026-04-11,1,65.0,0.4505,活用事例,JPYC決済が使えるお店マップ、Web3,JPYC決済が使えるお店マップ ／JPYC決済が使えるお店マップを公開しました！ - pr-free.jp
 EVT-20260413-01,2026-04-13,2,80.0,0.8789,解説・論説,HashPort Wallet、DeFi、セルフカストディ、HashPort,JPYCとHashPort 切り開くDeFi──新しい日本型金融構造【エックスウィンリサーチ】（NADA NEWS） - Yahoo!ニュース
 EVT-20260414-01,2026-04-14,1,75.0,0.5199,活用事例,LINE NEXT、Kaia、Nextech Week 2026,AI・人工知能 EXPOに出展！日本円ステーブルコイン「JPYC」によるAI決済の実演デモを実施。特別セッションも開催！ - PR TIMES
 EVT-20260414-02,2026-04-14,2,68.5,0.7525,提携・連携,BCCC、金融庁、井林たつのり、BCCC（ブロックチェーン推進協会）、アステリア、LINE NEXT,「第9回 BCCC Collaborative Day」4月21日（火）開催決定！ステーブルコインの発行拡大でWeb3は「社会実装」のフェーズへ - PR TIMES
-EVT-20260415-01,2026-04-15,14,91.21,2.4701,発行・資金,NCBベンチャーキャピタル、テクミラホールディングス、ソニー銀行、LINE NEXT、JPYC株式会社、シリーズB、bitbank、メタプラネット、i-nest capital、北洋銀行、岡部典孝、シリーズBラウンド、住友生命、アステリア、LINE、Unifi、JPYC社、千房、ガイアックス、Galaxy Research、マイナウォレット社,日本円ステーブルコインのJPYC、シリーズB追加で28億円の調達を完了——ラウンド総額は46億円に - BRIDGE（ブリッジ）
+EVT-20260415-01,2026-04-15,14,91.21,2.4701,発行・資金,NCBベンチャーキャピタル、テクミラホールディングス、ソニー銀行、LINE NEXT、メタプラネット、JPYC株式会社、岡部典孝、i-nest capital、北洋銀行、シリーズB、bitbank、シリーズBラウンド、住友生命、アステリア、LINE、Unifi、JPYC社、千房、ガイアックス、Galaxy Research、マイナウォレット社,日本円ステーブルコインのJPYC、シリーズB追加で28億円の調達を完了——ラウンド総額は46億円に - BRIDGE（ブリッジ）
 EVT-20260416-01,2026-04-16,1,65.0,0.4505,解説・論説,岡部典孝、三菱UFJ銀行、トランプ政権,ステーブルコインの可能性 - デジタル金融最前線 - 日経CNBC online
 EVT-20260417-01,2026-04-17,1,45.0,0.3119,取扱い・対応,Kana Labs、HashPort Wallet、JPYC株式会社,【4月限定・Kana Labs主催】春のスワップキャンペーン開催のお知らせ - CoinPost
 EVT-20260417-02,2026-04-17,2,70.0,0.769,実証実験,Datachain、Tornado 2026、Datachain Wallet,Datachain、学生向けハッカソン「Tornado 2026」に公式パートナーとして参画賞金のJPYC送付を技術支援し、若年層のステーブルコイン理解促進に貢献 | 株式会社Speeeのプレスリリース - PR TIMES
 EVT-20260417-03,2026-04-17,7,75.0,1.5596,制度・規制,東京都、JPYC、JPYSC、ステーブルコイン社会実装促進事業補助金、JPYC株式会社、SBIホールディングス、Startale Group、Incerto合同会社、東京都産業労働局、ステーバルコイン社会実装促進事業補助金、2050東京戦略、改正資金決済法、産業労働局、ステーバルコイン社会実装促進事業、TORICO、トリコ・イーサリアム,東京都、円建てステーブルコインのユースケース創出事業へ補助金──上限4000万円、本日公募開始（NADA NEWS） - Yahoo!ニュース
 EVT-20260420-01,2026-04-20,2,70.0,0.769,発行・資金,i-nest capital、JPYC株式会社、ソニー銀行、テクミラホールディングス,i-nest capitalが「JPYC株式会社」へ追加投資 - PR TIMES
 EVT-20260420-02,2026-04-20,2,75.0,0.824,提携・連携,テクミラホールディングス、JPYC社、ネオス株式会社、テクミラ一号投資事業有限責任組合,テクミラホールディングス[3627]：日本初の円建ステーブルコインの発行を行う ＪＰＹＣ社に追加出資 国内ステーブルコイン市場の拡大に向けた連携強化を目指す 2026年4月20日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
-EVT-20260421-02,2026-04-21,3,75.0,1.0397,活用事例,キリフダ株式会社、東京都、LINE、キリフダ、東京都補助金、東京都ステーブルコイン社会実装促進事業補助金、LINEミニアプリ,キリフダ、LINEミニアプリを活用したJPYCを含むオンライン決済導入支援を開始（LINE以外の導入にも対応） - PR TIMES
 EVT-20260421-01,2026-04-21,8,88.75,1.95,実証実験,マイナウォレット株式会社、三井住友カード株式会社、ライジングゼファーフクオカ、マイナウォレット、三井住友カード、マイナウォレット社、JCB、デジタルガレージ、りそなホールディングス,三井住友カード×マイナンバーカードでJPYC決済──実証実験第2弾実施 - JinaCoin
+EVT-20260421-02,2026-04-21,3,75.0,1.0397,活用事例,キリフダ株式会社、東京都、LINE、キリフダ、東京都補助金、東京都ステーブルコイン社会実装促進事業補助金、LINEミニアプリ,キリフダ、LINEミニアプリを活用したJPYCを含むオンライン決済導入支援を開始（LINE以外の導入にも対応） - PR TIMES
 EVT-20260423-01,2026-04-23,1,65.0,0.4505,活用事例,株式会社シーエーシー（CAC）、日本ブロックチェーン協会（JBA）、TraceRelief,JBAハッカソンでステーブルコイン活用の寄付アプリがJPYC賞──CAC社員が開発 - JinaCoin
 EVT-20260423-02,2026-04-23,3,78.33,1.0859,活用事例,Pacific Meta、改正資金決済法、AIエージェント決済、東京都ステーブルコイン社会実装促進事業補助金、x402、オンチェーンレンディングプロトコル、法人金融インフラ,株式会社Pacific Meta、JPYCを活用したステーブルコイン決済支援サービスを開始する意義 - ニュースメディアVOIX
 EVT-20260424-01,2026-04-24,2,75.0,0.824,解説・論説,メタプラネット、岡部、金融庁、JPYC、SBIホールディングス,「ビットコインとJPYCは表裏一体」メタプラネットCEO×JPYC代表が語る日本発ビットコイン経済圏の全貌 - CoinPost
@@ -191,18 +191,18 @@ EVT-20260501-01,2026-05-01,2,70.0,0.769,発行・資金,阿波銀行、阿波銀
 EVT-20260501-02,2026-05-01,1,85.0,0.5892,市場・統計,ソニー銀行、LINE NEXT、日本免税,銀行、保険会社、メタプラなどが投資する日本円ステーブルコイン「JPYC」、小売・EC事業者がチェックしておくべきポイントとは - Yahoo!ニュース
 EVT-20260503-01,2026-05-03,2,80.0,0.8789,競合・市場環境,SBIホールディングス、北尾吉孝、スターテイルグループ、JPYC社、JPYSC、資金決済法,SBI北尾氏「JPYCは潰れる」──独自ステーブルコインと「ネオメディア」構想 - JinaCoin
 EVT-20260511-01,2026-05-11,9,82.78,1.906,活用事例,ガイアックス、StableCoin EC、StableCoin フリマ、StableCoinフリマ、Ethereum、Polygon、Avalanche、JPYC株式会社、LINE NEXT、EC・フリマ構築サービス、岡部典孝,ガイアックス、事業者向け「ステーブルコイン決済導入支援サービス」を提供開始 - PR TIMES
-EVT-20260513-01,2026-05-13,1,65.0,0.4505,市場・統計,HashHub Research、SBI、3メガバンク,日本円ステーブルコインの2030年までの成長予測、ドルステーブルコインとの需要の差分 - HashHub Research
+EVT-20260513-03,2026-05-13,2,80.0,0.8789,活用事例,SUSHI TOP MARKETING、SUSHI TOP OCR、unWallet,SUSHI TOP MARKETING、日本円ステーブルコイン「JPYC」配布可能なレシートOCR販促ソリューションを提供開始 - コマースピック
 EVT-20260513-02,2026-05-13,1,85.0,0.5892,取扱い・対応,スターテイル・グループ、SBIホールディングス、新生信託銀行、JPYSC,スターテイルCEO、円建てステーブルコインJPYSCの数カ月以内リリースを表明 米国株オンチェーン投資構想も - CoinPost
-EVT-20260513-03,2026-05-13,2,80.0,0.8789,活用事例,SUSHI TOP MARKETING、SUSHI TOP OCR、unWallet,SUSHI TOP OCR、レシートスキャンによるJPYC獲得ソリューションを開発 - PR TIMES
+EVT-20260513-01,2026-05-13,1,65.0,0.4505,市場・統計,HashHub Research、SBI、3メガバンク,日本円ステーブルコインの2030年までの成長予測、ドルステーブルコインとの需要の差分 - HashHub Research
 EVT-20260514-01,2026-05-14,3,65.0,0.9011,解説・論説,自由民主党デジタル社会推進本部、AIホワイトペーパー2.0、全銀システム、メタプラネット、自民党デジタル社会推進本部、JPYC株式会社、JPYCちゃん,JPYC、自民党AIホワイトペーパー2.0に見解｜AIエージェント時代の日本円決済基盤 - crypto-times.jp
 EVT-20260514-02,2026-05-14,1,75.0,0.5199,リスク・懸念,JPYC株式会社、偽トークン、ブロックチェーン,日本円ステーブルコインJPYCの偽物が乱立、公式が注意喚起 - Bitget
-EVT-20260515-02,2026-05-15,1,75.0,0.5199,活用事例,ユーツーテック、comilio PAY、星宮とと、MOONRAKER,バーチャルアーティスト「星宮とと」のイベント「MOONRAKER」にて、日本円ステーブルコイン「JPYC」によるチケット購入が可能に - PR TIMES
 EVT-20260515-01,2026-05-15,14,87.64,2.3734,取扱い・対応,Kaia、Kaia DLT Foundation、JPYC EX、Kaiaチェーン、JPYC株式会社、クレイトン、フィンシア、金融庁、Klaytn、HashPort Wallet、Simsan Ventures、資金移動業、Kakao、Circle Internet Group,日本円ステーブルコイン「JPYC」、初の追加対応チェーンとして「Kaia」で発行開始 - PR TIMES
+EVT-20260515-02,2026-05-15,1,75.0,0.5199,活用事例,ユーツーテック、comilio PAY、星宮とと、MOONRAKER,バーチャルアーティスト「星宮とと」のイベント「MOONRAKER」にて、日本円ステーブルコイン「JPYC」によるチケット購入が可能に - PR TIMES
 EVT-20260517-01,2026-05-17,2,85.0,0.9338,取扱い・対応,JPYC EX、JPYC株式会社、資金決済法、Kaia、LINE、カカオ,JPYC、発行上限を「1日100万円」から「1回100万円」へ変更 - crypto-times.jp
-EVT-20260518-01,2026-05-18,10,92.0,2.2061,発行・資金,シリーズBラウンド、50億円調達、bitFlyer Holdings、いよぎんホールディングス、明治安田生命、Life Design Fund、JPYC株式会社、LINE NEXT、Kaia、イグニション・ポイント ベンチャーパートナーズ、IHD STRATEGY FUND、JPYC社、アステリア、ビットフライヤーホールディングス、メタプラネット、Unifi、あわぎん未来創造投資事業有限責任組合、ライフデザインファンド、明治安田未来共創投資事業有限責任組合、LINE NEXT Unifi,日本円連動ステーブルコインを発行・販売するJPYC、シリーズBラウンドで50億円を調達。対話型音声AIを提供するIVRy、シリーズDラウンドで45億円を調達。【最新スタートアップニュース】 - STARTUP DB ENTERPRISE
-EVT-20260518-02,2026-05-18,3,81.67,1.1321,提携・連携,AdvanceAbility株式会社、JPYC Subscription Service、EIP-2612 Permit、AdvanceAbility,JPYCによる次世代サブスクリプション決済インフラ「JPYC Subscription Service（仮称）」の開発発表 - ニュースメディアVOIX
-EVT-20260518-03,2026-05-18,2,80.0,0.8789,実証実験,JPYC Faucet、Kaia、Kairos,日本円ステーブルコイン「JPYC」、開発者ツール「JPYC Faucet」がKaiaのテストネット「Kairos」に対応 - PR TIMES
 EVT-20260518-04,2026-05-18,20,91.75,2.7933,取扱い・対応,LINE NEXT、Unifi、HashPort、Kaia Network、Kaia、LINE、JPYC株式会社、LINE NEXT Inc.、金融庁,JPYC、LINE上のステーブルコインウォレット「Unifi」で5月22日から利用可能に（NADA NEWS） - Yahoo!ニュース
+EVT-20260518-03,2026-05-18,2,80.0,0.8789,取扱い・対応,JPYC Faucet、Kaia、Kairos,kaiaテストネット用JPYCが無償で取得可能に、「JPYC Faucet」が「Kairos」に対応（あたらしい経済） - Yahoo!ニュース
+EVT-20260518-01,2026-05-18,10,92.0,2.2061,発行・資金,シリーズBラウンド、50億円調達、bitFlyer Holdings、JPYC社、アステリア、ビットフライヤーホールディングス、メタプラネット、Life Design Fund、IHD STRATEGY FUND、LINE NEXT、Kaia、JPYC株式会社、イグニション・ポイント ベンチャーパートナーズ、いよぎんホールディングス、明治安田生命、Unifi、あわぎん未来創造投資事業有限責任組合、ライフデザインファンド、明治安田未来共創投資事業有限責任組合、LINE NEXT Unifi,日本円連動ステーブルコインを発行・販売するJPYC、シリーズBラウンドで50億円を調達。対話型音声AIを提供するIVRy、シリーズDラウンドで45億円を調達。【最新スタートアップニュース】 - STARTUP DB ENTERPRISE
+EVT-20260518-02,2026-05-18,3,81.67,1.1321,提携・連携,AdvanceAbility株式会社、JPYC Subscription Service、EIP-2612 Permit、AdvanceAbility,JPYCによる次世代サブスクリプション決済インフラ「JPYC Subscription Service（仮称）」の開発発表 - ニュースメディアVOIX
 EVT-20260520-01,2026-05-20,1,75.0,0.5199,活用事例,double jump.tokyo、N Suite、Bifrost,double jump.tokyo、N Suiteで法人向けJPYCレンディング対応を開始 - Bitget
 EVT-20260522-01,2026-05-22,4,82.5,1.3278,活用事例,トレーダム株式会社、岡部典孝、北尾吉孝、トレーダム、Tradeum、JPYC EX、トレーダム ペイメント、USDC,「北尾さん流のエール、叱咤激励と受け止めている」JPYC岡部氏──クロスボーダーSC決済の記者発表会にゲスト登壇 - Yahoo!ファイナンス
 EVT-20260522-02,2026-05-22,2,75.0,0.824,提携・連携,Life Design Fund、イオンモール、イグニション・ポイント ベンチャーパートナーズ、いよぎんホールディングス、いよぎんキャピタル、JPYC,Life Design Fund、日本円連動ステーブルコインを発行する JPYC に出資 - PR TIMES
@@ -211,17 +211,17 @@ EVT-20260525-01,2026-05-25,13,86.31,2.2777,活用事例,三井住友トラスト
 EVT-20260529-01,2026-05-29,1,75.0,0.5199,活用事例,Komlock lab、Kova、TDSE,AIがJPYCでお米を買った日——Komlock lab「Kova（β）」が問いかけるAIの経済活動 - shiritomo
 EVT-20260601-01,2026-06-01,1,45.0,0.3119,実証実験,100BANCH、GARAGE Program、JPYC EC,漢方によるフレグランスやブロックチェーンによる手数料1％EC、絵画を耳で見る音響空間などGARAGE Program第107期の3プロジェクトが100BANCHに入居 - PR TIMES
 EVT-20260601-02,2026-06-01,2,70.0,0.769,制度・規制,自由民主党ブロックチェーン政策パネル、片山さつき財務相、金融庁、アジア開発銀行、自民党ブロックチェーン推進議員連盟、片山さつき、神田潤一,日本の自民党、円建てステーブルコインでアジア決済の主導権確保に始動 - BigGo ファイナンス
-EVT-20260602-01,2026-06-02,6,93.33,1.8162,市場・統計,JPYC EX、ポリゴン、カイア、Kaia、Unifi、JPYC社、JPYC株式会社、シリーズBラウンド、Kaiaチェーン,日本円ステーブルコイン「JPYC」、累計発行額30億円を突破 - あたらしい経済
+EVT-20260602-01,2026-06-02,6,93.33,1.8162,市場・統計,JPYC EX、ポリゴン、カイア、Unifi、Kaia、JPYC社、JPYC株式会社、シリーズBラウンド、Kaiaチェーン,日本円ステーブルコイン「JPYC」、累計発行額30億円を突破 - あたらしい経済
 EVT-20260602-02,2026-06-02,2,83.5,0.9173,制度・規制,金融庁、JPYC社、資金移動業、JPYC、岡部典孝、PayPay,金融庁が「JPYC」を資金移動業の枠組みで位置づけ。法的枠組みの明確化で加速する資金移動業型・日本円ステーブルコイン第1号の未来 - 健美家
 EVT-20260604-01,2026-06-04,1,45.0,0.3119,提携・連携,WebX実行委員会、Progmat、SBIホールディングス,MoneyXとは？次世代金融カンファレンス｜ステーブルコインと通貨の進化 - CoinPost
 EVT-20260610-01,2026-06-10,3,58.33,0.8087,提携・連携,三菱UFJ銀行、三井住友銀行、みずほ銀行,3メガ銀、2026年度中に共同でステーブルコイン発行の方針 金融機関の連携拡大も視野＝報道 - CoinPost
 EVT-20260611-01,2026-06-11,2,75.0,0.824,取扱い・対応,zERC20、Polygon、ゼロ知識証明、INTMAX,zERC20、JPYC対応のプライバシー送金用トークン「zJPYC」をローンチ（NADA NEWS） - Yahoo!ニュース
-EVT-20260612-01,2026-06-12,5,87.8,1.5732,活用事例,cơmかふぇ、株式会社SatoLab、中川秀彦、長野県駒ヶ根市、cơm（コム）かふぇ、JPYC株式会社,国内初！長野県駒ヶ根市の子ども食堂「cơmかふぇ」が日本円ステーブルコイン「JPYC」で寄付受付開始 - 全国ソーシャルビジネス事業者データベース
 EVT-20260612-02,2026-06-12,4,80.0,1.2876,取扱い・対応,BluePay、株式会社Maximal、Kaiaネットワーク、Maximal、Kaia,「BluePay」、新たにKaiaネットワークに対応し、JPYCでの「ガスレス決済」を提供開始 - PR TIMES
+EVT-20260612-01,2026-06-12,5,87.8,1.5732,活用事例,cơmかふぇ、株式会社SatoLab、中川秀彦、長野県駒ヶ根市、cơm（コム）かふぇ、JPYC株式会社,国内初！長野県駒ヶ根市の子ども食堂「cơmかふぇ」が日本円ステーブルコイン「JPYC」で寄付受付開始 - 全国ソーシャルビジネス事業者データベース
 EVT-20260615-01,2026-06-15,9,84.67,1.9495,市場・統計,Unifi、LINE NEXT、Kaiaブロックチェーン、Kaia、Polygon、NADA NEWS、Ethereum、Avalanche、KB国民銀行、JPYC株式会社、LINE、ミニアプリ,Unifi、JPYC流通量首位と発表 対応開始から1ヶ月未満 - CoinPost
-EVT-20260616-01,2026-06-16,12,76.67,1.9665,取扱い・対応,JPYC Gateway、Openloop、アステリア、MetaMask、Fireblocks、Dynamic、アステリア株式会社、Openloo,「JPYC Gateway」の「公認ウォレット（ハードウェア）」として弊社のクリプトウォレット・サイナー「Openloop」が採択 - キャンプファイヤー
-EVT-20260616-02,2026-06-16,5,80.4,1.4406,実証実験,センス・イット・スマート、運動サプリ®、Claude Code、Polygon、運動サプリ、AIエージェント、健康経営、バイブコーディング、健康経営AIエージェントパッケージ,AIエージェントが日本円ステーブルコインJPYCを活用し、健康経営® における行動変容の実践を「バイブコーディング」する。 - PR TIMES
-EVT-20260618-01,2026-06-18,7,86.43,1.7972,活用事例,Danal、Line Next、Unify、LINE NEXT、Unifi Pay Direct、Kaia DLT財団、韓国、Unifi、クロスボーダー決済、LINE NEXT Inc.,Danal、Line NextとJPYC決済連携 訪韓客向け越境決済を拡大 - 디지털투데이
+EVT-20260616-01,2026-06-16,12,76.67,1.9665,取扱い・対応,JPYC Gateway、Openloop、アステリア、MetaMask、Fireblocks、Openloo、アステリア株式会社、Dynamic,「JPYC Gateway」の「公認ウォレット（ハードウェア）」として弊社のクリプトウォレット・サイナー「Openloop」が採択 - キャンプファイヤー
+EVT-20260616-02,2026-06-16,5,80.4,1.4406,活用事例,センス・イット・スマート、運動サプリ、AIエージェント、健康経営、バイブコーディング、Claude Code、Polygon、運動サプリ®、健康経営AIエージェントパッケージ,AIエージェントとJPYCを活用した健康経営実証へ──歩数達成に応じて報酬を配分(NADA NEWS) - Yahoo!ファイナンス
+EVT-20260618-01,2026-06-18,7,86.43,1.7972,活用事例,Danal、Line Next、Unify、LINE NEXT、Unifi Pay Direct、Kaia DLT財団、Unifi、韓国、クロスボーダー決済、LINE NEXT Inc.,Danal、Line NextとJPYC決済連携 訪韓客向け越境決済を拡大 - 디지털투데이
 EVT-20260618-02,2026-06-18,4,75.0,1.2071,活用事例,元素騎士オンライン、株式会社花火亭、Metap、岩崎健太、元素騎士、Unifi、Bitget Wallet,再始動の元素騎士、JPYC・USDT対応の新ゲーム内通貨を計画──旧通貨は廃止へ(NADA NEWS) - Yahoo!ファイナンス
 EVT-20260618-03,2026-06-18,5,88.4,1.5839,市場・統計,Kaia、KB国民銀行、Unifi、LINE、LINE NEXT、ポリゴン、金融庁、カイアDLT財団,Kaia、JPYC流通額3.3億円突破 発行チェーン国内首位に - CoinPost
 EVT-20260618-04,2026-06-18,1,75.0,0.5199,活用事例,ネットスターズ、Bitget Wallet、StarPay-X,ステーブルコイン決済は「Web2の実店舗」に広がるか──ネットスターズ、JPYC、Bitget Walletが示した導入の現実解 - Yahoo!ニュース
@@ -229,8 +229,8 @@ EVT-20260618-05,2026-06-18,2,80.0,0.8789,取扱い・対応,LINE NEXT、Unifi Pa
 EVT-20260622-01,2026-06-22,1,65.0,0.4505,取扱い・対応,Coinbase、BLEND,コインベース で JPYC を ブレンド に交換可能に。日本円ステーブルコインの JPYC と新たなトークン ブレンド - KuCoin
 EVT-20260622-02,2026-06-22,5,85.0,1.523,取扱い・対応,LINE NEXT、Unifi mini、LINEミニアプリ、Unifi、ミニアプリ,LINE上のステーブルコインウォレット「Unifi」がミニアプリに──個別アプリ不要で利用可能（NADA NEWS） - Yahoo!ニュース
 EVT-20260622-03,2026-06-22,1,95.0,0.6585,活用事例,JPYC社、日本免税、リファンド方式,JPYCが免税リファンド還付に活用へ、ウォレットへ即時送付（あたらしい経済） - Yahoo!ニュース
-EVT-20260624-02,2026-06-24,5,81.0,1.4513,発行・資金,SBIグループ、スターテイルグループ、SBI新生信託銀行、JPYSC、Startale、SBI VCトレード、SBIホールディングス、Startale Group,【速報】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始。イーサ上に100億円分発行へ（あたらしい経済） - Yahoo!ニュース
 EVT-20260624-01,2026-06-24,8,66.25,1.4557,提携・連携,メタプラネット、HashPort、JPYC株式会社、HashPort Wallet、株主優待プログラム、JPYC EX、SBIグループ、ビットバンク,メタプラネット[3350]：株式会社HashPort、JPYC株式会社との株主優待プログラムに関するお知らせ 2026年6月24日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
+EVT-20260624-02,2026-06-24,5,81.0,1.4513,発行・資金,SBIグループ、スターテイルグループ、SBI新生信託銀行、JPYSC、Startale、SBI VCトレード、SBIホールディングス、Startale Group,【速報】国内初、SBIが信託型円ステーブルコイン「JPYSC」提供開始。イーサ上に100億円分発行へ（あたらしい経済） - Yahoo!ニュース
 EVT-20260626-01,2026-06-26,2,90.0,0.9888,市場・統計,JPYC info、SBIグループ、JPYSC、JPYC EX、Unifi,JPYC、総流通量10億円を突破（NADA NEWS） - Yahoo!ニュース
 EVT-20260626-02,2026-06-26,2,55.0,0.6042,提携・連携,Morph、イングランド銀行、Renna Ba氏、JPYSC,Morph幹部がJPYCやJPYSCとの連携に意欲──英中銀、ポンド建てステーブルコイン発行へ前進（NADA NEWS） - Yahoo!ニュース
 EVT-20260629-01,2026-06-29,6,85.0,1.654,活用事例,SOWAKA、株式会社Sowaka Japan、MisePay、Sowaka Japan、MisePay（ミセペイ）、ミセペイ,SOWAKA、JPYCをはじめとするステーブルコインの国内社会実装に向け「株式会社Sowaka Japan」を設立 - PR TIMES
@@ -243,22 +243,26 @@ EVT-20260708-01,2026-07-08,4,69.25,1.1145,提携・連携,堀江貴文、岡部�
 EVT-20260708-02,2026-07-08,1,65.0,0.4505,提携・連携,Kaia、日本トークン証券協会（JSTA）、LINE NEXT,Kaia、日本のトークン証券協会に加盟…JPYCを足掛かりにRWA市場攻略を本格化 - BigGo ファイナンス
 EVT-20260709-01,2026-07-09,4,92.5,1.4887,市場・統計,Kaia、Unifi、JPYC info、HashPort Wallet、Kaiaチェーン、JPYC EX,JPYC、総流通量20億円を突破──2週間で10億円増加（NADA NEWS） - Yahoo!ニュース
 EVT-20260709-02,2026-07-09,1,65.0,0.4505,競合・市場環境,全東信、岡部典孝、JPYC株式会社,『全東信が倒産でクレカ支払いの崩壊イベントへ！決済手段としてさらに注目されるステーブルコイン！？』 - t.co
-EVT-20260710-05,2026-07-10,1,65.0,0.4505,取扱い・対応,HashPort、Claude、DEX,HashPort Wallet、AIエージェントから操作可能に──複数チェーンの資産をJPYCへ集約(NADA NEWS) - Yahoo!ファイナンス
-EVT-20260710-04,2026-07-10,12,65.83,1.6886,提携・連携,メタプラネット、Progmat、デジタルクレジット、Project NOVA、メタプラネット証券、ビットコイン、Siiibo証券、Datachain、JCB、SBI VCトレード,メタプラネット[3350]：ビットコイン・JPYC・セキュリティトークンを活用したデジタルクレジット領域における共同検討開始のお知らせ 2026年7月10日(適時開示) ：日経会社情報DIGITAL - 日本経済新聞
-EVT-20260710-03,2026-07-10,1,75.0,0.5199,取扱い・対応,Saify、Decoo、Saify Store,暗号資産ウォレット「Saify」の「きせかえNFT」販売サイト「Saify Store」にて、日本円ステーブルコイン「JPYC」での決済を開始。クレカを持たない人達も多彩なきせかえが可能に | 株式会社Decooのプレスリリース - PR TIMES
-EVT-20260710-02,2026-07-10,5,79.0,1.4155,提携・連携,WebX 2026、LINE NEXT Inc.、Unifi、LINE NEXT、岡部典孝、Binance、近藤智彦、渡辺創太,【WebX 2026】日本円ステーブルコイン「JPYC」がゴールドスポンサーとして参画決定 - PR TIMES
 EVT-20260710-01,2026-07-10,4,72.5,1.1668,提携・連携,メタプラネット、Progmat、Swift、SBI、Project NOVA、ビットコイン、セキュリティトークン、メタプラネット証券,【今日の仮想通貨ニュース】BTC・JPYC活用を共同検討──銀行とDeFiで進む金融のオンチェーン化 - JinaCoin
+EVT-20260710-02,2026-07-10,5,79.0,1.4155,提携・連携,WebX 2026、LINE NEXT Inc.、Unifi、LINE NEXT、岡部典孝、Binance、近藤智彦、渡辺創太,【WebX 2026】日本円ステーブルコイン「JPYC」がゴールドスポンサーとして参画決定 - PR TIMES
+EVT-20260710-03,2026-07-10,1,75.0,0.5199,取扱い・対応,Saify、Decoo、Saify Store,暗号資産ウォレット「Saify」の「きせかえNFT」販売サイト「Saify Store」にて、日本円ステーブルコイン「JPYC」での決済を開始。クレカを持たない人達も多彩なきせかえが可能に | 株式会社Decooのプレスリリース - PR TIMES
+EVT-20260710-04,2026-07-10,12,65.83,1.6886,提携・連携,メタプラネット、Progmat、Project NOVA、デジタルクレジット、メタプラネット証券、ビットコイン、Siiibo証券、Datachain、JCB、SBI VCトレード,メタプラネット・JPYCら4社、デジタルクレジット共同検討(CoinPost) - Yahoo!ファイナンス
+EVT-20260710-05,2026-07-10,1,65.0,0.4505,取扱い・対応,HashPort、Claude、DEX,HashPort Wallet、AIエージェントから操作可能に──複数チェーンの資産をJPYCへ集約(NADA NEWS) - Yahoo!ファイナンス
 EVT-20260712-01,2026-07-12,1,92.0,0.6377,取扱い・対応,三井住友トラストクラブ、HashPort、ダイナースクラブ,～日本のクレジットカードで初！～ カード利用で貯まるポイントをステーブルコインに。2026年6月1日、ダイナースクラブのポイントを日本円ステーブルコイン「JPYC」に交換するサービスがスタート。 - 朝日新聞
 EVT-20260713-01,2026-07-13,3,92.67,1.2846,活用事例,矢田産業株式会社、喜和産業株式会社、鳥坂GC,ゴルフ場のボール貸出機にJPYC決済──香川の練習場で運用開始 - JinaCoin
 EVT-20260713-02,2026-07-13,2,75.0,0.824,取扱い・対応,ネットスターズ、StarPay、Stablecoin Pay,ネットスターズ、店舗向けステーブルコイン決済「Stablecoin Pay」提供開始。USDC・USDT・JPYCに対応 - あたらしい経済
-EVT-20260713-03,2026-07-13,10,78.0,1.8704,提携・連携,シンプレクス株式会社、JPYC EX連携API、シンプレクス、JPYC EX、JPYC株式会社、HashPort Wallet、JPYC社、シンプレクス・ホールディングス,シンプレクス、JPYCの「JPYC EX連携API」の開発を支援 - シンプレクス株式会社
+EVT-20260713-03,2026-07-13,10,78.0,1.8704,提携・連携,シンプレクス株式会社、JPYC EX連携API、シンプレクス、JPYC EX、JPYC社、JPYC株式会社、HashPort Wallet、シンプレクス・ホールディングス,シンプレクス、JPYCの「JPYC EX連携API」の開発を支援 - シンプレクス株式会社
 EVT-20260713-04,2026-07-13,15,89.27,2.475,実証実験,ローソン、HashPort、KDDI、ハッシュポート、POS連動、POS連携、8月実証、Lawson、JPYC Inc.、高輪ゲートウェイシティ店、キャナルペイメントサービス,ローソン、ステーブルコイン「JPYC」決済実証へ｜コンビニ初の取り組み - bittimes.net
 EVT-20260716-01,2026-07-16,3,68.33,0.9473,取扱い・対応,暗号屋、すてぶるペイ（STBLpay）、JPYC EX、すてぶるペイ、Slash Card、イオレ、WebX2026,暗号屋、銀行振込で利用できるステーブルコイン決済「すてぶるペイ」提供へ（あたらしい経済） - Yahoo!ニュース
 EVT-20260717-01,2026-07-17,1,45.0,0.3119,提携・連携,OndoFinance、SBIグループ、トークン化,OndoFinance が、トークン化された金融を日本に拡大します。 $ONDO は、SBIグループと提携し、日本の資 - KuCoin
-EVT-20260719-01,2026-07-19,20,92.45,2.8147,活用事例,AZ-COM丸和ホールディングス、アマゾンジャパン、JPYC社、JPYC、Amazon配送、AZ-COMマルワホールディングス、ローソン、Amazon Japan、JPYC株式会社、LINE NEXT、Amazon、Lawson、Metaplanet、アマゾン・ジャパン、ソニー銀行、AZ-COMマルワHD、AZ-COM丸和、協力会社2300社、トラック運転手、日本経済新聞、Amazon配送大手、運送2300社、スマートコントラクト、AZ-COM丸和HD、運送企業,アマゾン配送大手、委託先2300社の支払いにステーブルコイン「JPYC」導入へ - JinaCoin
+EVT-20260719-01,2026-07-19,22,92.23,2.8918,活用事例,AZ-COM丸和ホールディングス、アマゾンジャパン、JPYC社、JPYC、Amazon配送、AZ-COMマルワホールディングス、ローソン、Amazon Japan、JPYC株式会社、LINE NEXT、Amazon、Lawson、Metaplanet、アマゾン・ジャパン、ソニー銀行、AZ-COMマルワHD、AZ-COM丸和、協力会社2300社、トラック運転手、日本経済新聞、Amazon配送大手、運送2300社、AZ-COM丸和HD、ネットスターズ、メタプラネット、スマートコントラクト、運送企業,アマゾン配送大手、委託先2300社の支払いにステーブルコイン「JPYC」導入へ - JinaCoin
 EVT-20260721-01,2026-07-21,2,85.0,0.9338,活用事例,株式会社uniple、ChatGPT、Claude、uniple、WooCommerce、EC-CUBE、Shopify,AIエージェントが購入できるEC決済基盤「uniple checkout」提供開始 — JPYC決済をプラグインで導入 - PR TIMES
-EVT-20260722-01,2026-07-22,16,84.19,2.3852,提携・連携,AZ-COM丸和、JPYC、AZ-COM丸和ホールディングス、物流業界、スマートコントラクト、AZ-COM丸和ホールディングス株式会社、資本業務提携、和佐見勝、ブロックチェーン、JPYC社、AZ-COMネットワーク、ＡＺ丸和ＨＤ、株主優待制度、岡部典孝、ブロックチェーン推進協会（BCCC）、物流、AZ-COM丸和ネットワーク、JPYC株式会社、ブロックチェーン推進協会、日本暗号資産ビジネス協会、一般社団法人AZ-COMネットワーク、3PL事業,採れたて株価材料－ＡＺ－ＣＯＭ丸和 ＪＰＹＣと資本業務提携 株主優待制度を新設(トレーダーズ・ウェブ) - Yahoo!ファイナンス
+EVT-20260722-01,2026-07-22,17,84.65,2.4466,提携・連携,AZ-COM丸和、JPYC、AZ-COM丸和ホールディングス、物流業界、スマートコントラクト、AZ-COM丸和ホールディングス株式会社、資本業務提携、和佐見勝、ブロックチェーン、JPYC社、AZ-COMネットワーク、ＡＺ丸和ＨＤ、株主優待制度、岡部典孝、ブロックチェーン推進協会（BCCC）、物流、AZ-COM丸和ネットワーク、JPYC株式会社、ブロックチェーン推進協会、日本暗号資産ビジネス協会、一般社団法人AZ-COMネットワーク、3PL事業、アマゾンジャパン,採れたて株価材料－ＡＺ－ＣＯＭ丸和 ＪＰＹＣと資本業務提携 株主優待制度を新設(トレーダーズ・ウェブ) - Yahoo!ファイナンス
 EVT-20260723-01,2026-07-23,1,75.0,0.5199,取扱い・対応,HashPort、歯科 369CLINIC、津田沼前原コウノ歯科・矯正歯科,歯科治療費を「ステーブルコイン」で支払う時代へ？JPYC決済を関東の歯科医院が導入 - DXマガジン
 EVT-20260723-02,2026-07-23,1,85.0,0.5892,提携・連携,アステリア、JPYC株式会社、金融庁,【アステリア代表平野 × JPYC岡部代表インタビュー】なぜ、アステリアは10億JPYCを保有するのか――。ステーブルコインによって変わる金融インフラの常識とビジネスのスタンダード - Asteria Corporation
 EVT-20260724-01,2026-07-24,2,70.0,0.769,提携・連携,KAIA、finoject、Kaia DLT財団、LINE NEXT、AZ-COM丸和ホールディングス、ローソン,KAIA、日本のステーブルコイン・トークン化事業を推進｜finojectと提携 - bittimes.net
-EVT-20260727-01,2026-07-27,2,80.0,0.8789,取扱い・対応,Mi&T株式会社、大阪公立大学,Mi&T、サービス料金のJPYC払いに対応 - PR TIMES
+EVT-20260727-01,2026-07-27,4,80.0,1.2876,取扱い・対応,Mi&T株式会社、大阪公立大学、Mi&T,Mi&T、サービス料金のJPYC払いに対応 - 朝日新聞
+EVT-20260729-01,2026-07-29,3,65.0,0.9011,活用事例,岡部典孝、金融庁FinTechサポートデスク、熊本地震、JPYC EX、Binance Japan、JPYC社、金融庁,JPYCで熊本地震に寄付できる？代表が金融庁へ照会、ステーブルコイン活用を検討 - CoinChoice
+EVT-20260730-02,2026-07-30,4,87.5,1.4083,活用事例,モアクト、HashPort、JPYC株式会社、関西電力、Polygon、Moact,「モアクト」 のポイント交換先に日本円ステーブルコイン「 JPYC」を追加 - CoinPost
+EVT-20260730-01,2026-07-30,2,80.0,0.8789,取扱い・対応,HashPort、KDDI、au Coincheck Digital Assets、αU market、Polygon,HashPort、ステーブルコイン決済対応のNFTマーケットプレイス「HashPort Market | αU」を提供開始 - PR TIMES
+EVT-20260731-01,2026-07-31,1,85.0,0.5892,提携・連携,mindpalace、AdvanceAbility、JPYC Subscription Service（JSS）,mindpalace、JPYC継続課金サービス「JSS」の普及支援に向け、アドヴァンスアビリティとのパートナーシップを開始 - PR TIMES
