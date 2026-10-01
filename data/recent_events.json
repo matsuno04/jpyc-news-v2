@@ -1,0 +1,1663 @@
+{
+ "generated_at": "2026-10-01 21:31:27",
+ "window_days": 30,
+ "timezone": "JST(+09:00)",
+ "events": [
+  {
+   "event_id": "EVT-20260930-01",
+   "burst_start_date": "2026-09-30",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 21:30:24",
+   "article_count": 10,
+   "tags": [
+    "取扱い・対応",
+    "提携・連携",
+    "活用事例"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "au PAY、暗号資産とJPYCで支払い可能に──Pontaポイント交換にも対応 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/aupay-crypto-jpyc-20260930/",
+    "published_at": "2026-09-30 00:00:00",
+    "summary": "KDDIとHashPort、Coincheckが提携し、au PAYアプリ上で暗号資産ウォレット「αU wallet」の提供を開始した。ユーザーはPontaポイントをJPYCを含む暗号資産に交換でき、保有資産をau PAY残高にチャージして全国の加盟店で決済利用できる。"
+   },
+   "articles": [
+    {
+     "title": "au PAY、暗号資産とJPYCで支払い可能に──Pontaポイント交換にも対応 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/aupay-crypto-jpyc-20260930/",
+     "published_at": "2026-09-30 00:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "au PAY アプリ上から使える暗号資産ウォレットを提供開始 - KDDI ニュースルーム",
+     "domain": "newsroom.kddi.com",
+     "url": "https://newsroom.kddi.com/news/detail/kddi_nr-1182_4741.html",
+     "published_at": "2026-09-30 13:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/612240",
+     "published_at": "2026-09-30 13:45:32",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に (あたらしい経済) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/8343554d4c4d6177b36a57883db6aa4b7fc16021/images/000",
+     "published_at": "2026-09-30 13:50:05",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "au PAYアプリに暗号資産ウォレット、PontaポイントをWBTCやETHに交換可能に - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/d5328bf2-c79e-42fb-b28f-1e3e36b4423e",
+     "published_at": "2026-09-30 16:25:20",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "au PAYで暗号資産ウォレット開始 Pontaポイントから交換・決済も可能 - watch.impress.co.jp",
+     "domain": "watch.impress.co.jp",
+     "url": "https://www.watch.impress.co.jp/docs/news/2144551.html",
+     "published_at": "2026-09-30 17:02:11",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "KDDI、au PAYアプリで暗号資産ウォレット提供開始｜αU wallet - innovaTopia",
+     "domain": "innovatopia.jp",
+     "url": "https://innovatopia.jp/blockchain/blockchain-news/118404/",
+     "published_at": "2026-10-01 09:11:05",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "Pontaポイントで暗号資産を買える「αU wallet」開始 au PAY残高に戻して支払いも可能 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/poitan_193571/",
+     "published_at": "2026-10-01 10:02:27",
+     "collected_at": "2026-10-01 21:30:24"
+    },
+    {
+     "title": "KDDIら、au PAYに暗号資産ウォレット開始｜Pontaで交換可能 - Coinspeaker",
+     "domain": "coinspeaker.com",
+     "url": "https://www.coinspeaker.com/jp/kddi-au-pay-crypto-wallet-alpha-u/",
+     "published_at": "2026-10-01 10:57:09",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "暗号資産を街でのお買い物に活用！au PAYアプリ内で完結する「αU wallet」の新サービス - DXマガジン",
+     "domain": "dxmagazine.jp",
+     "url": "https://dxmagazine.jp/news/2654ko82/",
+     "published_at": "2026-10-01 13:18:45",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260918-02",
+   "burst_start_date": "2026-09-18",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 1,
+   "tags": [
+    "リスク・懸念"
+   ],
+   "tags_mode": "リスク・懸念",
+   "representative": {
+    "title": "zERC20、zJPYCで約996万トークンが不正ミント。約335万円相当が流出（あたらしい経済） - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/84e28867c54be1418eebc6775a27984e060d24e8",
+    "published_at": "2026-09-18 16:00:00",
+    "summary": "JPYCのプライバシー保護版トークン「zJPYC」で、9月13日に暗号学的証明システム「Nova」の脆弱性を悪用した不正ミントが発生し、約335万円相当のJPYCが流出した。原因はNovaの既知の脆弱性とzJPYCのデプロイ時の設定ミスにより、本来無効化すべきバッチウィズドロウ機能が利用可能になっていたことだ。"
+   },
+   "articles": [
+    {
+     "title": "zERC20、zJPYCで約996万トークンが不正ミント。約335万円相当が流出（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/84e28867c54be1418eebc6775a27984e060d24e8",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260928-01",
+   "burst_start_date": "2026-09-28",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 6,
+   "tags": [
+    "取扱い・対応",
+    "市場・統計",
+    "競合・市場環境",
+    "制度・規制",
+    "リスク・懸念"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "JPYC、海外取引所HTX（旧Huobi）に上場 (NADA NEWS) - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a/images/000",
+    "published_at": "2026-09-28 19:25:58",
+    "summary": "JPYCが海外取引所HTX（旧Huobi）に上場した。これにより、JPYCの国際的な流通範囲が拡大することになる。"
+   },
+   "articles": [
+    {
+     "title": "JPYC、海外取引所HTX（旧Huobi）に上場 (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a/images/000",
+     "published_at": "2026-09-28 19:25:58",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、海外取引所HTX（旧Huobi）に上場（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
+     "published_at": "2026-09-28 19:25:58",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "韓国「仮想通貨マーケットメイク」解禁を検討｜JPYC急騰が契機に - bittimes.net",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/229496.html",
+     "published_at": "2026-09-29 06:41:55",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 (あたらしい経済) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19/images/000",
+     "published_at": "2026-09-29 14:57:41",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
+     "published_at": "2026-09-29 14:57:41",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "【9/29話題】Bitcoin Japanがビットコイン初取得、シティがトークン化預金の送金サービスを日本に展開、JPYCがHTXに上場など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/612076",
+     "published_at": "2026-09-29 21:39:05",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260910-01",
+   "burst_start_date": "2026-09-10",
+   "first_collected_at": "2026-09-14 11:52:20",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 4,
+   "tags": [
+    "市場・統計",
+    "リスク・懸念"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "JPYC流通量、20億円割れ──11日間で約7.1億円減少（NADA NEWS） - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/281380c21688d1ebcefbd916ce0fd2b08cc50b5b",
+    "published_at": "2026-09-10 16:30:43",
+    "summary": "JPYCの流通量が9月10日時点で19億9753万837JPYCまで減少し、20億円を割り込んだ。8月30日の約27億800万JPYCから11日間で約7億1000万JPYC（約26％）減少した。減少の中心はKaia上での流通量であり、ウォレットサービスUnifiが9月1日に利回り特典を年率5％から2％に引き下げたことが、資金流出の要因と考えられている。"
+   },
+   "articles": [
+    {
+     "title": "JPYC流通量、20億円割れ──11日間で約7.1億円減少（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/281380c21688d1ebcefbd916ce0fd2b08cc50b5b",
+     "published_at": "2026-09-10 16:30:43",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "JPYC流通量、20億円割れ──11日間で約7.1億円減少 (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/281380c21688d1ebcefbd916ce0fd2b08cc50b5b/images/000",
+     "published_at": "2026-09-10 20:03:13",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "メタプラネットCEO、株主からの批判に「説明十分でなかった」／JPYCの流通量減少止まらず【日曜日に読みたい厳選5本】 - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/241ffb820e4730b6ad69fec9388a46934e7e7cd5",
+     "published_at": "2026-09-13 08:00:00",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "メタプラネットCEO、株主からの批判に「説明十分でなかった」／JPYCの流通量減少止まらず【日曜日に読みたい厳選5本】 - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/241ffb820e4730b6ad69fec9388a46934e7e7cd5/images/000",
+     "published_at": "2026-09-13 11:34:18",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260929-01",
+   "burst_start_date": "2026-09-29",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 1,
+   "tags": [
+    "解説・論説",
+    "活用事例"
+   ],
+   "tags_mode": "解説・論説",
+   "representative": {
+    "title": "JPYC 岡部 典孝社長インタビュー - リユース経済新聞",
+    "domain": "recycle-tsushin.com",
+    "url": "https://www.recycle-tsushin.com/news/detail_13288.php",
+    "published_at": "2026-09-29 09:04:07",
+    "summary": "JPYC代表取締役の岡部典孝氏が、リユース事業とステーブルコイン活用の相性について論じたインタビュー記事。チケット販売における決済手数料削減、海外バイヤーとの取引効率化、買取店の防犯リスク軽減など、リユース業界におけるJPYCの具体的な活用例を提示している。"
+   },
+   "articles": [
+    {
+     "title": "JPYC 岡部 典孝社長インタビュー - リユース経済新聞",
+     "domain": "recycle-tsushin.com",
+     "url": "https://www.recycle-tsushin.com/news/detail_13288.php",
+     "published_at": "2026-09-29 09:04:07",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260930-02",
+   "burst_start_date": "2026-09-30",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 1,
+   "tags": [
+    "提携・連携",
+    "解説・論説"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "The NISHI Talk : Crypto Conversations「ステーブルコインで実現するサトシの“念い”」仮想NISHI×平野洋一郎 - Iolite（アイオライト）",
+    "domain": "iolite.net",
+    "url": "https://iolite.net/opinion/kasou-nishi/the-nishi-talk-crypto-conversations-4",
+    "published_at": "2026-09-30 10:00:00",
+    "summary": "アステリア社長の平野洋一郎氏が、同社による日本初のステーブルコイン「ZEN」の実証実験からJPYC社との関係強化に至るまでの経緯を語った対談。ステーブルコインはサトシ・ナカモトが描いたデジタルキャッシュのビジョン実現に不可欠であり、企業決済への活用拡大に向けた両社の協業体制を説明している。"
+   },
+   "articles": [
+    {
+     "title": "The NISHI Talk : Crypto Conversations「ステーブルコインで実現するサトシの“念い”」仮想NISHI×平野洋一郎 - Iolite（アイオライト）",
+     "domain": "iolite.net",
+     "url": "https://iolite.net/opinion/kasou-nishi/the-nishi-talk-crypto-conversations-4",
+     "published_at": "2026-09-30 10:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260923-01",
+   "burst_start_date": "2026-09-23",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 1,
+   "tags": [
+    "実証実験",
+    "提携・連携"
+   ],
+   "tags_mode": "実証実験",
+   "representative": {
+    "title": "Kaia、JPYCから韓国ウォンへの精算を実証へ──DOZNと提携（NADA NEWS） - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/a9c1dc44d3c016935e4ab5b92ef0154cad594e51",
+    "published_at": "2026-09-23 13:00:00",
+    "summary": "韓国のフィンテック企業DOZNはKaia DLT Foundationと提携し、JPYCなど複数国のステーブルコインを韓国ウォンで精算するクロスボーダー基盤の構築を目指す。JPYCを含むアジア各国通貨のステーブルコインを対象に技術検証を行い、Kaia上での決済から韓国銀行口座へのウォン入金までの一連の精算処理を検証する計画である。"
+   },
+   "articles": [
+    {
+     "title": "Kaia、JPYCから韓国ウォンへの精算を実証へ──DOZNと提携（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/a9c1dc44d3c016935e4ab5b92ef0154cad594e51",
+     "published_at": "2026-09-23 13:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260917-02",
+   "burst_start_date": "2026-09-17",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 1,
+   "tags": [
+    "提携・連携",
+    "市場・統計"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "サークル、手数料USDC払いの新ブロックチェーン「Arc」稼働開始（NADA NEWS） - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/3dd5e8063e772db71cab5a3ef5a6ac2ccb9e9cbd",
+    "published_at": "2026-09-17 16:00:00",
+    "summary": "米Circleが新ブロックチェーン「Arc」を稼働開始し、JPYC社がStableFXのパートナー通貨として参加することが発表された。JPYC代表の岡部氏は、JPYCの発行・償還上限の緩和やStableFXの本格化に向けた規制対応が今後の課題であると述べている。"
+   },
+   "articles": [
+    {
+     "title": "サークル、手数料USDC払いの新ブロックチェーン「Arc」稼働開始（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/3dd5e8063e772db71cab5a3ef5a6ac2ccb9e9cbd",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260925-02",
+   "burst_start_date": "2026-09-25",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 7,
+   "tags": [
+    "活用事例",
+    "取扱い・対応"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "【BCL】業界初、JPYCでのリワードバックがスタート。 - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000104006.html",
+    "published_at": "2026-09-25 13:00:01",
+    "summary": "BSMOホールディングスが運営するWeb3×バスフィッシングサービス「BCL」のオンラインストアにおいて、業界初となるJPYCでのリワードバック機能を開始した。対象商品購入時に購入額の10%相当のJPYCがウォレットに届き、次回の買い物で利用可能となる。"
+   },
+   "articles": [
+    {
+     "title": "【BCL】業界初、JPYCでのリワードバックがスタート。 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000004.000104006.html",
+     "published_at": "2026-09-25 13:00:01",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "暗号資産リワードバックサービス BITCOMMERCEをローンチ - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/prtimes_000000005_000104006/",
+     "published_at": "2026-09-25 15:45:25",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "【BCL】業界初、JPYCでのリワードバックがスタート。 - mantan-web.jp",
+     "domain": "mantan-web.jp",
+     "url": "https://mantan-web.jp/prtimes/article/20260928prt00m200000355a/photopage/001.html",
+     "published_at": "2026-09-25 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "BCLが業界初のJPYCリワードバックを開始！釣りとWeb3の新しい楽しみ方 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/cryptocurrency/33829/",
+     "published_at": "2026-09-25 16:04:51",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "【BCL】業界初、JPYCでのリワードバックがスタート。 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/prtimes_000000004_000104006/",
+     "published_at": "2026-09-28 18:40:02",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "これが新時代の釣り竿！ ブロックチェーンルアーズとテイルウォークのコラボが生んだ名竿とは？ - ルアマガプラス",
+     "domain": "plus.luremaga.jp",
+     "url": "https://plus.luremaga.jp/2026/10/01/496859/",
+     "published_at": "2026-10-01 00:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "これが新時代の釣り竿！ ブロックチェーンルアーズとテイルウォークのコラボが生んだ名竿とは？（ルアマガプラス） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/6dc0ec3980c698a3f571659c8dcbf7ed428fb101",
+     "published_at": "2026-10-01 11:50:08",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260913-01",
+   "burst_start_date": "2026-09-13",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 1,
+   "tags": [
+    "制度・規制",
+    "リスク・懸念"
+   ],
+   "tags_mode": "制度・規制",
+   "representative": {
+    "title": "金融当局がKRWQとJPYCの商品券換金に警戒 - CHOSUNBIZ - Chosunbiz",
+    "domain": "biz.chosun.com",
+    "url": "https://biz.chosun.com/jp/jp-finance/2026/09/13/7QP3KX3L7BH25NG2R263SQ4HLQ/",
+    "published_at": "2026-09-13 00:00:00",
+    "summary": "韓国の金融当局は、JPYCなどのオフショア発行ステーブルコインを使用して国内商品券を購入できるサービスが資金洗浄に悪用される懸念があるとして、厳正に対応する方針を示した。顧客確認手続きなしで仮想資産を現金化可能な商品券に交換できる構造に対し、特定金融情報法の適用対象となることを警告している。"
+   },
+   "articles": [
+    {
+     "title": "金融当局がKRWQとJPYCの商品券換金に警戒 - CHOSUNBIZ - Chosunbiz",
+     "domain": "biz.chosun.com",
+     "url": "https://biz.chosun.com/jp/jp-finance/2026/09/13/7QP3KX3L7BH25NG2R263SQ4HLQ/",
+     "published_at": "2026-09-13 00:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260902-01",
+   "burst_start_date": "2026-09-02",
+   "first_collected_at": "2026-09-14 11:52:20",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 2,
+   "tags": [
+    "解説・論説",
+    "提携・連携"
+   ],
+   "tags_mode": "解説・論説",
+   "representative": {
+    "title": "【9/28開催】JPYC岡部氏、USDC榊原氏、JPYSC手塚氏が登壇!!「AI時代、企業のお金はどう動くのか──ステーブルコインが変える決済・送金・財務」 - NADA NEWS",
+    "domain": "nadanews.com",
+    "url": "https://www.nadanews.com/365269/",
+    "published_at": "2026-09-02 09:00:00",
+    "summary": "JPYC、USDC、JPYSCのキーパーソンが登壇するイベントが9月28日に開催される。本イベントでは、ステーブルコインがAI時代の企業の決済・送金・財務にもたらす変化や、AIエージェントによるエージェンティックコマースの展開における課題とビジネス機会について議論する。"
+   },
+   "articles": [
+    {
+     "title": "【9/28開催】JPYC岡部氏、USDC榊原氏、JPYSC手塚氏が登壇!!「AI時代、企業のお金はどう動くのか──ステーブルコインが変える決済・送金・財務」 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/365269/",
+     "published_at": "2026-09-02 09:00:00",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "【9/28開催】AIに決済を任せられるか：HashPort吉田氏、デジタルガレージ清原氏が登壇──基調セッションはJPYC岡部氏・USDC榊原氏・JPYSC手塚氏 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/368191/",
+     "published_at": "2026-09-16 15:18:25",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260918-01",
+   "burst_start_date": "2026-09-18",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 1,
+   "tags": [
+    "実証実験",
+    "提携・連携"
+   ],
+   "tags_mode": "実証実験",
+   "representative": {
+    "title": "HashPort、「AI・オンチェーン金融サミット」当日の登壇者を先行発表 - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000191.000046288.html",
+    "published_at": "2026-09-18 16:00:00",
+    "summary": "HashPortが2026年10月1日に開催するビジネスカンファレンス「AI・オンチェーン金融サミット」の登壇者・セッション情報を発表した。コンビニレジでのステーブルコイン決済実証実験の振り返りや、ステーブルコインが金融の未来に与える影響についての複数のトークセッションが予定されている。"
+   },
+   "articles": [
+    {
+     "title": "HashPort、「AI・オンチェーン金融サミット」当日の登壇者を先行発表 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000191.000046288.html",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260908-01",
+   "burst_start_date": "2026-09-08",
+   "first_collected_at": "2026-09-14 11:52:20",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 7,
+   "tags": [
+    "活用事例",
+    "取扱い・対応",
+    "提携・連携"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "ハウス食品「JPYC配布キャンペーン」開始｜万博SBTで当選確率10倍に - bittimes.net",
+    "domain": "bittimes.net",
+    "url": "https://bittimes.net/news/228396.html",
+    "published_at": "2026-09-08 09:12:35",
+    "summary": "ハウス食品グループが、デジタルウォレット「HashPort Wallet」を通じた「JPYCおすそわけキャンペーン」を9月8日から27日まで実施すると発表しました。抽選で100名に1,000円相当のJPYCを配布し、万博関連SBT保有者は当選確率が10倍となります。このキャンペーンにより、JPYCの利用先拡大とリアル店舗での決済活用が進展しています。"
+   },
+   "articles": [
+    {
+     "title": "ハウス食品「JPYC配布キャンペーン」開始｜万博SBTで当選確率10倍に - bittimes.net",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/228396.html",
+     "published_at": "2026-09-08 09:12:35",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "ステーブルコインJPYCを100人にプレゼント／ハウス食品グループ本社 - フードウイークリーWEB",
+     "domain": "f-weeklyweb.com",
+     "url": "https://f-weeklyweb.com/cm-cam20260908/",
+     "published_at": "2026-09-08 11:19:10",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "ハウス食品、抽選100名に1000円相当のJPYC配布へ。ハッシュポートと連携で（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/1277328707681321cf96e0e7ef696d93b3a1e02c",
+     "published_at": "2026-09-08 14:07:59",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "抽選で100名様に1,000円相当のステーブルコイン「JPYC」を贈呈！関西万博で生まれたデジタル接点を日常へNFTキャンペーンに続く、デジタルウォレットを活用した「JPYCおすそわけキャンペーン」… - フーズチャネル",
+     "domain": "foods-ch.infomart.co.jp",
+     "url": "https://foods-ch.infomart.co.jp/news/329401",
+     "published_at": "2026-09-08 14:42:45",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "ハウス食品、抽選100名にJPYC贈呈へ 万博SBTで当選10倍(CoinPost) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/1587262912e6442c149ea73dc43cb4edcf36a1a4",
+     "published_at": "2026-09-08 15:17:28",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "ハウス食品、抽選100名にJPYC贈呈へ 万博SBTで当選10倍 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=736271",
+     "published_at": "2026-09-08 15:17:28",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "デジタルウォレット活用「おすそわけキャンペーン」 ハウス食品グループ本社 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/shokuhin_157132/",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260918-03",
+   "burst_start_date": "2026-09-18",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 1,
+   "tags": [
+    "発行・資金",
+    "市場・統計",
+    "取扱い・対応"
+   ],
+   "tags_mode": "発行・資金",
+   "representative": {
+    "title": "日本円ステーブルコイン「JPYC」、累計発行額100億円を突破 | JPYC株式会社のプレスリリース - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000331.000054018.html",
+    "published_at": "2026-09-18 16:00:00",
+    "summary": "JPYC株式会社は、日本円ステーブルコイン「JPYC」の発行・償還サービス「JPYC EX」における累計発行額が100億円を突破したことを発表した。セキュリティ機能の刷新、Kaiaを含む新ブロックチェーンへの対応、HashPort Walletなどの外部ウォレットとの連携強化を通じて、送金・決済やインセンティブ配布など多様なユースケースが広がっている。"
+   },
+   "articles": [
+    {
+     "title": "日本円ステーブルコイン「JPYC」、累計発行額100億円を突破 | JPYC株式会社のプレスリリース - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000331.000054018.html",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260925-01",
+   "burst_start_date": "2026-09-25",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 2,
+   "tags": [
+    "発行・資金",
+    "競合・市場環境"
+   ],
+   "tags_mode": "発行・資金",
+   "representative": {
+    "title": "暗号資産担保の円連動「JPYdf」開発元が3.2億円調達──JPYC・JPYSCと何が違う - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/deltaforesight-jpydf-20260925/",
+    "published_at": "2026-09-25 00:00:00",
+    "summary": "アニモカブランズ日本法人の元CFOが設立したDeltaForesightが、コーラル・キャピタルをリード投資家に3億2,400万円を調達した。同社が開発している暗号資産担保型ステーブルコイン「JPYdf」は、従来のJPYCやJPYSCと異なり、発行者が円での償還を約束しない仕組みとなっている。"
+   },
+   "articles": [
+    {
+     "title": "暗号資産担保の円連動「JPYdf」開発元が3.2億円調達──JPYC・JPYSCと何が違う - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/deltaforesight-jpydf-20260925/",
+     "published_at": "2026-09-25 00:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円連動目標の暗号資産型ステーブルコイン「JPYdf」発行へ、DeltaForesightがCoral CapitalやFFGらから累計3.24億円調達 - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/cc9f6678b0c134f6da39976c3ae3bae4091700fe/images/000",
+     "published_at": "2026-09-25 10:02:57",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260917-01",
+   "burst_start_date": "2026-09-17",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 20,
+   "tags": [
+    "取扱い・対応",
+    "市場・統計",
+    "リスク・懸念",
+    "競合・市場環境",
+    "制度・規制"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」 - CoinPost",
+    "domain": "coinpost.jp",
+    "url": "https://coinpost.jp/?p=738117",
+    "published_at": "2026-09-17 15:41:38",
+    "summary": "JPYC株式会社が発行する日本円ステーブルコイン「JPYC」が9月17日、韓国最大手の仮想通貨取引所アップビットに上場する。ウォン、ビットコイン、USDTの3市場での取扱いが開始され、同時にPYUSDも上場される。岡部代表は海外取引所での上限撤廃を国内発行・償還上限の見直しのきっかけになれば幸いとコメントした。"
+   },
+   "articles": [
+    {
+     "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=738117",
+     "published_at": "2026-09-17 15:41:38",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設(NADA NEWS) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/64f57bb834ffa8c098267e06f5f085aca5a3daac",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、Upbit上場の影響で価格乖離（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/85b17920bfd301c6701871297bb6142684fb2219",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」(CoinPost) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/c7d08a3259d4d075080c83ed3159f9cb673b5ba0",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、Upbit上場の影響で価格乖離 (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/85b17920bfd301c6701871297bb6142684fb2219/images/000",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円建てステーブルコインJPYC、韓国アップビット上場初日に価格急騰と急落 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/c18da06d-d5ee-4093-882b-e7fdf9c43df7",
+     "published_at": "2026-09-17 16:06:58",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "アップビットのJPYC急騰急落 投機批判広がる - CHOSUNBIZ - Chosunbiz",
+     "domain": "biz.chosun.com",
+     "url": "https://biz.chosun.com/jp/jp-finance/2026/09/18/7QPL57O64FH7LMARYCJHBHDQSU/",
+     "published_at": "2026-09-18 00:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "アップビートが17日に上場した円ステーブルコインJPYCが流通量不足で上場価格対比200%急騰する異常現象が発生した。 - 매일경제",
+     "domain": "mk.co.kr",
+     "url": "https://www.mk.co.kr/jp/stock/12156089",
+     "published_at": "2026-09-18 09:13:32",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、韓国アップビット上場後に想定1円から乖離 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=738488",
+     "published_at": "2026-09-18 14:40:48",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円ステーブルコイン「JPYC」、韓国アップビット上場直後に価格乖離で一時約4円に急騰（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/e4b465ad693e1ec764d2d7e60e359bddc8efe06c",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円ステーブルコイン「JPYC」、韓国アップビット上場直後に価格乖離で一時約4円に急騰 (あたらしい経済) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/e4b465ad693e1ec764d2d7e60e359bddc8efe06c/images/000",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df/images/000",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」 (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987/images/000",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "FRB3年ぶり利上げでビットコイン乱高下／メタプラネット筆頭株主が大量売却【週末に読みたい厳選5本_相場編】 - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/a98d9640778d01344289943fd6f63f4c46f00ff5",
+     "published_at": "2026-09-19 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
+     "published_at": "2026-09-26 11:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円連動ステーブルコインJPYC、韓国Upbit上場直後に4倍急騰…投資家の評価損約5.8億円 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/1e331aca-7efc-4c46-a316-9a6817523261",
+     "published_at": "2026-09-27 12:35:27",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
+     "published_at": "2026-09-29 11:30:20",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260929-02",
+   "burst_start_date": "2026-09-29",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 6,
+   "tags": [
+    "制度・規制",
+    "市場・統計",
+    "リスク・懸念",
+    "競合・市場環境"
+   ],
+   "tags_mode": "制度・規制",
+   "representative": {
+    "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討 | NADA NEWS（ナダ・ニュース） - t.co",
+    "domain": "t.co",
+    "url": "https://t.co/zSE5ifN4Xe",
+    "published_at": "2026-09-29 11:30:20",
+    "summary": "JPYCが9月17日に韓国のUpbitに上場した際、基準価格の4倍超まで価格が上昇し、2万1219人の投資家が約280億円の損失を被った。この事態を受けて韓国金融委員会はマーケットメイク制度の導入を検討し、暗号資産市場の取引機能を自主規制から公的規律へ移行する方針を示した。"
+   },
+   "articles": [
+    {
+     "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討 | NADA NEWS（ナダ・ニュース） - t.co",
+     "domain": "t.co",
+     "url": "https://t.co/zSE5ifN4Xe",
+     "published_at": "2026-09-29 11:30:20",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討 (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14/images/000",
+     "published_at": "2026-09-29 12:33:53",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "韓国金融委、暗号資産のマーケットメイク制度導入を検討か。JPYC価格急騰にも言及＝報道（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/1fe3a152a03c7afa45789971541a86a3bb817e85?source=rss",
+     "published_at": "2026-09-29 15:05:25",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "韓国金融委、マーケットメイク制度を検討 取引所規律でJPYCの急騰に言及 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=739914",
+     "published_at": "2026-09-29 15:09:42",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYCが韓国取引所で一時4倍に急騰 円連動ステーブルコインの価格乱高下で当局が制度見直しへ - t.co",
+     "domain": "t.co",
+     "url": "https://t.co/Ls5GSxr3ZB",
+     "published_at": "2026-09-29 15:31:52",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "韓国金融委、マーケットメイク制度を検討 取引所規律でJPYCの急騰に言及(CoinPost) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/0138db675a19e43e20b7f16037dea57054159342",
+     "published_at": "2026-09-29 17:28:22",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260917-03",
+   "burst_start_date": "2026-09-17",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-01 14:46:17",
+   "article_count": 1,
+   "tags": [
+    "活用事例",
+    "実証実験"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "INSPAY、10月2日にステーブルコイン決済イベント「Payment 3.0」を開催 Sui・JPYC・HashPortが“街で使える”条件を議論 - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000004.000186424.html",
+    "published_at": "2026-09-17 16:00:00",
+    "summary": "INSPAY株式会社は10月2日に東京でステーブルコイン決済をテーマとしたイベント「Payment 3.0」を開催する。JPYCおよびUSDC on Suiの実際の決済体験を通じ、日本市場での日常決済普及に向けた課題と可能性について、発行・ウォレット・ブロックチェーン・加盟店導入の各視点から議論する。"
+   },
+   "articles": [
+    {
+     "title": "INSPAY、10月2日にステーブルコイン決済イベント「Payment 3.0」を開催 Sui・JPYC・HashPortが“街で使える”条件を議論 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000004.000186424.html",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260831-01",
+   "burst_start_date": "2026-08-31",
+   "first_collected_at": "2026-08-31 11:56:55",
+   "last_collected_at": "2026-09-14 11:52:20",
+   "article_count": 11,
+   "tags": [
+    "活用事例",
+    "取扱い・対応",
+    "市場・統計",
+    "提携・連携"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "韓国観光で「JPYC」の決済促進へ　Unifi内に観光商品・割引特典掲載 - ｄメニューニュース",
+    "domain": "topics.smt.docomo.ne.jp",
+    "url": "https://topics.smt.docomo.ne.jp/article/ovo/life/ovo-O2091332?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2",
+    "published_at": "2026-08-31 10:39:00",
+    "summary": "LINE NEXTは、LINEアプリ上のステーブルコインウォレット「Unifi」内に韓国観光商品を紹介する新サービス「K-Pick」を開始した。JPYCで直接決済でき、10％割引と5％キャッシュバックなどの割引特典が用意されている。"
+   },
+   "articles": [
+    {
+     "title": "韓国観光で「JPYC」の決済促進へ　Unifi内に観光商品・割引特典掲載 - ｄメニューニュース",
+     "domain": "topics.smt.docomo.ne.jp",
+     "url": "https://topics.smt.docomo.ne.jp/article/ovo/life/ovo-O2091332?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2",
+     "published_at": "2026-08-31 10:39:00",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "韓国観光で「JPYC」の決済促進へ　Unifi内に観光商品・割引特典掲載 - ｄメニューニュース",
+     "domain": "topics.smt.docomo.ne.jp",
+     "url": "https://topics.smt.docomo.ne.jp/article/ovo/life/ovo-O2091332",
+     "published_at": "2026-08-31 10:39:00",
+     "collected_at": "2026-09-07 11:20:45"
+    },
+    {
+     "title": "韓国観光で「JPYC」の決済促進へ Unifi内に観光商品・割引特典掲載 - OVO [オーヴォ]",
+     "domain": "ovo.kyodo.co.jp",
+     "url": "https://ovo.kyodo.co.jp/news/biz/a-2091332",
+     "published_at": "2026-08-31 10:39:15",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "韓国観光で「JPYC」の決済促進へ Unifi内に観光商品・割引特典掲載 (オーヴォ) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/5d23a31e8c2fd40427ff07d28ecc7a1114ea69a5/images/000",
+     "published_at": "2026-08-31 10:39:15",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "韓国観光で「JPYC」の決済促進へ Unifi内に観光商品・割引特典掲載 - 千葉テレビ放送",
+     "domain": "chiba-tv.com",
+     "url": "https://www.chiba-tv.com/plus/detail/2026081959452",
+     "published_at": "2026-08-31 10:47:25",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "JPYC流通量が約3カ月半ぶり減少──過去最大の1.6億円減 (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/595f3bb10b3d0b7ea8f6125b5cd8a5376ac202a9/images/000",
+     "published_at": "2026-08-31 18:37:23",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "JPYC流通量が約3カ月半ぶり減少──過去最大の1.6億円減（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/595f3bb10b3d0b7ea8f6125b5cd8a5376ac202a9",
+     "published_at": "2026-08-31 18:37:23",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "JPYC流通量が約3カ月半ぶり減少──過去最大の1.6億円減 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/366233/",
+     "published_at": "2026-08-31 18:37:23",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "韓国観光で「JPYC」の決済促進へ Unifi内に観光商品・割引特典掲載（オーヴォ） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/5d23a31e8c2fd40427ff07d28ecc7a1114ea69a5",
+     "published_at": "2026-09-04 15:43:00",
+     "collected_at": "2026-09-07 11:20:45"
+    },
+    {
+     "title": "JPYCの流通量減少止まらず、一週間で約6億円減（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/b87670dedd3e360c17ee58060bea863e7cf5416a",
+     "published_at": "2026-09-07 18:45:00",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "JPYCの流通量減少止まらず、一週間で約6億円減 (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/b87670dedd3e360c17ee58060bea863e7cf5416a/images/000",
+     "published_at": "2026-09-07 18:45:00",
+     "collected_at": "2026-09-14 11:52:20"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260911-01",
+   "burst_start_date": "2026-09-11",
+   "first_collected_at": "2026-09-14 11:52:20",
+   "last_collected_at": "2026-09-14 11:52:20",
+   "article_count": 2,
+   "tags": [
+    "提携・連携",
+    "活用事例"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "ネットスターズ、Kaiaとステーブルコイン決済で連携｜アジア多通貨対応へ - bittimes.net",
+    "domain": "bittimes.net",
+    "url": "https://bittimes.net/news/228537.html",
+    "published_at": "2026-09-11 05:42:43",
+    "summary": "ネットスターズはカイアDLT財団とステーブルコイン決済で基本合意書を締結し、StarPayの加盟店約70万拠点を通じてカイア上のステーブルコイン（JPYCを含む）を日本の実店舗で利用できる環境を構築する。複数のアジア通貨に連動するステーブルコインや、オンチェーン外国為替基盤Ratioの活用も検討する計画である。"
+   },
+   "articles": [
+    {
+     "title": "ネットスターズ、Kaiaとステーブルコイン決済で連携｜アジア多通貨対応へ - bittimes.net",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/228537.html",
+     "published_at": "2026-09-11 05:42:43",
+     "collected_at": "2026-09-14 11:52:20"
+    },
+    {
+     "title": "ネットスターズ、Kaiaとステーブルコイン決済で提携（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/2e04d6dd53210551e9644863c74846f924b9eb5c",
+     "published_at": "2026-09-11 20:27:14",
+     "collected_at": "2026-09-14 11:52:20"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260828-01",
+   "burst_start_date": "2026-08-28",
+   "first_collected_at": "2026-08-31 11:56:55",
+   "last_collected_at": "2026-09-07 11:20:45",
+   "article_count": 8,
+   "tags": [
+    "活用事例",
+    "提携・連携",
+    "実証実験",
+    "取扱い・対応"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "被災地から生まれた「JPYCで回る」防災インフラ - iolite.net",
+    "domain": "iolite.net",
+    "url": "https://iolite.net/online/yatsushiro-jpyc-interview",
+    "published_at": "2026-08-28 18:13:33",
+    "summary": "被災地支援サイトの運営者が、JPYC決済を導入して支援金を募集する新しい形態を実装した事例。即時着金や手数料0%での少額寄付が可能な利点を活かし、集まったJPYCで被災者に業務委託費として支払うなど、地域経済循環につなげる構想を展開している。"
+   },
+   "articles": [
+    {
+     "title": "被災地から生まれた「JPYCで回る」防災インフラ - iolite.net",
+     "domain": "iolite.net",
+     "url": "https://iolite.net/online/yatsushiro-jpyc-interview",
+     "published_at": "2026-08-28 18:13:33",
+     "collected_at": "2026-09-07 11:20:45"
+    },
+    {
+     "title": "【画像】【株式会社エンジニアのミカタ】日本円ステーブルコイン「JPYC」による給与・報酬支払い制度を開始 1/3 - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_article/detail/32188826/image/56022022/",
+     "published_at": "2026-08-28 19:00:00",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "【株式会社エンジニアのミカタ】日本円ステーブルコイン「JPYC」による給与・報酬支払い制度を開始 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000036.000073663.html",
+     "published_at": "2026-08-28 19:00:02",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ (あたらしい経済) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d372b2af2cfbd715a768f6bd92a4a0e20629c68c/images/000",
+     "published_at": "2026-09-01 20:35:30",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "エンジニアのミカタ、給与・業務委託報酬を日本円ステーブルコイン「JPYC」で支払いへ（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d372b2af2cfbd715a768f6bd92a4a0e20629c68c",
+     "published_at": "2026-09-01 20:35:30",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "エンジニアのミカタ、JPYC給与払いを開始｜Web3の実体験に - bittimes.net",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/228068.html",
+     "published_at": "2026-09-02 04:04:59",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "エンジニアのミカタ、ステーブルコインJPYCの給与支払い開始 - 99Bitcoins",
+     "domain": "99bitcoins.com",
+     "url": "https://99bitcoins.com/jp/news/altcoins/engineer-mikata-jpyc-salary-payment/",
+     "published_at": "2026-09-02 08:45:52",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "エンジニアのミカタがJPYC給与導入 希望者へ報酬を直接送付 - PlusWeb3",
+     "domain": "plus-web3.com",
+     "url": "https://plus-web3.com/media/latestnews_1000_10540/",
+     "published_at": "2026-09-03 15:00:00",
+     "collected_at": "2026-09-04 22:34:12"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260827-01",
+   "burst_start_date": "2026-08-27",
+   "first_collected_at": "2026-08-31 11:56:55",
+   "last_collected_at": "2026-09-07 11:20:45",
+   "article_count": 12,
+   "tags": [
+    "実証実験",
+    "提携・連携",
+    "活用事例",
+    "取扱い・対応",
+    "解説・論説"
+   ],
+   "tags_mode": "実証実験",
+   "representative": {
+    "title": "大阪府、JPYC・USDC決済など金融実証4事業を採択｜府内で事業化へ - bittimes.net",
+    "domain": "bittimes.net",
+    "url": "https://bittimes.net/news/227685.html",
+    "published_at": "2026-08-27 07:31:00",
+    "summary": "大阪府は2026年8月26日、ブロックチェーンやAIを用いた金融サービスの実証実験を支援する補助金の交付先として、HashPort、マイナウォレット、Mi＆T、SBI XDC Network APACの4事業を採択し、総額2,889万円を交付すると発表しました。3事業はJPYCやUSDCを使った決済実証を、1事業は輸出ファクタリングのオンチェーン化を実施し、令和9年4月以降の府内での本格展開を目指します。"
+   },
+   "articles": [
+    {
+     "title": "大阪府、JPYC・USDC決済など金融実証4事業を採択｜府内で事業化へ - bittimes.net",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/227685.html",
+     "published_at": "2026-08-27 07:31:00",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "大阪府、JPYC・USDC決済など4事業に補助金──HashPortらを採択（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d4f4096076be5df69e694fe73fbe271be59f748b",
+     "published_at": "2026-08-27 12:03:34",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "大阪府、金融実証4事業に交付決定 3件はJPYC・USDC決済(CoinPost) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/1751bf1d4a8658c7b453a70e25d5c474cc9ce29e",
+     "published_at": "2026-08-27 16:00:00",
+     "collected_at": "2026-09-07 11:20:45"
+    },
+    {
+     "title": "大阪府、金融実証4事業に交付決定 3件はJPYC・USDC決済 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=733766",
+     "published_at": "2026-08-27 16:48:06",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "府が先駆的金融実証に補助金交付 JPYC・USDC決済の実証が中心に - pressrelease-jp.com",
+     "domain": "pressrelease-jp.com",
+     "url": "https://pressrelease-jp.com/osaka-fintech-jpyc-usdc-shitaku",
+     "published_at": "2026-08-27 18:11:17",
+     "collected_at": "2026-09-07 11:20:45"
+    },
+    {
+     "title": "大阪府、ステーブルコイン決済など4事業に補助金 最大1000万円 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/4e58c451-d22c-4d94-b298-76c0fa344729",
+     "published_at": "2026-08-28 03:06:54",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "大阪府の金融実証補助金、初年度は4件2889万円｜HashPortら採択 - innovaTopia",
+     "domain": "innovatopia.jp",
+     "url": "https://innovatopia.jp/blockchain/blockchain-news/117166/",
+     "published_at": "2026-08-28 07:44:15",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "大阪府、ステーブルコイン決済など4事業に補助金。ハッシュポートやマイナウォレットら採択（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/fac3c708809db56d70f8e5e3a675f8014e178bf1",
+     "published_at": "2026-08-28 13:39:08",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "Mi&T、JPYCを活用した実店舗決済実証が大阪府の補助対象事業に決定 (2026年8月31日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32205637/",
+     "published_at": "2026-08-31 17:49:43",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "Mi&T、JPYCを活用した実店舗決済実証が大阪府の補助対象事業に決定 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000003.000187870.html",
+     "published_at": "2026-08-31 17:49:43",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "Mi&T、JPYCを活用した実店舗決済実証が大阪府の補助対象事業に決定 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000187870/",
+     "published_at": "2026-08-31 18:15:24",
+     "collected_at": "2026-09-07 11:20:45"
+    },
+    {
+     "title": "Mi&T、大阪府の補助対象事業に選ばれたJPYC実店舗決済実証の開始決定 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/33519/",
+     "published_at": "2026-08-31 21:43:12",
+     "collected_at": "2026-09-07 11:20:45"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260821-01",
+   "burst_start_date": "2026-08-21",
+   "first_collected_at": "2026-08-24 10:01:55",
+   "last_collected_at": "2026-09-07 11:20:45",
+   "article_count": 9,
+   "tags": [
+    "活用事例",
+    "提携・連携",
+    "発行・資金",
+    "解説・論説",
+    "制度・規制",
+    "実証実験"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか（NADA NEWS） - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
+    "published_at": "2026-08-21 09:06:00",
+    "summary": "物流大手AZ-COM丸和ホールディングスは、JPYC株式会社に約10億円を投じて議決権2.9%を取得し、約2300社の協力会社への委託費支払いにJPYCを段階的に導入することを決定した。同社は振込手数料削減と支払いスピード向上を目指し、月174億円規模の支払いのうち一部をJPYCで処理する計画だが、1回あたり100万円の法定上限や会計基準の空白など制度面の課題に直面している。"
+   },
+   "articles": [
+    {
+     "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
+     "published_at": "2026-08-21 09:06:00",
+     "collected_at": "2026-08-24 10:01:55"
+    },
+    {
+     "title": "HashPort、KDDI・ローソンと連携し、ローソン店舗で日本円ステーブルコインによる店頭決済の技術実証を実施 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000181.000046288.html",
+     "published_at": "2026-08-21 16:00:00",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC(NADA NEWS) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/0a9e57187fc6786b50c81f7922fe0db28389b41d/photo/view-001",
+     "published_at": "2026-08-22 13:38:00",
+     "collected_at": "2026-08-24 10:01:55"
+    },
+    {
+     "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/0a9e57187fc6786b50c81f7922fe0db28389b41d",
+     "published_at": "2026-08-22 13:38:32",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/365079/",
+     "published_at": "2026-08-22 13:38:32",
+     "collected_at": "2026-08-24 10:01:55"
+    },
+    {
+     "title": "ステーブルコイン支払いでコスト負担を低減へ。3PLの丸和が日本円ステーブルコイン「JPYC」提供企業と資本業務提携 - ネットショップ担当者フォーラム",
+     "domain": "netshop.impress.co.jp",
+     "url": "https://netshop.impress.co.jp/n/2026/08/25/16612",
+     "published_at": "2026-08-25 00:00:00",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "ステーブルコイン支払いでコスト負担を低減へ。3PLの丸和が日本円ステーブルコイン「JPYC」提供企業と資本業務提携 - ｄメニューニュース",
+     "domain": "topics.smt.docomo.ne.jp",
+     "url": "https://topics.smt.docomo.ne.jp/article/netshop_impress/trend/netshop_impress-netshop.impress.co.jp_node_16612",
+     "published_at": "2026-08-25 10:00:00",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "ステーブルコイン支払いでコスト負担を低減へ。3PLの丸和が日本円ステーブルコイン「JPYC」提供企業と資本業務提携 - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/277f22093dcbe8a7f4405ce850941f2cce504269",
+     "published_at": "2026-08-25 16:00:00",
+     "collected_at": "2026-09-07 11:20:45"
+    },
+    {
+     "title": "ステーブルコイン支払いでコスト負担を低減へ。3PLの丸和が日本円ステーブルコイン「JPYC」提供企業と資本業務提携 - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/277f22093dcbe8a7f4405ce850941f2cce504269/images/000",
+     "published_at": "2026-08-25 18:01:20",
+     "collected_at": "2026-09-07 11:20:45"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260903-02",
+   "burst_start_date": "2026-09-03",
+   "first_collected_at": "2026-09-04 22:34:12",
+   "last_collected_at": "2026-09-04 22:34:12",
+   "article_count": 1,
+   "tags": [
+    "解説・論説"
+   ],
+   "tags_mode": "解説・論説",
+   "representative": {
+    "title": "【9月28日開催】「AI時代、企業のお金はどう動くのか」ーステーブルコインが変える決済・送金・財務 - 時事ドットコム",
+    "domain": "jiji.com",
+    "url": "https://www.jiji.com/jc/article?k=000000119.000047016&g=prt",
+    "published_at": "2026-09-03 11:16:00",
+    "summary": "N.Avenue株式会社は2026年9月28日にオフラインイベント「AI時代、企業のお金はどう動くのか」を開催することを発表した。JPYC、USDC、JPYSCのキーマンが登壇し、ステーブルコインがもたらす企業間決済や国際送金の構造変化、AIエージェントによる自動決済について議論する予定である。"
+   },
+   "articles": [
+    {
+     "title": "【9月28日開催】「AI時代、企業のお金はどう動くのか」ーステーブルコインが変える決済・送金・財務 - 時事ドットコム",
+     "domain": "jiji.com",
+     "url": "https://www.jiji.com/jc/article?k=000000119.000047016&g=prt",
+     "published_at": "2026-09-03 11:16:00",
+     "collected_at": "2026-09-04 22:34:12"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260826-01",
+   "burst_start_date": "2026-08-26",
+   "first_collected_at": "2026-08-31 11:56:55",
+   "last_collected_at": "2026-09-04 22:34:12",
+   "article_count": 4,
+   "tags": [
+    "リスク・懸念",
+    "制度・規制",
+    "提携・連携"
+   ],
+   "tags_mode": "リスク・懸念",
+   "representative": {
+    "title": "「出金できない」IZAKA-YA騒動、JPYC岡部氏が金融庁に情報提供（NADA NEWS） - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/7355697aa20e44f8611a0c195f31693f05cd43db",
+    "published_at": "2026-08-26 18:24:48",
+    "summary": "レンディングウォレットサービス「IZAKA-YA」で出金できない問題が相次ぎ、JPYC社代表の岡部典孝氏は利用者からの相談を受けて8月26日に金融庁に情報提供した。JPYCを預けたが戻ってこないという相談が寄せられており、岡部氏は金融庁の資金決済課モニタリング室に状況を報告し、JPYCの風評被害を懸念している。"
+   },
+   "articles": [
+    {
+     "title": "「出金できない」IZAKA-YA騒動、JPYC岡部氏が金融庁に情報提供（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/7355697aa20e44f8611a0c195f31693f05cd43db",
+     "published_at": "2026-08-26 18:24:48",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "「出金できない」IZAKA-YA騒動、JPYC岡部氏が金融庁に情報提供 (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/7355697aa20e44f8611a0c195f31693f05cd43db/images/000",
+     "published_at": "2026-08-26 18:24:48",
+     "collected_at": "2026-08-31 11:56:55"
+    },
+    {
+     "title": "【速報】金融庁、「IZAKA-YA」に警告書を発出 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/366431/",
+     "published_at": "2026-09-01 18:37:35",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "金融庁、無登録営業の暗号資産サービス「IZAKA-YA」に警告書 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/504339fe-0e84-4fe2-b8c7-4e786ef638eb",
+     "published_at": "2026-09-01 19:26:10",
+     "collected_at": "2026-09-04 22:34:12"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260904-01",
+   "burst_start_date": "2026-09-04",
+   "first_collected_at": "2026-09-04 22:34:12",
+   "last_collected_at": "2026-09-04 22:34:12",
+   "article_count": 1,
+   "tags": [
+    "リスク・懸念"
+   ],
+   "tags_mode": "リスク・懸念",
+   "representative": {
+    "title": "スマートレンディング、開業直後に閉鎖（NADA NEWS） - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/1fb1fbe0a39e55bb6c4b7e3ee383e2a4d87fe5c0",
+    "published_at": "2026-09-04 09:30:00",
+    "summary": "暗号資産レンディングサービス「Smart Lending」が、サービス提供方針の見直しを理由に9月4日にサイトを閉鎖すると発表した。同様のレンディングサービス「IZAKA-YA」の「出金できない」問題が拡大する中での閉鎖であり、JPYC社は両サービスとの提携・協力がないことを明言している。"
+   },
+   "articles": [
+    {
+     "title": "スマートレンディング、開業直後に閉鎖（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/1fb1fbe0a39e55bb6c4b7e3ee383e2a4d87fe5c0",
+     "published_at": "2026-09-04 09:30:00",
+     "collected_at": "2026-09-04 22:34:12"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260903-01",
+   "burst_start_date": "2026-09-03",
+   "first_collected_at": "2026-09-04 22:34:12",
+   "last_collected_at": "2026-09-04 22:34:12",
+   "article_count": 1,
+   "tags": [
+    "提携・連携",
+    "取扱い・対応",
+    "市場・統計"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "ネットスターズ、2000万人利用のimTokenと決済連携へ - ニュースメディアVOIX",
+    "domain": "voix.jp",
+    "url": "https://voix.jp/biz/news-analysis/178388/",
+    "published_at": "2026-09-03 10:03:33",
+    "summary": "ネットスターズは、2,000万人以上のユーザーを持つWeb3ウォレット「imToken」との基本合意書を締結し、ステーブルコイン決済の社会実装に向けた連携を開始した。imTokenとの接続により、国内外のユーザーが実店舗でステーブルコイン決済を利用できる環境構築を目指すもので、アジア地域での展開も検討されている。"
+   },
+   "articles": [
+    {
+     "title": "ネットスターズ、2000万人利用のimTokenと決済連携へ - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/biz/news-analysis/178388/",
+     "published_at": "2026-09-03 10:03:33",
+     "collected_at": "2026-09-04 22:34:12"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260719-01",
+   "burst_start_date": "2026-07-19",
+   "first_collected_at": "2026-07-20 12:21:40",
+   "last_collected_at": "2026-09-04 22:34:12",
+   "article_count": 23,
+   "tags": [
+    "活用事例",
+    "提携・連携",
+    "発行・資金",
+    "市場・統計",
+    "解説・論説",
+    "実証実験"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "アマゾン配送大手、委託先2300社の支払いにステーブルコイン「JPYC」導入へ - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/azcommaruwa-jpyc-stablecoin-20260719/",
+    "published_at": "2026-07-19 00:00:00",
+    "summary": "物流大手のAZ-COM丸和ホールディングスが、アマゾンジャパンの配送を担う約2300社の協力会社への委託費や給与支払いにJPYCを導入する方針を明かした。銀行振込手数料の削減と即時着金により、資金繰りに課題を抱える運送会社や個人ドライバーを支援する狙いで、JPYC発行元との業務提携と10億円超の出資も検討中としている。"
+   },
+   "articles": [
+    {
+     "title": "アマゾン配送大手、委託先2300社の支払いにステーブルコイン「JPYC」導入へ - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/azcommaruwa-jpyc-stablecoin-20260719/",
+     "published_at": "2026-07-19 00:00:00",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "Amazon配送大手、運送2300社とステーブルコイン決済 JPYCに出資 - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUC154RK0V10C26A7000000/",
+     "published_at": "2026-07-19 18:00:00",
+     "collected_at": "2026-07-20 12:21:40"
+    },
+    {
+     "title": "アマゾンジャパンのディストリビューターAZ-Com Maruwa、決済に円ステーブルコインJPYCを採用へ - CoinDesk",
+     "domain": "coindesk.com",
+     "url": "https://www.coindesk.com/ja/business/2026/07/20/amazon-japan-supplier-az-com-maruwa-to-adopt-yen-stablecoin-jpyc-for-payments",
+     "published_at": "2026-07-20 00:00:00",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "物流大手・丸和HD、2300社への支払いにJPYC導入へ｜出資も検討 - bittimes.net",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/225743.html",
+     "published_at": "2026-07-20 02:06:08",
+     "collected_at": "2026-07-20 12:21:40"
+    },
+    {
+     "title": "物流大手AZ-COM丸和ホールディングス、JPYC導入へ 企業による大規模採用事例に - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=725970",
+     "published_at": "2026-07-20 09:38:19",
+     "collected_at": "2026-07-20 12:21:40"
+    },
+    {
+     "title": "AZ-COM丸和HD、協力会社2300社にステーブルコイン「JPYC」導入へ、10億円超出資も検討 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/58b412ef-3224-4b85-a20e-a90fd6106d76",
+     "published_at": "2026-07-20 10:56:09",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "JPYC採用で始まる日本の金融革命。国内取引所はいらない時代へ 2026年7月20日 - coin-otaku.com",
+     "domain": "coin-otaku.com",
+     "url": "https://coin-otaku.com/topic/79244",
+     "published_at": "2026-07-20 11:06:46",
+     "collected_at": "2026-07-20 12:21:40"
+    },
+    {
+     "title": "物流大手AZ-COM丸和、支払いにステーブルコインJPYC導入 - Cryptonews",
+     "domain": "cryptonews.com",
+     "url": "https://cryptonews.com/jp/news/az-com-maruwa-jpyc-stablecoin-payments/",
+     "published_at": "2026-07-20 12:27:22",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "日本の物流大手AZ-COM丸和、パートナー企業やドライバーへの支払いにステーブルコイン「JPYC」を導入へ - nextmoney.jp",
+     "domain": "nextmoney.jp",
+     "url": "https://nextmoney.jp/?p=86516",
+     "published_at": "2026-07-20 14:00:27",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "AZ-COMマルワHD、協力会社2300社向けにJPYC導入を検討 - 디지털투데이",
+     "domain": "digitaltoday.co.kr",
+     "url": "https://www.digitaltoday.co.kr/jp/view/83216/az-com-maruwa-holdings-weighs-jpyc-stablecoin-payments-to-2300-partners",
+     "published_at": "2026-07-20 14:39:23",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "アマゾン配送大手のAZ-COM丸和、協力会社2300社への支払いにJPYC導入へ=日経 (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/b7b4d527b4a66edd24620301087ce930c4ac303c/images/000",
+     "published_at": "2026-07-20 21:38:02",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "アマゾン配送大手のAZ-COM丸和、協力会社2300社への支払いにJPYC導入へ=日経（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/b7b4d527b4a66edd24620301087ce930c4ac303c",
+     "published_at": "2026-07-20 21:38:02",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "ＡＺ－ＣＯＭ丸和－3日続伸 運送2300社とステーブルコイン決済 ＪＰＹＣに出資＝日経(トレーダーズ・ウェブ) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/e1ebffe3d7c2502550dd42b09a107c01ad451a9e",
+     "published_at": "2026-07-21 09:02:00",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "Amazon配送大手、円建てステーブルコイン「JPYC」導入へ｜2300社へ即時払い - crypto-times.jp",
+     "domain": "crypto-times.jp",
+     "url": "https://crypto-times.jp/news-major-amazon-delivery-provider-to-adopt-yen-denominated-stablecoin-jpyc/",
+     "published_at": "2026-07-21 14:35:50",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "【解説】AZ-COM丸和、協力先約2300社へのJPYC支払いを検討｜物流に降りる円ステーブルコイン - innovaTopia",
+     "domain": "innovatopia.jp",
+     "url": "https://innovatopia.jp/blockchain/blockchain-news/113743/",
+     "published_at": "2026-07-21 15:35:00",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "Amazon配送大手が運送2300社への委託費などの支払いをステーブルコインのJPYCで決済することを導入→「銀行の振込手数料がゼロ」PayPayを使う必要がなくなるとの声も - Togetter",
+     "domain": "togetter.com",
+     "url": "https://togetter.com/li/2723070",
+     "published_at": "2026-07-21 15:49:40",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c",
+     "published_at": "2026-07-21 16:00:00",
+     "collected_at": "2026-08-03 11:12:16"
+    },
+    {
+     "title": "物流大手AZ-COM丸和HD、協力会社2300社への支払いに「JPYC」導入へ。10億円強出資も検討＝日経 (あたらしい経済) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/3a70b6e91c2b32cc09cf4e8ebfcc989574e15c2c/images/000",
+     "published_at": "2026-07-21 17:55:48",
+     "collected_at": "2026-08-03 11:12:16"
+    },
+    {
+     "title": "JPYCステーブルコイン、日本のトラック運転手2,300人への支払いに採用へ - FinanceFeeds",
+     "domain": "financefeeds.com",
+     "url": "https://financefeeds.com/ja/jpyc-stablecoin-truck-drivers-japan-2/",
+     "published_at": "2026-07-21 22:27:13",
+     "collected_at": "2026-09-04 22:34:12"
+    },
+    {
+     "title": "JPYC社、アマゾン配送大手のAZ丸和と資本業務提携 (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/5aee457fbaafde771abad8a4478a697e5616d213/images/000",
+     "published_at": "2026-07-22 23:18:42",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "JPYC社、アマゾン配送大手のAZ丸和と資本業務提携（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/5aee457fbaafde771abad8a4478a697e5616d213",
+     "published_at": "2026-07-22 23:18:42",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "AZ丸和がJPYCに10億円出資、アマゾン配送網にステーブルコイン決済導入へ - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/cac9111d-f854-4e8d-a450-405e5e09d617",
+     "published_at": "2026-07-23 01:05:34",
+     "collected_at": "2026-07-27 11:22:00"
+    },
+    {
+     "title": "JPYC、「物流×ステーブルコイン」の社会実装へ──「Pay」は目指さず、商慣習の骨格をつくる (NADA NEWS) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/f8ae1714b1bc4c374139726d3b6c64f6adf3ce81/images/000",
+     "published_at": "2026-07-23 09:45:00",
+     "collected_at": "2026-07-27 11:22:00"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260901-01",
+   "burst_start_date": "2026-09-01",
+   "first_collected_at": "2026-09-04 22:34:12",
+   "last_collected_at": "2026-09-04 22:34:12",
+   "article_count": 1,
+   "tags": [
+    "活用事例",
+    "提携・連携"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "AI×Web3プログラミング教育「Education Lab」 フランチャイズ第１号（富山校）が開校決定 - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000008.000118410.html",
+    "published_at": "2026-09-01 09:00:02",
+    "summary": "株式会社CODREAは、AI・Web3プログラミング教育事業「Education LAB」のフランチャイズ展開を開始します。統合プラットフォーム「Eプラ」にJPYC決済機能を実装し、スマートコントラクトによる瞬時の自動配分により、従来のフランチャイズモデルの入金タイムラグ課題を解決します。また、JPYCを活用した無料学習施設「こどもIT食堂」を全国展開し、教育格差解消に取り組みます。"
+   },
+   "articles": [
+    {
+     "title": "AI×Web3プログラミング教育「Education Lab」 フランチャイズ第１号（富山校）が開校決定 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000008.000118410.html",
+     "published_at": "2026-09-01 09:00:02",
+     "collected_at": "2026-09-04 22:34:12"
+    }
+   ]
+  }
+ ]
+}
