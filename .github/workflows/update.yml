@@ -2,8 +2,10 @@ name: 毎日自動更新
 
 on:
   schedule:
-    # 毎日 21:10 JST = 12:10 UTC(2026-10-01に週1回=月曜9:00から切り替え)。
-    # デイリーニュースダッシュボードの夜の確定版(21:45 JST)より前に終わらせるための時刻。
+    # 主な起動は、daily-news-digest の Cloudflare Worker(daily-news-dispatcher)が JST 21:30 に
+    # workflow_dispatch で行う(GitHubのscheduleは数時間遅れることがあり、デイリーニュースの夜の確定版
+    # 21:45 に間に合わないため)。下の schedule(毎日 21:10 JST = 12:10 UTC)は予備として残している。
+    # 重複して起動しても concurrency で直列化され、2回目は新着なしで終わる。
     # 検索期間は collector.py が決める(月曜は直近14日、それ以外は直近3日)
     - cron: "10 12 * * *"
   workflow_dispatch:

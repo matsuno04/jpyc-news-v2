@@ -7,7 +7,7 @@
 
 ## 処理の流れ(`.github/workflows/update.yml`)
 
-毎日 21:10 JST に GitHub Actions で実行する。
+毎日 JST 21:30 ごろに GitHub Actions で実行する。起動は daily-news-digest の Cloudflare Worker(daily-news-dispatcher)から workflow_dispatch で行い、GitHub の schedule(21:10 JST)は予備として残している。デイリーニュースダッシュボードの夜の確定版(21:45)までに終わらせるため。
 
 | 手順 | スクリプト | 内容 |
 |---|---|---|
@@ -76,4 +76,5 @@ DATA_REPO_PATH=../jpyc-news-data OUTPUT_PATH=$TMP/backfilled.csv python pipeline
 | 2026-10-01 | 上記を修正(両方の形式に対応、バージョンを `>=0.1.7,<0.3` に固定、全件失敗なら異常終了)。`lookback_days=21` で再実行し、9/10〜10/1 の74件を回収 |
 | 2026-10-01 | **毎日実行(21:10 JST)に切り替え。** 検索期間を毎日3日・月曜14日に変更。URL変換の対応表と本文取得の失敗記録を導入。`collected_at` / `collected_at_source` 列を追加し、既存記事は git 履歴から復元(復元446件、初期一括の1,225件は unknown)。`recent_events.json` の出力を追加 |
 | 2026-10-01 | **event_id の番号の不具合を修正。** 通し番号を実行のたびに01から数え直していたため、前の実行で作られた出来事と同じ番号が、後の実行で別の出来事に振られることがあった。保存済みデータの同じ日付の最大番号の続きから振るように変更(判定方法は変更なし) |
+| 2026-10-01 | 起動を daily-news-dispatcher(Cloudflare Worker)の JST 21:30 の回に変更。GitHub の schedule(21:10)は予備として残す(GitHub の schedule は数時間遅れることがあるため) |
 | 2026-10-01 | `event_summary.csv` の並び順を「開始日→event_id」で固定(以前は同じ開始日の出来事の順番が実行ごとに入れ替わっていた。中身は変更なし) |
