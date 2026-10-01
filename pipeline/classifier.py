@@ -1,5 +1,5 @@
 """
-JPYCニュース Haiku分類スクリプト(週次自動実行用)
+JPYCニュース Haiku分類スクリプト(毎日自動実行用。2026-10-01までは週次)
 
 - classification_status == 'failed' の記事を先にリトライ対象に戻す
 - classification_status == 'pending' の記事を日付昇順でHaikuに投げ、
@@ -96,7 +96,11 @@ def get_client():
     return Anthropic(api_key=api_key)
 
 
-client = get_client()
+# DRY_RUN_NO_API=1 のときはHaikuを呼ばず、分類対象と渡す候補の一覧だけを表示する(データも保存しない)。
+# 研究データを書き換えず・費用をかけずに動作確認するためのモード
+DRY_RUN_NO_API = os.environ.get("DRY_RUN_NO_API") == "1"
+
+client = None if DRY_RUN_NO_API else get_client()
 
 
 def build_prompt(title, text, candidates):
@@ -210,7 +214,17 @@ def main():
     df = df.sort_values("date", na_position="last").reset_index(drop=True)
 
     active_bursts = []
+    # 新しいevent_idの通し番号は、保存済みデータの同じ日付の最大番号の続きから振る。
+    # 以前は実行のたびに空から数え直していたため、前の実行で作られた EVT-日付-01 と同じ番号が
+    # 後の実行で別の出来事に振られ、無関係な出来事が同じevent_idに混ざっていた
+    # (例: 2026-07-13の実行のローソンと、07-20の実行のゴルフがともに EVT-20260713-01)。
+    # 判定方法(直近14日の候補から選ばせる方式)は変えておらず、番号の振り方だけの修正(2026-10-01)。
+    existing_event_ids = set(df["event_id"].dropna().astype(str))
     event_seq_by_day = {}
+    for eid in existing_event_ids:
+        parts = eid.split("-")
+        if len(parts) == 3 and parts[0] == "EVT" and parts[2].isdigit():
+            event_seq_by_day[parts[1]] = max(event_seq_by_day.get(parts[1], 0), int(parts[2]))
 
     def register_burst(event_id, start_date, title):
         active_bursts.append({"event_id": event_id, "burst_start_date": start_date, "title": title})
@@ -241,6 +255,11 @@ def main():
         else:
             candidates = []
 
+        if DRY_RUN_NO_API:
+            log(f"[DRY RUN {i}/{len(todo_idx)}] {str(row['title'])[:40]} | 公開日 {article_date_d} | "
+                f"候補 {len(candidates)}件: {[c['event_id'] for c in candidates]}")
+            continue
+
         try:
             tags, entities, relevance, summary, event_choice = call_haiku(row["title"], row["text"], candidates)
         except Exception as e:
@@ -262,8 +281,11 @@ def main():
             if event_id_final is None and event_choice == "NEW":
                 day_key = article_date_d.strftime("%Y%m%d")
                 seq = event_seq_by_day.get(day_key, 0) + 1
+                while f"EVT-{day_key}-{seq:02d}" in existing_event_ids:  # 念のための重複確認
+                    seq += 1
                 event_seq_by_day[day_key] = seq
                 new_id = f"EVT-{day_key}-{seq:02d}"
+                existing_event_ids.add(new_id)
                 register_burst(new_id, article_date_d, row["title"])
                 event_id_final = new_id
                 burst_start_date_final = article_date_d
@@ -285,6 +307,9 @@ def main():
             df.to_csv(FULL_DATA_PATH, index=False, encoding="utf-8-sig")
             log(f"  中間保存 ({i}/{len(todo_idx)})")
 
+    if DRY_RUN_NO_API:
+        log(f"=== DRY RUN 完了: 分類対象 {len(todo_idx)}件(Haikuは呼んでおらず、データも保存していない) ===")
+        return
     df.to_csv(FULL_DATA_PATH, index=False, encoding="utf-8-sig")
     log(f"=== 完了: done={done_count} failed={fail_count} ===")
 

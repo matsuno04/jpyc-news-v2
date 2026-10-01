@@ -1,16 +1,19 @@
 """
-JPYCニュース収集スクリプト(週次自動実行用)
+JPYCニュース収集スクリプト(毎日自動実行用。2026-10-01までは週次)
 
 - GNewsを 8〜9日刻みの窓でループし、90件に近い窓は自動的に分割して再取得する
-- 既存の raw_articles_full.csv (本文付き・非公開リポジトリ側) の url と突き合わせて重複をスキップする
-- 新規記事のみ本文をスクレイピングし、classification_status='pending' として追記する
+- 検索期間は、月曜(JST)は直近14日、それ以外の日は直近3日(環境変数 LOOKBACK_DAYS で上書き可)
+- GoogleニュースのリンクとURL変換結果の対応表(url_map.csv)を非公開リポジトリに保存し、
+  変換済みのリンクは再変換しない。元記事URLで既存の raw_articles_full.csv と突き合わせて重複をスキップする
+- 本文取得に失敗した記事は fetch_failures.csv に記録し、3回失敗したら以後は再試行しない
+- 新規記事のみ本文をスクレイピングし、classification_status='pending'・collected_at(収集日時)付きで追記する
 """
 import os
 import sys
 import time
 import random
 import json
-from datetime import date, timedelta, timezone
+from datetime import date, datetime, timedelta, timezone
 from urllib.parse import urlparse
 
 import pandas as pd
@@ -26,19 +29,33 @@ sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 FULL_DATA_PATH = os.environ.get(
     "FULL_DATA_PATH", os.path.join("..", "jpyc-news-data", "raw_articles_full.csv")
 )
+DATA_DIR = os.path.dirname(FULL_DATA_PATH)
+# GoogleニュースのリンクとURL変換結果の対応表。変換は1件ごとに1秒以上かかり外部ライブラリ頼みで
+# 壊れやすいので、一度変換できたリンクは再変換しない(毎日実行に合わせて導入)
+URL_MAP_PATH = os.path.join(DATA_DIR, "url_map.csv")
+# 本文取得・URL変換に失敗した記事の記録(YouTube・X・有料記事などは毎回失敗するため、回数で打ち切る)。
+# キーは元記事URL。URL変換の失敗はGoogleのリンクをキーにする
+FAILURES_PATH = os.path.join(DATA_DIR, "fetch_failures.csv")
 
 KEYWORD = '"JPYC" OR "ジェイピーワイシー"'
 WINDOW_DAYS = 8
-# 前回実行からの取りこぼしに備えて、直近14日分を毎回見直す。
-# 障害で取りこぼした期間を取り戻すときは環境変数 LOOKBACK_DAYS で広げる
-LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "14"))
-
-# 新規候補がこの件数以上あるのに1件も本文を取れなかった場合は、仕組み側の故障とみなして
-# 異常終了する(GitHubの失敗通知メールで気づけるようにする)。
-# 2026-09-21・28の週次実行は、googlenewsdecoder 0.2.1 の戻り値の形式変更でURL変換が全件失敗し、
-# 62件すべてを捨てたまま「成功」で終わっていた。
-ALL_FAILED_ALERT_MIN = 5
 JST = timezone(timedelta(hours=9))
+
+# 検索期間。毎日の実行は直近3日、月曜は取りこぼしの見直しを兼ねて従来通り直近14日。
+# 障害で取りこぼした期間を取り戻すときは環境変数 LOOKBACK_DAYS で広げる(空欄なら自動)
+DAILY_LOOKBACK_DAYS = 3
+WEEKLY_LOOKBACK_DAYS = 14
+
+# 本文取得をこの回数失敗した記事は、以後再試行しない
+MAX_FETCH_FAILURES = 3
+
+# 故障検知のしきい値。次のどちらかなら仕組み側の故障とみなして異常終了する(GitHubの失敗通知メールで気づく)。
+# - URL変換をこの件数以上試して1件も成功せず、変換済みリンクの再変換(カナリア)も失敗した
+# - 初めて見つかった新規の記事(URL変換に成功し、過去に失敗したことのない記事)がこの件数以上あるのに、
+#   本文を1件も取得できなかった
+# 新着0件の日や、毎回失敗する記事(YouTube等)の再試行だけの日は正常。2026-09-21・28の週次実行は googlenewsdecoder 0.2.1 の戻り値の形式変更で
+# URL変換が全件失敗し、62件すべてを捨てたまま「成功」で終わっていた。
+ALL_FAILED_ALERT_MIN = 3
 
 _UA = (
     "Mozilla/5.0 (Windows NT 10.0; Win64; x64) "
@@ -47,6 +64,9 @@ _UA = (
 )
 _config = Config()
 _config.browser_user_agent = _UA
+
+# 検索(GNews)自体が例外で失敗した窓の数。全窓が失敗した場合は「候補0件」ではなく故障として扱う
+SEARCH_ERRORS = []
 
 
 def log(msg):
@@ -61,6 +81,7 @@ def fetch_window(win_start, win_end, depth=0):
         result = gn.get_news(KEYWORD)
     except Exception as e:
         log(f"  ERROR fetching {win_start}~{win_end}: {e}")
+        SEARCH_ERRORS.append(f"{win_start}~{win_end}: {e}")
         return []
     indent = "  " * depth
     log(f"{indent}{win_start}~{win_end}: {len(result)}件")
@@ -132,7 +153,53 @@ def domain_of(url):
         return ""
 
 
+def lookback_days(today_jst):
+    override = os.environ.get("LOOKBACK_DAYS", "").strip()
+    if override:
+        return int(override), "環境変数LOOKBACK_DAYSで指定"
+    if today_jst.weekday() == 0:
+        return WEEKLY_LOOKBACK_DAYS, "月曜(週1回の見直し)"
+    return DAILY_LOOKBACK_DAYS, "毎日"
+
+
+def load_url_map():
+    if not os.path.exists(URL_MAP_PATH):
+        return {}
+    m = pd.read_csv(URL_MAP_PATH, dtype=str)
+    return {r.google_url: {"real_url": r.real_url, "decoded_at": r.decoded_at} for r in m.itertuples()}
+
+
+def save_url_map(url_map):
+    rows = [{"google_url": g, "real_url": v["real_url"], "decoded_at": v["decoded_at"]} for g, v in url_map.items()]
+    pd.DataFrame(rows, columns=["google_url", "real_url", "decoded_at"]).to_csv(
+        URL_MAP_PATH, index=False, encoding="utf-8-sig"
+    )
+
+
+def load_failures():
+    if not os.path.exists(FAILURES_PATH):
+        return {}
+    f = pd.read_csv(FAILURES_PATH, dtype=str)
+    return {
+        r.real_url: {
+            "title": r.title,
+            "fail_count": int(r.fail_count),
+            "first_failed_at": r.first_failed_at,
+            "last_failed_at": r.last_failed_at,
+        }
+        for r in f.itertuples()
+    }
+
+
+def save_failures(failures):
+    cols = ["real_url", "title", "fail_count", "first_failed_at", "last_failed_at"]
+    rows = [{"real_url": u, **v} for u, v in failures.items()]
+    pd.DataFrame(rows, columns=cols).to_csv(FAILURES_PATH, index=False, encoding="utf-8-sig")
+
+
 def main():
+    now_jst = datetime.now(JST)
+    now_str = now_jst.strftime("%Y-%m-%d %H:%M:%S")
     log("=" * 50)
     log("記事収集開始")
     log("=" * 50)
@@ -146,15 +213,22 @@ def main():
         existing_urls = set()
         log("既存データなし。新規作成します。")
 
-    range_end = date.today()
-    range_start = range_end - timedelta(days=LOOKBACK_DAYS)
-    log(f"収集範囲: {range_start} 〜 {range_end}")
+    url_map = load_url_map()
+    failures = load_failures()
+    log(f"URL変換の対応表: {len(url_map)}件 / 本文取得の失敗記録: {len(failures)}件")
+
+    days, reason = lookback_days(now_jst.date())
+    range_end = now_jst.date()
+    range_start = range_end - timedelta(days=days)
+    log(f"収集範囲: {range_start} 〜 {range_end}(直近{days}日、{reason})")
 
     cur = range_start
     all_news = []
+    n_windows = 0
     while cur <= range_end:
         win_end = min(cur + timedelta(days=WINDOW_DAYS), range_end)
         all_news.extend(fetch_window(cur, win_end))
+        n_windows += 1
         cur = win_end + timedelta(days=1)
         time.sleep(random.uniform(1.0, 2.0))
 
@@ -165,29 +239,64 @@ def main():
     uniq = list(seen.values())
     log(f"取得(バッチ内重複除去後): {len(uniq)}件")
 
-    todo = [item for item in uniq if item.get("url") not in existing_urls]
-    log(f"新規候補(既存urlと未突合): {len(todo)}件")
-
     new_rows = []
-    decode_failed = 0
-    for i, item in enumerate(todo, 1):
+    stats = {"map_hit": 0, "decoded": 0, "decode_failed": 0, "known": 0, "gave_up": 0, "new_candidates": 0,
+             "body_failed": 0, "fresh_candidates": 0, "fresh_saved": 0}
+    seen_real = set()
+    decode_failed_links = []
+    map_hit_links = []
+    for i, item in enumerate(uniq, 1):
         google_url = item.get("url", "")
         title = item.get("title", "")
-        real_url = decode_url(google_url)
 
-        if real_url in existing_urls or google_url in existing_urls:
+        if google_url in url_map:
+            real_url = url_map[google_url]["real_url"]
+            stats["map_hit"] += 1
+            map_hit_links.append((google_url, real_url))
+        else:
+            gave_up = failures.get(google_url)
+            if gave_up and gave_up["fail_count"] >= MAX_FETCH_FAILURES:
+                stats["gave_up"] += 1
+                continue
+            real_url = decode_url(google_url)
+            if "news.google.com" in real_url:
+                stats["decode_failed"] += 1
+                decode_failed_links.append((google_url, title))
+            else:
+                url_map[google_url] = {"real_url": real_url, "decoded_at": now_str}
+                stats["decoded"] += 1
+
+        if real_url in existing_urls or real_url in seen_real:
+            stats["known"] += 1
+            continue
+        seen_real.add(real_url)
+
+        failure = failures.get(real_url)
+        if failure and failure["fail_count"] >= MAX_FETCH_FAILURES:
+            stats["gave_up"] += 1
             continue
 
-        if "news.google.com" in real_url:
-            decode_failed += 1
-        text, article_date = get_text(real_url)
+        stats["new_candidates"] += 1
+        decode_ok = "news.google.com" not in real_url
+        # 本文取得の故障検知に使うのは、URL変換に成功し、過去に失敗したことのない記事だけ
+        # (毎回失敗する記事の再試行は、仕組みが壊れた証拠にならないため)
+        fresh = decode_ok and not failure
+        if fresh:
+            stats["fresh_candidates"] += 1
+        text, article_date = get_text(real_url) if decode_ok else ("", None)
         if not text:
-            log(f"[{i}/{len(todo)}] 本文取得失敗、スキップ: {title[:40]}"
-                + ("(GoogleニュースURLの変換に失敗)" if "news.google.com" in real_url else ""))
-            existing_urls.add(google_url)
-            existing_urls.add(real_url)
+            stats["body_failed"] += 1
+            if decode_ok:
+                # URL変換に失敗した記事はここでは記録しない(実行の最後に、変換の故障でないと分かった場合だけ記録する)
+                f = failures.setdefault(real_url, {"title": title, "fail_count": 0, "first_failed_at": now_str, "last_failed_at": now_str})
+                f["fail_count"] += 1
+                f["last_failed_at"] = now_str
+                log(f"[{i}/{len(uniq)}] 本文取得失敗({f['fail_count']}回目)、スキップ: {title[:40]}")
+            else:
+                log(f"[{i}/{len(uniq)}] GoogleニュースURLの変換に失敗、スキップ: {title[:40]}")
             continue
 
+        failures.pop(real_url, None)
         final_date = article_date if article_date else None
         if final_date is None:
             try:
@@ -197,6 +306,8 @@ def main():
             except Exception:
                 final_date = None
 
+        if fresh:
+            stats["fresh_saved"] += 1
         new_rows.append({
             "date": final_date.strftime("%Y-%m-%d %H:%M:%S") if final_date else "",
             "title": title,
@@ -211,13 +322,41 @@ def main():
             "event_id": None,
             "burst_start_date": None,
             "classification_status": "pending",
+            "collected_at": now_str,
+            "collected_at_source": "runtime",
         })
-        existing_urls.add(google_url)
         existing_urls.add(real_url)
-        log(f"[{i}/{len(todo)}] 新規取得: {title[:40]} ({len(text)}文字)")
+        log(f"[{i}/{len(uniq)}] 新規取得: {title[:40]} ({len(text)}文字)")
         time.sleep(random.uniform(1.0, 2.0))
 
-    log(f"\n新規追加: {len(new_rows)}件")
+    log(
+        f"\n対応表で判定: {stats['map_hit']}件 / 新たに変換: {stats['decoded']}件 / 変換失敗: {stats['decode_failed']}件"
+        f"\n保存済み: {stats['known']}件 / 失敗{MAX_FETCH_FAILURES}回で打ち切り済み: {stats['gave_up']}件"
+        f"\n本当に新規の候補: {stats['new_candidates']}件 → 保存 {len(new_rows)}件 / 失敗 {stats['body_failed']}件"
+    )
+
+    # URL変換の失敗は、この実行で変換が他に1件以上成功していた場合だけ失敗回数に数える。
+    # 1件も成功していなければ変換ライブラリ側の故障の可能性が高く、数えると故障中に記事が
+    # 打ち切られて永久に取りこぼすため数えない(3件以上試して全滅なら下で異常終了する)
+    decode_outage = stats["decoded"] == 0 and stats["decode_failed"] > 0
+    if decode_outage and map_hit_links:
+        # 新着が無い日は、変換を試すのが「毎回失敗するリンク」だけになり、故障と見分けがつかない。
+        # 変換済みのリンクを1件だけ再変換して(カナリア)、ライブラリが動いているかを確かめる
+        canary_google, canary_real = map_hit_links[0]
+        canary_ok = decode_url(canary_google) == canary_real
+        log(f"URL変換の動作確認(変換済みリンクを1件再変換): {'成功' if canary_ok else '失敗'}")
+        decode_outage = not canary_ok
+    if not decode_outage:
+        for google_url, title in decode_failed_links:
+            f = failures.setdefault(google_url, {"title": title, "fail_count": 0, "first_failed_at": now_str, "last_failed_at": now_str})
+            f["fail_count"] += 1
+            f["last_failed_at"] = now_str
+    elif decode_failed_links:
+        log(f"⚠️ この実行ではURL変換が1件も成功していないため、変換失敗{len(decode_failed_links)}件は失敗回数に数えない")
+
+    os.makedirs(DATA_DIR or ".", exist_ok=True)
+    save_url_map(url_map)
+    save_failures(failures)
 
     if new_rows:
         new_df = pd.DataFrame(new_rows)
@@ -225,14 +364,12 @@ def main():
         max_id = df["article_id"].max() if "article_id" in df.columns and len(df) else 0
         if pd.isna(max_id):
             max_id = 0
-        needs_id = combined["article_id"].isna() if "article_id" in combined.columns else pd.Series([True] * len(combined))
         if "article_id" not in combined.columns:
             combined["article_id"] = None
         next_id = int(max_id) + 1
         for idx in combined.index[combined["article_id"].isna()]:
             combined.at[idx, "article_id"] = next_id
             next_id += 1
-        os.makedirs(os.path.dirname(FULL_DATA_PATH), exist_ok=True)
         combined.to_csv(FULL_DATA_PATH, index=False, encoding="utf-8-sig")
         log(f"保存完了: {FULL_DATA_PATH} (合計 {len(combined)}件)")
     else:
@@ -240,10 +377,16 @@ def main():
 
     log("=== 収集完了 ===")
 
-    if len(todo) >= ALL_FAILED_ALERT_MIN and not new_rows:
-        log(f"\n❌ 新規候補{len(todo)}件のうち本文を取得できた記事が0件です"
-            f"(うちGoogleニュースURLの変換失敗 {decode_failed}件)。")
-        log("   URL変換ライブラリや取得先サイトの仕様変更の可能性があります。異常終了します。")
+    if n_windows and len(SEARCH_ERRORS) >= n_windows:
+        log(f"\n❌ 検索(GNews)がすべての窓で失敗しました: {SEARCH_ERRORS}")
+        sys.exit(1)
+    if decode_outage and stats["decode_failed"] >= ALL_FAILED_ALERT_MIN:
+        log(f"\n❌ GoogleニュースURLの変換を{stats['decode_failed']}件試して、1件も成功しませんでした。")
+        log("   URL変換ライブラリの仕様変更や故障の可能性があります。異常終了します。")
+        sys.exit(1)
+    if stats["fresh_candidates"] >= ALL_FAILED_ALERT_MIN and stats["fresh_saved"] == 0:
+        log(f"\n❌ 初めて見つかった新規の記事{stats['fresh_candidates']}件のうち、本文を取得できた記事が0件です。")
+        log("   本文取得の仕組みや取得先サイトの仕様変更の可能性があります。異常終了します。")
         sys.exit(1)
 
 

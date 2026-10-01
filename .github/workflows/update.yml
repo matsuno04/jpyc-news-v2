@@ -1,18 +1,25 @@
-name: 週次自動更新
+name: 毎日自動更新
 
 on:
   schedule:
-    # 毎週月曜 09:00 JST = 00:00 UTC
-    - cron: "0 0 * * 1"
+    # 毎日 21:10 JST = 12:10 UTC(2026-10-01に週1回=月曜9:00から切り替え)。
+    # デイリーニュースダッシュボードの夜の確定版(21:45 JST)より前に終わらせるための時刻。
+    # 検索期間は collector.py が決める(月曜は直近14日、それ以外は直近3日)
+    - cron: "10 12 * * *"
   workflow_dispatch:
     inputs:
       lookback_days:
-        description: "収集で見直す日数(既定14)。取りこぼした期間を取り戻すときに広げる"
+        description: "収集で見直す日数。空欄なら自動(月曜14日・それ以外3日)。取りこぼした期間を取り戻すときに広げる"
         required: false
-        default: "14"
+        default: ""
 
 permissions:
   contents: write
+
+# 手動実行と定時実行が重なって二重に収集・分類・pushしないよう、同時に1つだけ動かす
+concurrency:
+  group: jpyc-news-update
+  cancel-in-progress: false
 
 jobs:
   update:
@@ -39,7 +46,7 @@ jobs:
       - name: 記事収集 (新規のみ、既存urlは自動スキップ)
         env:
           FULL_DATA_PATH: jpyc-news-data/raw_articles_full.csv
-          LOOKBACK_DAYS: ${{ inputs.lookback_days || '14' }}
+          LOOKBACK_DAYS: ${{ inputs.lookback_days }}
         run: python pipeline/collector.py
 
       - name: Haiku分類 (failedを先にリトライ、pendingを分類)
@@ -59,11 +66,11 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add raw_articles_full.csv
+          git add raw_articles_full.csv url_map.csv fetch_failures.csv
           if git diff --cached --quiet; then
             echo "変更なし"
           else
-            git commit -m "Weekly update: $(date -u +%Y-%m-%d)"
+            git commit -m "Daily update: $(date -u +%Y-%m-%d)"
             git push
           fi
 
@@ -71,10 +78,10 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add data/raw_articles.csv data/event_summary.csv data/daily_panel.csv
+          git add data/raw_articles.csv data/event_summary.csv data/daily_panel.csv data/recent_events.json
           if git diff --cached --quiet; then
             echo "変更なし"
           else
-            git commit -m "Weekly update: $(date -u +%Y-%m-%d)"
+            git commit -m "Daily update: $(date -u +%Y-%m-%d)"
             git push
           fi

@@ -1,16 +1,18 @@
 """
-JPYCニュース event_summary / daily_panel / 公開用raw_articles 生成スクリプト(週次自動実行用)
+JPYCニュース event_summary / daily_panel / 公開用raw_articles / recent_events 生成スクリプト(毎日自動実行用。2026-10-01までは週次)
 
 - 非公開リポジトリの raw_articles_full.csv (本文付き) を入力とする
 - event_summary.csv: event_id単位の集計(severity_index等)
 - daily_panel.csv: 日次集計(オンチェーンパネルとdate列の型・粒度を合わせる: YYYY-MM-DD)
 - raw_articles.csv: text/text_source を除いた公開版(著作権上の理由)
+- recent_events.json: 直近30日に収集された記事を含む出来事の一覧(デイリーニュースダッシュボード表示用、本文なし)
 すべて公開リポジトリの data/ ディレクトリに保存する。
 """
 import os
 import sys
 import math
-from datetime import timedelta
+import json
+from datetime import datetime, timedelta, timezone
 
 import pandas as pd
 
@@ -23,6 +25,8 @@ FULL_DATA_PATH = os.environ.get(
 PUBLIC_DATA_DIR = os.environ.get("PUBLIC_DATA_DIR", "data")
 
 BURST_WINDOW_DAYS = 14
+RECENT_EVENTS_DAYS = 30
+JST = timezone(timedelta(hours=9))
 TAG_COLS = {
     "リスク・懸念": "is_リスク懸念_t",
     "制度・規制": "is_制度規制_t",
@@ -38,6 +42,71 @@ TAG_COLS = {
 
 def log(msg):
     print(msg, flush=True)
+
+
+def _str_or_none(v):
+    return None if pd.isna(v) or v == "" else str(v)
+
+
+def build_recent_events(df, now_jst):
+    """直近RECENT_EVENTS_DAYS日に収集された記事を1件でも含む出来事を、ダッシュボード表示用にまとめる。
+
+    - 初出(first_collected_at)は、代表記事の公開日ではなく、出来事に属する記事の最も早い収集日時
+      (公開日が古い記事が後から見つかることがあるため、「いつダッシュボードに新しく現れたか」は収集日時で決める)
+    - 代表記事は event_summary.csv と同じく、公開日が最も古い記事
+    - 本文(text)は含めない
+    - relevance 30未満で event_id が付かない記事は、定義上出来事ではないので含めない
+    """
+    since = now_jst.replace(tzinfo=None) - timedelta(days=RECENT_EVENTS_DAYS)
+    ev = df[df["event_id"].notna()].copy()
+    ev["_collected"] = pd.to_datetime(ev.get("collected_at"), errors="coerce")
+    recent_ids = set(ev.loc[ev["_collected"] >= since, "event_id"])
+
+    events = []
+    for eid in recent_ids:
+        grp = ev[ev["event_id"] == eid].sort_values("date")
+        rep = grp.iloc[0]
+        tag_counter = {}
+        for tags_str in grp["tags"].dropna():
+            for t in str(tags_str).split("、"):
+                t = t.strip()
+                if t:
+                    tag_counter[t] = tag_counter.get(t, 0) + 1
+        tags = sorted(tag_counter, key=lambda t: -tag_counter[t])
+        collected = grp["_collected"].dropna()
+        events.append({
+            "event_id": eid,
+            "burst_start_date": _str_or_none(rep.get("burst_start_date")),
+            "first_collected_at": collected.min().strftime("%Y-%m-%d %H:%M:%S") if len(collected) else None,
+            "last_collected_at": collected.max().strftime("%Y-%m-%d %H:%M:%S") if len(collected) else None,
+            "article_count": int(len(grp)),
+            "tags": tags,
+            "tags_mode": tags[0] if tags else "",
+            "representative": {
+                "title": _str_or_none(rep["title"]),
+                "domain": _str_or_none(rep.get("domain")),
+                "url": _str_or_none(rep["url"]),
+                "published_at": rep["date"].strftime("%Y-%m-%d %H:%M:%S") if pd.notna(rep["date"]) else None,
+                "summary": _str_or_none(rep.get("summary")),
+            },
+            "articles": [
+                {
+                    "title": _str_or_none(a["title"]),
+                    "domain": _str_or_none(a.get("domain")),
+                    "url": _str_or_none(a["url"]),
+                    "published_at": a["date"].strftime("%Y-%m-%d %H:%M:%S") if pd.notna(a["date"]) else None,
+                    "collected_at": a["_collected"].strftime("%Y-%m-%d %H:%M:%S") if pd.notna(a["_collected"]) else None,
+                }
+                for _, a in grp.iterrows()
+            ],
+        })
+    events.sort(key=lambda e: e["last_collected_at"] or "", reverse=True)
+    return {
+        "generated_at": now_jst.strftime("%Y-%m-%d %H:%M:%S"),
+        "window_days": RECENT_EVENTS_DAYS,
+        "timezone": "JST(+09:00)",
+        "events": events,
+    }
 
 
 def main():
@@ -97,7 +166,9 @@ def main():
             "representative_title": grp.iloc[0]["title"],
         })
 
-    event_summary = pd.DataFrame(rows).sort_values("burst_start_date").reset_index(drop=True)
+    # 並び順は「開始日→event_id」で固定する。開始日だけで並べると、同じ開始日の出来事どうしの順番が
+    # 実行のたびに入れ替わり、毎日実行で意味のない差分が出るため(2026-10-01。中身・数値は変わらない)
+    event_summary = pd.DataFrame(rows).sort_values(["burst_start_date", "event_id"]).reset_index(drop=True)
     event_summary.to_csv(os.path.join(PUBLIC_DATA_DIR, "event_summary.csv"), index=False, encoding="utf-8-sig")
     log(f"event_summary.csv 保存: {len(event_summary)}件")
 
@@ -162,6 +233,14 @@ def main():
     daily_panel = pd.DataFrame(panel_rows)
     daily_panel.to_csv(os.path.join(PUBLIC_DATA_DIR, "daily_panel.csv"), index=False, encoding="utf-8-sig")
     log(f"daily_panel.csv 保存: {len(daily_panel)}件")
+
+    # ------------------------------------------------------------
+    # recent_events.json (デイリーニュースダッシュボード表示用)
+    # ------------------------------------------------------------
+    recent = build_recent_events(df, datetime.now(JST))
+    with open(os.path.join(PUBLIC_DATA_DIR, "recent_events.json"), "w", encoding="utf-8") as f:
+        json.dump(recent, f, ensure_ascii=False, indent=1)
+    log(f"recent_events.json 保存: {len(recent['events'])}件(直近{RECENT_EVENTS_DAYS}日)")
 
     log("=== 完了 ===")
 
