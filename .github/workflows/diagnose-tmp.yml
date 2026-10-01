@@ -1,0 +1,39 @@
+name: 一時診断(URL変換・本文取得)
+on:
+  workflow_dispatch: {}
+jobs:
+  diagnose:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install -r pipeline/requirements.txt
+      - name: diagnose
+        working-directory: pipeline
+        run: |
+          python - <<'PY'
+          import requests, traceback
+          from gnews import GNews
+          from googlenewsdecoder import gnewsdecoder
+          import collector as c
+          gn = GNews(language="ja", country="JP", max_results=5)
+          gn.start_date = (2026, 9, 20); gn.end_date = (2026, 9, 28)
+          res = gn.get_news("JPYC")[:3]
+          print("GNews取得", len(res))
+          for r in res:
+              u = r["url"]; print("元URL", u[:80])
+              try:
+                  print("  decoder:", gnewsdecoder(u, interval=1))
+              except Exception:
+                  traceback.print_exc()
+              resp = requests.get(u, headers={"User-Agent": c._UA}, allow_redirects=True, timeout=10)
+              print("  直接GET:", resp.status_code, resp.url[:100], len(resp.text))
+              d = c.decode_url(u); print("  decode_url ->", d[:100])
+              t, _ = c.get_text(d); print("  本文", len(t))
+          # 変換済みURLが分かっている記事で、本文取得だけを単独で確認
+          for u in ["https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
+                    "https://prtimes.jp/main/html/rd/p/000000004.000104006.html"]:
+              t, _ = c.get_text(u); print("本文のみ", u[:60], len(t))
+          PY
