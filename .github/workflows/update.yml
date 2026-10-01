@@ -4,7 +4,12 @@ on:
   schedule:
     # 毎週月曜 09:00 JST = 00:00 UTC
     - cron: "0 0 * * 1"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      lookback_days:
+        description: "収集で見直す日数(既定14)。取りこぼした期間を取り戻すときに広げる"
+        required: false
+        default: "14"
 
 permissions:
   contents: write
@@ -34,6 +39,7 @@ jobs:
       - name: 記事収集 (新規のみ、既存urlは自動スキップ)
         env:
           FULL_DATA_PATH: jpyc-news-data/raw_articles_full.csv
+          LOOKBACK_DAYS: ${{ inputs.lookback_days || '14' }}
         run: python pipeline/collector.py
 
       - name: Haiku分類 (failedを先にリトライ、pendingを分類)

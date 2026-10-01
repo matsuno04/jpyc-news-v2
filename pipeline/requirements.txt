@@ -4,7 +4,9 @@ gnews
 newspaper3k
 lxml
 lxml_html_clean
-googlenewsdecoder
+# 0.2.1で戻り値の成功フラグが "status" → "success" に変わり収集が止まった(2026-09)。
+# collector.pyは両方に対応済み。次の大きな変更に備えて範囲を固定する
+googlenewsdecoder>=0.1.7,<0.3
 trafilatura
 requests
 anthropic

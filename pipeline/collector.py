@@ -29,7 +29,15 @@ FULL_DATA_PATH = os.environ.get(
 
 KEYWORD = '"JPYC" OR "ジェイピーワイシー"'
 WINDOW_DAYS = 8
-LOOKBACK_DAYS = 14  # 前回実行からの取りこぼしに備えて、直近14日分を毎回見直す
+# 前回実行からの取りこぼしに備えて、直近14日分を毎回見直す。
+# 障害で取りこぼした期間を取り戻すときは環境変数 LOOKBACK_DAYS で広げる
+LOOKBACK_DAYS = int(os.environ.get("LOOKBACK_DAYS", "14"))
+
+# 新規候補がこの件数以上あるのに1件も本文を取れなかった場合は、仕組み側の故障とみなして
+# 異常終了する(GitHubの失敗通知メールで気づけるようにする)。
+# 2026-09-21・28の週次実行は、googlenewsdecoder 0.2.1 の戻り値の形式変更でURL変換が全件失敗し、
+# 62件すべてを捨てたまま「成功」で終わっていた。
+ALL_FAILED_ALERT_MIN = 5
 JST = timezone(timedelta(hours=9))
 
 _UA = (
@@ -70,7 +78,9 @@ def fetch_window(win_start, win_end, depth=0):
 def decode_url(google_url):
     try:
         result = gnewsdecoder(google_url, interval=1)
-        if result.get("status"):
+        # 成功フラグのキーは googlenewsdecoder 0.1.x が "status"、0.2.x が "success"。
+        # 0.2.1 への更新で "status" が無くなり、変換が全件失敗扱いになっていた(2026-09-21〜)
+        if result.get("status") or result.get("success"):
             decoded = result.get("decoded_url")
             if decoded and "news.google.com" not in decoded:
                 return decoded
@@ -159,6 +169,7 @@ def main():
     log(f"新規候補(既存urlと未突合): {len(todo)}件")
 
     new_rows = []
+    decode_failed = 0
     for i, item in enumerate(todo, 1):
         google_url = item.get("url", "")
         title = item.get("title", "")
@@ -167,9 +178,12 @@ def main():
         if real_url in existing_urls or google_url in existing_urls:
             continue
 
+        if "news.google.com" in real_url:
+            decode_failed += 1
         text, article_date = get_text(real_url)
         if not text:
-            log(f"[{i}/{len(todo)}] 本文取得失敗、スキップ: {title[:40]}")
+            log(f"[{i}/{len(todo)}] 本文取得失敗、スキップ: {title[:40]}"
+                + ("(GoogleニュースURLの変換に失敗)" if "news.google.com" in real_url else ""))
             existing_urls.add(google_url)
             existing_urls.add(real_url)
             continue
@@ -225,6 +239,12 @@ def main():
         log("新規記事なし。ファイルは変更しません。")
 
     log("=== 収集完了 ===")
+
+    if len(todo) >= ALL_FAILED_ALERT_MIN and not new_rows:
+        log(f"\n❌ 新規候補{len(todo)}件のうち本文を取得できた記事が0件です"
+            f"(うちGoogleニュースURLの変換失敗 {decode_failed}件)。")
+        log("   URL変換ライブラリや取得先サイトの仕様変更の可能性があります。異常終了します。")
+        sys.exit(1)
 
 
 if __name__ == "__main__":
