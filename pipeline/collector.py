@@ -6,6 +6,7 @@ JPYCニュース収集スクリプト(毎日自動実行用。2026-10-01まで�
 - GoogleニュースのリンクとURL変換結果の対応表(url_map.csv)を非公開リポジトリに保存し、
   変換済みのリンクは再変換しない。元記事URLで既存の raw_articles_full.csv と突き合わせて重複をスキップする
 - 本文取得に失敗した記事は fetch_failures.csv に記録し、3回失敗したら以後は再試行しない
+- 変換後のURLは正規化する(Yahoo!の画像ページ・2ページ目以降・追跡パラメータを元の記事URLにそろえる)
 - 新規記事のみ本文をスクレイピングし、classification_status='pending'・collected_at(収集日時)付きで追記する
 """
 import os
@@ -13,8 +14,9 @@ import sys
 import time
 import random
 import json
+import re
 from datetime import date, datetime, timedelta, timezone
-from urllib.parse import urlparse
+from urllib.parse import parse_qsl, urlencode, urlparse, urlunparse
 
 import pandas as pd
 import requests
@@ -153,6 +155,29 @@ def domain_of(url):
         return ""
 
 
+_YAHOO_ARTICLE_RE = re.compile(r"^https?://news\.yahoo\.co\.jp/articles/([0-9a-f]+)")
+
+
+def normalize_url(url):
+    """同じ記事が別のURLで二重に保存されないよう、URLを正規化する(2026-10-01導入)。
+
+    - Yahoo!ニュースの記事: 記事IDより後ろ(画像ページ /images/N、2ページ目以降 ?page=N、
+      追跡用の ?source=rss など)を取り除き、元の記事URL(=1ページ目)にする。
+      画像ページから抽出される「本文」は写真の説明・見出し・関連記事の見出し一覧で、記事本文ではなかった。
+      2ページ目以降のURLでは1ページ目が欠ける
+    - その他のURL: クエリの source パラメータ(追跡用)だけを取り除く
+    """
+    url = str(url)
+    m = _YAHOO_ARTICLE_RE.match(url)
+    if m:
+        return f"https://news.yahoo.co.jp/articles/{m.group(1)}"
+    parts = urlparse(url)
+    if parts.query:
+        kept = [(k, v) for k, v in parse_qsl(parts.query, keep_blank_values=True) if k != "source"]
+        return urlunparse(parts._replace(query=urlencode(kept)))
+    return url
+
+
 def lookback_days(today_jst):
     override = os.environ.get("LOOKBACK_DAYS", "").strip()
     if override:
@@ -221,7 +246,11 @@ def main():
 
     if os.path.exists(FULL_DATA_PATH):
         df = pd.read_csv(FULL_DATA_PATH)
-        existing_urls = set(df["url"].dropna().astype(str))
+        stored_urls = df["url"].dropna().astype(str)
+        # 保存済みのURLは正規化した形でも持っておく。画像ページや2ページ目のURLで保存済みの記事を、
+        # 正規化後の元URLで「新しい記事」と判定して二重に保存しないため
+        # (既存データの画像ページ等の行の扱いは別途まとめて決める)
+        existing_urls = set(stored_urls) | {normalize_url(u) for u in stored_urls}
         log(f"既存データ: {len(df)}件読み込みました")
     else:
         df = pd.DataFrame()
@@ -256,7 +285,7 @@ def main():
 
     new_rows = []
     stats = {"map_hit": 0, "decoded": 0, "decode_failed": 0, "known": 0, "gave_up": 0, "new_candidates": 0,
-             "body_failed": 0, "fresh_candidates": 0, "fresh_saved": 0}
+             "body_failed": 0, "fresh_candidates": 0, "fresh_saved": 0, "normalized": 0}
     seen_real = set()
     decode_failed_links = []
     map_hit_links = []
@@ -280,6 +309,12 @@ def main():
             else:
                 url_map[google_url] = {"real_url": real_url, "decoded_at": now_str}
                 stats["decoded"] += 1
+
+        # 対応表には変換結果をそのまま残し、重複判定・本文取得・保存には正規化したURLを使う
+        normalized = normalize_url(real_url)
+        if normalized != real_url:
+            stats["normalized"] += 1
+            real_url = normalized
 
         if real_url in existing_urls or real_url in seen_real:
             stats["known"] += 1
@@ -343,6 +378,7 @@ def main():
         time.sleep(random.uniform(1.0, 2.0))
 
     log(
+        f"\nURLを正規化(画像ページ・2ページ目・追跡パラメータ): {stats['normalized']}件"
         f"\n対応表で判定: {stats['map_hit']}件 / 新たに変換: {stats['decoded']}件 / 変換失敗: {stats['decode_failed']}件"
         f"\n保存済み: {stats['known']}件 / 失敗{MAX_FETCH_FAILURES}回で打ち切り済み: {stats['gave_up']}件"
         f"\n本当に新規の候補: {stats['new_candidates']}件 → 保存 {len(new_rows)}件 / 失敗 {stats['body_failed']}件"
