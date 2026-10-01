@@ -197,6 +197,21 @@ def save_failures(failures):
     pd.DataFrame(rows, columns=cols).to_csv(FAILURES_PATH, index=False, encoding="utf-8-sig")
 
 
+def count_failure(failures, key, title, now_str):
+    """失敗回数を1日(JST)に1回だけ数える。
+
+    dispatcher(21:30)と予備のGitHub schedule(21:10)の両方が動いた日に2回数えると、
+    「3回で打ち切り」が実質1.5日で打ち切りになってしまうため(2026-10-01)
+    """
+    f = failures.get(key)
+    if f is None:
+        f = failures[key] = {"title": title, "fail_count": 0, "first_failed_at": now_str, "last_failed_at": ""}
+    if str(f["last_failed_at"])[:10] != now_str[:10]:
+        f["fail_count"] += 1
+        f["last_failed_at"] = now_str
+    return f
+
+
 def main():
     now_jst = datetime.now(JST)
     now_str = now_jst.strftime("%Y-%m-%d %H:%M:%S")
@@ -288,9 +303,7 @@ def main():
             stats["body_failed"] += 1
             if decode_ok:
                 # URL変換に失敗した記事はここでは記録しない(実行の最後に、変換の故障でないと分かった場合だけ記録する)
-                f = failures.setdefault(real_url, {"title": title, "fail_count": 0, "first_failed_at": now_str, "last_failed_at": now_str})
-                f["fail_count"] += 1
-                f["last_failed_at"] = now_str
+                f = count_failure(failures, real_url, title, now_str)
                 log(f"[{i}/{len(uniq)}] 本文取得失敗({f['fail_count']}回目)、スキップ: {title[:40]}")
             else:
                 log(f"[{i}/{len(uniq)}] GoogleニュースURLの変換に失敗、スキップ: {title[:40]}")
@@ -348,9 +361,7 @@ def main():
         decode_outage = not canary_ok
     if not decode_outage:
         for google_url, title in decode_failed_links:
-            f = failures.setdefault(google_url, {"title": title, "fail_count": 0, "first_failed_at": now_str, "last_failed_at": now_str})
-            f["fail_count"] += 1
-            f["last_failed_at"] = now_str
+            count_failure(failures, google_url, title, now_str)
     elif decode_failed_links:
         log(f"⚠️ この実行ではURL変換が1件も成功していないため、変換失敗{len(decode_failed_links)}件は失敗回数に数えない")
 

@@ -63,8 +63,8 @@ def build_recent_events(df, now_jst):
     recent_ids = set(ev.loc[ev["_collected"] >= since, "event_id"])
 
     events = []
-    for eid in recent_ids:
-        grp = ev[ev["event_id"] == eid].sort_values("date")
+    for eid in sorted(recent_ids):
+        grp = ev[ev["event_id"] == eid].sort_values(["date", "url"], kind="mergesort")
         rep = grp.iloc[0]
         tag_counter = {}
         for tags_str in grp["tags"].dropna():
@@ -100,7 +100,8 @@ def build_recent_events(df, now_jst):
                 for _, a in grp.iterrows()
             ],
         })
-    events.sort(key=lambda e: e["last_collected_at"] or "", reverse=True)
+    # 新しく動きのあった出来事が先。同じ収集日時(同じ実行で収集)の出来事どうしは event_id の降順で固定する
+    events.sort(key=lambda e: (e["last_collected_at"] or "", e["event_id"]), reverse=True)
     return {
         "generated_at": now_jst.strftime("%Y-%m-%d %H:%M:%S"),
         "window_days": RECENT_EVENTS_DAYS,
@@ -135,7 +136,9 @@ def main():
     events = df[df["event_id"].notna()].copy()
     rows = []
     for eid, grp in events.groupby("event_id"):
-        grp = grp.sort_values("date")
+        # 公開日順、同じ公開日時の記事はURL順に固定する。代表記事(先頭)・固有名詞の並び・最頻タグの同点時の
+        # 選ばれ方がこの順番で決まるため、固定しないと同じデータでも実行ごとに変わっていた(2026-10-01)
+        grp = grp.sort_values(["date", "url"], kind="mergesort")
         count = len(grp)
         rel_mean = grp["relevance"].mean()
         severity = math.log(1 + count) * (rel_mean / 100)
@@ -146,6 +149,7 @@ def main():
                 t = t.strip()
                 if t:
                     tag_counter[t] = tag_counter.get(t, 0) + 1
+        # 最頻タグ。件数が同じタグが複数あるときは、上の順番(公開日→URL)で先に現れたタグにする
         tags_mode = max(tag_counter, key=tag_counter.get) if tag_counter else ""
 
         entity_set = []
@@ -238,9 +242,19 @@ def main():
     # recent_events.json (デイリーニュースダッシュボード表示用)
     # ------------------------------------------------------------
     recent = build_recent_events(df, datetime.now(JST))
-    with open(os.path.join(PUBLIC_DATA_DIR, "recent_events.json"), "w", encoding="utf-8") as f:
-        json.dump(recent, f, ensure_ascii=False, indent=1)
-    log(f"recent_events.json 保存: {len(recent['events'])}件(直近{RECENT_EVENTS_DAYS}日)")
+    recent_path = os.path.join(PUBLIC_DATA_DIR, "recent_events.json")
+    # 生成時刻以外が前回と同じなら書き換えない(新着が無い日に、生成時刻だけの差分がコミットされるのを防ぐ)
+    previous = None
+    if os.path.exists(recent_path):
+        with open(recent_path, encoding="utf-8") as f:
+            previous = json.load(f)
+    strip = lambda d: {k: v for k, v in d.items() if k != "generated_at"}
+    if previous is not None and strip(previous) == strip(recent):
+        log(f"recent_events.json: 生成時刻以外に変更なし(書き換えない)。{len(recent['events'])}件")
+    else:
+        with open(recent_path, "w", encoding="utf-8") as f:
+            json.dump(recent, f, ensure_ascii=False, indent=1)
+        log(f"recent_events.json 保存: {len(recent['events'])}件(直近{RECENT_EVENTS_DAYS}日)")
 
     log("=== 完了 ===")
 

@@ -185,6 +185,19 @@ def call_haiku(title, text, candidates):
     raise last_err
 
 
+def save(df):
+    """数値の列は書式をそろえて保存する。
+
+    relevance / is_commentary は、分類した直後の行だけ整数("75")、次の実行で読み直すと小数("75.0")になり、
+    値が同じでも書式だけが変わって差分が出ていた。既存の大部分の行と同じ小数の書式に統一する(値は変わらない)
+    """
+    out = df.copy()
+    for col in ("relevance", "is_commentary"):
+        if col in out.columns:
+            out[col] = pd.to_numeric(out[col], errors="coerce").astype(float)
+    out.to_csv(FULL_DATA_PATH, index=False, encoding="utf-8-sig")
+
+
 def main():
     check_repo_up_to_date(CODE_REPO_PATH, "公開リポジトリ(jpyc-news)")
     check_repo_up_to_date(DATA_REPO_PATH, "非公開リポジトリ(jpyc-news-data)")
@@ -211,7 +224,9 @@ def main():
     df.loc[retry_mask, "classification_status"] = "pending"
     log(f"failed からリトライ対象に戻した件数: {retry_mask.sum()}")
 
-    df = df.sort_values("date", na_position="last").reset_index(drop=True)
+    # 公開日順に処理・保存する。公開日時が同じ記事どうしはURL順にして、実行ごとに順番が変わらないようにする
+    # (2026-10-01。以前は同点の順番が実行ごとに入れ替わり、値が同じでも保存のたびに差分が出ていた)
+    df = df.sort_values(["date", "url"], na_position="last", kind="mergesort").reset_index(drop=True)
 
     active_bursts = []
     # 新しいevent_idの通し番号は、保存済みデータの同じ日付の最大番号の続きから振る。
@@ -304,13 +319,13 @@ def main():
             log(f"[{i}/{len(todo_idx)}] done={done_count} failed={fail_count} | {str(row['title'])[:30]} -> tags={tags} rel={relevance} event={event_id_final}")
 
         if i % SAVE_INTERVAL == 0:
-            df.to_csv(FULL_DATA_PATH, index=False, encoding="utf-8-sig")
+            save(df)
             log(f"  中間保存 ({i}/{len(todo_idx)})")
 
     if DRY_RUN_NO_API:
         log(f"=== DRY RUN 完了: 分類対象 {len(todo_idx)}件(Haikuは呼んでおらず、データも保存していない) ===")
         return
-    df.to_csv(FULL_DATA_PATH, index=False, encoding="utf-8-sig")
+    save(df)
     log(f"=== 完了: done={done_count} failed={fail_count} ===")
 
 
