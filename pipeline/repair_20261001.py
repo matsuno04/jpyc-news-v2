@@ -35,7 +35,7 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.path.insert(0, os.path.dirname(__file__))
 
 FULL_DATA_PATH = os.environ.get(
-    "FULL_DATA_PATH", os.path.join("..", "jpyc-news-data", "raw_articles_full.csv")
+    "FULL_DATA_PATH", os.path.join("..", "01_news-data", "raw_articles_full.csv")
 )
 YAHOO = "https://news.yahoo.co.jp/articles/"
 

@@ -29,7 +29,7 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 FULL_DATA_PATH = os.environ.get(
-    "FULL_DATA_PATH", os.path.join("..", "jpyc-news-data", "raw_articles_full.csv")
+    "FULL_DATA_PATH", os.path.join("..", "01_news-data", "raw_articles_full.csv")
 )
 DATA_DIR = os.path.dirname(FULL_DATA_PATH)
 # GoogleニュースのリンクとURL変換結果の対応表。変換は1件ごとに1秒以上かかり外部ライブラリ頼みで

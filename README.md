@@ -52,7 +52,7 @@
 
 ```bash
 TMP=$(mktemp -d); mkdir -p $TMP/data-repo $TMP/public
-cp ../jpyc-news-data/raw_articles_full.csv $TMP/data-repo/
+cp ../01_news-data/raw_articles_full.csv $TMP/data-repo/
 export FULL_DATA_PATH=$TMP/data-repo/raw_articles_full.csv PUBLIC_DATA_DIR=$TMP/public
 
 LOOKBACK_DAYS=3 python pipeline/collector.py     # 収集(ネットワークは使う。対応表・失敗記録も一時フォルダに作られる)
@@ -63,7 +63,7 @@ python pipeline/panel_builder.py                 # 公開用データを一時�
 収集日時の復元スクリプトも、`OUTPUT_PATH` を指定すると別ファイルに書き出せる。
 
 ```bash
-DATA_REPO_PATH=../jpyc-news-data OUTPUT_PATH=$TMP/backfilled.csv python pipeline/backfill_collected_at.py
+DATA_REPO_PATH=../01_news-data OUTPUT_PATH=$TMP/backfilled.csv python pipeline/backfill_collected_at.py
 ```
 
 ## 運用履歴

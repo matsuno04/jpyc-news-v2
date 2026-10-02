@@ -90,7 +90,7 @@ def parse_args():
 def main():
     args = parse_args()
 
-    check_repo_up_to_date(CODE_REPO_PATH, "公開リポジトリ(jpyc-news)")
+    check_repo_up_to_date(CODE_REPO_PATH, "公開リポジトリ(01_news = GitHub jpyc-news-v2)")
     check_repo_up_to_date(DATA_REPO_PATH, "非公開リポジトリ(jpyc-news-data)")
 
     log("読み込み開始")

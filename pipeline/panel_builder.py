@@ -20,7 +20,7 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 FULL_DATA_PATH = os.environ.get(
-    "FULL_DATA_PATH", os.path.join("..", "jpyc-news-data", "raw_articles_full.csv")
+    "FULL_DATA_PATH", os.path.join("..", "01_news-data", "raw_articles_full.csv")
 )
 PUBLIC_DATA_DIR = os.environ.get("PUBLIC_DATA_DIR", "data")
 
