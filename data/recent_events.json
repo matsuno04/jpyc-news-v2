@@ -1,8 +1,72 @@
 {
- "generated_at": "2026-10-02 21:32:32",
+ "generated_at": "2026-10-03 02:50:34",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261002-01",
+   "burst_start_date": "2026-10-02",
+   "first_collected_at": "2026-10-03 02:50:02",
+   "last_collected_at": "2026-10-03 02:50:02",
+   "article_count": 1,
+   "tags": [
+    "提携・連携"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "「Blockchain Summit 2026 Autumn」登壇者を発表、キリフダ代表・赤川英之がオンチェーン金融のキーパーソンと登壇 - イザ！",
+    "domain": "iza.ne.jp",
+    "url": "https://www.iza.ne.jp/pressrelease/prtimes/MSV6DWKOKVLOTKKRBJB6M226D4/",
+    "published_at": "2026-10-02 17:00:00",
+    "summary": "キリフダ株式会社の代表・赤川英之が2026年10月5日開催の「Blockchain Summit 2026 Autumn」でモデレーターを務め、au Coincheck Digital Assets、Japan Financial Elan Technologies、JPYC株式会社の登壇者とステーブルコインによる決済と運用の仕組みについて議論する。三井住友FG、みずほ銀行、三井物産などが特別協力企業として参画する国際サミットである。"
+   },
+   "articles": [
+    {
+     "title": "「Blockchain Summit 2026 Autumn」登壇者を発表、キリフダ代表・赤川英之がオンチェーン金融のキーパーソンと登壇 - イザ！",
+     "domain": "iza.ne.jp",
+     "url": "https://www.iza.ne.jp/pressrelease/prtimes/MSV6DWKOKVLOTKKRBJB6M226D4/",
+     "published_at": "2026-10-02 17:00:00",
+     "collected_at": "2026-10-03 02:50:02"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260918-01",
+   "burst_start_date": "2026-09-18",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-03 02:50:02",
+   "article_count": 2,
+   "tags": [
+    "実証実験",
+    "提携・連携",
+    "活用事例",
+    "解説・論説"
+   ],
+   "tags_mode": "実証実験",
+   "representative": {
+    "title": "HashPort、「AI・オンチェーン金融サミット」当日の登壇者を先行発表 - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000191.000046288.html",
+    "published_at": "2026-09-18 16:00:00",
+    "summary": "HashPortが2026年10月1日に開催するビジネスカンファレンス「AI・オンチェーン金融サミット」の登壇者・セッション情報を発表した。コンビニレジでのステーブルコイン決済実証実験の振り返りや、ステーブルコインが金融の未来に与える影響についての複数のトークセッションが予定されている。"
+   },
+   "articles": [
+    {
+     "title": "HashPort、「AI・オンチェーン金融サミット」当日の登壇者を先行発表 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000191.000046288.html",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "ローソンのレジでJPYCが動いた日 決済実証の4社が語る商用化の壁 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=740431",
+     "published_at": "2026-10-02 17:20:33",
+     "collected_at": "2026-10-03 02:50:02"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20260930-01",
    "burst_start_date": "2026-09-30",
@@ -473,34 +537,6 @@
      "title": "zERC20、zJPYCで約996万トークンが不正ミント。約335万円相当が流出（あたらしい経済） - Yahoo!ニュース",
      "domain": "news.yahoo.co.jp",
      "url": "https://news.yahoo.co.jp/articles/84e28867c54be1418eebc6775a27984e060d24e8",
-     "published_at": "2026-09-18 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260918-01",
-   "burst_start_date": "2026-09-18",
-   "first_collected_at": "2026-10-01 14:46:17",
-   "last_collected_at": "2026-10-01 14:46:17",
-   "article_count": 1,
-   "tags": [
-    "実証実験",
-    "提携・連携"
-   ],
-   "tags_mode": "実証実験",
-   "representative": {
-    "title": "HashPort、「AI・オンチェーン金融サミット」当日の登壇者を先行発表 - PR TIMES",
-    "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000191.000046288.html",
-    "published_at": "2026-09-18 16:00:00",
-    "summary": "HashPortが2026年10月1日に開催するビジネスカンファレンス「AI・オンチェーン金融サミット」の登壇者・セッション情報を発表した。コンビニレジでのステーブルコイン決済実証実験の振り返りや、ステーブルコインが金融の未来に与える影響についての複数のトークセッションが予定されている。"
-   },
-   "articles": [
-    {
-     "title": "HashPort、「AI・オンチェーン金融サミット」当日の登壇者を先行発表 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000191.000046288.html",
      "published_at": "2026-09-18 16:00:00",
      "collected_at": "2026-10-01 14:46:17"
     }
