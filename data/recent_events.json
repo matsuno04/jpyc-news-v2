@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-01 22:41:43",
+ "generated_at": "2026-10-02 21:32:32",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,8 +7,8 @@
    "event_id": "EVT-20260930-01",
    "burst_start_date": "2026-09-30",
    "first_collected_at": "2026-10-01 14:46:17",
-   "last_collected_at": "2026-10-01 21:30:24",
-   "article_count": 10,
+   "last_collected_at": "2026-10-02 21:31:20",
+   "article_count": 14,
    "tags": [
     "取扱い・対応",
     "提携・連携",
@@ -31,11 +31,32 @@
      "collected_at": "2026-10-01 14:46:17"
     },
     {
+     "title": "au PAYに暗号資産ウォレット搭載｜Pontaから交換・決済も可能に - bittimes.net",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/229753.html",
+     "published_at": "2026-09-30 07:08:06",
+     "collected_at": "2026-10-02 21:31:20"
+    },
+    {
      "title": "au PAY アプリ上から使える暗号資産ウォレットを提供開始 - KDDI ニュースルーム",
      "domain": "newsroom.kddi.com",
      "url": "https://newsroom.kddi.com/news/detail/kddi_nr-1182_4741.html",
      "published_at": "2026-09-30 13:00:00",
      "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "まだ見ぬ価値を暮らしの中へ - HashPort",
+     "domain": "hashport.io",
+     "url": "https://hashport.io/news/au_wallet_20260930",
+     "published_at": "2026-09-30 13:01:37",
+     "collected_at": "2026-10-02 21:31:20"
+    },
+    {
+     "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
+     "published_at": "2026-09-30 13:20:49",
+     "collected_at": "2026-10-02 21:31:20"
     },
     {
      "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に - あたらしい経済",
@@ -91,6 +112,72 @@
      "domain": "dxmagazine.jp",
      "url": "https://dxmagazine.jp/news/2654ko82/",
      "published_at": "2026-10-01 13:18:45",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "au PAYで暗号資産ウォレット開始 ポイント交換・決済に対応 - PlusWeb3",
+     "domain": "plus-web3.com",
+     "url": "https://plus-web3.com/media/latestnews_1002_10884/",
+     "published_at": "2026-10-02 13:07:53",
+     "collected_at": "2026-10-02 21:31:20"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260928-01",
+   "burst_start_date": "2026-09-28",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-02 21:31:20",
+   "article_count": 5,
+   "tags": [
+    "取扱い・対応",
+    "市場・統計",
+    "競合・市場環境",
+    "制度・規制",
+    "リスク・懸念"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "JPYC、海外取引所HTX（旧Huobi）に上場（NADA NEWS） - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
+    "published_at": "2026-09-28 19:25:58",
+    "summary": "暗号資産取引所HTXが9月28日にJPYCを上場することを発表した。入金は既に受け付けており、現物取引は同日22時、出金は翌日22時に開始予定である。先行上場したUpbitではJPYCの価格が1円から乖離する動きが見られている。"
+   },
+   "articles": [
+    {
+     "title": "JPYC、海外取引所HTX（旧Huobi）に上場（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
+     "published_at": "2026-09-28 19:25:58",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "韓国「仮想通貨マーケットメイク」解禁を検討｜JPYC急騰が契機に - bittimes.net",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/229496.html",
+     "published_at": "2026-09-29 06:41:55",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/611867",
+     "published_at": "2026-09-29 14:53:39",
+     "collected_at": "2026-10-02 21:31:20"
+    },
+    {
+     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
+     "published_at": "2026-09-29 14:57:41",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "【9/29話題】Bitcoin Japanがビットコイン初取得、シティがトークン化預金の送金サービスを日本に展開、JPYCがHTXに上場など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/612076",
+     "published_at": "2026-09-29 21:39:05",
      "collected_at": "2026-10-01 14:46:17"
     }
    ]
@@ -205,58 +292,6 @@
      "domain": "recycle-tsushin.com",
      "url": "https://www.recycle-tsushin.com/news/detail_13288.php",
      "published_at": "2026-09-29 09:04:07",
-     "collected_at": "2026-10-01 14:46:17"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260928-01",
-   "burst_start_date": "2026-09-28",
-   "first_collected_at": "2026-10-01 14:46:17",
-   "last_collected_at": "2026-10-01 14:46:17",
-   "article_count": 4,
-   "tags": [
-    "取扱い・対応",
-    "市場・統計",
-    "競合・市場環境",
-    "制度・規制",
-    "リスク・懸念"
-   ],
-   "tags_mode": "取扱い・対応",
-   "representative": {
-    "title": "JPYC、海外取引所HTX（旧Huobi）に上場（NADA NEWS） - Yahoo!ニュース",
-    "domain": "news.yahoo.co.jp",
-    "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
-    "published_at": "2026-09-28 19:25:58",
-    "summary": "暗号資産取引所HTXが9月28日にJPYCを上場することを発表した。入金は既に受け付けており、現物取引は同日22時、出金は翌日22時に開始予定である。先行上場したUpbitではJPYCの価格が1円から乖離する動きが見られている。"
-   },
-   "articles": [
-    {
-     "title": "JPYC、海外取引所HTX（旧Huobi）に上場（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
-     "published_at": "2026-09-28 19:25:58",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "韓国「仮想通貨マーケットメイク」解禁を検討｜JPYC急騰が契機に - bittimes.net",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/229496.html",
-     "published_at": "2026-09-29 06:41:55",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
-     "published_at": "2026-09-29 14:57:41",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "【9/29話題】Bitcoin Japanがビットコイン初取得、シティがトークン化預金の送金サービスを日本に展開、JPYCがHTXに上場など（音声ニュース） - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/612076",
-     "published_at": "2026-09-29 21:39:05",
      "collected_at": "2026-10-01 14:46:17"
     }
    ]
