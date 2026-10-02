@@ -22,9 +22,9 @@ sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 sys.stderr.reconfigure(encoding="utf-8", errors="replace")
 
 FULL_DATA_PATH = os.environ.get(
-    "FULL_DATA_PATH", os.path.join("..", "01_news-data", "raw_articles_full.csv")
+    "FULL_DATA_PATH", os.path.join("..", "02_news-data", "raw_articles_full.csv")
 )
-# 公開リポジトリ(ローカルの 01_news = GitHub jpyc-news-v2。このスクリプト自身が属するリポジトリ)
+# 公開リポジトリ(ローカルの 02_news = GitHub jpyc-news-v2。このスクリプト自身が属するリポジトリ)
 CODE_REPO_PATH = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 # 非公開リポジトリ(jpyc-news-data, FULL_DATA_PATHが指すデータの置き場所)
 DATA_REPO_PATH = os.path.dirname(os.path.abspath(FULL_DATA_PATH))
@@ -199,7 +199,7 @@ def save(df):
 
 
 def main():
-    check_repo_up_to_date(CODE_REPO_PATH, "公開リポジトリ(01_news = GitHub jpyc-news-v2)")
+    check_repo_up_to_date(CODE_REPO_PATH, "公開リポジトリ(02_news = GitHub jpyc-news-v2)")
     check_repo_up_to_date(DATA_REPO_PATH, "非公開リポジトリ(jpyc-news-data)")
 
     log("読み込み開始")
