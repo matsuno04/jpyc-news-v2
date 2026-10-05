@@ -1,8 +1,238 @@
 {
- "generated_at": "2026-10-05 12:25:41",
+ "generated_at": "2026-10-05 21:32:29",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20260928-01",
+   "burst_start_date": "2026-09-28",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-05 21:31:18",
+   "article_count": 7,
+   "tags": [
+    "取扱い・対応",
+    "市場・統計",
+    "競合・市場環境",
+    "制度・規制",
+    "リスク・懸念"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "JPYC、仮想通貨取引所HTXに上場へ──アップビットに続きイーサリアム版のみ対応 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpyc-htx-20260928/",
+    "published_at": "2026-09-28 00:00:00",
+    "summary": "中国発の大手暗号資産取引所HTXが、日本円ステーブルコイン「JPYC」をイーサリアム版のみで上場すると発表した。日本時間28日22時からJPYC/USDTの現物取引とグリッド取引を提供開始する。これはアップビットに続く大手取引所での上場となる。"
+   },
+   "articles": [
+    {
+     "title": "JPYC、仮想通貨取引所HTXに上場へ──アップビットに続きイーサリアム版のみ対応 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-htx-20260928/",
+     "published_at": "2026-09-28 00:00:00",
+     "collected_at": "2026-10-05 21:31:18"
+    },
+    {
+     "title": "JPYC、海外取引所HTX（旧Huobi）に上場（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
+     "published_at": "2026-09-28 19:25:58",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、海外取引所HTX（旧Huobi）に上場 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/369859/",
+     "published_at": "2026-09-28 19:25:58",
+     "collected_at": "2026-10-05 21:31:18"
+    },
+    {
+     "title": "韓国「仮想通貨マーケットメイク」解禁を検討｜JPYC急騰が契機に - bittimes.net",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/229496.html",
+     "published_at": "2026-09-29 06:41:55",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/611867",
+     "published_at": "2026-09-29 14:53:39",
+     "collected_at": "2026-10-02 21:31:20"
+    },
+    {
+     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
+     "published_at": "2026-09-29 14:57:41",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "【9/29話題】Bitcoin Japanがビットコイン初取得、シティがトークン化預金の送金サービスを日本に展開、JPYCがHTXに上場など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/612076",
+     "published_at": "2026-09-29 21:39:05",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260917-01",
+   "burst_start_date": "2026-09-17",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-05 21:31:18",
+   "article_count": 19,
+   "tags": [
+    "市場・統計",
+    "取扱い・対応",
+    "リスク・懸念",
+    "競合・市場環境",
+    "制度・規制"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」 - CoinPost",
+    "domain": "coinpost.jp",
+    "url": "https://coinpost.jp/?p=738117",
+    "published_at": "2026-09-17 15:41:38",
+    "summary": "JPYC株式会社が発行する日本円ステーブルコイン「JPYC」が9月17日、韓国最大手の仮想通貨取引所アップビットに上場する。ウォン、ビットコイン、USDTの3市場での取扱いが開始され、同時にPYUSDも上場される。岡部代表は海外取引所での上限撤廃を国内発行・償還上限の見直しのきっかけになれば幸いとコメントした。"
+   },
+   "articles": [
+    {
+     "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=738117",
+     "published_at": "2026-09-17 15:41:38",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設(NADA NEWS) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/64f57bb834ffa8c098267e06f5f085aca5a3daac",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」(CoinPost) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/c7d08a3259d4d075080c83ed3159f9cb673b5ba0",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、Upbit上場の影響で価格乖離（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/85b17920bfd301c6701871297bb6142684fb2219",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円建てステーブルコインJPYC、韓国アップビット上場初日に価格急騰と急落 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/c18da06d-d5ee-4093-882b-e7fdf9c43df7",
+     "published_at": "2026-09-17 16:06:58",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "アップビットのJPYC急騰急落 投機批判広がる - CHOSUNBIZ - Chosunbiz",
+     "domain": "biz.chosun.com",
+     "url": "https://biz.chosun.com/jp/jp-finance/2026/09/18/7QPL57O64FH7LMARYCJHBHDQSU/",
+     "published_at": "2026-09-18 00:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "アップビートが17日に上場した円ステーブルコインJPYCが流通量不足で上場価格対比200%急騰する異常現象が発生した。 - 매일경제",
+     "domain": "mk.co.kr",
+     "url": "https://www.mk.co.kr/jp/stock/12156089",
+     "published_at": "2026-09-18 09:13:32",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、韓国アップビット上場後に想定1円から乖離 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=738488",
+     "published_at": "2026-09-18 14:40:48",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円ステーブルコイン「JPYC」、韓国アップビット上場直後に価格乖離で一時約4円に急騰（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/e4b465ad693e1ec764d2d7e60e359bddc8efe06c",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "FRB3年ぶり利上げでビットコイン乱高下／メタプラネット筆頭株主が大量売却【週末に読みたい厳選5本_相場編】 - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/a98d9640778d01344289943fd6f63f4c46f00ff5",
+     "published_at": "2026-09-19 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
+     "published_at": "2026-09-26 11:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC上場で急騰落 投資家2万人超が損失 - CHOSUNBIZ - Chosunbiz",
+     "domain": "biz.chosun.com",
+     "url": "https://biz.chosun.com/jp/jp-finance/2026/09/27/5WNJJAWD3RGZTIKCWYJI2IYC7U/",
+     "published_at": "2026-09-27 00:00:00",
+     "collected_at": "2026-10-05 12:22:52"
+    },
+    {
+     "title": "円連動ステーブルコインJPYC、韓国Upbit上場直後に4倍急騰…投資家の評価損約5.8億円 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/1e331aca-7efc-4c46-a316-9a6817523261",
+     "published_at": "2026-09-27 12:35:27",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC価格乖離、韓国投資家2.1万人が高値掴み──買付総額約280億円＝報道（NADA NEWS） - news.yahoo.co.jp",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/a62839abea8f1e6505641a8990acc3b47ef0c0c2",
+     "published_at": "2026-09-27 18:30:00",
+     "collected_at": "2026-10-05 12:22:52"
+    },
+    {
+     "title": "JPYC、1円を4円以上で買った人も──韓国で2万人超が高値掴み - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-south-korea-20260928/",
+     "published_at": "2026-09-28 00:00:00",
+     "collected_at": "2026-10-05 21:31:18"
+    },
+    {
+     "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
+     "published_at": "2026-09-29 11:30:20",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20260926-01",
    "burst_start_date": "2026-09-26",
@@ -154,156 +384,6 @@
      "url": "https://coinpost.jp/?post_type=pressrelease&p=739566",
      "published_at": "2026-09-28 13:15:17",
      "collected_at": "2026-10-05 12:22:52"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260917-01",
-   "burst_start_date": "2026-09-17",
-   "first_collected_at": "2026-10-01 14:46:17",
-   "last_collected_at": "2026-10-05 12:22:52",
-   "article_count": 18,
-   "tags": [
-    "市場・統計",
-    "取扱い・対応",
-    "リスク・懸念",
-    "競合・市場環境",
-    "制度・規制"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」 - CoinPost",
-    "domain": "coinpost.jp",
-    "url": "https://coinpost.jp/?p=738117",
-    "published_at": "2026-09-17 15:41:38",
-    "summary": "JPYC株式会社が発行する日本円ステーブルコイン「JPYC」が9月17日、韓国最大手の仮想通貨取引所アップビットに上場する。ウォン、ビットコイン、USDTの3市場での取扱いが開始され、同時にPYUSDも上場される。岡部代表は海外取引所での上限撤廃を国内発行・償還上限の見直しのきっかけになれば幸いとコメントした。"
-   },
-   "articles": [
-    {
-     "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=738117",
-     "published_at": "2026-09-17 15:41:38",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設(NADA NEWS) - Yahoo!ファイナンス",
-     "domain": "finance.yahoo.co.jp",
-     "url": "https://finance.yahoo.co.jp/news/detail/64f57bb834ffa8c098267e06f5f085aca5a3daac",
-     "published_at": "2026-09-17 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」(CoinPost) - Yahoo!ファイナンス",
-     "domain": "finance.yahoo.co.jp",
-     "url": "https://finance.yahoo.co.jp/news/detail/c7d08a3259d4d075080c83ed3159f9cb673b5ba0",
-     "published_at": "2026-09-17 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
-     "published_at": "2026-09-17 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC、Upbit上場の影響で価格乖離（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/85b17920bfd301c6701871297bb6142684fb2219",
-     "published_at": "2026-09-17 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "円建てステーブルコインJPYC、韓国アップビット上場初日に価格急騰と急落 - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/c18da06d-d5ee-4093-882b-e7fdf9c43df7",
-     "published_at": "2026-09-17 16:06:58",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "アップビットのJPYC急騰急落 投機批判広がる - CHOSUNBIZ - Chosunbiz",
-     "domain": "biz.chosun.com",
-     "url": "https://biz.chosun.com/jp/jp-finance/2026/09/18/7QPL57O64FH7LMARYCJHBHDQSU/",
-     "published_at": "2026-09-18 00:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "アップビートが17日に上場した円ステーブルコインJPYCが流通量不足で上場価格対比200%急騰する異常現象が発生した。 - 매일경제",
-     "domain": "mk.co.kr",
-     "url": "https://www.mk.co.kr/jp/stock/12156089",
-     "published_at": "2026-09-18 09:13:32",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC、韓国アップビット上場後に想定1円から乖離 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=738488",
-     "published_at": "2026-09-18 14:40:48",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
-     "published_at": "2026-09-18 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
-     "published_at": "2026-09-18 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "円ステーブルコイン「JPYC」、韓国アップビット上場直後に価格乖離で一時約4円に急騰（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/e4b465ad693e1ec764d2d7e60e359bddc8efe06c",
-     "published_at": "2026-09-18 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "FRB3年ぶり利上げでビットコイン乱高下／メタプラネット筆頭株主が大量売却【週末に読みたい厳選5本_相場編】 - Yahoo!ファイナンス",
-     "domain": "finance.yahoo.co.jp",
-     "url": "https://finance.yahoo.co.jp/news/detail/a98d9640778d01344289943fd6f63f4c46f00ff5",
-     "published_at": "2026-09-19 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
-     "published_at": "2026-09-26 11:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC上場で急騰落 投資家2万人超が損失 - CHOSUNBIZ - Chosunbiz",
-     "domain": "biz.chosun.com",
-     "url": "https://biz.chosun.com/jp/jp-finance/2026/09/27/5WNJJAWD3RGZTIKCWYJI2IYC7U/",
-     "published_at": "2026-09-27 00:00:00",
-     "collected_at": "2026-10-05 12:22:52"
-    },
-    {
-     "title": "円連動ステーブルコインJPYC、韓国Upbit上場直後に4倍急騰…投資家の評価損約5.8億円 - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/1e331aca-7efc-4c46-a316-9a6817523261",
-     "published_at": "2026-09-27 12:35:27",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC価格乖離、韓国投資家2.1万人が高値掴み──買付総額約280億円＝報道（NADA NEWS） - news.yahoo.co.jp",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/a62839abea8f1e6505641a8990acc3b47ef0c0c2",
-     "published_at": "2026-09-27 18:30:00",
-     "collected_at": "2026-10-05 12:22:52"
-    },
-    {
-     "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
-     "published_at": "2026-09-29 11:30:20",
-     "collected_at": "2026-10-01 14:46:17"
     }
    ]
   },
@@ -495,65 +575,6 @@
      "url": "https://coinpost.jp/?p=740431",
      "published_at": "2026-10-02 17:20:33",
      "collected_at": "2026-10-03 02:50:02"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260928-01",
-   "burst_start_date": "2026-09-28",
-   "first_collected_at": "2026-10-01 14:46:17",
-   "last_collected_at": "2026-10-02 21:31:20",
-   "article_count": 5,
-   "tags": [
-    "取扱い・対応",
-    "市場・統計",
-    "競合・市場環境",
-    "制度・規制",
-    "リスク・懸念"
-   ],
-   "tags_mode": "取扱い・対応",
-   "representative": {
-    "title": "JPYC、海外取引所HTX（旧Huobi）に上場（NADA NEWS） - Yahoo!ニュース",
-    "domain": "news.yahoo.co.jp",
-    "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
-    "published_at": "2026-09-28 19:25:58",
-    "summary": "暗号資産取引所HTXが9月28日にJPYCを上場することを発表した。入金は既に受け付けており、現物取引は同日22時、出金は翌日22時に開始予定である。先行上場したUpbitではJPYCの価格が1円から乖離する動きが見られている。"
-   },
-   "articles": [
-    {
-     "title": "JPYC、海外取引所HTX（旧Huobi）に上場（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
-     "published_at": "2026-09-28 19:25:58",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "韓国「仮想通貨マーケットメイク」解禁を検討｜JPYC急騰が契機に - bittimes.net",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/229496.html",
-     "published_at": "2026-09-29 06:41:55",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/611867",
-     "published_at": "2026-09-29 14:53:39",
-     "collected_at": "2026-10-02 21:31:20"
-    },
-    {
-     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
-     "published_at": "2026-09-29 14:57:41",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "【9/29話題】Bitcoin Japanがビットコイン初取得、シティがトークン化預金の送金サービスを日本に展開、JPYCがHTXに上場など（音声ニュース） - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/612076",
-     "published_at": "2026-09-29 21:39:05",
-     "collected_at": "2026-10-01 14:46:17"
     }
    ]
   },
