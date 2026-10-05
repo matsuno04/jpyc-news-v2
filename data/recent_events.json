@@ -1,8 +1,204 @@
 {
- "generated_at": "2026-10-05 21:32:29",
+ "generated_at": "2026-10-06 05:44:05",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261005-02",
+   "burst_start_date": "2026-10-05",
+   "first_collected_at": "2026-10-06 05:42:49",
+   "last_collected_at": "2026-10-06 05:42:49",
+   "article_count": 1,
+   "tags": [
+    "解説・論説"
+   ],
+   "tags_mode": "解説・論説",
+   "representative": {
+    "title": "ステーブルコインだけで暮らせるか 業界3氏が○×で回答 - CoinPost",
+    "domain": "coinpost.jp",
+    "url": "https://coinpost.jp/?p=740485",
+    "published_at": "2026-10-05 18:20:39",
+    "summary": "AI・オンチェーン金融サミットで、ステーブルコインが生活や国際送金、納税などの領域で活用可能かをテーマに、三井住友フィナンシャルグループ、JPYC、Startale Groupの3者が○×で議論した。ステーバコインだけで生活できる時代の到来、国際送金への活用、納税対応などについて、各登壇者が異なる視点から見解を述べた。"
+   },
+   "articles": [
+    {
+     "title": "ステーブルコインだけで暮らせるか 業界3氏が○×で回答 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=740485",
+     "published_at": "2026-10-05 18:20:39",
+     "collected_at": "2026-10-06 05:42:49"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261005-01",
+   "burst_start_date": "2026-10-05",
+   "first_collected_at": "2026-10-06 05:42:49",
+   "last_collected_at": "2026-10-06 05:42:49",
+   "article_count": 2,
+   "tags": [
+    "活用事例",
+    "取扱い・対応"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000077.000065959.html",
+    "published_at": "2026-10-05 18:00:01",
+    "summary": "株式会社UPBONDは、JPYCを貸し出して貸借料を受け取る「JPYC Lending」サービスを10月19日より提供開始する。事前登録は10月5日から紹介限定で開始し、キャンペーン期間中は年率4%、通常時は年率3%の貸借料を提供する。"
+   },
+   "articles": [
+    {
+     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000077.000065959.html",
+     "published_at": "2026-10-05 18:00:01",
+     "collected_at": "2026-10-06 05:42:49"
+    },
+    {
+     "title": "UPBONDが提供するJPYC Lendingの事前登録開始とサービス詳細のご案内 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/cryptocurrency/34019/",
+     "published_at": "2026-10-05 21:24:43",
+     "collected_at": "2026-10-06 05:42:49"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260930-01",
+   "burst_start_date": "2026-09-30",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-06 05:42:49",
+   "article_count": 16,
+   "tags": [
+    "取扱い・対応",
+    "提携・連携",
+    "活用事例"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "au PAY、暗号資産とJPYCで支払い可能に──Pontaポイント交換にも対応 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/aupay-crypto-jpyc-20260930/",
+    "published_at": "2026-09-30 00:00:00",
+    "summary": "KDDIとHashPort、Coincheckが提携し、au PAYアプリ上で暗号資産ウォレット「αU wallet」の提供を開始した。ユーザーはPontaポイントをJPYCを含む暗号資産に交換でき、保有資産をau PAY残高にチャージして全国の加盟店で決済利用できる。"
+   },
+   "articles": [
+    {
+     "title": "au PAY、暗号資産とJPYCで支払い可能に──Pontaポイント交換にも対応 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/aupay-crypto-jpyc-20260930/",
+     "published_at": "2026-09-30 00:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "au PAYに暗号資産ウォレット搭載｜Pontaから交換・決済も可能に - bittimes.net",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/229753.html",
+     "published_at": "2026-09-30 07:08:06",
+     "collected_at": "2026-10-02 21:31:20"
+    },
+    {
+     "title": "au PAY アプリ上から使える暗号資産ウォレットを提供開始 - KDDI ニュースルーム",
+     "domain": "newsroom.kddi.com",
+     "url": "https://newsroom.kddi.com/news/detail/kddi_nr-1182_4741.html",
+     "published_at": "2026-09-30 13:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "まだ見ぬ価値を暮らしの中へ - HashPort",
+     "domain": "hashport.io",
+     "url": "https://hashport.io/news/au_wallet_20260930",
+     "published_at": "2026-09-30 13:01:37",
+     "collected_at": "2026-10-02 21:31:20"
+    },
+    {
+     "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
+     "published_at": "2026-09-30 13:20:49",
+     "collected_at": "2026-10-02 21:31:20"
+    },
+    {
+     "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/612240",
+     "published_at": "2026-09-30 13:45:32",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に (あたらしい経済) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/8343554d4c4d6177b36a57883db6aa4b7fc16021",
+     "published_at": "2026-09-30 13:50:05",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "au PAY アプリ上から使える暗号資産ウォレットを提供開始 - tv-tokyo.co.jp",
+     "domain": "tv-tokyo.co.jp",
+     "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/260252.html",
+     "published_at": "2026-09-30 16:00:00",
+     "collected_at": "2026-10-03 21:31:23"
+    },
+    {
+     "title": "au PAYアプリに暗号資産ウォレット、PontaポイントをWBTCやETHに交換可能に - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/d5328bf2-c79e-42fb-b28f-1e3e36b4423e",
+     "published_at": "2026-09-30 16:25:20",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "au PAYで暗号資産ウォレット開始 Pontaポイントから交換・決済も可能 - watch.impress.co.jp",
+     "domain": "watch.impress.co.jp",
+     "url": "https://www.watch.impress.co.jp/docs/news/2144551.html",
+     "published_at": "2026-09-30 17:02:11",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "KDDI、au PAYアプリで暗号資産ウォレット提供開始｜αU wallet - innovaTopia",
+     "domain": "innovatopia.jp",
+     "url": "https://innovatopia.jp/blockchain/blockchain-news/118404/",
+     "published_at": "2026-10-01 09:11:05",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "Pontaポイントで暗号資産を買える「αU wallet」開始 au PAY残高に戻して支払いも可能 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/poitan_193571/",
+     "published_at": "2026-10-01 10:02:27",
+     "collected_at": "2026-10-01 21:30:24"
+    },
+    {
+     "title": "KDDIら、au PAYに暗号資産ウォレット開始｜Pontaで交換可能 - Coinspeaker",
+     "domain": "coinspeaker.com",
+     "url": "https://www.coinspeaker.com/jp/kddi-au-pay-crypto-wallet-alpha-u/",
+     "published_at": "2026-10-01 10:57:09",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "暗号資産を街でのお買い物に活用！au PAYアプリ内で完結する「αU wallet」の新サービス - DXマガジン",
+     "domain": "dxmagazine.jp",
+     "url": "https://dxmagazine.jp/news/2654ko82/",
+     "published_at": "2026-10-01 13:18:45",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "au PAYで暗号資産ウォレット開始 ポイント交換・決済に対応 - PlusWeb3",
+     "domain": "plus-web3.com",
+     "url": "https://plus-web3.com/media/latestnews_1002_10884/",
+     "published_at": "2026-10-02 13:07:53",
+     "collected_at": "2026-10-02 21:31:20"
+    },
+    {
+     "title": "Pontaポイントが暗号資産に！KDDIがau PAYアプリで「αU wallet」ミニアプリを提供開始 - DXマガジン",
+     "domain": "dxmagazine.jp",
+     "url": "https://dxmagazine.jp/news/2655ota08/",
+     "published_at": "2026-10-05 21:19:42",
+     "collected_at": "2026-10-06 05:42:49"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20260928-01",
    "burst_start_date": "2026-09-28",
@@ -384,133 +580,6 @@
      "url": "https://coinpost.jp/?post_type=pressrelease&p=739566",
      "published_at": "2026-09-28 13:15:17",
      "collected_at": "2026-10-05 12:22:52"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260930-01",
-   "burst_start_date": "2026-09-30",
-   "first_collected_at": "2026-10-01 14:46:17",
-   "last_collected_at": "2026-10-03 21:31:23",
-   "article_count": 15,
-   "tags": [
-    "取扱い・対応",
-    "提携・連携",
-    "活用事例"
-   ],
-   "tags_mode": "取扱い・対応",
-   "representative": {
-    "title": "au PAY、暗号資産とJPYCで支払い可能に──Pontaポイント交換にも対応 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/aupay-crypto-jpyc-20260930/",
-    "published_at": "2026-09-30 00:00:00",
-    "summary": "KDDIとHashPort、Coincheckが提携し、au PAYアプリ上で暗号資産ウォレット「αU wallet」の提供を開始した。ユーザーはPontaポイントをJPYCを含む暗号資産に交換でき、保有資産をau PAY残高にチャージして全国の加盟店で決済利用できる。"
-   },
-   "articles": [
-    {
-     "title": "au PAY、暗号資産とJPYCで支払い可能に──Pontaポイント交換にも対応 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/aupay-crypto-jpyc-20260930/",
-     "published_at": "2026-09-30 00:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "au PAYに暗号資産ウォレット搭載｜Pontaから交換・決済も可能に - bittimes.net",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/229753.html",
-     "published_at": "2026-09-30 07:08:06",
-     "collected_at": "2026-10-02 21:31:20"
-    },
-    {
-     "title": "au PAY アプリ上から使える暗号資産ウォレットを提供開始 - KDDI ニュースルーム",
-     "domain": "newsroom.kddi.com",
-     "url": "https://newsroom.kddi.com/news/detail/kddi_nr-1182_4741.html",
-     "published_at": "2026-09-30 13:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "まだ見ぬ価値を暮らしの中へ - HashPort",
-     "domain": "hashport.io",
-     "url": "https://hashport.io/news/au_wallet_20260930",
-     "published_at": "2026-09-30 13:01:37",
-     "collected_at": "2026-10-02 21:31:20"
-    },
-    {
-     "title": "KDDIなど3社、au PAYアプリで暗号資産ウォレット「αU wallet」の提供開始へ（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/6d92ff5685a900f95d351e732314032819f0de46",
-     "published_at": "2026-09-30 13:20:49",
-     "collected_at": "2026-10-02 21:31:20"
-    },
-    {
-     "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/612240",
-     "published_at": "2026-09-30 13:45:32",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "KDDIら、au PAYで暗号資産ウォレット提供開始。PontaポイントでJPYCなど取得可能に (あたらしい経済) - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/8343554d4c4d6177b36a57883db6aa4b7fc16021",
-     "published_at": "2026-09-30 13:50:05",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "au PAY アプリ上から使える暗号資産ウォレットを提供開始 - tv-tokyo.co.jp",
-     "domain": "tv-tokyo.co.jp",
-     "url": "https://www.tv-tokyo.co.jp/plus/external-pr/entry/260252.html",
-     "published_at": "2026-09-30 16:00:00",
-     "collected_at": "2026-10-03 21:31:23"
-    },
-    {
-     "title": "au PAYアプリに暗号資産ウォレット、PontaポイントをWBTCやETHに交換可能に - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/d5328bf2-c79e-42fb-b28f-1e3e36b4423e",
-     "published_at": "2026-09-30 16:25:20",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "au PAYで暗号資産ウォレット開始 Pontaポイントから交換・決済も可能 - watch.impress.co.jp",
-     "domain": "watch.impress.co.jp",
-     "url": "https://www.watch.impress.co.jp/docs/news/2144551.html",
-     "published_at": "2026-09-30 17:02:11",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "KDDI、au PAYアプリで暗号資産ウォレット提供開始｜αU wallet - innovaTopia",
-     "domain": "innovatopia.jp",
-     "url": "https://innovatopia.jp/blockchain/blockchain-news/118404/",
-     "published_at": "2026-10-01 09:11:05",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "Pontaポイントで暗号資産を買える「αU wallet」開始 au PAY残高に戻して支払いも可能 - Infoseek",
-     "domain": "news.infoseek.co.jp",
-     "url": "https://news.infoseek.co.jp/article/poitan_193571/",
-     "published_at": "2026-10-01 10:02:27",
-     "collected_at": "2026-10-01 21:30:24"
-    },
-    {
-     "title": "KDDIら、au PAYに暗号資産ウォレット開始｜Pontaで交換可能 - Coinspeaker",
-     "domain": "coinspeaker.com",
-     "url": "https://www.coinspeaker.com/jp/kddi-au-pay-crypto-wallet-alpha-u/",
-     "published_at": "2026-10-01 10:57:09",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "暗号資産を街でのお買い物に活用！au PAYアプリ内で完結する「αU wallet」の新サービス - DXマガジン",
-     "domain": "dxmagazine.jp",
-     "url": "https://dxmagazine.jp/news/2654ko82/",
-     "published_at": "2026-10-01 13:18:45",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "au PAYで暗号資産ウォレット開始 ポイント交換・決済に対応 - PlusWeb3",
-     "domain": "plus-web3.com",
-     "url": "https://plus-web3.com/media/latestnews_1002_10884/",
-     "published_at": "2026-10-02 13:07:53",
-     "collected_at": "2026-10-02 21:31:20"
     }
    ]
   },
