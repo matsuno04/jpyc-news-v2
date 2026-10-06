@@ -1,8 +1,137 @@
 {
- "generated_at": "2026-10-06 05:44:05",
+ "generated_at": "2026-10-06 21:32:55",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261006-02",
+   "burst_start_date": "2026-10-06",
+   "first_collected_at": "2026-10-06 21:31:24",
+   "last_collected_at": "2026-10-06 21:31:24",
+   "article_count": 1,
+   "tags": [
+    "活用事例",
+    "実証実験",
+    "提携・連携"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "円ステーブルコインJPYSCで利払いする社債、募集開始──年5％・1年 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpysc-corporate-bond-20261006/",
+    "published_at": "2026-10-06 00:00:00",
+    "summary": "スターテイルジャパンは、JPYSCで利息と償還金を支払うデジタル社債の募集を開始した。年利率5.00%、1年期限で、1口10万円から申し込み可能であり、発行体はこれをJPYSCの実証実験と位置づけている。スターテイルグループのCEOは、本社債をJPYSCの活用と普及に向けたシステム開発などに充当する予定としている。"
+   },
+   "articles": [
+    {
+     "title": "円ステーブルコインJPYSCで利払いする社債、募集開始──年5％・1年 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpysc-corporate-bond-20261006/",
+     "published_at": "2026-10-06 00:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261006-01",
+   "burst_start_date": "2026-10-06",
+   "first_collected_at": "2026-10-06 21:31:24",
+   "last_collected_at": "2026-10-06 21:31:24",
+   "article_count": 4,
+   "tags": [
+    "取扱い・対応",
+    "提携・連携",
+    "市場・統計",
+    "活用事例"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
+    "published_at": "2026-10-06 00:00:00",
+    "summary": "マイナウォレットがJPYC EX連携APIを利用し、JPYCの発行と償還をアプリ内で完結できる機能の提供を開始した。同時にJinaCoinのダッシュボードデータによると、JPYCの総流通量は9月24日の39.539億JPYCから10月6日時点で36.369億JPYCに減少し、8.02％の減少となっている。"
+   },
+   "articles": [
+    {
+     "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
+     "published_at": "2026-10-06 00:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000013.000125732.html",
+     "published_at": "2026-10-06 10:50:02",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレット、JPYCの発行・償還に対応（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
+     "published_at": "2026-10-06 14:25:20",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレットでJPYCの発行・償還が可能に、JPYC EXと連携で（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/823852c515236d7d824b4a9c1900d12776d26d8a",
+     "published_at": "2026-10-06 15:57:49",
+     "collected_at": "2026-10-06 21:31:24"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261005-01",
+   "burst_start_date": "2026-10-05",
+   "first_collected_at": "2026-10-06 05:42:49",
+   "last_collected_at": "2026-10-06 21:31:24",
+   "article_count": 4,
+   "tags": [
+    "活用事例",
+    "取扱い・対応"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 (2026年10月5日掲載) - ライブドアニュース",
+    "domain": "news.livedoor.com",
+    "url": "https://news.livedoor.com/pr_topics/detail/32494813/",
+    "published_at": "2026-10-05 18:00:00",
+    "summary": "UPBONDがJPYCを担保にした貸出サービス「JPYC Lending」を発表した。年率3～4%の貸借料を受け取れる紹介経由限定サービスで、事前登録は2026年10月5日開始、サービス提供は同10月19日より始まる予定。"
+   },
+   "articles": [
+    {
+     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 (2026年10月5日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32494813/",
+     "published_at": "2026-10-05 18:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000077.000065959.html",
+     "published_at": "2026-10-05 18:00:01",
+     "collected_at": "2026-10-06 05:42:49"
+    },
+    {
+     "title": "UPBONDが提供するJPYC Lendingの事前登録開始とサービス詳細のご案内 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/cryptocurrency/34019/",
+     "published_at": "2026-10-05 21:24:43",
+     "collected_at": "2026-10-06 05:42:49"
+    },
+    {
+     "title": "JPYCレンディング、UPBONDが19日開始──年3〜4％、USDCに換えて運用 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/upbond-jpyc-lend-20261006/",
+     "published_at": "2026-10-06 00:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261005-02",
    "burst_start_date": "2026-10-05",
@@ -26,41 +155,6 @@
      "domain": "coinpost.jp",
      "url": "https://coinpost.jp/?p=740485",
      "published_at": "2026-10-05 18:20:39",
-     "collected_at": "2026-10-06 05:42:49"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261005-01",
-   "burst_start_date": "2026-10-05",
-   "first_collected_at": "2026-10-06 05:42:49",
-   "last_collected_at": "2026-10-06 05:42:49",
-   "article_count": 2,
-   "tags": [
-    "活用事例",
-    "取扱い・対応"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 - PR TIMES",
-    "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000077.000065959.html",
-    "published_at": "2026-10-05 18:00:01",
-    "summary": "株式会社UPBONDは、JPYCを貸し出して貸借料を受け取る「JPYC Lending」サービスを10月19日より提供開始する。事前登録は10月5日から紹介限定で開始し、キャンペーン期間中は年率4%、通常時は年率3%の貸借料を提供する。"
-   },
-   "articles": [
-    {
-     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000077.000065959.html",
-     "published_at": "2026-10-05 18:00:01",
-     "collected_at": "2026-10-06 05:42:49"
-    },
-    {
-     "title": "UPBONDが提供するJPYC Lendingの事前登録開始とサービス詳細のご案内 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/cryptocurrency/34019/",
-     "published_at": "2026-10-05 21:24:43",
      "collected_at": "2026-10-06 05:42:49"
     }
    ]
