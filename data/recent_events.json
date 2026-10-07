@@ -1,8 +1,92 @@
 {
- "generated_at": "2026-10-07 03:19:32",
+ "generated_at": "2026-10-07 21:31:58",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261007-01",
+   "burst_start_date": "2026-10-07",
+   "first_collected_at": "2026-10-07 21:31:25",
+   "last_collected_at": "2026-10-07 21:31:25",
+   "article_count": 1,
+   "tags": [
+    "実証実験",
+    "解説・論説"
+   ],
+   "tags_mode": "実証実験",
+   "representative": {
+    "title": "AIエージェント決済・運用の最前線：ステーブルコインが拓く未来〜「生成AIサミット（GenAI/SUM）2026」 - DG Lab Haus",
+    "domain": "media.dglab.com",
+    "url": "https://media.dglab.com/2026/10/07-genai-sum2026-01/amp/",
+    "published_at": "2026-10-07 00:00:00",
+    "summary": "10月6日に開催された「生成AIサミット2026」のワークショップで、AIエージェントが自律的に経済活動を行う場合の決済手段について議論された。登壇したJPYC株式会社代表取締役の岡部典孝氏は、既にJPYCを使ってAIエージェントが買い物をする事例が出てきていると述べ、ステーブルコインがマイクロペイメントや機械間決済で不可欠なインフラになるとの見解が示された。"
+   },
+   "articles": [
+    {
+     "title": "AIエージェント決済・運用の最前線：ステーブルコインが拓く未来〜「生成AIサミット（GenAI/SUM）2026」 - DG Lab Haus",
+     "domain": "media.dglab.com",
+     "url": "https://media.dglab.com/2026/10/07-genai-sum2026-01/amp/",
+     "published_at": "2026-10-07 00:00:00",
+     "collected_at": "2026-10-07 21:31:25"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261005-01",
+   "burst_start_date": "2026-10-05",
+   "first_collected_at": "2026-10-06 05:42:49",
+   "last_collected_at": "2026-10-07 21:31:25",
+   "article_count": 5,
+   "tags": [
+    "活用事例",
+    "取扱い・対応"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 (2026年10月5日掲載) - ライブドアニュース",
+    "domain": "news.livedoor.com",
+    "url": "https://news.livedoor.com/pr_topics/detail/32494813/",
+    "published_at": "2026-10-05 18:00:00",
+    "summary": "UPBONDがJPYCを担保にした貸出サービス「JPYC Lending」を発表した。年率3～4%の貸借料を受け取れる紹介経由限定サービスで、事前登録は2026年10月5日開始、サービス提供は同10月19日より始まる予定。"
+   },
+   "articles": [
+    {
+     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 (2026年10月5日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32494813/",
+     "published_at": "2026-10-05 18:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000077.000065959.html",
+     "published_at": "2026-10-05 18:00:01",
+     "collected_at": "2026-10-06 05:42:49"
+    },
+    {
+     "title": "UPBONDが提供するJPYC Lendingの事前登録開始とサービス詳細のご案内 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34019/",
+     "published_at": "2026-10-05 21:24:43",
+     "collected_at": "2026-10-07 21:31:25"
+    },
+    {
+     "title": "UPBONDが提供するJPYC Lendingの事前登録開始とサービス詳細のご案内 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/cryptocurrency/34019/",
+     "published_at": "2026-10-05 21:24:43",
+     "collected_at": "2026-10-06 05:42:49"
+    },
+    {
+     "title": "JPYCレンディング、UPBONDが19日開始──年3〜4％、USDCに換えて運用 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/upbond-jpyc-lend-20261006/",
+     "published_at": "2026-10-06 00:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261006-01",
    "burst_start_date": "2026-10-06",
@@ -142,55 +226,6 @@
      "title": "円ステーブルコインJPYSCで利払いする社債、募集開始──年5％・1年 - JinaCoin",
      "domain": "jinacoin.ne.jp",
      "url": "https://jinacoin.ne.jp/jpysc-corporate-bond-20261006/",
-     "published_at": "2026-10-06 00:00:00",
-     "collected_at": "2026-10-06 21:31:24"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261005-01",
-   "burst_start_date": "2026-10-05",
-   "first_collected_at": "2026-10-06 05:42:49",
-   "last_collected_at": "2026-10-06 21:31:24",
-   "article_count": 4,
-   "tags": [
-    "活用事例",
-    "取扱い・対応"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 (2026年10月5日掲載) - ライブドアニュース",
-    "domain": "news.livedoor.com",
-    "url": "https://news.livedoor.com/pr_topics/detail/32494813/",
-    "published_at": "2026-10-05 18:00:00",
-    "summary": "UPBONDがJPYCを担保にした貸出サービス「JPYC Lending」を発表した。年率3～4%の貸借料を受け取れる紹介経由限定サービスで、事前登録は2026年10月5日開始、サービス提供は同10月19日より始まる予定。"
-   },
-   "articles": [
-    {
-     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 (2026年10月5日掲載) - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32494813/",
-     "published_at": "2026-10-05 18:00:00",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000077.000065959.html",
-     "published_at": "2026-10-05 18:00:01",
-     "collected_at": "2026-10-06 05:42:49"
-    },
-    {
-     "title": "UPBONDが提供するJPYC Lendingの事前登録開始とサービス詳細のご案内 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/cryptocurrency/34019/",
-     "published_at": "2026-10-05 21:24:43",
-     "collected_at": "2026-10-06 05:42:49"
-    },
-    {
-     "title": "JPYCレンディング、UPBONDが19日開始──年3〜4％、USDCに換えて運用 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/upbond-jpyc-lend-20261006/",
      "published_at": "2026-10-06 00:00:00",
      "collected_at": "2026-10-06 21:31:24"
     }
@@ -1274,271 +1309,6 @@
      "url": "https://news.yahoo.co.jp/articles/b87670dedd3e360c17ee58060bea863e7cf5416a",
      "published_at": "2026-09-07 18:45:00",
      "collected_at": "2026-09-14 11:52:20"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260831-01",
-   "burst_start_date": "2026-08-31",
-   "first_collected_at": "2026-08-31 11:56:55",
-   "last_collected_at": "2026-09-07 11:20:45",
-   "article_count": 5,
-   "tags": [
-    "活用事例",
-    "取扱い・対応"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "韓国観光で「JPYC」の決済促進へ　Unifi内に観光商品・割引特典掲載 - ｄメニューニュース",
-    "domain": "topics.smt.docomo.ne.jp",
-    "url": "https://topics.smt.docomo.ne.jp/article/ovo/life/ovo-O2091332",
-    "published_at": "2026-08-31 10:39:00",
-    "summary": "LINE NEXTは、LINEアプリ上のウォレット「Unifi」内に韓国観光向けの新サービス「K-Pick」を開始し、日本人観光客がJPYCでウォンに両替することなく韓国の観光商品を決済できる環境を提供した。割引特典やキャッシュバック等のキャンペーンも実施されている。"
-   },
-   "articles": [
-    {
-     "title": "韓国観光で「JPYC」の決済促進へ　Unifi内に観光商品・割引特典掲載 - ｄメニューニュース",
-     "domain": "topics.smt.docomo.ne.jp",
-     "url": "https://topics.smt.docomo.ne.jp/article/ovo/life/ovo-O2091332",
-     "published_at": "2026-08-31 10:39:00",
-     "collected_at": "2026-09-07 11:20:45"
-    },
-    {
-     "title": "韓国観光で「JPYC」の決済促進へ　Unifi内に観光商品・割引特典掲載 - ｄメニューニュース",
-     "domain": "topics.smt.docomo.ne.jp",
-     "url": "https://topics.smt.docomo.ne.jp/article/ovo/life/ovo-O2091332?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch2",
-     "published_at": "2026-08-31 10:39:00",
-     "collected_at": "2026-08-31 11:56:55"
-    },
-    {
-     "title": "韓国観光で「JPYC」の決済促進へ Unifi内に観光商品・割引特典掲載 - OVO [オーヴォ]",
-     "domain": "ovo.kyodo.co.jp",
-     "url": "https://ovo.kyodo.co.jp/news/biz/a-2091332",
-     "published_at": "2026-08-31 10:39:15",
-     "collected_at": "2026-09-04 22:34:12"
-    },
-    {
-     "title": "韓国観光で「JPYC」の決済促進へ Unifi内に観光商品・割引特典掲載 - 千葉テレビ放送",
-     "domain": "chiba-tv.com",
-     "url": "https://www.chiba-tv.com/plus/detail/2026081959452",
-     "published_at": "2026-08-31 10:47:25",
-     "collected_at": "2026-08-31 11:56:55"
-    },
-    {
-     "title": "韓国観光で「JPYC」の決済促進へ Unifi内に観光商品・割引特典掲載（オーヴォ） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/5d23a31e8c2fd40427ff07d28ecc7a1114ea69a5",
-     "published_at": "2026-09-04 15:43:00",
-     "collected_at": "2026-09-07 11:20:45"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260828-02",
-   "burst_start_date": "2026-08-28",
-   "first_collected_at": "2026-09-07 11:20:45",
-   "last_collected_at": "2026-09-07 11:20:45",
-   "article_count": 1,
-   "tags": [
-    "活用事例",
-    "実証実験"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "被災地から生まれた「JPYCで回る」防災インフラ - iolite.net",
-    "domain": "iolite.net",
-    "url": "https://iolite.net/online/yatsushiro-jpyc-interview",
-    "published_at": "2026-08-28 18:13:33",
-    "summary": "被災地支援サイトの運営者が、JPYC決済を導入して支援金を募集する新しい形態を実装した事例。即時着金や手数料0%での少額寄付が可能な利点を活かし、集まったJPYCで被災者に業務委託費として支払うなど、地域経済循環につなげる構想を展開している。"
-   },
-   "articles": [
-    {
-     "title": "被災地から生まれた「JPYCで回る」防災インフラ - iolite.net",
-     "domain": "iolite.net",
-     "url": "https://iolite.net/online/yatsushiro-jpyc-interview",
-     "published_at": "2026-08-28 18:13:33",
-     "collected_at": "2026-09-07 11:20:45"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260827-01",
-   "burst_start_date": "2026-08-27",
-   "first_collected_at": "2026-08-31 11:56:55",
-   "last_collected_at": "2026-09-07 11:20:45",
-   "article_count": 12,
-   "tags": [
-    "実証実験",
-    "提携・連携",
-    "活用事例",
-    "取扱い・対応",
-    "解説・論説"
-   ],
-   "tags_mode": "実証実験",
-   "representative": {
-    "title": "大阪府、JPYC・USDC決済など金融実証4事業を採択｜府内で事業化へ - bittimes.net",
-    "domain": "bittimes.net",
-    "url": "https://bittimes.net/news/227685.html",
-    "published_at": "2026-08-27 07:31:00",
-    "summary": "大阪府は2026年8月26日、ブロックチェーンやAIを用いた金融サービスの実証実験を支援する補助金の交付先として、HashPort、マイナウォレット、Mi＆T、SBI XDC Network APACの4事業を採択し、総額2,889万円を交付すると発表しました。3事業はJPYCやUSDCを使った決済実証を、1事業は輸出ファクタリングのオンチェーン化を実施し、令和9年4月以降の府内での本格展開を目指します。"
-   },
-   "articles": [
-    {
-     "title": "大阪府、JPYC・USDC決済など金融実証4事業を採択｜府内で事業化へ - bittimes.net",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/227685.html",
-     "published_at": "2026-08-27 07:31:00",
-     "collected_at": "2026-08-31 11:56:55"
-    },
-    {
-     "title": "大阪府、JPYC・USDC決済など4事業に補助金──HashPortらを採択（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/d4f4096076be5df69e694fe73fbe271be59f748b",
-     "published_at": "2026-08-27 12:03:34",
-     "collected_at": "2026-08-31 11:56:55"
-    },
-    {
-     "title": "大阪府、金融実証4事業に交付決定 3件はJPYC・USDC決済(CoinPost) - Yahoo!ファイナンス",
-     "domain": "finance.yahoo.co.jp",
-     "url": "https://finance.yahoo.co.jp/news/detail/1751bf1d4a8658c7b453a70e25d5c474cc9ce29e",
-     "published_at": "2026-08-27 16:00:00",
-     "collected_at": "2026-09-07 11:20:45"
-    },
-    {
-     "title": "大阪府、金融実証4事業に交付決定 3件はJPYC・USDC決済 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=733766",
-     "published_at": "2026-08-27 16:48:06",
-     "collected_at": "2026-08-31 11:56:55"
-    },
-    {
-     "title": "府が先駆的金融実証に補助金交付 JPYC・USDC決済の実証が中心に - pressrelease-jp.com",
-     "domain": "pressrelease-jp.com",
-     "url": "https://pressrelease-jp.com/osaka-fintech-jpyc-usdc-shitaku",
-     "published_at": "2026-08-27 18:11:17",
-     "collected_at": "2026-09-07 11:20:45"
-    },
-    {
-     "title": "大阪府、ステーブルコイン決済など4事業に補助金 最大1000万円 - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/4e58c451-d22c-4d94-b298-76c0fa344729",
-     "published_at": "2026-08-28 03:06:54",
-     "collected_at": "2026-08-31 11:56:55"
-    },
-    {
-     "title": "大阪府の金融実証補助金、初年度は4件2889万円｜HashPortら採択 - innovaTopia",
-     "domain": "innovatopia.jp",
-     "url": "https://innovatopia.jp/blockchain/blockchain-news/117166/",
-     "published_at": "2026-08-28 07:44:15",
-     "collected_at": "2026-08-31 11:56:55"
-    },
-    {
-     "title": "大阪府、ステーブルコイン決済など4事業に補助金。ハッシュポートやマイナウォレットら採択（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/fac3c708809db56d70f8e5e3a675f8014e178bf1",
-     "published_at": "2026-08-28 13:39:08",
-     "collected_at": "2026-08-31 11:56:55"
-    },
-    {
-     "title": "Mi&T、JPYCを活用した実店舗決済実証が大阪府の補助対象事業に決定 (2026年8月31日掲載) - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32205637/",
-     "published_at": "2026-08-31 17:49:43",
-     "collected_at": "2026-09-04 22:34:12"
-    },
-    {
-     "title": "Mi&T、JPYCを活用した実店舗決済実証が大阪府の補助対象事業に決定 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000003.000187870.html",
-     "published_at": "2026-08-31 17:49:43",
-     "collected_at": "2026-09-04 22:34:12"
-    },
-    {
-     "title": "Mi&T、JPYCを活用した実店舗決済実証が大阪府の補助対象事業に決定 - Infoseek",
-     "domain": "news.infoseek.co.jp",
-     "url": "https://news.infoseek.co.jp/article/prtimes_000000003_000187870/",
-     "published_at": "2026-08-31 18:15:24",
-     "collected_at": "2026-09-07 11:20:45"
-    },
-    {
-     "title": "Mi&T、大阪府の補助対象事業に選ばれたJPYC実店舗決済実証の開始決定 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/card/33519/",
-     "published_at": "2026-08-31 21:43:12",
-     "collected_at": "2026-09-07 11:20:45"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260821-01",
-   "burst_start_date": "2026-08-21",
-   "first_collected_at": "2026-08-24 10:01:55",
-   "last_collected_at": "2026-09-07 11:20:45",
-   "article_count": 7,
-   "tags": [
-    "活用事例",
-    "提携・連携",
-    "発行・資金",
-    "解説・論説",
-    "制度・規制"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか（NADA NEWS） - Yahoo!ニュース",
-    "domain": "news.yahoo.co.jp",
-    "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
-    "published_at": "2026-08-21 09:06:00",
-    "summary": "物流大手AZ-COM丸和ホールディングスは、JPYC株式会社に約10億円を投じて議決権2.9%を取得し、約2300社の協力会社への委託費支払いにJPYCを段階的に導入することを決定した。同社は振込手数料削減と支払いスピード向上を目指し、月174億円規模の支払いのうち一部をJPYCで処理する計画だが、1回あたり100万円の法定上限や会計基準の空白など制度面の課題に直面している。"
-   },
-   "articles": [
-    {
-     "title": "【取材】アマゾン配送大手AZ-COM丸和は、なぜ2300社への支払いにJPYC導入を決めたのか（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/7f212f47d3b0045243778ce21d49b1fb0020d81e",
-     "published_at": "2026-08-21 09:06:00",
-     "collected_at": "2026-08-24 10:01:55"
-    },
-    {
-     "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC(NADA NEWS) - Yahoo!ファイナンス",
-     "domain": "finance.yahoo.co.jp",
-     "url": "https://finance.yahoo.co.jp/news/detail/0a9e57187fc6786b50c81f7922fe0db28389b41d/photo/view-001",
-     "published_at": "2026-08-22 13:38:00",
-     "collected_at": "2026-08-24 10:01:55"
-    },
-    {
-     "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/0a9e57187fc6786b50c81f7922fe0db28389b41d",
-     "published_at": "2026-08-22 13:38:32",
-     "collected_at": "2026-08-31 11:56:55"
-    },
-    {
-     "title": "【取材後記】キャッシュフローへの執念が辿り着いた、ステーブルコインJPYC - NADA NEWS",
-     "domain": "nadanews.com",
-     "url": "https://www.nadanews.com/365079/",
-     "published_at": "2026-08-22 13:38:32",
-     "collected_at": "2026-08-24 10:01:55"
-    },
-    {
-     "title": "ステーブルコイン支払いでコスト負担を低減へ。3PLの丸和が日本円ステーブルコイン「JPYC」提供企業と資本業務提携 - ネットショップ担当者フォーラム",
-     "domain": "netshop.impress.co.jp",
-     "url": "https://netshop.impress.co.jp/n/2026/08/25/16612",
-     "published_at": "2026-08-25 00:00:00",
-     "collected_at": "2026-09-04 22:34:12"
-    },
-    {
-     "title": "ステーブルコイン支払いでコスト負担を低減へ。3PLの丸和が日本円ステーブルコイン「JPYC」提供企業と資本業務提携 - ｄメニューニュース",
-     "domain": "topics.smt.docomo.ne.jp",
-     "url": "https://topics.smt.docomo.ne.jp/article/netshop_impress/trend/netshop_impress-netshop.impress.co.jp_node_16612",
-     "published_at": "2026-08-25 10:00:00",
-     "collected_at": "2026-08-31 11:56:55"
-    },
-    {
-     "title": "ステーブルコイン支払いでコスト負担を低減へ。3PLの丸和が日本円ステーブルコイン「JPYC」提供企業と資本業務提携 - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/277f22093dcbe8a7f4405ce850941f2cce504269",
-     "published_at": "2026-08-25 16:00:00",
-     "collected_at": "2026-09-07 11:20:45"
     }
    ]
   }
