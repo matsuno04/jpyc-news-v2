@@ -1,8 +1,95 @@
 {
- "generated_at": "2026-10-07 21:31:58",
+ "generated_at": "2026-10-08 03:53:27",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261006-01",
+   "burst_start_date": "2026-10-06",
+   "first_collected_at": "2026-10-06 21:31:24",
+   "last_collected_at": "2026-10-08 03:53:09",
+   "article_count": 9,
+   "tags": [
+    "取扱い・対応",
+    "活用事例",
+    "提携・連携",
+    "市場・統計",
+    "実証実験"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
+    "published_at": "2026-10-06 00:00:00",
+    "summary": "マイナウォレットがJPYC EX連携APIを利用し、JPYCの発行と償還をアプリ内で完結できる機能の提供を開始した。同時にJinaCoinのダッシュボードデータによると、JPYCの総流通量は9月24日の39.539億JPYCから10月6日時点で36.369億JPYCに減少し、8.02％の減少となっている。"
+   },
+   "articles": [
+    {
+     "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
+     "published_at": "2026-10-06 00:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレット「JPYC発行から償還まで」1つのアプリで完結可能に - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/230072.html",
+     "published_at": "2026-10-06 08:32:25",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 (2026年10月6日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32501854/",
+     "published_at": "2026-10-06 10:50:00",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000013.000125732.html",
+     "published_at": "2026-10-06 10:50:02",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレット、JPYCの発行・償還に対応（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
+     "published_at": "2026-10-06 14:25:20",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレット、JPYCの発行・償還に対応 - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/wjG1gsiORS",
+     "published_at": "2026-10-06 14:25:20",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナウォレットでJPYCの発行・償還が可能に、JPYC EXと連携で（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/823852c515236d7d824b4a9c1900d12776d26d8a",
+     "published_at": "2026-10-06 15:57:49",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "【10/6話題】三井住友銀行らがデジタル証券の二次流通でステーブルコイン活用DvP決済実証完了、メタプラネットが1万BTC売却で換金能力を実証など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/614639",
+     "published_at": "2026-10-06 22:31:42",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナカードでJPYCを円に戻せる？発行・償還がアプリ内で簡単に - CoinChoice",
+     "domain": "coinchoice.net",
+     "url": "https://coinchoice.net/jpyc-mina-wallet/",
+     "published_at": "2026-10-07 17:00:27",
+     "collected_at": "2026-10-08 03:53:09"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261007-01",
    "burst_start_date": "2026-10-07",
@@ -84,86 +171,6 @@
      "url": "https://jinacoin.ne.jp/upbond-jpyc-lend-20261006/",
      "published_at": "2026-10-06 00:00:00",
      "collected_at": "2026-10-06 21:31:24"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261006-01",
-   "burst_start_date": "2026-10-06",
-   "first_collected_at": "2026-10-06 21:31:24",
-   "last_collected_at": "2026-10-07 03:18:30",
-   "article_count": 8,
-   "tags": [
-    "取扱い・対応",
-    "活用事例",
-    "提携・連携",
-    "市場・統計",
-    "実証実験"
-   ],
-   "tags_mode": "取扱い・対応",
-   "representative": {
-    "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
-    "published_at": "2026-10-06 00:00:00",
-    "summary": "マイナウォレットがJPYC EX連携APIを利用し、JPYCの発行と償還をアプリ内で完結できる機能の提供を開始した。同時にJinaCoinのダッシュボードデータによると、JPYCの総流通量は9月24日の39.539億JPYCから10月6日時点で36.369億JPYCに減少し、8.02％の減少となっている。"
-   },
-   "articles": [
-    {
-     "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
-     "published_at": "2026-10-06 00:00:00",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "マイナウォレット「JPYC発行から償還まで」1つのアプリで完結可能に - BitTimes",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/230072.html",
-     "published_at": "2026-10-06 08:32:25",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 (2026年10月6日掲載) - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32501854/",
-     "published_at": "2026-10-06 10:50:00",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000013.000125732.html",
-     "published_at": "2026-10-06 10:50:02",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "マイナウォレット、JPYCの発行・償還に対応（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
-     "published_at": "2026-10-06 14:25:20",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "マイナウォレット、JPYCの発行・償還に対応 - Howl.Link",
-     "domain": "t.co",
-     "url": "https://t.co/wjG1gsiORS",
-     "published_at": "2026-10-06 14:25:20",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナウォレットでJPYCの発行・償還が可能に、JPYC EXと連携で（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/823852c515236d7d824b4a9c1900d12776d26d8a",
-     "published_at": "2026-10-06 15:57:49",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "【10/6話題】三井住友銀行らがデジタル証券の二次流通でステーブルコイン活用DvP決済実証完了、メタプラネットが1万BTC売却で換金能力を実証など（音声ニュース） - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/614639",
-     "published_at": "2026-10-06 22:31:42",
-     "collected_at": "2026-10-07 03:18:30"
     }
    ]
   },
