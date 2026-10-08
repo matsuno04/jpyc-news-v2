@@ -1,20 +1,47 @@
 {
- "generated_at": "2026-10-08 03:53:27",
+ "generated_at": "2026-10-08 21:31:43",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
   {
+   "event_id": "EVT-20261006-03",
+   "burst_start_date": "2026-10-06",
+   "first_collected_at": "2026-10-08 21:31:09",
+   "last_collected_at": "2026-10-08 21:31:09",
+   "article_count": 1,
+   "tags": [
+    "活用事例"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "アゼミチ | 近江米のJPYC EC販売 (@azemichi_01) on X - Howl.link",
+    "domain": "t.co",
+    "url": "https://t.co/5h6CuZ2k4K",
+    "published_at": "2026-10-06 21:41:09",
+    "summary": "アゼミチが近江米のJPYC EC販売を行っており、新米の発送準備のため農業実習を行っている。実習期間中の進捗状況がX（旧Twitter）で報告されている。"
+   },
+   "articles": [
+    {
+     "title": "アゼミチ | 近江米のJPYC EC販売 (@azemichi_01) on X - Howl.link",
+     "domain": "t.co",
+     "url": "https://t.co/5h6CuZ2k4K",
+     "published_at": "2026-10-06 21:41:09",
+     "collected_at": "2026-10-08 21:31:09"
+    }
+   ]
+  },
+  {
    "event_id": "EVT-20261006-01",
    "burst_start_date": "2026-10-06",
    "first_collected_at": "2026-10-06 21:31:24",
-   "last_collected_at": "2026-10-08 03:53:09",
-   "article_count": 9,
+   "last_collected_at": "2026-10-08 21:31:09",
+   "article_count": 10,
    "tags": [
     "取扱い・対応",
     "活用事例",
     "提携・連携",
-    "市場・統計",
-    "実証実験"
+    "実証実験",
+    "市場・統計"
    ],
    "tags_mode": "取扱い・対応",
    "representative": {
@@ -87,6 +114,13 @@
      "url": "https://coinchoice.net/jpyc-mina-wallet/",
      "published_at": "2026-10-07 17:00:27",
      "collected_at": "2026-10-08 03:53:09"
+    },
+    {
+     "title": "マイナウォレット、JPYC発行・償還をアプリ内で一体化 EX連携開始 - PlusWeb3",
+     "domain": "plus-web3.com",
+     "url": "https://plus-web3.com/media/latestnews_1002_10958-2/",
+     "published_at": "2026-10-08 13:30:00",
+     "collected_at": "2026-10-08 21:31:09"
     }
    ]
   },
