@@ -1,8 +1,87 @@
 {
- "generated_at": "2026-10-08 21:31:43",
+ "generated_at": "2026-10-09 21:32:28",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261009-01",
+   "burst_start_date": "2026-10-09",
+   "first_collected_at": "2026-10-09 21:31:20",
+   "last_collected_at": "2026-10-09 21:31:20",
+   "article_count": 8,
+   "tags": [
+    "制度・規制",
+    "活用事例",
+    "提携・連携",
+    "リスク・懸念"
+   ],
+   "tags_mode": "制度・規制",
+   "representative": {
+    "title": "JPYC払いの割引はカード規約違反か──JPYCが公取委に情報提供 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpyc-20261009/",
+    "published_at": "2026-10-09 00:00:00",
+    "summary": "JPYC株式会社は、JPYC決済を利用する顧客への割引や送料無料の実施について、導入店から加盟店規約違反への懸念が寄せられていることを受け、9月14日に公正取引委員会へ情報提供を行った。同社は、決済手段ごとの価格設定は加盟店の自由な経営判断に委ねられるべきとの立場を示し、公取委の2022年報告書を根拠に、現金割引の一律禁止は独禁法上の問題となるおそれがあると主張している。"
+   },
+   "articles": [
+    {
+     "title": "JPYC払いの割引はカード規約違反か──JPYCが公取委に情報提供 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-20261009/",
+     "published_at": "2026-10-09 00:00:00",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "公正取引委員会に対し、ステーブルコイン決済の普及を踏まえたキャッシュレス決済市場の競争環境に関する情報提供を実施 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000332.000054018.html",
+     "published_at": "2026-10-09 10:00:01",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC株式会社が公正取引委員会にキャッシュレス決済の競争環境を報告する意義 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/cryptocurrency/34083/",
+     "published_at": "2026-10-09 10:53:07",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
+     "published_at": "2026-10-09 12:13:32",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC、公取委に情報提供──カード加盟店規約を問題視（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/3235ecd5798f65a967f6d00cedfaec9840eb03c3",
+     "published_at": "2026-10-09 13:30:00",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC、公取委に情報提供──「決済導入店の割引は消費者利益」 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=742088",
+     "published_at": "2026-10-09 13:45:10",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "ステーブルコイン決済の割引阻む加盟店規約、JPYCが公取委に情報提供 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/f33a14de-d03a-443e-8470-5e677c37b858",
+     "published_at": "2026-10-09 14:25:24",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC、公取委に情報提供──「決済導入店の割引は消費者利益」 - Iolite（アイオライト）",
+     "domain": "iolite.net",
+     "url": "https://iolite.net/news/coinpost-742088",
+     "published_at": "2026-10-09 15:00:51",
+     "collected_at": "2026-10-09 21:31:20"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261006-03",
    "burst_start_date": "2026-10-06",
