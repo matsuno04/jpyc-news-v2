@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-09 21:32:28",
+ "generated_at": "2026-10-10 03:19:33",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,13 +7,13 @@
    "event_id": "EVT-20261009-01",
    "burst_start_date": "2026-10-09",
    "first_collected_at": "2026-10-09 21:31:20",
-   "last_collected_at": "2026-10-09 21:31:20",
-   "article_count": 8,
+   "last_collected_at": "2026-10-10 03:19:03",
+   "article_count": 10,
    "tags": [
     "制度・規制",
     "活用事例",
-    "提携・連携",
-    "リスク・懸念"
+    "リスク・懸念",
+    "提携・連携"
    ],
    "tags_mode": "制度・規制",
    "representative": {
@@ -37,6 +37,13 @@
      "url": "https://prtimes.jp/main/html/rd/p/000000332.000054018.html",
      "published_at": "2026-10-09 10:00:01",
      "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC「カード規約がステーブルコイン割引を阻害」公取委に競争環境を報告 - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/230278.html",
+     "published_at": "2026-10-09 10:24:26",
+     "collected_at": "2026-10-10 03:19:03"
     },
     {
      "title": "JPYC株式会社が公正取引委員会にキャッシュレス決済の競争環境を報告する意義 - ニュースメディアVOIX",
@@ -79,6 +86,13 @@
      "url": "https://iolite.net/news/coinpost-742088",
      "published_at": "2026-10-09 15:00:51",
      "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "【10/9話題】JPYC社が公取委に決済市場の情報提供、アプトス財団が2.1億APTの永久ロックとステーキング、スタークネットがL1移行を検討など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/615632",
+     "published_at": "2026-10-09 20:51:05",
+     "collected_at": "2026-10-10 03:19:03"
     }
    ]
   },
