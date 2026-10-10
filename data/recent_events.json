@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10 03:19:33",
+ "generated_at": "2026-10-10 21:31:37",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,8 +7,8 @@
    "event_id": "EVT-20261009-01",
    "burst_start_date": "2026-10-09",
    "first_collected_at": "2026-10-09 21:31:20",
-   "last_collected_at": "2026-10-10 03:19:03",
-   "article_count": 10,
+   "last_collected_at": "2026-10-10 21:31:18",
+   "article_count": 11,
    "tags": [
     "制度・規制",
     "活用事例",
@@ -51,6 +51,13 @@
      "url": "https://voix.jp/money/cryptocurrency/34083/",
      "published_at": "2026-10-09 10:53:07",
      "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表 - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/615394",
+     "published_at": "2026-10-09 11:51:55",
+     "collected_at": "2026-10-10 21:31:18"
     },
     {
      "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表（あたらしい経済） - Yahoo!ニュース",
