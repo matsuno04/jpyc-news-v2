@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-10 21:31:37",
+ "generated_at": "2026-10-11 21:31:58",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,8 +7,8 @@
    "event_id": "EVT-20261009-01",
    "burst_start_date": "2026-10-09",
    "first_collected_at": "2026-10-09 21:31:20",
-   "last_collected_at": "2026-10-10 21:31:18",
-   "article_count": 11,
+   "last_collected_at": "2026-10-11 21:31:18",
+   "article_count": 13,
    "tags": [
     "制度・規制",
     "活用事例",
@@ -44,6 +44,13 @@
      "url": "https://bittimes.net/news/230278.html",
      "published_at": "2026-10-09 10:24:26",
      "collected_at": "2026-10-10 03:19:03"
+    },
+    {
+     "title": "JPYC株式会社が公正取引委員会にキャッシュレス決済の競争環境を報告する意義 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34083/",
+     "published_at": "2026-10-09 10:53:07",
+     "collected_at": "2026-10-11 21:31:18"
     },
     {
      "title": "JPYC株式会社が公正取引委員会にキャッシュレス決済の競争環境を報告する意義 - ニュースメディアVOIX",
@@ -100,6 +107,13 @@
      "url": "https://www.neweconomy.jp/posts/615632",
      "published_at": "2026-10-09 20:51:05",
      "collected_at": "2026-10-10 03:19:03"
+    },
+    {
+     "title": "【10/9話題】JPYC社が公取委に決済市場の情報提供、アプトス財団が2.1億APTの永久ロックとステーキング、スタークネットがL1移行を検討など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/615632/amp",
+     "published_at": "2026-10-09 21:03:23",
+     "collected_at": "2026-10-11 21:31:18"
     }
    ]
   },
