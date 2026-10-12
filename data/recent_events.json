@@ -1,8 +1,35 @@
 {
- "generated_at": "2026-10-12 21:32:01",
+ "generated_at": "2026-10-13 06:15:17",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261010-01",
+   "burst_start_date": "2026-10-10",
+   "first_collected_at": "2026-10-13 06:14:17",
+   "last_collected_at": "2026-10-13 06:14:17",
+   "article_count": 1,
+   "tags": [
+    "活用事例"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "ゴルフ練習場のボール貸出機に日本円ステーブルコイン「JPYC」決済を導入 - 山陽新聞",
+    "domain": "sanyonews.jp",
+    "url": "https://www.sanyonews.jp/article/1954243?rct=prtimes_chushikoku&kw=%E7%A6%8F%E7%A5%88",
+    "published_at": "2026-10-10 16:00:00",
+    "summary": "矢田産業と喜和産業が共同で、ゴルフ練習場のボール貸出機にJPYC決済を導入し、2026年7月10日から香川県の鳥坂GCで運用を開始しました。利用者がQRコードをスマートフォンのウォレットで読み取り250JPYCを支払うだけで60球を受け取れる仕組みで、国内初の取り組みとみられます。"
+   },
+   "articles": [
+    {
+     "title": "ゴルフ練習場のボール貸出機に日本円ステーブルコイン「JPYC」決済を導入 - 山陽新聞",
+     "domain": "sanyonews.jp",
+     "url": "https://www.sanyonews.jp/article/1954243?rct=prtimes_chushikoku&kw=%E7%A6%8F%E7%A5%88",
+     "published_at": "2026-10-10 16:00:00",
+     "collected_at": "2026-10-13 06:14:17"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261009-01",
    "burst_start_date": "2026-10-09",
