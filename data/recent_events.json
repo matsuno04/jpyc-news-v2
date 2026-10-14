@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-10-14 21:32:21",
+ "generated_at": "2026-10-15 02:04:36",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261013-01",
+   "burst_start_date": "2026-10-13",
+   "first_collected_at": "2026-10-13 21:31:21",
+   "last_collected_at": "2026-10-15 02:04:17",
+   "article_count": 2,
+   "tags": [
+    "活用事例",
+    "取扱い・対応"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000186136.html",
+    "published_at": "2026-10-13 11:00:02",
+    "summary": "株式会社COLOR3が京都市勧業館みやこめっせで10月24日に開催するクリエイターフェス「NコレKYOTO 2026」において、約70組のクリエイターが作品・グッズ販売時にJPYCのリアルタイム決済を導入する。来場者には会場で利用できる500 JPYCが付与され、実際の購買体験を通じたJPYC利用促進を実施する。"
+   },
+   "articles": [
+    {
+     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000002.000186136.html",
+     "published_at": "2026-10-13 11:00:02",
+     "collected_at": "2026-10-13 21:31:21"
+    },
+    {
+     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - MANTANWEB",
+     "domain": "mantan-web.jp",
+     "url": "https://mantan-web.jp/prtimes/article/20261013prt00m200000796a.html",
+     "published_at": "2026-10-14 03:47:45",
+     "collected_at": "2026-10-15 02:04:17"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261014-01",
    "burst_start_date": "2026-10-14",
@@ -272,33 +307,6 @@
      "url": "https://dxmagazine.jp/news/2658ko20-2/",
      "published_at": "2026-10-13 18:43:02",
      "collected_at": "2026-10-14 21:31:31"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261013-01",
-   "burst_start_date": "2026-10-13",
-   "first_collected_at": "2026-10-13 21:31:21",
-   "last_collected_at": "2026-10-13 21:31:21",
-   "article_count": 1,
-   "tags": [
-    "活用事例"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - PR TIMES",
-    "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000002.000186136.html",
-    "published_at": "2026-10-13 11:00:02",
-    "summary": "株式会社COLOR3が京都市勧業館みやこめっせで10月24日に開催するクリエイターフェス「NコレKYOTO 2026」において、約70組のクリエイターが作品・グッズ販売時にJPYCのリアルタイム決済を導入する。来場者には会場で利用できる500 JPYCが付与され、実際の購買体験を通じたJPYC利用促進を実施する。"
-   },
-   "articles": [
-    {
-     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000002.000186136.html",
-     "published_at": "2026-10-13 11:00:02",
-     "collected_at": "2026-10-13 21:31:21"
     }
    ]
   },
