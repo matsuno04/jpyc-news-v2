@@ -1,59 +1,48 @@
 {
- "generated_at": "2026-10-13 21:32:04",
+ "generated_at": "2026-10-14 21:32:21",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
   {
-   "event_id": "EVT-20261013-01",
-   "burst_start_date": "2026-10-13",
-   "first_collected_at": "2026-10-13 21:31:21",
-   "last_collected_at": "2026-10-13 21:31:21",
-   "article_count": 1,
+   "event_id": "EVT-20261014-01",
+   "burst_start_date": "2026-10-14",
+   "first_collected_at": "2026-10-14 21:31:31",
+   "last_collected_at": "2026-10-14 21:31:31",
+   "article_count": 3,
    "tags": [
-    "活用事例"
+    "取扱い・対応",
+    "提携・連携",
+    "市場・統計"
    ],
-   "tags_mode": "活用事例",
+   "tags_mode": "取扱い・対応",
    "representative": {
-    "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - PR TIMES",
+    "title": "Kaia、貢献報酬プログラム「CR」の対象資産に日本円ステーブルコイン「JPYC」が導入 - PR TIMES",
     "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000002.000186136.html",
-    "published_at": "2026-10-13 11:00:02",
-    "summary": "株式会社COLOR3が京都市勧業館みやこめっせで10月24日に開催するクリエイターフェス「NコレKYOTO 2026」において、約70組のクリエイターが作品・グッズ販売時にJPYCのリアルタイム決済を導入する。来場者には会場で利用できる500 JPYCが付与され、実際の購買体験を通じたJPYC利用促進を実施する。"
+    "url": "https://prtimes.jp/main/html/rd/p/000000029.000154579.html",
+    "published_at": "2026-10-14 09:55:37",
+    "summary": "Kaia DLT FoundationがJPYCを貢献報酬（CR）プログラムの対象資産に追加することを発表しました。2026年10月21日から、JPYCはUSDTと同一の基準で認定され、オンチェーンオラクル「Orakl」により換算されます。Kaiaはアジア各国・地域のローカルステーブルコインをエコシステムに組み込み、決済・精算ネットワークの拡大を目指しています。"
    },
    "articles": [
     {
-     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - PR TIMES",
+     "title": "Kaia、貢献報酬プログラム「CR」の対象資産に日本円ステーブルコイン「JPYC」が導入 - PR TIMES",
      "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000002.000186136.html",
-     "published_at": "2026-10-13 11:00:02",
-     "collected_at": "2026-10-13 21:31:21"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261010-01",
-   "burst_start_date": "2026-10-10",
-   "first_collected_at": "2026-10-13 06:14:17",
-   "last_collected_at": "2026-10-13 06:14:17",
-   "article_count": 1,
-   "tags": [
-    "活用事例"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "ゴルフ練習場のボール貸出機に日本円ステーブルコイン「JPYC」決済を導入 - 山陽新聞",
-    "domain": "sanyonews.jp",
-    "url": "https://www.sanyonews.jp/article/1954243?rct=prtimes_chushikoku&kw=%E7%A6%8F%E7%A5%88",
-    "published_at": "2026-10-10 16:00:00",
-    "summary": "矢田産業と喜和産業が共同で、ゴルフ練習場のボール貸出機にJPYC決済を導入し、2026年7月10日から香川県の鳥坂GCで運用を開始しました。利用者がQRコードをスマートフォンのウォレットで読み取り250JPYCを支払うだけで60球を受け取れる仕組みで、国内初の取り組みとみられます。"
-   },
-   "articles": [
+     "url": "https://prtimes.jp/main/html/rd/p/000000029.000154579.html",
+     "published_at": "2026-10-14 09:55:37",
+     "collected_at": "2026-10-14 21:31:31"
+    },
     {
-     "title": "ゴルフ練習場のボール貸出機に日本円ステーブルコイン「JPYC」決済を導入 - 山陽新聞",
-     "domain": "sanyonews.jp",
-     "url": "https://www.sanyonews.jp/article/1954243?rct=prtimes_chushikoku&kw=%E7%A6%8F%E7%A5%88",
-     "published_at": "2026-10-10 16:00:00",
-     "collected_at": "2026-10-13 06:14:17"
+     "title": "Kaia、未払い報酬490万KAIAを焼却へ…21日からJPYCも寄与認定 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/ed7b6f7c-c499-461d-8c2e-771fe7cb6187",
+     "published_at": "2026-10-14 11:36:12",
+     "collected_at": "2026-10-14 21:31:31"
+    },
+    {
+     "title": "Kaiaが日本円ステーブルコイン「JPYC」を貢献報酬プログラムに追加しエコシステム拡大へ - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/cryptocurrency/34124/",
+     "published_at": "2026-10-14 12:02:47",
+     "collected_at": "2026-10-14 21:31:31"
     }
    ]
   },
@@ -61,8 +50,8 @@
    "event_id": "EVT-20261009-01",
    "burst_start_date": "2026-10-09",
    "first_collected_at": "2026-10-09 21:31:20",
-   "last_collected_at": "2026-10-12 21:31:23",
-   "article_count": 14,
+   "last_collected_at": "2026-10-14 21:31:31",
+   "article_count": 15,
    "tags": [
     "制度・規制",
     "活用事例",
@@ -175,6 +164,168 @@
      "url": "https://www.neweconomy.jp/posts/615632/amp",
      "published_at": "2026-10-09 21:03:23",
      "collected_at": "2026-10-11 21:31:18"
+    },
+    {
+     "title": "JPYCが公取委に決済市場の競争状況を情報提供 割引の自由をサポートする方針示す - PlusWeb3",
+     "domain": "plus-web3.com",
+     "url": "https://plus-web3.com/media/latestnews_1000_11002/",
+     "published_at": "2026-10-13 17:00:00",
+     "collected_at": "2026-10-14 21:31:31"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261006-01",
+   "burst_start_date": "2026-10-06",
+   "first_collected_at": "2026-10-06 21:31:24",
+   "last_collected_at": "2026-10-14 21:31:31",
+   "article_count": 11,
+   "tags": [
+    "取扱い・対応",
+    "活用事例",
+    "提携・連携",
+    "実証実験",
+    "市場・統計"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
+    "published_at": "2026-10-06 00:00:00",
+    "summary": "マイナウォレットがJPYC EX連携APIを利用し、JPYCの発行と償還をアプリ内で完結できる機能の提供を開始した。同時にJinaCoinのダッシュボードデータによると、JPYCの総流通量は9月24日の39.539億JPYCから10月6日時点で36.369億JPYCに減少し、8.02％の減少となっている。"
+   },
+   "articles": [
+    {
+     "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
+     "published_at": "2026-10-06 00:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレット「JPYC発行から償還まで」1つのアプリで完結可能に - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/230072.html",
+     "published_at": "2026-10-06 08:32:25",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 (2026年10月6日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32501854/",
+     "published_at": "2026-10-06 10:50:00",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000013.000125732.html",
+     "published_at": "2026-10-06 10:50:02",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレット、JPYCの発行・償還に対応（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
+     "published_at": "2026-10-06 14:25:20",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレット、JPYCの発行・償還に対応 - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/wjG1gsiORS",
+     "published_at": "2026-10-06 14:25:20",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナウォレットでJPYCの発行・償還が可能に、JPYC EXと連携で（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/823852c515236d7d824b4a9c1900d12776d26d8a",
+     "published_at": "2026-10-06 15:57:49",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "【10/6話題】三井住友銀行らがデジタル証券の二次流通でステーブルコイン活用DvP決済実証完了、メタプラネットが1万BTC売却で換金能力を実証など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/614639",
+     "published_at": "2026-10-06 22:31:42",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナカードでJPYCを円に戻せる？発行・償還がアプリ内で簡単に - CoinChoice",
+     "domain": "coinchoice.net",
+     "url": "https://coinchoice.net/jpyc-mina-wallet/",
+     "published_at": "2026-10-07 17:00:27",
+     "collected_at": "2026-10-08 03:53:09"
+    },
+    {
+     "title": "マイナウォレット、JPYC発行・償還をアプリ内で一体化 EX連携開始 - PlusWeb3",
+     "domain": "plus-web3.com",
+     "url": "https://plus-web3.com/media/latestnews_1002_10958-2/",
+     "published_at": "2026-10-08 13:30:00",
+     "collected_at": "2026-10-08 21:31:09"
+    },
+    {
+     "title": "【日本円ステーブルコインの新時代】マイナウォレットならマイナンバーカードで本人確認からJPYCの発行・償還まで一気通貫で完結！ - DXマガジン",
+     "domain": "dxmagazine.jp",
+     "url": "https://dxmagazine.jp/news/2658ko20-2/",
+     "published_at": "2026-10-13 18:43:02",
+     "collected_at": "2026-10-14 21:31:31"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261013-01",
+   "burst_start_date": "2026-10-13",
+   "first_collected_at": "2026-10-13 21:31:21",
+   "last_collected_at": "2026-10-13 21:31:21",
+   "article_count": 1,
+   "tags": [
+    "活用事例"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000002.000186136.html",
+    "published_at": "2026-10-13 11:00:02",
+    "summary": "株式会社COLOR3が京都市勧業館みやこめっせで10月24日に開催するクリエイターフェス「NコレKYOTO 2026」において、約70組のクリエイターが作品・グッズ販売時にJPYCのリアルタイム決済を導入する。来場者には会場で利用できる500 JPYCが付与され、実際の購買体験を通じたJPYC利用促進を実施する。"
+   },
+   "articles": [
+    {
+     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000002.000186136.html",
+     "published_at": "2026-10-13 11:00:02",
+     "collected_at": "2026-10-13 21:31:21"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261010-01",
+   "burst_start_date": "2026-10-10",
+   "first_collected_at": "2026-10-13 06:14:17",
+   "last_collected_at": "2026-10-13 06:14:17",
+   "article_count": 1,
+   "tags": [
+    "活用事例"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "ゴルフ練習場のボール貸出機に日本円ステーブルコイン「JPYC」決済を導入 - 山陽新聞",
+    "domain": "sanyonews.jp",
+    "url": "https://www.sanyonews.jp/article/1954243?rct=prtimes_chushikoku&kw=%E7%A6%8F%E7%A5%88",
+    "published_at": "2026-10-10 16:00:00",
+    "summary": "矢田産業と喜和産業が共同で、ゴルフ練習場のボール貸出機にJPYC決済を導入し、2026年7月10日から香川県の鳥坂GCで運用を開始しました。利用者がQRコードをスマートフォンのウォレットで読み取り250JPYCを支払うだけで60球を受け取れる仕組みで、国内初の取り組みとみられます。"
+   },
+   "articles": [
+    {
+     "title": "ゴルフ練習場のボール貸出機に日本円ステーブルコイン「JPYC」決済を導入 - 山陽新聞",
+     "domain": "sanyonews.jp",
+     "url": "https://www.sanyonews.jp/article/1954243?rct=prtimes_chushikoku&kw=%E7%A6%8F%E7%A5%88",
+     "published_at": "2026-10-10 16:00:00",
+     "collected_at": "2026-10-13 06:14:17"
     }
    ]
   },
@@ -585,100 +736,6 @@
      "domain": "t.co",
      "url": "https://t.co/5h6CuZ2k4K",
      "published_at": "2026-10-06 21:41:09",
-     "collected_at": "2026-10-08 21:31:09"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261006-01",
-   "burst_start_date": "2026-10-06",
-   "first_collected_at": "2026-10-06 21:31:24",
-   "last_collected_at": "2026-10-08 21:31:09",
-   "article_count": 10,
-   "tags": [
-    "取扱い・対応",
-    "活用事例",
-    "提携・連携",
-    "実証実験",
-    "市場・統計"
-   ],
-   "tags_mode": "取扱い・対応",
-   "representative": {
-    "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
-    "published_at": "2026-10-06 00:00:00",
-    "summary": "マイナウォレットがJPYC EX連携APIを利用し、JPYCの発行と償還をアプリ内で完結できる機能の提供を開始した。同時にJinaCoinのダッシュボードデータによると、JPYCの総流通量は9月24日の39.539億JPYCから10月6日時点で36.369億JPYCに減少し、8.02％の減少となっている。"
-   },
-   "articles": [
-    {
-     "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
-     "published_at": "2026-10-06 00:00:00",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "マイナウォレット「JPYC発行から償還まで」1つのアプリで完結可能に - BitTimes",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/230072.html",
-     "published_at": "2026-10-06 08:32:25",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 (2026年10月6日掲載) - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32501854/",
-     "published_at": "2026-10-06 10:50:00",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000013.000125732.html",
-     "published_at": "2026-10-06 10:50:02",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "マイナウォレット、JPYCの発行・償還に対応（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
-     "published_at": "2026-10-06 14:25:20",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "マイナウォレット、JPYCの発行・償還に対応 - Howl.Link",
-     "domain": "t.co",
-     "url": "https://t.co/wjG1gsiORS",
-     "published_at": "2026-10-06 14:25:20",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナウォレットでJPYCの発行・償還が可能に、JPYC EXと連携で（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/823852c515236d7d824b4a9c1900d12776d26d8a",
-     "published_at": "2026-10-06 15:57:49",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "【10/6話題】三井住友銀行らがデジタル証券の二次流通でステーブルコイン活用DvP決済実証完了、メタプラネットが1万BTC売却で換金能力を実証など（音声ニュース） - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/614639",
-     "published_at": "2026-10-06 22:31:42",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナカードでJPYCを円に戻せる？発行・償還がアプリ内で簡単に - CoinChoice",
-     "domain": "coinchoice.net",
-     "url": "https://coinchoice.net/jpyc-mina-wallet/",
-     "published_at": "2026-10-07 17:00:27",
-     "collected_at": "2026-10-08 03:53:09"
-    },
-    {
-     "title": "マイナウォレット、JPYC発行・償還をアプリ内で一体化 EX連携開始 - PlusWeb3",
-     "domain": "plus-web3.com",
-     "url": "https://plus-web3.com/media/latestnews_1002_10958-2/",
-     "published_at": "2026-10-08 13:30:00",
      "collected_at": "2026-10-08 21:31:09"
     }
    ]
@@ -1442,117 +1499,6 @@
      "url": "https://www.nadanews.com/368191/",
      "published_at": "2026-09-16 15:18:25",
      "collected_at": "2026-10-01 14:46:17"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260911-01",
-   "burst_start_date": "2026-09-11",
-   "first_collected_at": "2026-09-14 11:52:20",
-   "last_collected_at": "2026-09-14 11:52:20",
-   "article_count": 2,
-   "tags": [
-    "提携・連携",
-    "活用事例"
-   ],
-   "tags_mode": "提携・連携",
-   "representative": {
-    "title": "ネットスターズ、Kaiaとステーブルコイン決済で連携｜アジア多通貨対応へ - bittimes.net",
-    "domain": "bittimes.net",
-    "url": "https://bittimes.net/news/228537.html",
-    "published_at": "2026-09-11 05:42:43",
-    "summary": "ネットスターズはカイアDLT財団とステーブルコイン決済で基本合意書を締結し、StarPayの加盟店約70万拠点を通じてカイア上のステーブルコイン（JPYCを含む）を日本の実店舗で利用できる環境を構築する。複数のアジア通貨に連動するステーブルコインや、オンチェーン外国為替基盤Ratioの活用も検討する計画である。"
-   },
-   "articles": [
-    {
-     "title": "ネットスターズ、Kaiaとステーブルコイン決済で連携｜アジア多通貨対応へ - bittimes.net",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/228537.html",
-     "published_at": "2026-09-11 05:42:43",
-     "collected_at": "2026-09-14 11:52:20"
-    },
-    {
-     "title": "ネットスターズ、Kaiaとステーブルコイン決済で提携（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/2e04d6dd53210551e9644863c74846f924b9eb5c",
-     "published_at": "2026-09-11 20:27:14",
-     "collected_at": "2026-09-14 11:52:20"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260910-01",
-   "burst_start_date": "2026-09-10",
-   "first_collected_at": "2026-09-14 11:52:20",
-   "last_collected_at": "2026-09-14 11:52:20",
-   "article_count": 2,
-   "tags": [
-    "市場・統計",
-    "リスク・懸念"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "JPYC流通量、20億円割れ──11日間で約7.1億円減少（NADA NEWS） - Yahoo!ニュース",
-    "domain": "news.yahoo.co.jp",
-    "url": "https://news.yahoo.co.jp/articles/281380c21688d1ebcefbd916ce0fd2b08cc50b5b",
-    "published_at": "2026-09-10 16:30:43",
-    "summary": "JPYCの流通量が9月10日時点で19億9753万837JPYCまで減少し、20億円を割り込んだ。8月30日の約27億800万JPYCから11日間で約7億1000万JPYC（約26％）減少した。減少の中心はKaia上での流通量であり、ウォレットサービスUnifiが9月1日に利回り特典を年率5％から2％に引き下げたことが、資金流出の要因と考えられている。"
-   },
-   "articles": [
-    {
-     "title": "JPYC流通量、20億円割れ──11日間で約7.1億円減少（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/281380c21688d1ebcefbd916ce0fd2b08cc50b5b",
-     "published_at": "2026-09-10 16:30:43",
-     "collected_at": "2026-09-14 11:52:20"
-    },
-    {
-     "title": "メタプラネットCEO、株主からの批判に「説明十分でなかった」／JPYCの流通量減少止まらず【日曜日に読みたい厳選5本】 - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/241ffb820e4730b6ad69fec9388a46934e7e7cd5",
-     "published_at": "2026-09-13 08:00:00",
-     "collected_at": "2026-09-14 11:52:20"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260831-02",
-   "burst_start_date": "2026-08-31",
-   "first_collected_at": "2026-09-04 22:34:12",
-   "last_collected_at": "2026-09-14 11:52:20",
-   "article_count": 3,
-   "tags": [
-    "市場・統計"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "JPYC流通量が約3カ月半ぶり減少──過去最大の1.6億円減（NADA NEWS） - Yahoo!ニュース",
-    "domain": "news.yahoo.co.jp",
-    "url": "https://news.yahoo.co.jp/articles/595f3bb10b3d0b7ea8f6125b5cd8a5376ac202a9",
-    "published_at": "2026-08-31 18:37:23",
-    "summary": "JPYCの流通量が約3カ月半ぶりに減少し、8月30日時点で約1億6000万円の週間減少となった。Unifiの年率5%利回りキャンペーン終了に伴い、特にKaia上から約1億9900万JPYC が流出したことが原因と考えられる。"
-   },
-   "articles": [
-    {
-     "title": "JPYC流通量が約3カ月半ぶり減少──過去最大の1.6億円減（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/595f3bb10b3d0b7ea8f6125b5cd8a5376ac202a9",
-     "published_at": "2026-08-31 18:37:23",
-     "collected_at": "2026-09-04 22:34:12"
-    },
-    {
-     "title": "JPYC流通量が約3カ月半ぶり減少──過去最大の1.6億円減 - NADA NEWS",
-     "domain": "nadanews.com",
-     "url": "https://www.nadanews.com/366233/",
-     "published_at": "2026-08-31 18:37:23",
-     "collected_at": "2026-09-14 11:52:20"
-    },
-    {
-     "title": "JPYCの流通量減少止まらず、一週間で約6億円減（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/b87670dedd3e360c17ee58060bea863e7cf5416a",
-     "published_at": "2026-09-07 18:45:00",
-     "collected_at": "2026-09-14 11:52:20"
     }
    ]
   }
