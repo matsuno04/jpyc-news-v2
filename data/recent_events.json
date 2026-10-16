@@ -1,28 +1,120 @@
 {
- "generated_at": "2026-10-15 21:32:18",
+ "generated_at": "2026-10-16 21:32:05",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
   {
-   "event_id": "EVT-20261014-01",
-   "burst_start_date": "2026-10-14",
-   "first_collected_at": "2026-10-14 21:31:31",
-   "last_collected_at": "2026-10-15 21:31:32",
-   "article_count": 4,
+   "event_id": "EVT-20261016-02",
+   "burst_start_date": "2026-10-16",
+   "first_collected_at": "2026-10-16 21:30:52",
+   "last_collected_at": "2026-10-16 21:30:52",
+   "article_count": 1,
+   "tags": [
+    "市場・統計",
+    "解説・論説",
+    "競合・市場環境"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "韓国人もスマホで「円」を持つ時代に、取引が本格化する「JPYC」、インフレや通貨安への備えが変える通貨の国境 【安木レポート】韓国で始まった円連動型ステーブルコイン「JPYC」、アルゼンチンで米ドルを保有するのと同じ発想か(1/5) - JBpress",
+    "domain": "jbpress.ismedia.jp",
+    "url": "https://jbpress.ismedia.jp/articles/-/97522",
+    "published_at": "2026-10-16 06:00:00",
+    "summary": "記事は、インフレや通貨危機を経験した国々が資産保全手段としてハードカレンシーを保有する傾向を背景に、2026年に韓国で日本円連動型ステーブルコイン「JPYC」の取引が本格化し、現金では困難だった国境を越えた利用が可能になったことを論じている。ステーブルコインにより、日本円が現金の制約を超えてデジタルな形で国際的に利用される新たな局面を迎えることが指摘されている。"
+   },
+   "articles": [
+    {
+     "title": "韓国人もスマホで「円」を持つ時代に、取引が本格化する「JPYC」、インフレや通貨安への備えが変える通貨の国境 【安木レポート】韓国で始まった円連動型ステーブルコイン「JPYC」、アルゼンチンで米ドルを保有するのと同じ発想か(1/5) - JBpress",
+     "domain": "jbpress.ismedia.jp",
+     "url": "https://jbpress.ismedia.jp/articles/-/97522",
+     "published_at": "2026-10-16 06:00:00",
+     "collected_at": "2026-10-16 21:30:52"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261016-01",
+   "burst_start_date": "2026-10-16",
+   "first_collected_at": "2026-10-16 21:30:52",
+   "last_collected_at": "2026-10-16 21:30:52",
+   "article_count": 1,
    "tags": [
     "提携・連携",
-    "取扱い・対応",
     "市場・統計"
    ],
    "tags_mode": "提携・連携",
    "representative": {
-    "title": "Kaia、貢献報酬プログラム「CR」の対象資産に日本円ステーブルコイン「JPYC」が導入 - PR TIMES",
-    "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000029.000154579.html",
-    "published_at": "2026-10-14 09:55:37",
-    "summary": "Kaia DLT FoundationがJPYCを貢献報酬（CR）プログラムの対象資産に追加することを発表しました。2026年10月21日から、JPYCはUSDTと同一の基準で認定され、オンチェーンオラクル「Orakl」により換算されます。Kaiaはアジア各国・地域のローカルステーブルコインをエコシステムに組み込み、決済・精算ネットワークの拡大を目指しています。"
+    "title": "円ステーブルコインJPYSC、ドル建てOUSDと接続試験へ──SBIが連合参加 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpysc-ousd-20261016/",
+    "published_at": "2026-10-16 00:00:00",
+    "summary": "SBIホールディングスとスターテイル・グループが、米ドル建てステーブルコイン「OUSD」の普及企業連合「Open Standard」に参加を発表した。両社はSBI新生信託銀行が発行するJPYSCとOUSDの相互運用に向けた試験を検討し、円ドル決済のオンチェーンでの効率化を目指している。ただし今回の発表は試験の検討段階であり、商用サービスの開始ではないと明記されている。"
    },
    "articles": [
+    {
+     "title": "円ステーブルコインJPYSC、ドル建てOUSDと接続試験へ──SBIが連合参加 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpysc-ousd-20261016/",
+     "published_at": "2026-10-16 00:00:00",
+     "collected_at": "2026-10-16 21:30:52"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261015-01",
+   "burst_start_date": "2026-10-15",
+   "first_collected_at": "2026-10-16 21:30:52",
+   "last_collected_at": "2026-10-16 21:30:52",
+   "article_count": 1,
+   "tags": [
+    "活用事例",
+    "発行・資金"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "円連動目標「JPYdf」発行の「JPY DeFi」、イーサリアムでメインネット公開 - あたらしい経済",
+    "domain": "neweconomy.jp",
+    "url": "https://www.neweconomy.jp/posts/617065",
+    "published_at": "2026-10-15 17:19:15",
+    "summary": "デルタフォーサイトが設計・開発したDeFiプロトコル「JPY DeFi」がイーサリアムメインネットで公開された。wstETHとUSDCを担保にして、日本円との価値連動を目標とする暗号資産型ステーブルコイン「JPYdf」を借り入れられるプロトコルで、過剰担保の仕組みを採用している。同社は9月25日に資金調達を発表しており、調達資金は開発やセキュリティ監査、運用体制整備に充てられる。"
+   },
+   "articles": [
+    {
+     "title": "円連動目標「JPYdf」発行の「JPY DeFi」、イーサリアムでメインネット公開 - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/617065",
+     "published_at": "2026-10-15 17:19:15",
+     "collected_at": "2026-10-16 21:30:52"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261014-01",
+   "burst_start_date": "2026-10-14",
+   "first_collected_at": "2026-10-14 21:31:31",
+   "last_collected_at": "2026-10-16 21:30:52",
+   "article_count": 6,
+   "tags": [
+    "取扱い・対応",
+    "提携・連携",
+    "市場・統計"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "Kaia、貢献報酬プログラム「CR」の対象資産に日本円ステーブルコイン「JPYC」が導入 (2026年10月14日掲載) - ライブドアニュース",
+    "domain": "news.livedoor.com",
+    "url": "https://news.livedoor.com/pr_topics/detail/32562418/",
+    "published_at": "2026-10-14 09:55:37",
+    "summary": "Kaia DLT FoundationがJPYCを貢献報酬プログラム「CR」の対象資産として導入した。JPYCはUSDT相当額に換算され、10 KAIAのステーキングで1ドル分と認定される。"
+   },
+   "articles": [
+    {
+     "title": "Kaia、貢献報酬プログラム「CR」の対象資産に日本円ステーブルコイン「JPYC」が導入 (2026年10月14日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32562418/",
+     "published_at": "2026-10-14 09:55:37",
+     "collected_at": "2026-10-16 21:30:52"
+    },
     {
      "title": "Kaia、貢献報酬プログラム「CR」の対象資産に日本円ステーブルコイン「JPYC」が導入 - PR TIMES",
      "domain": "prtimes.jp",
@@ -36,6 +128,13 @@
      "url": "https://finance.biggo.jp/news/ed7b6f7c-c499-461d-8c2e-771fe7cb6187",
      "published_at": "2026-10-14 11:36:12",
      "collected_at": "2026-10-14 21:31:31"
+    },
+    {
+     "title": "Kaiaが日本円ステーブルコイン「JPYC」を貢献報酬プログラムに追加しエコシステム拡大へ - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34124/",
+     "published_at": "2026-10-14 12:02:47",
+     "collected_at": "2026-10-16 21:30:52"
     },
     {
      "title": "Kaiaが日本円ステーブルコイン「JPYC」を貢献報酬プログラムに追加しエコシステム拡大へ - ニュースメディアVOIX",
