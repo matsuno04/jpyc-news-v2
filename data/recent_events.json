@@ -1,8 +1,73 @@
 {
- "generated_at": "2026-10-17 01:34:27",
+ "generated_at": "2026-10-17 21:31:15",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261017-01",
+   "burst_start_date": "2026-10-17",
+   "first_collected_at": "2026-10-17 21:30:45",
+   "last_collected_at": "2026-10-17 21:30:45",
+   "article_count": 1,
+   "tags": [
+    "取扱い・対応",
+    "提携・連携"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "ステーブルコインで支払える「Slash Card」が一般公開 アプリから直接申込可能に｜Infoseekニュース - Infoseek",
+    "domain": "news.infoseek.co.jp",
+    "url": "https://news.infoseek.co.jp/article/poitan_194357/",
+    "published_at": "2026-10-17 14:12:20",
+    "summary": "SLASH VISION PTE. LTD.はステーブルコイン対応の「Slash App」を10月15日に正式リリースし、同社が運用するクレジットカード「Slash Card」を一般公開した。アプリから直接申し込みが可能になり、紹介プログラムや生体認証ログインなどの新機能が追加された。"
+   },
+   "articles": [
+    {
+     "title": "ステーブルコインで支払える「Slash Card」が一般公開 アプリから直接申込可能に｜Infoseekニュース - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/poitan_194357/",
+     "published_at": "2026-10-17 14:12:20",
+     "collected_at": "2026-10-17 21:30:45"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261016-02",
+   "burst_start_date": "2026-10-16",
+   "first_collected_at": "2026-10-16 21:30:52",
+   "last_collected_at": "2026-10-17 21:30:45",
+   "article_count": 2,
+   "tags": [
+    "市場・統計",
+    "解説・論説",
+    "競合・市場環境",
+    "活用事例"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "韓国人もスマホで「円」を持つ時代に、取引が本格化する「JPYC」、インフレや通貨安への備えが変える通貨の国境 【安木レポート】韓国で始まった円連動型ステーブルコイン「JPYC」、アルゼンチンで米ドルを保有するのと同じ発想か(1/5) - JBpress",
+    "domain": "jbpress.ismedia.jp",
+    "url": "https://jbpress.ismedia.jp/articles/-/97522",
+    "published_at": "2026-10-16 06:00:00",
+    "summary": "記事は、インフレや通貨危機を経験した国々が資産保全手段としてハードカレンシーを保有する傾向を背景に、2026年に韓国で日本円連動型ステーブルコイン「JPYC」の取引が本格化し、現金では困難だった国境を越えた利用が可能になったことを論じている。ステーブルコインにより、日本円が現金の制約を超えてデジタルな形で国際的に利用される新たな局面を迎えることが指摘されている。"
+   },
+   "articles": [
+    {
+     "title": "韓国人もスマホで「円」を持つ時代に、取引が本格化する「JPYC」、インフレや通貨安への備えが変える通貨の国境 【安木レポート】韓国で始まった円連動型ステーブルコイン「JPYC」、アルゼンチンで米ドルを保有するのと同じ発想か(1/5) - JBpress",
+     "domain": "jbpress.ismedia.jp",
+     "url": "https://jbpress.ismedia.jp/articles/-/97522",
+     "published_at": "2026-10-16 06:00:00",
+     "collected_at": "2026-10-16 21:30:52"
+    },
+    {
+     "title": "韓国人もスマホで「円」を持つ時代に、取引が本格化する「JPYC」、インフレや通貨安への備えが変える通貨の国境 【安木レポート】韓国で始まった円連動型ステーブルコイン「JPYC」、アルゼンチンで米ドルを保有するのと同じ発想か(3/5) - JBpress",
+     "domain": "jbpress.ismedia.jp",
+     "url": "https://jbpress.ismedia.jp/articles/-/97522?page=3",
+     "published_at": "2026-10-16 06:00:00",
+     "collected_at": "2026-10-17 21:30:45"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261014-01",
    "burst_start_date": "2026-10-14",
@@ -71,35 +136,6 @@
      "url": "https://plus-web3.com/media/latestnews_1000_11044/",
      "published_at": "2026-10-15 15:30:00",
      "collected_at": "2026-10-15 21:31:32"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261016-02",
-   "burst_start_date": "2026-10-16",
-   "first_collected_at": "2026-10-16 21:30:52",
-   "last_collected_at": "2026-10-16 21:30:52",
-   "article_count": 1,
-   "tags": [
-    "市場・統計",
-    "解説・論説",
-    "競合・市場環境"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "韓国人もスマホで「円」を持つ時代に、取引が本格化する「JPYC」、インフレや通貨安への備えが変える通貨の国境 【安木レポート】韓国で始まった円連動型ステーブルコイン「JPYC」、アルゼンチンで米ドルを保有するのと同じ発想か(1/5) - JBpress",
-    "domain": "jbpress.ismedia.jp",
-    "url": "https://jbpress.ismedia.jp/articles/-/97522",
-    "published_at": "2026-10-16 06:00:00",
-    "summary": "記事は、インフレや通貨危機を経験した国々が資産保全手段としてハードカレンシーを保有する傾向を背景に、2026年に韓国で日本円連動型ステーブルコイン「JPYC」の取引が本格化し、現金では困難だった国境を越えた利用が可能になったことを論じている。ステーブルコインにより、日本円が現金の制約を超えてデジタルな形で国際的に利用される新たな局面を迎えることが指摘されている。"
-   },
-   "articles": [
-    {
-     "title": "韓国人もスマホで「円」を持つ時代に、取引が本格化する「JPYC」、インフレや通貨安への備えが変える通貨の国境 【安木レポート】韓国で始まった円連動型ステーブルコイン「JPYC」、アルゼンチンで米ドルを保有するのと同じ発想か(1/5) - JBpress",
-     "domain": "jbpress.ismedia.jp",
-     "url": "https://jbpress.ismedia.jp/articles/-/97522",
-     "published_at": "2026-10-16 06:00:00",
-     "collected_at": "2026-10-16 21:30:52"
     }
    ]
   },
