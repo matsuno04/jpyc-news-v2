@@ -1,8 +1,179 @@
 {
- "generated_at": "2026-10-18 21:31:50",
+ "generated_at": "2026-10-19 00:49:53",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261006-01",
+   "burst_start_date": "2026-10-06",
+   "first_collected_at": "2026-10-06 21:31:24",
+   "last_collected_at": "2026-10-19 00:47:47",
+   "article_count": 12,
+   "tags": [
+    "取扱い・対応",
+    "活用事例",
+    "提携・連携",
+    "実証実験",
+    "市場・統計"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
+    "published_at": "2026-10-06 00:00:00",
+    "summary": "マイナウォレットがJPYC EX連携APIを利用し、JPYCの発行と償還をアプリ内で完結できる機能の提供を開始した。同時にJinaCoinのダッシュボードデータによると、JPYCの総流通量は9月24日の39.539億JPYCから10月6日時点で36.369億JPYCに減少し、8.02％の減少となっている。"
+   },
+   "articles": [
+    {
+     "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
+     "published_at": "2026-10-06 00:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレット「JPYC発行から償還まで」1つのアプリで完結可能に - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/230072.html",
+     "published_at": "2026-10-06 08:32:25",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 (2026年10月6日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32501854/",
+     "published_at": "2026-10-06 10:50:00",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000013.000125732.html",
+     "published_at": "2026-10-06 10:50:02",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレットがJPYC EXと連携開始 アプリ内で発行から償還まで完結可能に - Dellows News",
+     "domain": "news.dellows.jp",
+     "url": "https://news.dellows.jp/618303/?from=related-reading-list",
+     "published_at": "2026-10-06 12:40:40",
+     "collected_at": "2026-10-19 00:47:47"
+    },
+    {
+     "title": "マイナウォレット、JPYCの発行・償還に対応（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
+     "published_at": "2026-10-06 14:25:20",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "マイナウォレット、JPYCの発行・償還に対応 - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/wjG1gsiORS",
+     "published_at": "2026-10-06 14:25:20",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナウォレットでJPYCの発行・償還が可能に、JPYC EXと連携で（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/823852c515236d7d824b4a9c1900d12776d26d8a",
+     "published_at": "2026-10-06 15:57:49",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "【10/6話題】三井住友銀行らがデジタル証券の二次流通でステーブルコイン活用DvP決済実証完了、メタプラネットが1万BTC売却で換金能力を実証など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/614639",
+     "published_at": "2026-10-06 22:31:42",
+     "collected_at": "2026-10-07 03:18:30"
+    },
+    {
+     "title": "マイナカードでJPYCを円に戻せる？発行・償還がアプリ内で簡単に - CoinChoice",
+     "domain": "coinchoice.net",
+     "url": "https://coinchoice.net/jpyc-mina-wallet/",
+     "published_at": "2026-10-07 17:00:27",
+     "collected_at": "2026-10-08 03:53:09"
+    },
+    {
+     "title": "マイナウォレット、JPYC発行・償還をアプリ内で一体化 EX連携開始 - PlusWeb3",
+     "domain": "plus-web3.com",
+     "url": "https://plus-web3.com/media/latestnews_1002_10958-2/",
+     "published_at": "2026-10-08 13:30:00",
+     "collected_at": "2026-10-08 21:31:09"
+    },
+    {
+     "title": "【日本円ステーブルコインの新時代】マイナウォレットならマイナンバーカードで本人確認からJPYCの発行・償還まで一気通貫で完結！ - DXマガジン",
+     "domain": "dxmagazine.jp",
+     "url": "https://dxmagazine.jp/news/2658ko20-2/",
+     "published_at": "2026-10-13 18:43:02",
+     "collected_at": "2026-10-14 21:31:31"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261005-01",
+   "burst_start_date": "2026-10-05",
+   "first_collected_at": "2026-10-06 05:42:49",
+   "last_collected_at": "2026-10-19 00:47:47",
+   "article_count": 6,
+   "tags": [
+    "活用事例",
+    "取扱い・対応"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "UPBOND、JPYC Lendingの事前登録を10月5日より紹介限定で開始へ - Dellows News",
+    "domain": "news.dellows.jp",
+    "url": "https://news.dellows.jp/607428/",
+    "published_at": "2026-10-05 18:00:00",
+    "summary": "UPBONDは、JPYCを貸し出して貸借料を受け取る「JPYC Lending」サービスの事前登録を2026年10月5日より紹介限定で開始し、10月19日にサービス提供を開始予定である。キャンペーン期間中は年率4%の貸借料が適用され、事前登録者には期間終了後も同レートが継続される。"
+   },
+   "articles": [
+    {
+     "title": "UPBOND、JPYC Lendingの事前登録を10月5日より紹介限定で開始へ - Dellows News",
+     "domain": "news.dellows.jp",
+     "url": "https://news.dellows.jp/607428/",
+     "published_at": "2026-10-05 18:00:00",
+     "collected_at": "2026-10-19 00:47:47"
+    },
+    {
+     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 (2026年10月5日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32494813/",
+     "published_at": "2026-10-05 18:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    },
+    {
+     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000077.000065959.html",
+     "published_at": "2026-10-05 18:00:01",
+     "collected_at": "2026-10-06 05:42:49"
+    },
+    {
+     "title": "UPBONDが提供するJPYC Lendingの事前登録開始とサービス詳細のご案内 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34019/",
+     "published_at": "2026-10-05 21:24:43",
+     "collected_at": "2026-10-07 21:31:25"
+    },
+    {
+     "title": "UPBONDが提供するJPYC Lendingの事前登録開始とサービス詳細のご案内 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/cryptocurrency/34019/",
+     "published_at": "2026-10-05 21:24:43",
+     "collected_at": "2026-10-06 05:42:49"
+    },
+    {
+     "title": "JPYCレンディング、UPBONDが19日開始──年3〜4％、USDCに換えて運用 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/upbond-jpyc-lend-20261006/",
+     "published_at": "2026-10-06 00:00:00",
+     "collected_at": "2026-10-06 21:31:24"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261017-01",
    "burst_start_date": "2026-10-17",
@@ -386,107 +557,6 @@
      "domain": "plus-web3.com",
      "url": "https://plus-web3.com/media/latestnews_1000_11002/",
      "published_at": "2026-10-13 17:00:00",
-     "collected_at": "2026-10-14 21:31:31"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261006-01",
-   "burst_start_date": "2026-10-06",
-   "first_collected_at": "2026-10-06 21:31:24",
-   "last_collected_at": "2026-10-14 21:31:31",
-   "article_count": 11,
-   "tags": [
-    "取扱い・対応",
-    "活用事例",
-    "提携・連携",
-    "実証実験",
-    "市場・統計"
-   ],
-   "tags_mode": "取扱い・対応",
-   "representative": {
-    "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
-    "published_at": "2026-10-06 00:00:00",
-    "summary": "マイナウォレットがJPYC EX連携APIを利用し、JPYCの発行と償還をアプリ内で完結できる機能の提供を開始した。同時にJinaCoinのダッシュボードデータによると、JPYCの総流通量は9月24日の39.539億JPYCから10月6日時点で36.369億JPYCに減少し、8.02％の減少となっている。"
-   },
-   "articles": [
-    {
-     "title": "JPYCの発行・償還がマイナウォレットで完結──流通量は2週間で8％減 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/jpyc-mynawallet-20261006/",
-     "published_at": "2026-10-06 00:00:00",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "マイナウォレット「JPYC発行から償還まで」1つのアプリで完結可能に - BitTimes",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/230072.html",
-     "published_at": "2026-10-06 08:32:25",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 (2026年10月6日掲載) - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32501854/",
-     "published_at": "2026-10-06 10:50:00",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナウォレット、アプリ内でのJPYC発行・償還が可能となるJPYC EX連携機能の提供を開始 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000013.000125732.html",
-     "published_at": "2026-10-06 10:50:02",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "マイナウォレット、JPYCの発行・償還に対応（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/5e33c2eb4ee3c8eb37838eb047faeeafb8f7de57",
-     "published_at": "2026-10-06 14:25:20",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "マイナウォレット、JPYCの発行・償還に対応 - Howl.Link",
-     "domain": "t.co",
-     "url": "https://t.co/wjG1gsiORS",
-     "published_at": "2026-10-06 14:25:20",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナウォレットでJPYCの発行・償還が可能に、JPYC EXと連携で（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/823852c515236d7d824b4a9c1900d12776d26d8a",
-     "published_at": "2026-10-06 15:57:49",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "【10/6話題】三井住友銀行らがデジタル証券の二次流通でステーブルコイン活用DvP決済実証完了、メタプラネットが1万BTC売却で換金能力を実証など（音声ニュース） - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/614639",
-     "published_at": "2026-10-06 22:31:42",
-     "collected_at": "2026-10-07 03:18:30"
-    },
-    {
-     "title": "マイナカードでJPYCを円に戻せる？発行・償還がアプリ内で簡単に - CoinChoice",
-     "domain": "coinchoice.net",
-     "url": "https://coinchoice.net/jpyc-mina-wallet/",
-     "published_at": "2026-10-07 17:00:27",
-     "collected_at": "2026-10-08 03:53:09"
-    },
-    {
-     "title": "マイナウォレット、JPYC発行・償還をアプリ内で一体化 EX連携開始 - PlusWeb3",
-     "domain": "plus-web3.com",
-     "url": "https://plus-web3.com/media/latestnews_1002_10958-2/",
-     "published_at": "2026-10-08 13:30:00",
-     "collected_at": "2026-10-08 21:31:09"
-    },
-    {
-     "title": "【日本円ステーブルコインの新時代】マイナウォレットならマイナンバーカードで本人確認からJPYCの発行・償還まで一気通貫で完結！ - DXマガジン",
-     "domain": "dxmagazine.jp",
-     "url": "https://dxmagazine.jp/news/2658ko20-2/",
-     "published_at": "2026-10-13 18:43:02",
      "collected_at": "2026-10-14 21:31:31"
     }
    ]
@@ -954,62 +1024,6 @@
      "url": "https://media.dglab.com/2026/10/07-genai-sum2026-01/amp/",
      "published_at": "2026-10-07 00:00:00",
      "collected_at": "2026-10-07 21:31:25"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261005-01",
-   "burst_start_date": "2026-10-05",
-   "first_collected_at": "2026-10-06 05:42:49",
-   "last_collected_at": "2026-10-07 21:31:25",
-   "article_count": 5,
-   "tags": [
-    "活用事例",
-    "取扱い・対応"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 (2026年10月5日掲載) - ライブドアニュース",
-    "domain": "news.livedoor.com",
-    "url": "https://news.livedoor.com/pr_topics/detail/32494813/",
-    "published_at": "2026-10-05 18:00:00",
-    "summary": "UPBONDがJPYCを担保にした貸出サービス「JPYC Lending」を発表した。年率3～4%の貸借料を受け取れる紹介経由限定サービスで、事前登録は2026年10月5日開始、サービス提供は同10月19日より始まる予定。"
-   },
-   "articles": [
-    {
-     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 (2026年10月5日掲載) - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32494813/",
-     "published_at": "2026-10-05 18:00:00",
-     "collected_at": "2026-10-06 21:31:24"
-    },
-    {
-     "title": "UPBOND、紹介限定の「JPYC Lending」事前登録を10月5日開始。10月19日よりサービス提供 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000077.000065959.html",
-     "published_at": "2026-10-05 18:00:01",
-     "collected_at": "2026-10-06 05:42:49"
-    },
-    {
-     "title": "UPBONDが提供するJPYC Lendingの事前登録開始とサービス詳細のご案内 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/card/34019/",
-     "published_at": "2026-10-05 21:24:43",
-     "collected_at": "2026-10-07 21:31:25"
-    },
-    {
-     "title": "UPBONDが提供するJPYC Lendingの事前登録開始とサービス詳細のご案内 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/cryptocurrency/34019/",
-     "published_at": "2026-10-05 21:24:43",
-     "collected_at": "2026-10-06 05:42:49"
-    },
-    {
-     "title": "JPYCレンディング、UPBONDが19日開始──年3〜4％、USDCに換えて運用 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/upbond-jpyc-lend-20261006/",
-     "published_at": "2026-10-06 00:00:00",
-     "collected_at": "2026-10-06 21:31:24"
     }
    ]
   },
