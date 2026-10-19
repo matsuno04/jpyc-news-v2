@@ -1,8 +1,395 @@
 {
- "generated_at": "2026-10-19 00:49:53",
+ "generated_at": "2026-10-19 21:32:56",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261019-01",
+   "burst_start_date": "2026-10-19",
+   "first_collected_at": "2026-10-19 21:31:15",
+   "last_collected_at": "2026-10-19 21:31:15",
+   "article_count": 4,
+   "tags": [
+    "提携・連携",
+    "活用事例",
+    "解説・論説",
+    "実証実験"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
+    "domain": "news.livedoor.com",
+    "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
+    "published_at": "2026-10-19 09:30:00",
+    "summary": "INSPAYが10月2日に大手町でステーブルコイン決済に関するイベントを開催し、JPYCやHashPortが登壇した。利用者への還元設計と決済速度が普及の課題として議論され、INSPAYは1年以内に実証段階から店舗の日々の売上につながる商用利用を目指すことが明かされた。"
+   },
+   "articles": [
+    {
+     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
+     "published_at": "2026-10-19 09:30:00",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000005.000186424.html",
+     "published_at": "2026-10-19 09:30:01",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "JPYCやHashPortが語るステーブルコイン決済の未来と街での実現可能性 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34210/",
+     "published_at": "2026-10-19 11:06:47",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "Orbs Japan オーブス🇯🇵 (@JapanOrbs) on X - Howl.link",
+     "domain": "t.co",
+     "url": "https://t.co/sCsVQaKWbl",
+     "published_at": "2026-10-19 11:57:36",
+     "collected_at": "2026-10-19 21:31:15"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261009-01",
+   "burst_start_date": "2026-10-09",
+   "first_collected_at": "2026-10-09 21:31:20",
+   "last_collected_at": "2026-10-19 21:31:15",
+   "article_count": 16,
+   "tags": [
+    "制度・規制",
+    "活用事例",
+    "提携・連携",
+    "リスク・懸念",
+    "取扱い・対応",
+    "解説・論説"
+   ],
+   "tags_mode": "制度・規制",
+   "representative": {
+    "title": "JPYC払いの割引はカード規約違反か──JPYCが公取委に情報提供 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpyc-20261009/",
+    "published_at": "2026-10-09 00:00:00",
+    "summary": "JPYC株式会社は、JPYC決済を利用する顧客への割引や送料無料の実施について、導入店から加盟店規約違反への懸念が寄せられていることを受け、9月14日に公正取引委員会へ情報提供を行った。同社は、決済手段ごとの価格設定は加盟店の自由な経営判断に委ねられるべきとの立場を示し、公取委の2022年報告書を根拠に、現金割引の一律禁止は独禁法上の問題となるおそれがあると主張している。"
+   },
+   "articles": [
+    {
+     "title": "JPYC払いの割引はカード規約違反か──JPYCが公取委に情報提供 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-20261009/",
+     "published_at": "2026-10-09 00:00:00",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "公正取引委員会に対し、ステーブルコイン決済の普及を踏まえたキャッシュレス決済市場の競争環境に関する情報提供を実施 - 産経ニュース",
+     "domain": "sankei.com",
+     "url": "https://www.sankei.com/pressrelease/prtimes/H3NFWKKX3NJGRA4XKOMEEPPZ7E/",
+     "published_at": "2026-10-09 10:00:00",
+     "collected_at": "2026-10-12 21:31:23"
+    },
+    {
+     "title": "公正取引委員会に対し、ステーブルコイン決済の普及を踏まえたキャッシュレス決済市場の競争環境に関する情報提供を実施 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000332.000054018.html",
+     "published_at": "2026-10-09 10:00:01",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC「カード規約がステーブルコイン割引を阻害」公取委に競争環境を報告 - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/230278.html",
+     "published_at": "2026-10-09 10:24:26",
+     "collected_at": "2026-10-10 03:19:03"
+    },
+    {
+     "title": "JPYC株式会社が公正取引委員会にキャッシュレス決済の競争環境を報告する意義 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34083/",
+     "published_at": "2026-10-09 10:53:07",
+     "collected_at": "2026-10-11 21:31:18"
+    },
+    {
+     "title": "JPYC株式会社が公正取引委員会にキャッシュレス決済の競争環境を報告する意義 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/cryptocurrency/34083/",
+     "published_at": "2026-10-09 10:53:07",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表 - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/615394",
+     "published_at": "2026-10-09 11:51:55",
+     "collected_at": "2026-10-10 21:31:18"
+    },
+    {
+     "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
+     "published_at": "2026-10-09 12:13:32",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC、公取委に情報提供──カード加盟店規約を問題視（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/3235ecd5798f65a967f6d00cedfaec9840eb03c3",
+     "published_at": "2026-10-09 13:30:00",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC、公取委に情報提供──「決済導入店の割引は消費者利益」 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=742088",
+     "published_at": "2026-10-09 13:45:10",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "ステーブルコイン決済の割引阻む加盟店規約、JPYCが公取委に情報提供 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/f33a14de-d03a-443e-8470-5e677c37b858",
+     "published_at": "2026-10-09 14:25:24",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "JPYC、公取委に情報提供──「決済導入店の割引は消費者利益」 - Iolite（アイオライト）",
+     "domain": "iolite.net",
+     "url": "https://iolite.net/news/coinpost-742088",
+     "published_at": "2026-10-09 15:00:51",
+     "collected_at": "2026-10-09 21:31:20"
+    },
+    {
+     "title": "【10/9話題】JPYC社が公取委に決済市場の情報提供、アプトス財団が2.1億APTの永久ロックとステーキング、スタークネットがL1移行を検討など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/615632",
+     "published_at": "2026-10-09 20:51:05",
+     "collected_at": "2026-10-10 03:19:03"
+    },
+    {
+     "title": "【10/9話題】JPYC社が公取委に決済市場の情報提供、アプトス財団が2.1億APTの永久ロックとステーキング、スタークネットがL1移行を検討など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/615632/amp",
+     "published_at": "2026-10-09 21:03:23",
+     "collected_at": "2026-10-11 21:31:18"
+    },
+    {
+     "title": "JPYCが公取委に決済市場の競争状況を情報提供 割引の自由をサポートする方針示す - PlusWeb3",
+     "domain": "plus-web3.com",
+     "url": "https://plus-web3.com/media/latestnews_1000_11002/",
+     "published_at": "2026-10-13 17:00:00",
+     "collected_at": "2026-10-14 21:31:31"
+    },
+    {
+     "title": "Web3最新ニュースまとめ｜SBIなど3社がAPI接続へ合弁会社設立に基本合意、JPYCが公取委に情報提供、XDC取扱開始【2026/10/9-10/15】 - PlusWeb3",
+     "domain": "plus-web3.com",
+     "url": "https://plus-web3.com/media/web3_2026-10-9-10-16/",
+     "published_at": "2026-10-18 19:00:00",
+     "collected_at": "2026-10-19 21:31:15"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261007-01",
+   "burst_start_date": "2026-10-07",
+   "first_collected_at": "2026-10-07 21:31:25",
+   "last_collected_at": "2026-10-19 21:31:15",
+   "article_count": 2,
+   "tags": [
+    "解説・論説",
+    "実証実験"
+   ],
+   "tags_mode": "解説・論説",
+   "representative": {
+    "title": "AIエージェント決済・運用の最前線：ステーブルコインが拓く未来〜「生成AIサミット（GenAI/SUM）2026」 - DG Lab Haus",
+    "domain": "media.dglab.com",
+    "url": "https://media.dglab.com/2026/10/07-genai-sum2026-01/",
+    "published_at": "2026-10-07 00:00:00",
+    "summary": "10月6日の生成AIサミット2026で開催されたワークショップでは、AIエージェントが自律的に経済活動を行う際の決済手段について議論が行われた。JPYC株式会社の岡部典孝氏を含む登壇者らは、AIエージェント決済の支払い手段としてステーブルコインが不可欠になるとの見解で一致し、特に機械間決済の世界ではステーブルコインの利用が重要になると指摘した。"
+   },
+   "articles": [
+    {
+     "title": "AIエージェント決済・運用の最前線：ステーブルコインが拓く未来〜「生成AIサミット（GenAI/SUM）2026」 - DG Lab Haus",
+     "domain": "media.dglab.com",
+     "url": "https://media.dglab.com/2026/10/07-genai-sum2026-01/",
+     "published_at": "2026-10-07 00:00:00",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "AIエージェント決済・運用の最前線：ステーブルコインが拓く未来〜「生成AIサミット（GenAI/SUM）2026」 - DG Lab Haus",
+     "domain": "media.dglab.com",
+     "url": "https://media.dglab.com/2026/10/07-genai-sum2026-01/amp/",
+     "published_at": "2026-10-07 00:00:00",
+     "collected_at": "2026-10-07 21:31:25"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20260917-01",
+   "burst_start_date": "2026-09-17",
+   "first_collected_at": "2026-10-01 14:46:17",
+   "last_collected_at": "2026-10-19 21:31:15",
+   "article_count": 20,
+   "tags": [
+    "市場・統計",
+    "取扱い・対応",
+    "リスク・懸念",
+    "競合・市場環境",
+    "制度・規制"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "韓国大手取引所Upbit、日本円ステーブルコイン「JPYC」上場 - BitTimes",
+    "domain": "bittimes.net",
+    "url": "https://bittimes.net/news/228882.html",
+    "published_at": "2026-09-17 09:36:23",
+    "summary": "韓国大手取引所Upbitは2026年9月17日、日本円ステーブルコイン「JPYC」を上場すると発表しました。JPYCが中央集権型取引所に上場するのは初めてであり、これまでオンチェーン中心だった流通が大手取引所での売買段階へ進みました。現在の4チェーン合計の流通量は約19億JPYCとなっています。"
+   },
+   "articles": [
+    {
+     "title": "韓国大手取引所Upbit、日本円ステーブルコイン「JPYC」上場 - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/228882.html",
+     "published_at": "2026-09-17 09:36:23",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=738117",
+     "published_at": "2026-09-17 15:41:38",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設(NADA NEWS) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/64f57bb834ffa8c098267e06f5f085aca5a3daac",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」(CoinPost) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/c7d08a3259d4d075080c83ed3159f9cb673b5ba0",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、Upbit上場の影響で価格乖離（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/85b17920bfd301c6701871297bb6142684fb2219",
+     "published_at": "2026-09-17 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円建てステーブルコインJPYC、韓国アップビット上場初日に価格急騰と急落 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/c18da06d-d5ee-4093-882b-e7fdf9c43df7",
+     "published_at": "2026-09-17 16:06:58",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "アップビットのJPYC急騰急落 投機批判広がる - CHOSUNBIZ - Chosunbiz",
+     "domain": "biz.chosun.com",
+     "url": "https://biz.chosun.com/jp/jp-finance/2026/09/18/7QPL57O64FH7LMARYCJHBHDQSU/",
+     "published_at": "2026-09-18 00:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "アップビートが17日に上場した円ステーブルコインJPYCが流通量不足で上場価格対比200%急騰する異常現象が発生した。 - 매일경제",
+     "domain": "mk.co.kr",
+     "url": "https://www.mk.co.kr/jp/stock/12156089",
+     "published_at": "2026-09-18 09:13:32",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC、韓国アップビット上場後に想定1円から乖離 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=738488",
+     "published_at": "2026-09-18 14:40:48",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "円ステーブルコイン「JPYC」、韓国アップビット上場直後に価格乖離で一時約4円に急騰（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/e4b465ad693e1ec764d2d7e60e359bddc8efe06c",
+     "published_at": "2026-09-18 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "FRB3年ぶり利上げでビットコイン乱高下／メタプラネット筆頭株主が大量売却【週末に読みたい厳選5本_相場編】 - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/a98d9640778d01344289943fd6f63f4c46f00ff5",
+     "published_at": "2026-09-19 16:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
+     "published_at": "2026-09-26 11:00:00",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC上場で急騰落 投資家2万人超が損失 - CHOSUNBIZ - Chosunbiz",
+     "domain": "biz.chosun.com",
+     "url": "https://biz.chosun.com/jp/jp-finance/2026/09/27/5WNJJAWD3RGZTIKCWYJI2IYC7U/",
+     "published_at": "2026-09-27 00:00:00",
+     "collected_at": "2026-10-05 12:22:52"
+    },
+    {
+     "title": "円連動ステーブルコインJPYC、韓国Upbit上場直後に4倍急騰…投資家の評価損約5.8億円 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/1e331aca-7efc-4c46-a316-9a6817523261",
+     "published_at": "2026-09-27 12:35:27",
+     "collected_at": "2026-10-01 14:46:17"
+    },
+    {
+     "title": "JPYC価格乖離、韓国投資家2.1万人が高値掴み──買付総額約280億円＝報道（NADA NEWS） - news.yahoo.co.jp",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/a62839abea8f1e6505641a8990acc3b47ef0c0c2",
+     "published_at": "2026-09-27 18:30:00",
+     "collected_at": "2026-10-05 12:22:52"
+    },
+    {
+     "title": "JPYC、1円を4円以上で買った人も──韓国で2万人超が高値掴み - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-south-korea-20260928/",
+     "published_at": "2026-09-28 00:00:00",
+     "collected_at": "2026-10-05 21:31:18"
+    },
+    {
+     "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
+     "published_at": "2026-09-29 11:30:20",
+     "collected_at": "2026-10-01 14:46:17"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261006-01",
    "burst_start_date": "2026-10-06",
@@ -430,134 +817,6 @@
      "url": "https://mantan-web.jp/prtimes/article/20261013prt00m200000796a.html",
      "published_at": "2026-10-14 03:47:45",
      "collected_at": "2026-10-15 02:04:17"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261009-01",
-   "burst_start_date": "2026-10-09",
-   "first_collected_at": "2026-10-09 21:31:20",
-   "last_collected_at": "2026-10-14 21:31:31",
-   "article_count": 15,
-   "tags": [
-    "制度・規制",
-    "活用事例",
-    "リスク・懸念",
-    "提携・連携"
-   ],
-   "tags_mode": "制度・規制",
-   "representative": {
-    "title": "JPYC払いの割引はカード規約違反か──JPYCが公取委に情報提供 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/jpyc-20261009/",
-    "published_at": "2026-10-09 00:00:00",
-    "summary": "JPYC株式会社は、JPYC決済を利用する顧客への割引や送料無料の実施について、導入店から加盟店規約違反への懸念が寄せられていることを受け、9月14日に公正取引委員会へ情報提供を行った。同社は、決済手段ごとの価格設定は加盟店の自由な経営判断に委ねられるべきとの立場を示し、公取委の2022年報告書を根拠に、現金割引の一律禁止は独禁法上の問題となるおそれがあると主張している。"
-   },
-   "articles": [
-    {
-     "title": "JPYC払いの割引はカード規約違反か──JPYCが公取委に情報提供 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/jpyc-20261009/",
-     "published_at": "2026-10-09 00:00:00",
-     "collected_at": "2026-10-09 21:31:20"
-    },
-    {
-     "title": "公正取引委員会に対し、ステーブルコイン決済の普及を踏まえたキャッシュレス決済市場の競争環境に関する情報提供を実施 - 産経ニュース",
-     "domain": "sankei.com",
-     "url": "https://www.sankei.com/pressrelease/prtimes/H3NFWKKX3NJGRA4XKOMEEPPZ7E/",
-     "published_at": "2026-10-09 10:00:00",
-     "collected_at": "2026-10-12 21:31:23"
-    },
-    {
-     "title": "公正取引委員会に対し、ステーブルコイン決済の普及を踏まえたキャッシュレス決済市場の競争環境に関する情報提供を実施 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000332.000054018.html",
-     "published_at": "2026-10-09 10:00:01",
-     "collected_at": "2026-10-09 21:31:20"
-    },
-    {
-     "title": "JPYC「カード規約がステーブルコイン割引を阻害」公取委に競争環境を報告 - BitTimes",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/230278.html",
-     "published_at": "2026-10-09 10:24:26",
-     "collected_at": "2026-10-10 03:19:03"
-    },
-    {
-     "title": "JPYC株式会社が公正取引委員会にキャッシュレス決済の競争環境を報告する意義 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/card/34083/",
-     "published_at": "2026-10-09 10:53:07",
-     "collected_at": "2026-10-11 21:31:18"
-    },
-    {
-     "title": "JPYC株式会社が公正取引委員会にキャッシュレス決済の競争環境を報告する意義 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/cryptocurrency/34083/",
-     "published_at": "2026-10-09 10:53:07",
-     "collected_at": "2026-10-09 21:31:20"
-    },
-    {
-     "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表 - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/615394",
-     "published_at": "2026-10-09 11:51:55",
-     "collected_at": "2026-10-10 21:31:18"
-    },
-    {
-     "title": "JPYC社、公取委に決済市場の情報提供、「JPYC決済割引」への見解も公表（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/226aba3d35861e9eb170de4cbcf468e1338e1847",
-     "published_at": "2026-10-09 12:13:32",
-     "collected_at": "2026-10-09 21:31:20"
-    },
-    {
-     "title": "JPYC、公取委に情報提供──カード加盟店規約を問題視（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/3235ecd5798f65a967f6d00cedfaec9840eb03c3",
-     "published_at": "2026-10-09 13:30:00",
-     "collected_at": "2026-10-09 21:31:20"
-    },
-    {
-     "title": "JPYC、公取委に情報提供──「決済導入店の割引は消費者利益」 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=742088",
-     "published_at": "2026-10-09 13:45:10",
-     "collected_at": "2026-10-09 21:31:20"
-    },
-    {
-     "title": "ステーブルコイン決済の割引阻む加盟店規約、JPYCが公取委に情報提供 - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/f33a14de-d03a-443e-8470-5e677c37b858",
-     "published_at": "2026-10-09 14:25:24",
-     "collected_at": "2026-10-09 21:31:20"
-    },
-    {
-     "title": "JPYC、公取委に情報提供──「決済導入店の割引は消費者利益」 - Iolite（アイオライト）",
-     "domain": "iolite.net",
-     "url": "https://iolite.net/news/coinpost-742088",
-     "published_at": "2026-10-09 15:00:51",
-     "collected_at": "2026-10-09 21:31:20"
-    },
-    {
-     "title": "【10/9話題】JPYC社が公取委に決済市場の情報提供、アプトス財団が2.1億APTの永久ロックとステーキング、スタークネットがL1移行を検討など（音声ニュース） - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/615632",
-     "published_at": "2026-10-09 20:51:05",
-     "collected_at": "2026-10-10 03:19:03"
-    },
-    {
-     "title": "【10/9話題】JPYC社が公取委に決済市場の情報提供、アプトス財団が2.1億APTの永久ロックとステーキング、スタークネットがL1移行を検討など（音声ニュース） - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/615632/amp",
-     "published_at": "2026-10-09 21:03:23",
-     "collected_at": "2026-10-11 21:31:18"
-    },
-    {
-     "title": "JPYCが公取委に決済市場の競争状況を情報提供 割引の自由をサポートする方針示す - PlusWeb3",
-     "domain": "plus-web3.com",
-     "url": "https://plus-web3.com/media/latestnews_1000_11002/",
-     "published_at": "2026-10-13 17:00:00",
-     "collected_at": "2026-10-14 21:31:31"
     }
    ]
   },
@@ -1000,34 +1259,6 @@
    ]
   },
   {
-   "event_id": "EVT-20261007-01",
-   "burst_start_date": "2026-10-07",
-   "first_collected_at": "2026-10-07 21:31:25",
-   "last_collected_at": "2026-10-07 21:31:25",
-   "article_count": 1,
-   "tags": [
-    "実証実験",
-    "解説・論説"
-   ],
-   "tags_mode": "実証実験",
-   "representative": {
-    "title": "AIエージェント決済・運用の最前線：ステーブルコインが拓く未来〜「生成AIサミット（GenAI/SUM）2026」 - DG Lab Haus",
-    "domain": "media.dglab.com",
-    "url": "https://media.dglab.com/2026/10/07-genai-sum2026-01/amp/",
-    "published_at": "2026-10-07 00:00:00",
-    "summary": "10月6日に開催された「生成AIサミット2026」のワークショップで、AIエージェントが自律的に経済活動を行う場合の決済手段について議論された。登壇したJPYC株式会社代表取締役の岡部典孝氏は、既にJPYCを使ってAIエージェントが買い物をする事例が出てきていると述べ、ステーブルコインがマイクロペイメントや機械間決済で不可欠なインフラになるとの見解が示された。"
-   },
-   "articles": [
-    {
-     "title": "AIエージェント決済・運用の最前線：ステーブルコインが拓く未来〜「生成AIサミット（GenAI/SUM）2026」 - DG Lab Haus",
-     "domain": "media.dglab.com",
-     "url": "https://media.dglab.com/2026/10/07-genai-sum2026-01/amp/",
-     "published_at": "2026-10-07 00:00:00",
-     "collected_at": "2026-10-07 21:31:25"
-    }
-   ]
-  },
-  {
    "event_id": "EVT-20261005-02",
    "burst_start_date": "2026-10-05",
    "first_collected_at": "2026-10-06 05:42:49",
@@ -1088,163 +1319,6 @@
      "url": "https://jinacoin.ne.jp/jpysc-corporate-bond-20261006/",
      "published_at": "2026-10-06 00:00:00",
      "collected_at": "2026-10-06 21:31:24"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260917-01",
-   "burst_start_date": "2026-09-17",
-   "first_collected_at": "2026-10-01 14:46:17",
-   "last_collected_at": "2026-10-05 21:31:18",
-   "article_count": 19,
-   "tags": [
-    "市場・統計",
-    "取扱い・対応",
-    "リスク・懸念",
-    "競合・市場環境",
-    "制度・規制"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」 - CoinPost",
-    "domain": "coinpost.jp",
-    "url": "https://coinpost.jp/?p=738117",
-    "published_at": "2026-09-17 15:41:38",
-    "summary": "JPYC株式会社が発行する日本円ステーブルコイン「JPYC」が9月17日、韓国最大手の仮想通貨取引所アップビットに上場する。ウォン、ビットコイン、USDTの3市場での取扱いが開始され、同時にPYUSDも上場される。岡部代表は海外取引所での上限撤廃を国内発行・償還上限の見直しのきっかけになれば幸いとコメントした。"
-   },
-   "articles": [
-    {
-     "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=738117",
-     "published_at": "2026-09-17 15:41:38",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYCが韓国大手Upbitに上場──初の韓国ウォン取引ペアが開設(NADA NEWS) - Yahoo!ファイナンス",
-     "domain": "finance.yahoo.co.jp",
-     "url": "https://finance.yahoo.co.jp/news/detail/64f57bb834ffa8c098267e06f5f085aca5a3daac",
-     "published_at": "2026-09-17 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC、韓国アップビット上場へ 岡部氏「大きな可能性」(CoinPost) - Yahoo!ファイナンス",
-     "domain": "finance.yahoo.co.jp",
-     "url": "https://finance.yahoo.co.jp/news/detail/c7d08a3259d4d075080c83ed3159f9cb673b5ba0",
-     "published_at": "2026-09-17 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "韓国アップビットに日本円ステーブルコイン「JPYC」上場へ、ペイパルの「PYUSD」も（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/33a9a244d9ae3c657951fc2ae3d2aea05d343137",
-     "published_at": "2026-09-17 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC、Upbit上場の影響で価格乖離（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/85b17920bfd301c6701871297bb6142684fb2219",
-     "published_at": "2026-09-17 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "円建てステーブルコインJPYC、韓国アップビット上場初日に価格急騰と急落 - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/c18da06d-d5ee-4093-882b-e7fdf9c43df7",
-     "published_at": "2026-09-17 16:06:58",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "アップビットのJPYC急騰急落 投機批判広がる - CHOSUNBIZ - Chosunbiz",
-     "domain": "biz.chosun.com",
-     "url": "https://biz.chosun.com/jp/jp-finance/2026/09/18/7QPL57O64FH7LMARYCJHBHDQSU/",
-     "published_at": "2026-09-18 00:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "アップビートが17日に上場した円ステーブルコインJPYCが流通量不足で上場価格対比200%急騰する異常現象が発生した。 - 매일경제",
-     "domain": "mk.co.kr",
-     "url": "https://www.mk.co.kr/jp/stock/12156089",
-     "published_at": "2026-09-18 09:13:32",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC、韓国アップビット上場後に想定1円から乖離 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=738488",
-     "published_at": "2026-09-18 14:40:48",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC岡部氏、ステーブルコインの価格乖離を説明──「在庫が足りなく」（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/bc6060e48a1f38cab84363f7b5ac763092beb987",
-     "published_at": "2026-09-18 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "Upbit上場で価格乖離、アービトラージ殺到でJPYC流通量が前日比2.2倍の42億円超に（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/d6acce781044cce91bb0f8f2c061d4fe56deb7df",
-     "published_at": "2026-09-18 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "円ステーブルコイン「JPYC」、韓国アップビット上場直後に価格乖離で一時約4円に急騰（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/e4b465ad693e1ec764d2d7e60e359bddc8efe06c",
-     "published_at": "2026-09-18 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "FRB3年ぶり利上げでビットコイン乱高下／メタプラネット筆頭株主が大量売却【週末に読みたい厳選5本_相場編】 - Yahoo!ファイナンス",
-     "domain": "finance.yahoo.co.jp",
-     "url": "https://finance.yahoo.co.jp/news/detail/a98d9640778d01344289943fd6f63f4c46f00ff5",
-     "published_at": "2026-09-19 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "日本のステーブルコイン「JPYC」、韓国上場直後に一時額面4倍超──法整備の遅れが浮き彫りに - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/a62c1ef85336c3b237cdbf4906e12895a598aa2c",
-     "published_at": "2026-09-26 11:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC上場で急騰落 投資家2万人超が損失 - CHOSUNBIZ - Chosunbiz",
-     "domain": "biz.chosun.com",
-     "url": "https://biz.chosun.com/jp/jp-finance/2026/09/27/5WNJJAWD3RGZTIKCWYJI2IYC7U/",
-     "published_at": "2026-09-27 00:00:00",
-     "collected_at": "2026-10-05 12:22:52"
-    },
-    {
-     "title": "円連動ステーブルコインJPYC、韓国Upbit上場直後に4倍急騰…投資家の評価損約5.8億円 - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/1e331aca-7efc-4c46-a316-9a6817523261",
-     "published_at": "2026-09-27 12:35:27",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC価格乖離、韓国投資家2.1万人が高値掴み──買付総額約280億円＝報道（NADA NEWS） - news.yahoo.co.jp",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/a62839abea8f1e6505641a8990acc3b47ef0c0c2",
-     "published_at": "2026-09-27 18:30:00",
-     "collected_at": "2026-10-05 12:22:52"
-    },
-    {
-     "title": "JPYC、1円を4円以上で買った人も──韓国で2万人超が高値掴み - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/jpyc-south-korea-20260928/",
-     "published_at": "2026-09-28 00:00:00",
-     "collected_at": "2026-10-05 21:31:18"
-    },
-    {
-     "title": "JPYC価格乖離受け、韓国金融委がマーケットメイク制度導入を検討（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/0e65cb2412ee17e371f8c8924ec0d5c74df03d14",
-     "published_at": "2026-09-29 11:30:20",
-     "collected_at": "2026-10-01 14:46:17"
     }
    ]
   },
