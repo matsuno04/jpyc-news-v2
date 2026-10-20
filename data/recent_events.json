@@ -1,8 +1,92 @@
 {
- "generated_at": "2026-10-19 21:32:56",
+ "generated_at": "2026-10-20 21:31:41",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261020-01",
+   "burst_start_date": "2026-10-20",
+   "first_collected_at": "2026-10-20 21:31:14",
+   "last_collected_at": "2026-10-20 21:31:14",
+   "article_count": 1,
+   "tags": [
+    "取扱い・対応",
+    "提携・連携"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - 産経ニュース",
+    "domain": "sankei.com",
+    "url": "https://www.sankei.com/pressrelease/prtimes/B4UGXJYYZFNMLCQAAX2NGAQQJ4/",
+    "published_at": "2026-10-20 12:00:00",
+    "summary": "Zept株式会社は、JPYCの取引履歴を自動取得して一元管理するWebサービス「JP Stablecoin Ledger（JSL）」を開発した。JSLは複数ウォレットの取引情報を統合し、取引先・用途・証憑の管理から月次・年間レポート作成までをサポートする。JPYCの利用拡大に伴う取引管理のニーズに対応し、個人から企業まで幅広く活用できる基盤を目指している。"
+   },
+   "articles": [
+    {
+     "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - 産経ニュース",
+     "domain": "sankei.com",
+     "url": "https://www.sankei.com/pressrelease/prtimes/B4UGXJYYZFNMLCQAAX2NGAQQJ4/",
+     "published_at": "2026-10-20 12:00:00",
+     "collected_at": "2026-10-20 21:31:14"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261013-01",
+   "burst_start_date": "2026-10-13",
+   "first_collected_at": "2026-10-13 21:31:21",
+   "last_collected_at": "2026-10-20 21:31:14",
+   "article_count": 5,
+   "tags": [
+    "活用事例",
+    "取扱い・対応"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント (2026年10月13日掲載) - ライブドアニュース",
+    "domain": "news.livedoor.com",
+    "url": "https://news.livedoor.com/pr_topics/detail/32555519/",
+    "published_at": "2026-10-13 11:00:00",
+    "summary": "株式会社COLOR3が10月24日に京都で開催するクリエイターフェス「NコレKYOTO 2026」では、約70組がJPYCの決済に対応する。公式アプリでチケット購入時に500JPYCが付与され、会場での購買に利用できる。"
+   },
+   "articles": [
+    {
+     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント (2026年10月13日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32555519/",
+     "published_at": "2026-10-13 11:00:00",
+     "collected_at": "2026-10-15 21:31:32"
+    },
+    {
+     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000002.000186136.html",
+     "published_at": "2026-10-13 11:00:02",
+     "collected_at": "2026-10-13 21:31:21"
+    },
+    {
+     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - 毎日キレイ",
+     "domain": "mainichikirei.jp",
+     "url": "https://mainichikirei.jp/prtimes/article/20261013prt00m100000592a.html",
+     "published_at": "2026-10-14 01:08:41",
+     "collected_at": "2026-10-15 21:31:32"
+    },
+    {
+     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - MANTANWEB",
+     "domain": "mantan-web.jp",
+     "url": "https://mantan-web.jp/prtimes/article/20261013prt00m200000796a.html",
+     "published_at": "2026-10-14 03:47:45",
+     "collected_at": "2026-10-15 02:04:17"
+    },
+    {
+     "title": "COLOR3がNコレKYOTO 2026を10月24日開催へ JPYC決済を導入 - Dellows News",
+     "domain": "news.dellows.jp",
+     "url": "https://news.dellows.jp/709917/?from=related-reading-list",
+     "published_at": "2026-10-20 04:24:22",
+     "collected_at": "2026-10-20 21:31:14"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261019-01",
    "burst_start_date": "2026-10-19",
@@ -768,55 +852,6 @@
      "url": "https://www.neweconomy.jp/posts/617065",
      "published_at": "2026-10-15 17:19:15",
      "collected_at": "2026-10-16 21:30:52"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261013-01",
-   "burst_start_date": "2026-10-13",
-   "first_collected_at": "2026-10-13 21:31:21",
-   "last_collected_at": "2026-10-15 21:31:32",
-   "article_count": 4,
-   "tags": [
-    "活用事例",
-    "取扱い・対応"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント (2026年10月13日掲載) - ライブドアニュース",
-    "domain": "news.livedoor.com",
-    "url": "https://news.livedoor.com/pr_topics/detail/32555519/",
-    "published_at": "2026-10-13 11:00:00",
-    "summary": "株式会社COLOR3が10月24日に京都で開催するクリエイターフェス「NコレKYOTO 2026」では、約70組がJPYCの決済に対応する。公式アプリでチケット購入時に500JPYCが付与され、会場での購買に利用できる。"
-   },
-   "articles": [
-    {
-     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント (2026年10月13日掲載) - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32555519/",
-     "published_at": "2026-10-13 11:00:00",
-     "collected_at": "2026-10-15 21:31:32"
-    },
-    {
-     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000002.000186136.html",
-     "published_at": "2026-10-13 11:00:02",
-     "collected_at": "2026-10-13 21:31:21"
-    },
-    {
-     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - 毎日キレイ",
-     "domain": "mainichikirei.jp",
-     "url": "https://mainichikirei.jp/prtimes/article/20261013prt00m100000592a.html",
-     "published_at": "2026-10-14 01:08:41",
-     "collected_at": "2026-10-15 21:31:32"
-    },
-    {
-     "title": "クリエイターフェス「NコレKYOTO 2026」が開催予定！「JPYCリアルタイム決済」を実施するイベント - MANTANWEB",
-     "domain": "mantan-web.jp",
-     "url": "https://mantan-web.jp/prtimes/article/20261013prt00m200000796a.html",
-     "published_at": "2026-10-14 03:47:45",
-     "collected_at": "2026-10-15 02:04:17"
     }
    ]
   },
