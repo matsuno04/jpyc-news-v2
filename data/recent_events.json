@@ -1,8 +1,86 @@
 {
- "generated_at": "2026-10-21 01:53:43",
+ "generated_at": "2026-10-21 21:32:03",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261021-01",
+   "burst_start_date": "2026-10-21",
+   "first_collected_at": "2026-10-21 21:31:20",
+   "last_collected_at": "2026-10-21 21:31:20",
+   "article_count": 3,
+   "tags": [
+    "提携・連携",
+    "実証実験"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "JPYC、SBJ銀行・LINE NEXTと提携──銀行口座からのチャージを実証へ - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpyc-sbj-line-20261021/",
+    "published_at": "2026-10-21 00:00:00",
+    "summary": "JPYC株式会社はSBJ銀行とLINE NEXTの2社と業務提携覚書を締結し、銀行口座とデジタルウォレットを連携させたチャージ機能の概念実証に向けて協業することを発表した。SBJ銀行が銀行基盤を提供し、LINE NEXTがデジタルサービスとブロックチェーン技術を提供し、JPYC社は発行・償還機能の技術支援を行う。"
+   },
+   "articles": [
+    {
+     "title": "JPYC、SBJ銀行・LINE NEXTと提携──銀行口座からのチャージを実証へ - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-sbj-line-20261021/",
+     "published_at": "2026-10-21 00:00:00",
+     "collected_at": "2026-10-21 21:31:20"
+    },
+    {
+     "title": "SBJ銀行、LINE NEXT社、JPYC社による業務提携に関する覚書締結のお知らせ - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000039.000141845.html",
+     "published_at": "2026-10-21 15:00:02",
+     "collected_at": "2026-10-21 21:31:20"
+    },
+    {
+     "title": "日本円ステ－ブルコイン「JPYC」、SBJ銀行およびLINE NEXTと業務提携に関する覚書を締結 | JPYC株式会社のプレスリリース - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000333.000054018.html",
+     "published_at": "2026-10-21 15:00:12",
+     "collected_at": "2026-10-21 21:31:20"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261020-01",
+   "burst_start_date": "2026-10-20",
+   "first_collected_at": "2026-10-20 21:31:14",
+   "last_collected_at": "2026-10-21 21:31:20",
+   "article_count": 2,
+   "tags": [
+    "取扱い・対応",
+    "活用事例",
+    "提携・連携"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - ライブドアニュース",
+    "domain": "news.livedoor.com",
+    "url": "https://news.livedoor.com/pr_topics/detail/32615483/",
+    "published_at": "2026-10-20 12:00:00",
+    "summary": "Zept株式会社が日本円ステーブルコインJPYCの取引を自動記録・一元管理するサービス「JP Stablecoin Ledger（JSL）」を開発した。複数ウォレットのJPYC取引履歴を自動取得し、相手先や証憑をひも付けて一元管理でき、Ethereumなど4チェーンに対応し、月次や年間の取引資料も出力できる。"
+   },
+   "articles": [
+    {
+     "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32615483/",
+     "published_at": "2026-10-20 12:00:00",
+     "collected_at": "2026-10-21 21:31:20"
+    },
+    {
+     "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - 産経ニュース",
+     "domain": "sankei.com",
+     "url": "https://www.sankei.com/pressrelease/prtimes/B4UGXJYYZFNMLCQAAX2NGAQQJ4/",
+     "published_at": "2026-10-20 12:00:00",
+     "collected_at": "2026-10-20 21:31:14"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261014-01",
    "burst_start_date": "2026-10-14",
@@ -78,34 +156,6 @@
      "url": "https://news.dellows.jp/717101/?from=recommend_list",
      "published_at": "2026-10-20 05:25:08",
      "collected_at": "2026-10-21 01:53:23"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261020-01",
-   "burst_start_date": "2026-10-20",
-   "first_collected_at": "2026-10-20 21:31:14",
-   "last_collected_at": "2026-10-20 21:31:14",
-   "article_count": 1,
-   "tags": [
-    "取扱い・対応",
-    "提携・連携"
-   ],
-   "tags_mode": "取扱い・対応",
-   "representative": {
-    "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - 産経ニュース",
-    "domain": "sankei.com",
-    "url": "https://www.sankei.com/pressrelease/prtimes/B4UGXJYYZFNMLCQAAX2NGAQQJ4/",
-    "published_at": "2026-10-20 12:00:00",
-    "summary": "Zept株式会社は、JPYCの取引履歴を自動取得して一元管理するWebサービス「JP Stablecoin Ledger（JSL）」を開発した。JSLは複数ウォレットの取引情報を統合し、取引先・用途・証憑の管理から月次・年間レポート作成までをサポートする。JPYCの利用拡大に伴う取引管理のニーズに対応し、個人から企業まで幅広く活用できる基盤を目指している。"
-   },
-   "articles": [
-    {
-     "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - 産経ニュース",
-     "domain": "sankei.com",
-     "url": "https://www.sankei.com/pressrelease/prtimes/B4UGXJYYZFNMLCQAAX2NGAQQJ4/",
-     "published_at": "2026-10-20 12:00:00",
-     "collected_at": "2026-10-20 21:31:14"
     }
    ]
   },
