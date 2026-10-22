@@ -1,14 +1,76 @@
 {
- "generated_at": "2026-10-22 02:08:37",
+ "generated_at": "2026-10-22 21:33:26",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
   {
+   "event_id": "EVT-20261022-02",
+   "burst_start_date": "2026-10-22",
+   "first_collected_at": "2026-10-22 21:31:07",
+   "last_collected_at": "2026-10-22 21:31:07",
+   "article_count": 1,
+   "tags": [
+    "解説・論説"
+   ],
+   "tags_mode": "解説・論説",
+   "representative": {
+    "title": "「もう既存金融は長くない」JPYC代表が警鐘 金融機関への不正アクセス報道を受け - ASCII.jp",
+    "domain": "ascii.jp",
+    "url": "https://ascii.jp/elem/000/004/444/4444963/",
+    "published_at": "2026-10-22 14:55:00",
+    "summary": "JPYC代表の岡部典孝氏は、金融機関への不正アクセスを報じたNHKの記事を引用し、「もう既存金融は長くない」と警鐘を鳴らした。自分の財産を他人に預けることのリスクを考える必要があると訴えている。"
+   },
+   "articles": [
+    {
+     "title": "「もう既存金融は長くない」JPYC代表が警鐘 金融機関への不正アクセス報道を受け - ASCII.jp",
+     "domain": "ascii.jp",
+     "url": "https://ascii.jp/elem/000/004/444/4444963/",
+     "published_at": "2026-10-22 14:55:00",
+     "collected_at": "2026-10-22 21:31:07"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261022-01",
+   "burst_start_date": "2026-10-22",
+   "first_collected_at": "2026-10-22 21:31:07",
+   "last_collected_at": "2026-10-22 21:31:07",
+   "article_count": 2,
+   "tags": [
+    "活用事例",
+    "提携・連携"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "Zept株式会社、JPYCによるサブスクリプション決済を自動化する「JP Stablecoin Subscription（JSS）」を開発 - Infoseek",
+    "domain": "news.infoseek.co.jp",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000057_000153712/",
+    "published_at": "2026-10-22 12:00:00",
+    "summary": "Zept株式会社がJPYCを活用したサブスクリプション決済自動化サービス「JP Stablecoin Subscription（JSS）」を開発しました。ユーザーのウォレットから事業者へ直接送金する「パススルー型」を採用し、初回登録後は定期課金が自動実行される仕組みです。Webhook・APIによる既存システム連携も備え、SaaS・オンラインコミュニティ・会員制サービスなど幅広い用途での導入を想定しています。"
+   },
+   "articles": [
+    {
+     "title": "Zept株式会社、JPYCによるサブスクリプション決済を自動化する「JP Stablecoin Subscription（JSS）」を開発 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/prtimes_000000057_000153712/",
+     "published_at": "2026-10-22 12:00:00",
+     "collected_at": "2026-10-22 21:31:07"
+    },
+    {
+     "title": "Zept株式会社がJPYCを活用したサブスクリプション決済自動化「JSS」を開発した意義 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/credit-cards/zept-jpyc-subscription-service/",
+     "published_at": "2026-10-22 14:05:26",
+     "collected_at": "2026-10-22 21:31:07"
+    }
+   ]
+  },
+  {
    "event_id": "EVT-20261021-01",
    "burst_start_date": "2026-10-21",
    "first_collected_at": "2026-10-21 21:31:20",
-   "last_collected_at": "2026-10-22 02:06:35",
-   "article_count": 10,
+   "last_collected_at": "2026-10-22 21:31:07",
+   "article_count": 16,
    "tags": [
     "提携・連携",
     "実証実験"
@@ -37,6 +99,13 @@
      "collected_at": "2026-10-21 21:31:20"
     },
     {
+     "title": "日本円ステ-ブルコイン「JPYC」、SBJ銀行およびLINE NEXTと業務提携に関する覚書を締結 (2026年10月21日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32622245/",
+     "published_at": "2026-10-21 15:00:12",
+     "collected_at": "2026-10-22 21:31:07"
+    },
+    {
      "title": "日本円ステ－ブルコイン「JPYC」、SBJ銀行およびLINE NEXTと業務提携に関する覚書を締結 | JPYC株式会社のプレスリリース - PR TIMES",
      "domain": "prtimes.jp",
      "url": "https://prtimes.jp/main/html/rd/p/000000333.000054018.html",
@@ -53,9 +122,23 @@
     {
      "title": "SBJ銀行とLINE NEXT社、JPYC社の業務提携で新たな金融サービスの創出へ向けた覚書締結 - ニュースメディアVOIX",
      "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34248/",
+     "published_at": "2026-10-21 16:12:41",
+     "collected_at": "2026-10-22 21:31:07"
+    },
+    {
+     "title": "SBJ銀行とLINE NEXT社、JPYC社の業務提携で新たな金融サービスの創出へ向けた覚書締結 - ニュースメディアVOIX",
+     "domain": "voix.jp",
      "url": "https://voix.jp/money/cryptocurrency/34248/",
      "published_at": "2026-10-21 16:12:41",
      "collected_at": "2026-10-22 02:06:35"
+    },
+    {
+     "title": "JPYCがSBJ銀行・LINE NEXTと提携、口座連携型チャージ実証が話題に - Howl.link",
+     "domain": "t.co",
+     "url": "https://t.co/ZjqAnAlZoe",
+     "published_at": "2026-10-21 16:25:00",
+     "collected_at": "2026-10-22 21:31:07"
     },
     {
      "title": "JPYC、韓国系SBJ銀行・LINE NEXTと提携──銀行口座からのチャージ機能を検討(NADA NEWS) - Yahoo!ファイナンス",
@@ -63,6 +146,13 @@
      "url": "https://finance.yahoo.co.jp/news/detail/7bf806b5f16ae985a5d22140c5a0a6b8e58c1fea",
      "published_at": "2026-10-21 16:30:00",
      "collected_at": "2026-10-22 02:06:35"
+    },
+    {
+     "title": "JPYC、韓国系SBJ銀行・LINE NEXTと提携──銀行口座からのチャージ機能を検討 | NADA NEWS（ナダ・ニュース） - Howl.link",
+     "domain": "t.co",
+     "url": "https://t.co/yAhY62YvML",
+     "published_at": "2026-10-21 16:30:00",
+     "collected_at": "2026-10-22 21:31:07"
     },
     {
      "title": "Shinhan Bankの日本法人SBJ、円ステーブルコイン口座チャージの実証に着手 - BigGo ファイナンス",
@@ -91,6 +181,20 @@
      "url": "https://www.neweconomy.jp/posts/619049/amp",
      "published_at": "2026-10-21 20:01:09",
      "collected_at": "2026-10-22 02:06:35"
+    },
+    {
+     "title": "SBJ銀、LINE NEXT、JPYC 円建てステーブルコインでの口座連携チャージ実証へ - 月刊「事業構想」オンライン",
+     "domain": "projectdesign.jp",
+     "url": "https://www.projectdesign.jp/articles/news/0b17865f-6e4d-4864-8a8f-7516cc081c92",
+     "published_at": "2026-10-22 00:00:00",
+     "collected_at": "2026-10-22 21:31:07"
+    },
+    {
+     "title": "JPYC「銀行口座から直接チャージ」SBJ銀行・LINE NEXTと実証へ - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/231159.html",
+     "published_at": "2026-10-22 02:19:50",
+     "collected_at": "2026-10-22 21:31:07"
     }
    ]
   },
