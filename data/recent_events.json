@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-23 21:31:57",
+ "generated_at": "2026-10-24 01:59:52",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,20 +7,29 @@
    "event_id": "EVT-20261022-02",
    "burst_start_date": "2026-10-22",
    "first_collected_at": "2026-10-22 21:31:07",
-   "last_collected_at": "2026-10-23 21:31:00",
-   "article_count": 3,
+   "last_collected_at": "2026-10-24 01:59:16",
+   "article_count": 4,
    "tags": [
-    "解説・論説"
+    "解説・論説",
+    "活用事例",
+    "提携・連携"
    ],
    "tags_mode": "解説・論説",
    "representative": {
-    "title": "「もう既存金融は長くない」JPYC代表が警鐘 金融機関への不正アクセス報道を受け - ASCII.jp",
-    "domain": "ascii.jp",
-    "url": "https://ascii.jp/elem/000/004/444/4444963/",
-    "published_at": "2026-10-22 14:55:00",
-    "summary": "JPYC代表の岡部典孝氏は、金融機関への不正アクセスを報じたNHKの記事を引用し、「もう既存金融は長くない」と警鐘を鳴らした。自分の財産を他人に預けることのリスクを考える必要があると訴えている。"
+    "title": "Zept株式会社、JPYCによるサブスクリプション決済を自動化する「JP Stablecoin Subscription（JSS）」を開発 - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000057.000153712.html",
+    "published_at": "2026-10-22 12:00:02",
+    "summary": "Zept株式会社がJPYCを活用したサブスクリプション決済支援サービス「JP Stablecoin Subscription（JSS）」を開発しました。JSSは、ユーザーのウォレットから事業者のウォレットへJPYCを直接送金するパススルー型の仕組みを採用し、初回登録により継続課金を自動化し、Webhook・APIによる既存システムとの連携を支援します。"
    },
    "articles": [
+    {
+     "title": "Zept株式会社、JPYCによるサブスクリプション決済を自動化する「JP Stablecoin Subscription（JSS）」を開発 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000057.000153712.html",
+     "published_at": "2026-10-22 12:00:02",
+     "collected_at": "2026-10-24 01:59:16"
+    },
     {
      "title": "「もう既存金融は長くない」JPYC代表が警鐘 金融機関への不正アクセス報道を受け - ASCII.jp",
      "domain": "ascii.jp",
@@ -45,40 +54,11 @@
    ]
   },
   {
-   "event_id": "EVT-20261021-02",
-   "burst_start_date": "2026-10-21",
-   "first_collected_at": "2026-10-23 21:31:00",
-   "last_collected_at": "2026-10-23 21:31:00",
-   "article_count": 1,
-   "tags": [
-    "活用事例",
-    "制度・規制",
-    "提携・連携"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "日本、訪日客の消費税還付にステーブルコイン活用を検討 - 디지털투데이",
-    "domain": "digitaltoday.co.kr",
-    "url": "https://www.digitaltoday.co.kr/jp/view/117809/japan-considers-using-stablecoins-for-consumption-tax-refunds-to-foreign-tourists",
-    "published_at": "2026-10-21 21:49:21",
-    "summary": "日本政府は11月1日から導入される訪日客向け消費税の出国時還付方式において、ステーブルコインを還付手段の選択肢として活用する案を検討している。民間ではすでに日本免税とJPYCが3月に業務提携を結び、ウォレットへの即時送付を想定した還付モデルの構築を進めている。"
-   },
-   "articles": [
-    {
-     "title": "日本、訪日客の消費税還付にステーブルコイン活用を検討 - 디지털투데이",
-     "domain": "digitaltoday.co.kr",
-     "url": "https://www.digitaltoday.co.kr/jp/view/117809/japan-considers-using-stablecoins-for-consumption-tax-refunds-to-foreign-tourists",
-     "published_at": "2026-10-21 21:49:21",
-     "collected_at": "2026-10-23 21:31:00"
-    }
-   ]
-  },
-  {
    "event_id": "EVT-20261021-01",
    "burst_start_date": "2026-10-21",
    "first_collected_at": "2026-10-21 21:31:20",
-   "last_collected_at": "2026-10-23 21:31:00",
-   "article_count": 20,
+   "last_collected_at": "2026-10-24 01:59:16",
+   "article_count": 21,
    "tags": [
     "提携・連携",
     "実証実験"
@@ -147,6 +127,13 @@
      "url": "https://voix.jp/money/cryptocurrency/34248/",
      "published_at": "2026-10-21 16:12:41",
      "collected_at": "2026-10-22 02:06:35"
+    },
+    {
+     "title": "日本円ステ-ブルコイン「JPYC」、SBJ銀行およびLINE NEXTと業務提携に関する覚書を締結｜Infoseekニュース - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/prtimes_000000333_000054018/",
+     "published_at": "2026-10-21 16:15:24",
+     "collected_at": "2026-10-24 01:59:16"
     },
     {
      "title": "JPYCがSBJ銀行・LINE NEXTと提携、口座連携型チャージ実証が話題に - Howl.link",
@@ -230,6 +217,35 @@
      "domain": "plus-web3.com",
      "url": "https://plus-web3.com/media/latestnews_1000_11161/",
      "published_at": "2026-10-23 12:09:52",
+     "collected_at": "2026-10-23 21:31:00"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261021-02",
+   "burst_start_date": "2026-10-21",
+   "first_collected_at": "2026-10-23 21:31:00",
+   "last_collected_at": "2026-10-23 21:31:00",
+   "article_count": 1,
+   "tags": [
+    "活用事例",
+    "制度・規制",
+    "提携・連携"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "日本、訪日客の消費税還付にステーブルコイン活用を検討 - 디지털투데이",
+    "domain": "digitaltoday.co.kr",
+    "url": "https://www.digitaltoday.co.kr/jp/view/117809/japan-considers-using-stablecoins-for-consumption-tax-refunds-to-foreign-tourists",
+    "published_at": "2026-10-21 21:49:21",
+    "summary": "日本政府は11月1日から導入される訪日客向け消費税の出国時還付方式において、ステーブルコインを還付手段の選択肢として活用する案を検討している。民間ではすでに日本免税とJPYCが3月に業務提携を結び、ウォレットへの即時送付を想定した還付モデルの構築を進めている。"
+   },
+   "articles": [
+    {
+     "title": "日本、訪日客の消費税還付にステーブルコイン活用を検討 - 디지털투데이",
+     "domain": "digitaltoday.co.kr",
+     "url": "https://www.digitaltoday.co.kr/jp/view/117809/japan-considers-using-stablecoins-for-consumption-tax-refunds-to-foreign-tourists",
+     "published_at": "2026-10-21 21:49:21",
      "collected_at": "2026-10-23 21:31:00"
     }
    ]
