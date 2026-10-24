@@ -1,8 +1,67 @@
 {
- "generated_at": "2026-10-24 01:59:52",
+ "generated_at": "2026-10-25 00:51:32",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261019-01",
+   "burst_start_date": "2026-10-19",
+   "first_collected_at": "2026-10-19 21:31:15",
+   "last_collected_at": "2026-10-25 00:51:14",
+   "article_count": 5,
+   "tags": [
+    "提携・連携",
+    "活用事例",
+    "解説・論説",
+    "実証実験",
+    "市場・統計"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
+    "domain": "news.livedoor.com",
+    "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
+    "published_at": "2026-10-19 09:30:00",
+    "summary": "INSPAYが10月2日に大手町でステーブルコイン決済に関するイベントを開催し、JPYCやHashPortが登壇した。利用者への還元設計と決済速度が普及の課題として議論され、INSPAYは1年以内に実証段階から店舗の日々の売上につながる商用利用を目指すことが明かされた。"
+   },
+   "articles": [
+    {
+     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
+     "published_at": "2026-10-19 09:30:00",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000005.000186424.html",
+     "published_at": "2026-10-19 09:30:01",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "JPYCやHashPortが語るステーブルコイン決済の未来と街での実現可能性 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34210/",
+     "published_at": "2026-10-19 11:06:47",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "Orbs Japan オーブス🇯🇵 (@JapanOrbs) on X - Howl.link",
+     "domain": "t.co",
+     "url": "https://t.co/sCsVQaKWbl",
+     "published_at": "2026-10-19 11:57:36",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "店頭のレジからAIによる送金まで──ステーブルコインが企業のお金の動かし方を変える【イベントレポート①】 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/371258/",
+     "published_at": "2026-10-23 10:00:00",
+     "collected_at": "2026-10-25 00:51:14"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261022-02",
    "burst_start_date": "2026-10-22",
@@ -452,57 +511,6 @@
      "url": "https://news.dellows.jp/709917/?from=related-reading-list",
      "published_at": "2026-10-20 04:24:22",
      "collected_at": "2026-10-20 21:31:14"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261019-01",
-   "burst_start_date": "2026-10-19",
-   "first_collected_at": "2026-10-19 21:31:15",
-   "last_collected_at": "2026-10-19 21:31:15",
-   "article_count": 4,
-   "tags": [
-    "提携・連携",
-    "活用事例",
-    "解説・論説",
-    "実証実験"
-   ],
-   "tags_mode": "提携・連携",
-   "representative": {
-    "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
-    "domain": "news.livedoor.com",
-    "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
-    "published_at": "2026-10-19 09:30:00",
-    "summary": "INSPAYが10月2日に大手町でステーブルコイン決済に関するイベントを開催し、JPYCやHashPortが登壇した。利用者への還元設計と決済速度が普及の課題として議論され、INSPAYは1年以内に実証段階から店舗の日々の売上につながる商用利用を目指すことが明かされた。"
-   },
-   "articles": [
-    {
-     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
-     "published_at": "2026-10-19 09:30:00",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000005.000186424.html",
-     "published_at": "2026-10-19 09:30:01",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "JPYCやHashPortが語るステーブルコイン決済の未来と街での実現可能性 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/card/34210/",
-     "published_at": "2026-10-19 11:06:47",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "Orbs Japan オーブス🇯🇵 (@JapanOrbs) on X - Howl.link",
-     "domain": "t.co",
-     "url": "https://t.co/sCsVQaKWbl",
-     "published_at": "2026-10-19 11:57:36",
-     "collected_at": "2026-10-19 21:31:15"
     }
    ]
   },
