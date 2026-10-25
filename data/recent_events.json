@@ -1,8 +1,63 @@
 {
- "generated_at": "2026-10-25 00:51:32",
+ "generated_at": "2026-10-25 21:31:34",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261023-01",
+   "burst_start_date": "2026-10-23",
+   "first_collected_at": "2026-10-25 21:31:10",
+   "last_collected_at": "2026-10-25 21:31:10",
+   "article_count": 1,
+   "tags": [
+    "制度・規制",
+    "実証実験"
+   ],
+   "tags_mode": "制度・規制",
+   "representative": {
+    "title": "政府の給付金にステーブルコイン？デジタル庁が活用を検討 - CoinChoice",
+    "domain": "coinchoice.net",
+    "url": "https://coinchoice.net/stablecoin-benefits/",
+    "published_at": "2026-10-23 17:53:11",
+    "summary": "デジタル庁は、金融庁が設置した「AI時代を見据えたオンチェーン金融フォーラム」の初会合で、ステーブルコインやトークン化預金を公的給付に活用できるか技術面から検討する方針を示した。給付金の使い道を特定の目的に限定する仕組みをブロックチェーン技術のプログラマビリティで実現することを想定しているが、具体的な導入時期や対象制度は決まっていない。"
+   },
+   "articles": [
+    {
+     "title": "政府の給付金にステーブルコイン？デジタル庁が活用を検討 - CoinChoice",
+     "domain": "coinchoice.net",
+     "url": "https://coinchoice.net/stablecoin-benefits/",
+     "published_at": "2026-10-23 17:53:11",
+     "collected_at": "2026-10-25 21:31:10"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261022-03",
+   "burst_start_date": "2026-10-22",
+   "first_collected_at": "2026-10-25 21:31:10",
+   "last_collected_at": "2026-10-25 21:31:10",
+   "article_count": 1,
+   "tags": [
+    "活用事例"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "バス釣り業界に革命!? 暗号資産技術とバスフィッシングの融合を提案する『BCL』がアプリ3周年記念トーナメントを開催！ - ルアマガプラス",
+    "domain": "plus.luremaga.jp",
+    "url": "https://plus.luremaga.jp/2026/10/22/499194/",
+    "published_at": "2026-10-22 00:00:00",
+    "summary": "バスフィッシング業界でWeb3×暗号資産を展開するBCL（ブロックチェーンルアーズ）が、リリースしているアプリ3周年を記念したトーナメントを開催する。テイルウォークとのコラボロッド購入時には購入金額の10％相当を日本円ステーブルコイン「JPYC」で還元し、今後のコラボリールでも同様のJPYCリワードを予定している。トーナメント賞金はJPYCで提供される。"
+   },
+   "articles": [
+    {
+     "title": "バス釣り業界に革命!? 暗号資産技術とバスフィッシングの融合を提案する『BCL』がアプリ3周年記念トーナメントを開催！ - ルアマガプラス",
+     "domain": "plus.luremaga.jp",
+     "url": "https://plus.luremaga.jp/2026/10/22/499194/",
+     "published_at": "2026-10-22 00:00:00",
+     "collected_at": "2026-10-25 21:31:10"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261019-01",
    "burst_start_date": "2026-10-19",
