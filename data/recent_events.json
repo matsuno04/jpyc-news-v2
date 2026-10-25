@@ -1,8 +1,208 @@
 {
- "generated_at": "2026-10-25 21:31:34",
+ "generated_at": "2026-10-26 01:06:16",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261020-01",
+   "burst_start_date": "2026-10-20",
+   "first_collected_at": "2026-10-20 21:31:14",
+   "last_collected_at": "2026-10-26 01:04:37",
+   "article_count": 4,
+   "tags": [
+    "取扱い・対応",
+    "提携・連携",
+    "活用事例"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "Zept株式会社、Web3.0部門を新設。部門長にAdvance Ability代表取締役の三桐 睦夫氏が就任｜Infoseekニュース - Infoseek",
+    "domain": "news.infoseek.co.jp",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000058_000153712/",
+    "published_at": "2026-10-20 06:10:00",
+    "summary": "Zept株式会社がWeb3.0部門を新設し、Advance Ability代表取締役の三桐睦夫氏を部門長に迎えた。同部門は企業の課題を起点とした事業企画、実証からシステム開発・運用までの推進、AIとWeb3.0を組み合わせたサービス検討に取り組む。"
+   },
+   "articles": [
+    {
+     "title": "Zept株式会社、Web3.0部門を新設。部門長にAdvance Ability代表取締役の三桐 睦夫氏が就任｜Infoseekニュース - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/prtimes_000000058_000153712/",
+     "published_at": "2026-10-20 06:10:00",
+     "collected_at": "2026-10-26 01:04:37"
+    },
+    {
+     "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32615483/",
+     "published_at": "2026-10-20 12:00:00",
+     "collected_at": "2026-10-21 21:31:20"
+    },
+    {
+     "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - 産経ニュース",
+     "domain": "sankei.com",
+     "url": "https://www.sankei.com/pressrelease/prtimes/B4UGXJYYZFNMLCQAAX2NGAQQJ4/",
+     "published_at": "2026-10-20 12:00:00",
+     "collected_at": "2026-10-20 21:31:14"
+    },
+    {
+     "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000056.000153712.html",
+     "published_at": "2026-10-20 12:00:01",
+     "collected_at": "2026-10-26 01:04:37"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261019-02",
+   "burst_start_date": "2026-10-19",
+   "first_collected_at": "2026-10-26 01:04:37",
+   "last_collected_at": "2026-10-26 01:04:37",
+   "article_count": 1,
+   "tags": [
+    "制度・規制",
+    "実証実験"
+   ],
+   "tags_mode": "制度・規制",
+   "representative": {
+    "title": "デジタル庁、公的給付金にステーブルコイン活用を検討（NADA NEWS） - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/64aa7c771e7da4de3515dc5ed960eca9ce887196",
+    "published_at": "2026-10-19 18:39:59",
+    "summary": "デジタル庁は公的給付金の支払いにステーブルコインやトークン化預金の活用を技術面から検討する方針を示した。子育て支援や食料品購入など特定目的に限った給付でプログラマビリティを活かし、行政の信頼性向上と効率化を目指す。"
+   },
+   "articles": [
+    {
+     "title": "デジタル庁、公的給付金にステーブルコイン活用を検討（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/64aa7c771e7da4de3515dc5ed960eca9ce887196",
+     "published_at": "2026-10-19 18:39:59",
+     "collected_at": "2026-10-26 01:04:37"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261019-01",
+   "burst_start_date": "2026-10-19",
+   "first_collected_at": "2026-10-19 21:31:15",
+   "last_collected_at": "2026-10-26 01:04:37",
+   "article_count": 6,
+   "tags": [
+    "活用事例",
+    "提携・連携",
+    "解説・論説",
+    "実証実験",
+    "市場・統計"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
+    "domain": "news.livedoor.com",
+    "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
+    "published_at": "2026-10-19 09:30:00",
+    "summary": "INSPAYが10月2日に大手町でステーブルコイン決済に関するイベントを開催し、JPYCやHashPortが登壇した。利用者への還元設計と決済速度が普及の課題として議論され、INSPAYは1年以内に実証段階から店舗の日々の売上につながる商用利用を目指すことが明かされた。"
+   },
+   "articles": [
+    {
+     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
+     "published_at": "2026-10-19 09:30:00",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000005.000186424.html",
+     "published_at": "2026-10-19 09:30:01",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "JPYCやHashPortが語るステーブルコイン決済の未来と街での実現可能性 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34210/",
+     "published_at": "2026-10-19 11:06:47",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "Orbs Japan オーブス🇯🇵 (@JapanOrbs) on X - Howl.link",
+     "domain": "t.co",
+     "url": "https://t.co/sCsVQaKWbl",
+     "published_at": "2026-10-19 11:57:36",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "INSPAY、シンガポールでステーブルコイン決済519件 「Payment 3.0」の社会実装を加速 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000006.000186424.html",
+     "published_at": "2026-10-20 09:50:01",
+     "collected_at": "2026-10-26 01:04:37"
+    },
+    {
+     "title": "店頭のレジからAIによる送金まで──ステーブルコインが企業のお金の動かし方を変える【イベントレポート①】 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/371258/",
+     "published_at": "2026-10-23 10:00:00",
+     "collected_at": "2026-10-25 00:51:14"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261018-01",
+   "burst_start_date": "2026-10-18",
+   "first_collected_at": "2026-10-26 01:04:37",
+   "last_collected_at": "2026-10-26 01:04:37",
+   "article_count": 1,
+   "tags": [
+    "活用事例",
+    "提携・連携"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "JPYCがつなぐ、新しいデジタル金融体験──企業決済・ウォレット・オンチェーン運用の現在地【エックスウィン】(NADA NEWS) - Yahoo!ファイナンス",
+    "domain": "finance.yahoo.co.jp",
+    "url": "https://finance.yahoo.co.jp/news/detail/dcce606dd05d6336a969172935514533f8dc7d35",
+    "published_at": "2026-10-18 06:00:00",
+    "summary": "JPYCの社会実装が進展している中、アステリアの「JPYC Gateway」による企業業務システムとの連携、セルフカストディ型ウォレットの利用環境整備、エックスウィンキャピタルによるオンチェーン資産運用への接続が、企業決済から個人の金融体験まで多層的に展開されている。Orbs Japanが開催した「OrbsCafe#26」では、これらのサービスが統合的に紹介され、JPYCから金融体験を変えるための具体的な取り組みが報告された。"
+   },
+   "articles": [
+    {
+     "title": "JPYCがつなぐ、新しいデジタル金融体験──企業決済・ウォレット・オンチェーン運用の現在地【エックスウィン】(NADA NEWS) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/dcce606dd05d6336a969172935514533f8dc7d35",
+     "published_at": "2026-10-18 06:00:00",
+     "collected_at": "2026-10-26 01:04:37"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261013-02",
+   "burst_start_date": "2026-10-13",
+   "first_collected_at": "2026-10-26 01:04:37",
+   "last_collected_at": "2026-10-26 01:04:37",
+   "article_count": 1,
+   "tags": [
+    "提携・連携",
+    "実証実験"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "SBI、韓国のカード会社と協業 AI使った越境決済 - 日本経済新聞",
+    "domain": "nikkei.com",
+    "url": "https://www.nikkei.com/article/DGXZQOUB132WT0T11C26A0000000/",
+    "published_at": "2026-10-13 14:00:00",
+    "summary": "SBIホールディングスは韓国のカード大手KB国民カードと、ステーブルコイン「JPYSC」を使った越境決済での協業で合意した。AIエージェントが旅行予約や決済を行う際、デジタル通貨を用いて日韓間で安全な決済ができる仕組みを検討する。"
+   },
+   "articles": [
+    {
+     "title": "SBI、韓国のカード会社と協業 AI使った越境決済 - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUB132WT0T11C26A0000000/",
+     "published_at": "2026-10-13 14:00:00",
+     "collected_at": "2026-10-26 01:04:37"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261023-01",
    "burst_start_date": "2026-10-23",
@@ -55,65 +255,6 @@
      "url": "https://plus.luremaga.jp/2026/10/22/499194/",
      "published_at": "2026-10-22 00:00:00",
      "collected_at": "2026-10-25 21:31:10"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261019-01",
-   "burst_start_date": "2026-10-19",
-   "first_collected_at": "2026-10-19 21:31:15",
-   "last_collected_at": "2026-10-25 00:51:14",
-   "article_count": 5,
-   "tags": [
-    "提携・連携",
-    "活用事例",
-    "解説・論説",
-    "実証実験",
-    "市場・統計"
-   ],
-   "tags_mode": "提携・連携",
-   "representative": {
-    "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
-    "domain": "news.livedoor.com",
-    "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
-    "published_at": "2026-10-19 09:30:00",
-    "summary": "INSPAYが10月2日に大手町でステーブルコイン決済に関するイベントを開催し、JPYCやHashPortが登壇した。利用者への還元設計と決済速度が普及の課題として議論され、INSPAYは1年以内に実証段階から店舗の日々の売上につながる商用利用を目指すことが明かされた。"
-   },
-   "articles": [
-    {
-     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
-     "published_at": "2026-10-19 09:30:00",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000005.000186424.html",
-     "published_at": "2026-10-19 09:30:01",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "JPYCやHashPortが語るステーブルコイン決済の未来と街での実現可能性 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/card/34210/",
-     "published_at": "2026-10-19 11:06:47",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "Orbs Japan オーブス🇯🇵 (@JapanOrbs) on X - Howl.link",
-     "domain": "t.co",
-     "url": "https://t.co/sCsVQaKWbl",
-     "published_at": "2026-10-19 11:57:36",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "店頭のレジからAIによる送金まで──ステーブルコインが企業のお金の動かし方を変える【イベントレポート①】 - NADA NEWS",
-     "domain": "nadanews.com",
-     "url": "https://www.nadanews.com/371258/",
-     "published_at": "2026-10-23 10:00:00",
-     "collected_at": "2026-10-25 00:51:14"
     }
    ]
   },
@@ -396,42 +537,6 @@
      "url": "https://voix.jp/credit-cards/zept-jpyc-subscription-service/",
      "published_at": "2026-10-22 14:05:26",
      "collected_at": "2026-10-22 21:31:07"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261020-01",
-   "burst_start_date": "2026-10-20",
-   "first_collected_at": "2026-10-20 21:31:14",
-   "last_collected_at": "2026-10-21 21:31:20",
-   "article_count": 2,
-   "tags": [
-    "取扱い・対応",
-    "活用事例",
-    "提携・連携"
-   ],
-   "tags_mode": "取扱い・対応",
-   "representative": {
-    "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - ライブドアニュース",
-    "domain": "news.livedoor.com",
-    "url": "https://news.livedoor.com/pr_topics/detail/32615483/",
-    "published_at": "2026-10-20 12:00:00",
-    "summary": "Zept株式会社が日本円ステーブルコインJPYCの取引を自動記録・一元管理するサービス「JP Stablecoin Ledger（JSL）」を開発した。複数ウォレットのJPYC取引履歴を自動取得し、相手先や証憑をひも付けて一元管理でき、Ethereumなど4チェーンに対応し、月次や年間の取引資料も出力できる。"
-   },
-   "articles": [
-    {
-     "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32615483/",
-     "published_at": "2026-10-20 12:00:00",
-     "collected_at": "2026-10-21 21:31:20"
-    },
-    {
-     "title": "Zept株式会社、日本円ステーブルコイン「JPYC」の取引を自動記録・一元管理する「JP Stablecoin Ledger（JSL）」を開発 - 産経ニュース",
-     "domain": "sankei.com",
-     "url": "https://www.sankei.com/pressrelease/prtimes/B4UGXJYYZFNMLCQAAX2NGAQQJ4/",
-     "published_at": "2026-10-20 12:00:00",
-     "collected_at": "2026-10-20 21:31:14"
     }
    ]
   },
