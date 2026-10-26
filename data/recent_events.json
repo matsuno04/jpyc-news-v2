@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-10-26 01:06:16",
+ "generated_at": "2026-10-26 21:32:02",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261025-01",
+   "burst_start_date": "2026-10-25",
+   "first_collected_at": "2026-10-26 21:31:15",
+   "last_collected_at": "2026-10-26 21:31:15",
+   "article_count": 1,
+   "tags": [
+    "提携・連携",
+    "制度・規制"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "JPYC株式会社が公取委に情報提供 決済導入店の優遇施策に関する考え方を公表 - Dellows News",
+    "domain": "news.dellows.jp",
+    "url": "https://news.dellows.jp/671948/?from=related-reading-list",
+    "published_at": "2026-10-25 01:13:53",
+    "summary": "JPYC株式会社は2026年9月14日、公正取引委員会に対してステーブルコイン決済の市場状況と自社の仕組みについて情報提供を行った。加盟店手数料を徴収しないJPYCの特性を踏まえ、導入店がJPYC決済利用者に対して割引や送料無料といった優遇施策を実施することが公正な競争を促すものであるとの考え方を公表した。"
+   },
+   "articles": [
+    {
+     "title": "JPYC株式会社が公取委に情報提供 決済導入店の優遇施策に関する考え方を公表 - Dellows News",
+     "domain": "news.dellows.jp",
+     "url": "https://news.dellows.jp/671948/?from=related-reading-list",
+     "published_at": "2026-10-25 01:13:53",
+     "collected_at": "2026-10-26 21:31:15"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261020-01",
    "burst_start_date": "2026-10-20",
