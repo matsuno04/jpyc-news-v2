@@ -1,8 +1,81 @@
 {
- "generated_at": "2026-10-26 21:32:02",
+ "generated_at": "2026-10-27 03:39:58",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261019-01",
+   "burst_start_date": "2026-10-19",
+   "first_collected_at": "2026-10-19 21:31:15",
+   "last_collected_at": "2026-10-27 03:38:59",
+   "article_count": 7,
+   "tags": [
+    "活用事例",
+    "提携・連携",
+    "解説・論説",
+    "実証実験",
+    "市場・統計"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
+    "domain": "news.livedoor.com",
+    "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
+    "published_at": "2026-10-19 09:30:00",
+    "summary": "INSPAYが10月2日に大手町でステーブルコイン決済に関するイベントを開催し、JPYCやHashPortが登壇した。利用者への還元設計と決済速度が普及の課題として議論され、INSPAYは1年以内に実証段階から店舗の日々の売上につながる商用利用を目指すことが明かされた。"
+   },
+   "articles": [
+    {
+     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
+     "published_at": "2026-10-19 09:30:00",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000005.000186424.html",
+     "published_at": "2026-10-19 09:30:01",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "JPYCやHashPortが語るステーブルコイン決済の未来と街での実現可能性 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34210/",
+     "published_at": "2026-10-19 11:06:47",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "Orbs Japan オーブス🇯🇵 (@JapanOrbs) on X - Howl.link",
+     "domain": "t.co",
+     "url": "https://t.co/sCsVQaKWbl",
+     "published_at": "2026-10-19 11:57:36",
+     "collected_at": "2026-10-19 21:31:15"
+    },
+    {
+     "title": "INSPAY、シンガポールでステーブルコイン決済519件 「Payment 3.0」の社会実装を加速 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000006.000186424.html",
+     "published_at": "2026-10-20 09:50:01",
+     "collected_at": "2026-10-26 01:04:37"
+    },
+    {
+     "title": "店頭のレジからAIによる送金まで──ステーブルコインが企業のお金の動かし方を変える【イベントレポート①】 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/371258/",
+     "published_at": "2026-10-23 10:00:00",
+     "collected_at": "2026-10-25 00:51:14"
+    },
+    {
+     "title": "INSPAY、シンガポールでステーブルコイン決済展示 2日間で計519件を記録 - Dellows News",
+     "domain": "news.dellows.jp",
+     "url": "https://news.dellows.jp/800909/",
+     "published_at": "2026-10-25 17:30:55",
+     "collected_at": "2026-10-27 03:38:59"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261025-01",
    "burst_start_date": "2026-10-25",
@@ -106,72 +179,6 @@
      "url": "https://news.yahoo.co.jp/articles/64aa7c771e7da4de3515dc5ed960eca9ce887196",
      "published_at": "2026-10-19 18:39:59",
      "collected_at": "2026-10-26 01:04:37"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261019-01",
-   "burst_start_date": "2026-10-19",
-   "first_collected_at": "2026-10-19 21:31:15",
-   "last_collected_at": "2026-10-26 01:04:37",
-   "article_count": 6,
-   "tags": [
-    "活用事例",
-    "提携・連携",
-    "解説・論説",
-    "実証実験",
-    "市場・統計"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
-    "domain": "news.livedoor.com",
-    "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
-    "published_at": "2026-10-19 09:30:00",
-    "summary": "INSPAYが10月2日に大手町でステーブルコイン決済に関するイベントを開催し、JPYCやHashPortが登壇した。利用者への還元設計と決済速度が普及の課題として議論され、INSPAYは1年以内に実証段階から店舗の日々の売上につながる商用利用を目指すことが明かされた。"
-   },
-   "articles": [
-    {
-     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32601538/",
-     "published_at": "2026-10-19 09:30:00",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000005.000186424.html",
-     "published_at": "2026-10-19 09:30:01",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "JPYCやHashPortが語るステーブルコイン決済の未来と街での実現可能性 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/card/34210/",
-     "published_at": "2026-10-19 11:06:47",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "Orbs Japan オーブス🇯🇵 (@JapanOrbs) on X - Howl.link",
-     "domain": "t.co",
-     "url": "https://t.co/sCsVQaKWbl",
-     "published_at": "2026-10-19 11:57:36",
-     "collected_at": "2026-10-19 21:31:15"
-    },
-    {
-     "title": "INSPAY、シンガポールでステーブルコイン決済519件 「Payment 3.0」の社会実装を加速 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000006.000186424.html",
-     "published_at": "2026-10-20 09:50:01",
-     "collected_at": "2026-10-26 01:04:37"
-    },
-    {
-     "title": "店頭のレジからAIによる送金まで──ステーブルコインが企業のお金の動かし方を変える【イベントレポート①】 - NADA NEWS",
-     "domain": "nadanews.com",
-     "url": "https://www.nadanews.com/371258/",
-     "published_at": "2026-10-23 10:00:00",
-     "collected_at": "2026-10-25 00:51:14"
     }
    ]
   },
