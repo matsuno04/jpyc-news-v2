@@ -1,8 +1,53 @@
 {
- "generated_at": "2026-10-27 21:33:14",
+ "generated_at": "2026-10-28 02:55:55",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261027-02",
+   "burst_start_date": "2026-10-27",
+   "first_collected_at": "2026-10-27 21:31:14",
+   "last_collected_at": "2026-10-28 02:55:26",
+   "article_count": 3,
+   "tags": [
+    "市場・統計",
+    "リスク・懸念",
+    "制度・規制",
+    "解説・論説",
+    "活用事例"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "日本の主要な円ステーブルコイン、期待された目標を達成できず、失望の初年度に - CoinDesk",
+    "domain": "coindesk.com",
+    "url": "https://www.coindesk.com/ja/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+    "published_at": "2026-10-27 00:00:00",
+    "summary": "JPYCは初年度の目標を大きく下回り、2023年10月時点で流通量が32億円にとどまり、発行体の期待値の四分の一程度となった。岡部CEOは成長していないことを認め、規制による発行上限が企業採用を阻んでいると指摘した。"
+   },
+   "articles": [
+    {
+     "title": "日本の主要な円ステーブルコイン、期待された目標を達成できず、失望の初年度に - CoinDesk",
+     "domain": "coindesk.com",
+     "url": "https://www.coindesk.com/ja/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+     "published_at": "2026-10-27 00:00:00",
+     "collected_at": "2026-10-28 02:55:26"
+    },
+    {
+     "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+     "published_at": "2026-10-27 09:00:00",
+     "collected_at": "2026-10-27 21:31:14"
+    },
+    {
+     "title": "日本円ステーブルコインJPYC、企業・電子決済に照準 黒字化は道半ば - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUB15BLA0V11C26A0000000/",
+     "published_at": "2026-10-27 16:58:25",
+     "collected_at": "2026-10-28 02:55:26"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261027-03",
    "burst_start_date": "2026-10-27",
@@ -27,35 +72,6 @@
      "domain": "prtimes.jp",
      "url": "https://prtimes.jp/main/html/rd/p/000000456.000010008.html",
      "published_at": "2026-10-27 14:00:01",
-     "collected_at": "2026-10-27 21:31:14"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261027-02",
-   "burst_start_date": "2026-10-27",
-   "first_collected_at": "2026-10-27 21:31:14",
-   "last_collected_at": "2026-10-27 21:31:14",
-   "article_count": 1,
-   "tags": [
-    "市場・統計",
-    "制度・規制",
-    "解説・論説"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る（NADA NEWS） - Yahoo!ニュース",
-    "domain": "news.yahoo.co.jp",
-    "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
-    "published_at": "2026-10-27 09:00:00",
-    "summary": "JPYC発行から1年を迎え、岡部社長は事業展開の速さが「想定を上回った」一方で、流通量の伸びが「率直に伸びていない」と述べた。9月に累計発行額100億円超を達成したが、流通量は約30億円で社内目標の4分の1ほどの規模にとどまっており、100万円の送金制限が課題と指摘。年末までの金融庁での制度検討が重要だと語った。"
-   },
-   "articles": [
-    {
-     "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
-     "published_at": "2026-10-27 09:00:00",
      "collected_at": "2026-10-27 21:31:14"
     }
    ]
