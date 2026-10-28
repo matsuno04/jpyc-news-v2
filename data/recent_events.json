@@ -1,20 +1,59 @@
 {
- "generated_at": "2026-10-28 02:55:55",
+ "generated_at": "2026-10-28 21:32:52",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
   {
+   "event_id": "EVT-20261028-01",
+   "burst_start_date": "2026-10-28",
+   "first_collected_at": "2026-10-28 21:31:33",
+   "last_collected_at": "2026-10-28 21:31:33",
+   "article_count": 2,
+   "tags": [
+    "市場・統計",
+    "取扱い・対応",
+    "提携・連携",
+    "活用事例"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "円連動ステーブルコイン「JPYC」、発行1年で累計発行額120億円超 - 디지털투데이",
+    "domain": "digitaltoday.co.kr",
+    "url": "https://www.digitaltoday.co.kr/jp/view/120740/jpyc-yen-stablecoin-one-year-cumulative-issuance-exceeds-12-billion-yen",
+    "published_at": "2026-10-28 13:57:24",
+    "summary": "JPYCは発行開始から1年で累計発行額120億円を超え、流通額約30億円、口座開設数2万8000件超に達した。LINE NEXTの「UniFi」やau PAYアプリでの取扱い開始、ローソンでのPOS決済実証実験など、決済分野での導入拡大が進んでいる。オカベ代表取締役は黒字転換には流通額を500億～1000億円規模まで拡大する必要があると述べている。"
+   },
+   "articles": [
+    {
+     "title": "円連動ステーブルコイン「JPYC」、発行1年で累計発行額120億円超 - 디지털투데이",
+     "domain": "digitaltoday.co.kr",
+     "url": "https://www.digitaltoday.co.kr/jp/view/120740/jpyc-yen-stablecoin-one-year-cumulative-issuance-exceeds-12-billion-yen",
+     "published_at": "2026-10-28 13:57:24",
+     "collected_at": "2026-10-28 21:31:33"
+    },
+    {
+     "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超 - Iolite（アイオライト）",
+     "domain": "iolite.net",
+     "url": "https://iolite.net/news/coinpost-745104",
+     "published_at": "2026-10-28 14:34:20",
+     "collected_at": "2026-10-28 21:31:33"
+    }
+   ]
+  },
+  {
    "event_id": "EVT-20261027-02",
    "burst_start_date": "2026-10-27",
    "first_collected_at": "2026-10-27 21:31:14",
-   "last_collected_at": "2026-10-28 02:55:26",
-   "article_count": 3,
+   "last_collected_at": "2026-10-28 21:31:33",
+   "article_count": 5,
    "tags": [
     "市場・統計",
     "リスク・懸念",
     "制度・規制",
+    "活用事例",
     "解説・論説",
-    "活用事例"
+    "取扱い・対応",
+    "提携・連携"
    ],
    "tags_mode": "市場・統計",
    "representative": {
@@ -45,62 +84,20 @@
      "url": "https://www.nikkei.com/article/DGXZQOUB15BLA0V11C26A0000000/",
      "published_at": "2026-10-27 16:58:25",
      "collected_at": "2026-10-28 02:55:26"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261027-03",
-   "burst_start_date": "2026-10-27",
-   "first_collected_at": "2026-10-27 21:31:14",
-   "last_collected_at": "2026-10-27 21:31:14",
-   "article_count": 1,
-   "tags": [
-    "市場・統計",
-    "解説・論説"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "ステーブルコインの認知度が大企業で42%超に！期待は「決済の速さ」や「送金手数料の安さ」、普及の鍵は「システム連携」 - PR TIMES",
-    "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000456.000010008.html",
-    "published_at": "2026-10-27 14:00:01",
-    "summary": "アステリア株式会社が企業の財務・会計・経理担当者8,000名以上を対象に実施したステーブルコイン認知度調査で、大企業における認知率が42.5%に達したことが判明。認知層の6割以上が送金速度や手数料削減などのメリットを評価する一方、導入には既存システムとの連携や安全な運用環境整備が課題となっていることが明らかになった。"
-   },
-   "articles": [
+    },
     {
-     "title": "ステーブルコインの認知度が大企業で42%超に！期待は「決済の速さ」や「送金手数料の安さ」、普及の鍵は「システム連携」 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000456.000010008.html",
-     "published_at": "2026-10-27 14:00:01",
-     "collected_at": "2026-10-27 21:31:14"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261027-01",
-   "burst_start_date": "2026-10-27",
-   "first_collected_at": "2026-10-27 21:31:14",
-   "last_collected_at": "2026-10-27 21:31:14",
-   "article_count": 1,
-   "tags": [
-    "提携・連携",
-    "市場・統計"
-   ],
-   "tags_mode": "提携・連携",
-   "representative": {
-    "title": "ブラックロック、SBIの円ステーブルコインJPYSCとトークン化MMFの連携を検討 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/sbi-blackrock-jpysc-20261027/",
-    "published_at": "2026-10-27 00:00:00",
-    "summary": "SBIホールディングスとStartale Groupは、米資産運用大手のブラックロックと、トークン化マネー・マーケット・ファンド（MMF）と円建てステーブルコインJPYSCの連携に向けた基本合意書を結んだ。3社は技術・インフラ、事業・販売、規制・市場整備の領域での連携可能性を検討する。JPYSCの発行残高は9月30日時点で約200億円。"
-   },
-   "articles": [
+     "title": "日本円ステーブルコインJPYC、発行1年で流通32億円止まり…目標の4分の1 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/dc22edfa-5b55-448c-9cbb-6aab3d6191b5",
+     "published_at": "2026-10-27 21:25:25",
+     "collected_at": "2026-10-28 21:31:33"
+    },
     {
-     "title": "ブラックロック、SBIの円ステーブルコインJPYSCとトークン化MMFの連携を検討 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/sbi-blackrock-jpysc-20261027/",
-     "published_at": "2026-10-27 00:00:00",
-     "collected_at": "2026-10-27 21:31:14"
+     "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=745104",
+     "published_at": "2026-10-28 13:20:11",
+     "collected_at": "2026-10-28 21:31:33"
     }
    ]
   },
@@ -108,8 +105,8 @@
    "event_id": "EVT-20261019-01",
    "burst_start_date": "2026-10-19",
    "first_collected_at": "2026-10-19 21:31:15",
-   "last_collected_at": "2026-10-27 03:38:59",
-   "article_count": 7,
+   "last_collected_at": "2026-10-28 21:31:33",
+   "article_count": 8,
    "tags": [
     "活用事例",
     "提携・連携",
@@ -174,6 +171,69 @@
      "url": "https://news.dellows.jp/800909/",
      "published_at": "2026-10-25 17:30:55",
      "collected_at": "2026-10-27 03:38:59"
+    },
+    {
+     "title": "ステーブルコインは本当に街で使えるのか？ JPYC、Sui、HashPort、INSPAYが語る「Payment 3.0」の現在地 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?post_type=pressrelease&p=744989",
+     "published_at": "2026-10-28 11:30:02",
+     "collected_at": "2026-10-28 21:31:33"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261027-03",
+   "burst_start_date": "2026-10-27",
+   "first_collected_at": "2026-10-27 21:31:14",
+   "last_collected_at": "2026-10-27 21:31:14",
+   "article_count": 1,
+   "tags": [
+    "市場・統計",
+    "解説・論説"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "ステーブルコインの認知度が大企業で42%超に！期待は「決済の速さ」や「送金手数料の安さ」、普及の鍵は「システム連携」 - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000456.000010008.html",
+    "published_at": "2026-10-27 14:00:01",
+    "summary": "アステリア株式会社が企業の財務・会計・経理担当者8,000名以上を対象に実施したステーブルコイン認知度調査で、大企業における認知率が42.5%に達したことが判明。認知層の6割以上が送金速度や手数料削減などのメリットを評価する一方、導入には既存システムとの連携や安全な運用環境整備が課題となっていることが明らかになった。"
+   },
+   "articles": [
+    {
+     "title": "ステーブルコインの認知度が大企業で42%超に！期待は「決済の速さ」や「送金手数料の安さ」、普及の鍵は「システム連携」 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000456.000010008.html",
+     "published_at": "2026-10-27 14:00:01",
+     "collected_at": "2026-10-27 21:31:14"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261027-01",
+   "burst_start_date": "2026-10-27",
+   "first_collected_at": "2026-10-27 21:31:14",
+   "last_collected_at": "2026-10-27 21:31:14",
+   "article_count": 1,
+   "tags": [
+    "提携・連携",
+    "市場・統計"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "ブラックロック、SBIの円ステーブルコインJPYSCとトークン化MMFの連携を検討 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/sbi-blackrock-jpysc-20261027/",
+    "published_at": "2026-10-27 00:00:00",
+    "summary": "SBIホールディングスとStartale Groupは、米資産運用大手のブラックロックと、トークン化マネー・マーケット・ファンド（MMF）と円建てステーブルコインJPYSCの連携に向けた基本合意書を結んだ。3社は技術・インフラ、事業・販売、規制・市場整備の領域での連携可能性を検討する。JPYSCの発行残高は9月30日時点で約200億円。"
+   },
+   "articles": [
+    {
+     "title": "ブラックロック、SBIの円ステーブルコインJPYSCとトークン化MMFの連携を検討 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/sbi-blackrock-jpysc-20261027/",
+     "published_at": "2026-10-27 00:00:00",
+     "collected_at": "2026-10-27 21:31:14"
     }
    ]
   },
