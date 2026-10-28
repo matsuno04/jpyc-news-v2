@@ -1,8 +1,37 @@
 {
- "generated_at": "2026-10-28 21:32:52",
+ "generated_at": "2026-10-29 03:19:23",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261029-01",
+   "burst_start_date": "2026-10-29",
+   "first_collected_at": "2026-10-29 03:18:56",
+   "last_collected_at": "2026-10-29 03:18:56",
+   "article_count": 1,
+   "tags": [
+    "提携・連携",
+    "活用事例",
+    "市場・統計"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "JPYC「オンチェーン金融」に軸足 株や国債即時取引、米サークルと連携 - 日本経済新聞",
+    "domain": "nikkei.com",
+    "url": "https://www.nikkei.com/article/DGXZQOUB197G90Z11C26A0000000/",
+    "published_at": "2026-10-29 02:00:00",
+    "summary": "JPYCは米サークル社と連携し、米ドル建てステーブルコインのUSDCを活用することで、株や国債の即時取引などオンチェーン金融での活用を目指している。金融庁に対しても関連規制の緩和を働きかけ、国内外での浸透を加速させる構えだ。"
+   },
+   "articles": [
+    {
+     "title": "JPYC「オンチェーン金融」に軸足 株や国債即時取引、米サークルと連携 - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUB197G90Z11C26A0000000/",
+     "published_at": "2026-10-29 02:00:00",
+     "collected_at": "2026-10-29 03:18:56"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261028-01",
    "burst_start_date": "2026-10-28",
