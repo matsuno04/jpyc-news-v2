@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-29 21:32:43",
+ "generated_at": "2026-10-30 03:26:10",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,21 +7,29 @@
    "event_id": "EVT-20261029-02",
    "burst_start_date": "2026-10-29",
    "first_collected_at": "2026-10-29 21:31:38",
-   "last_collected_at": "2026-10-29 21:31:38",
-   "article_count": 7,
+   "last_collected_at": "2026-10-30 03:25:19",
+   "article_count": 12,
    "tags": [
     "活用事例",
-    "提携・連携"
+    "提携・連携",
+    "取扱い・対応"
    ],
    "tags_mode": "活用事例",
    "representative": {
-    "title": "訪日客の免税還付にJPYCを導入、UPBONDが11月から - 日本経済新聞",
-    "domain": "nikkei.com",
-    "url": "https://www.nikkei.com/article/DGXZQOUB27C7R0X21C26A0000000/",
-    "published_at": "2026-10-29 05:00:00",
-    "summary": "電子ウォレット開発のUPBONDと免税アプリ運営の日本免税が連携し、訪日外国人がJPYCで免税還付金を受け取れるウォレット基盤を開発した。11月1日から運用を開始する。"
+    "title": "訪日客の免税還付、JPYCで受け取り可能に──日本免税が11月1日開始 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/japan-taxfree-jpyc-20261029/",
+    "published_at": "2026-10-29 00:00:00",
+    "summary": "訪日外国人旅行者が消費税の還付金をJPYCで受け取れるサービスが、日本免税とUPBONDにより11月1日に開始される。UPBONDが提供するウォレットを通じて、アバランチ上でJPYCでの還付を受け取ることが可能になり、受け取ったJPYCをUSDCなどの外貨建てステーボルコインに交換することもできる。"
    },
    "articles": [
+    {
+     "title": "訪日客の免税還付、JPYCで受け取り可能に──日本免税が11月1日開始 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/japan-taxfree-jpyc-20261029/",
+     "published_at": "2026-10-29 00:00:00",
+     "collected_at": "2026-10-30 03:25:19"
+    },
     {
      "title": "訪日客の免税還付にJPYCを導入、UPBONDが11月から - 日本経済新聞",
      "domain": "nikkei.com",
@@ -70,6 +78,79 @@
      "url": "https://voix.jp/business-cards/new-tax-refund-service-jpyc/",
      "published_at": "2026-10-29 15:55:05",
      "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d37026bb8fc7fcf0f5566e1aa20bb51fc5710f54",
+     "published_at": "2026-10-29 16:06:14",
+     "collected_at": "2026-10-30 03:25:19"
+    },
+    {
+     "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/bba7ae1987e2362e1f5c07672c8fddf2c98ab9fb",
+     "published_at": "2026-10-29 17:00:04",
+     "collected_at": "2026-10-30 03:25:19"
+    },
+    {
+     "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始 | NADA NEWS（ナダ・ニュース） - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/6yLqI9ndiY",
+     "published_at": "2026-10-29 17:00:04",
+     "collected_at": "2026-10-30 03:25:19"
+    },
+    {
+     "title": "訪日客の免税還付、11月からJPYC受け取り開始 日本免税がAvalanche基盤で - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/31d21366-db96-4e4d-9997-d12d455f41bd",
+     "published_at": "2026-10-29 19:25:49",
+     "collected_at": "2026-10-30 03:25:19"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261028-01",
+   "burst_start_date": "2026-10-28",
+   "first_collected_at": "2026-10-28 21:31:33",
+   "last_collected_at": "2026-10-30 03:25:19",
+   "article_count": 3,
+   "tags": [
+    "市場・統計",
+    "取扱い・対応",
+    "提携・連携",
+    "活用事例",
+    "解説・論説"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "円連動ステーブルコイン「JPYC」、発行1年で累計発行額120億円超 - 디지털투데이",
+    "domain": "digitaltoday.co.kr",
+    "url": "https://www.digitaltoday.co.kr/jp/view/120740/jpyc-yen-stablecoin-one-year-cumulative-issuance-exceeds-12-billion-yen",
+    "published_at": "2026-10-28 13:57:24",
+    "summary": "JPYCは発行開始から1年で累計発行額120億円を超え、流通額約30億円、口座開設数2万8000件超に達した。LINE NEXTの「UniFi」やau PAYアプリでの取扱い開始、ローソンでのPOS決済実証実験など、決済分野での導入拡大が進んでいる。オカベ代表取締役は黒字転換には流通額を500億～1000億円規模まで拡大する必要があると述べている。"
+   },
+   "articles": [
+    {
+     "title": "円連動ステーブルコイン「JPYC」、発行1年で累計発行額120億円超 - 디지털투데이",
+     "domain": "digitaltoday.co.kr",
+     "url": "https://www.digitaltoday.co.kr/jp/view/120740/jpyc-yen-stablecoin-one-year-cumulative-issuance-exceeds-12-billion-yen",
+     "published_at": "2026-10-28 13:57:24",
+     "collected_at": "2026-10-28 21:31:33"
+    },
+    {
+     "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超 - Iolite（アイオライト）",
+     "domain": "iolite.net",
+     "url": "https://iolite.net/news/coinpost-745104",
+     "published_at": "2026-10-28 14:34:20",
+     "collected_at": "2026-10-28 21:31:33"
+    },
+    {
+     "title": "JPYC岡部氏、黒字化へ「流通額10倍以上に」 アジア需要掘り起こし - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUB149CF0U6A011C2000000/",
+     "published_at": "2026-10-29 18:44:33",
+     "collected_at": "2026-10-30 03:25:19"
     }
    ]
   },
@@ -167,43 +248,6 @@
      "url": "https://www.nikkei.com/article/DGXZQOUB197G90Z11C26A0000000/",
      "published_at": "2026-10-29 02:00:00",
      "collected_at": "2026-10-29 03:18:56"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261028-01",
-   "burst_start_date": "2026-10-28",
-   "first_collected_at": "2026-10-28 21:31:33",
-   "last_collected_at": "2026-10-28 21:31:33",
-   "article_count": 2,
-   "tags": [
-    "市場・統計",
-    "取扱い・対応",
-    "提携・連携",
-    "活用事例"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "円連動ステーブルコイン「JPYC」、発行1年で累計発行額120億円超 - 디지털투데이",
-    "domain": "digitaltoday.co.kr",
-    "url": "https://www.digitaltoday.co.kr/jp/view/120740/jpyc-yen-stablecoin-one-year-cumulative-issuance-exceeds-12-billion-yen",
-    "published_at": "2026-10-28 13:57:24",
-    "summary": "JPYCは発行開始から1年で累計発行額120億円を超え、流通額約30億円、口座開設数2万8000件超に達した。LINE NEXTの「UniFi」やau PAYアプリでの取扱い開始、ローソンでのPOS決済実証実験など、決済分野での導入拡大が進んでいる。オカベ代表取締役は黒字転換には流通額を500億～1000億円規模まで拡大する必要があると述べている。"
-   },
-   "articles": [
-    {
-     "title": "円連動ステーブルコイン「JPYC」、発行1年で累計発行額120億円超 - 디지털투데이",
-     "domain": "digitaltoday.co.kr",
-     "url": "https://www.digitaltoday.co.kr/jp/view/120740/jpyc-yen-stablecoin-one-year-cumulative-issuance-exceeds-12-billion-yen",
-     "published_at": "2026-10-28 13:57:24",
-     "collected_at": "2026-10-28 21:31:33"
-    },
-    {
-     "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超 - Iolite（アイオライト）",
-     "domain": "iolite.net",
-     "url": "https://iolite.net/news/coinpost-745104",
-     "published_at": "2026-10-28 14:34:20",
-     "collected_at": "2026-10-28 21:31:33"
     }
    ]
   },
