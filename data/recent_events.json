@@ -1,8 +1,146 @@
 {
- "generated_at": "2026-10-29 03:19:23",
+ "generated_at": "2026-10-29 21:32:43",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261029-02",
+   "burst_start_date": "2026-10-29",
+   "first_collected_at": "2026-10-29 21:31:38",
+   "last_collected_at": "2026-10-29 21:31:38",
+   "article_count": 7,
+   "tags": [
+    "活用事例",
+    "提携・連携"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "訪日客の免税還付にJPYCを導入、UPBONDが11月から - 日本経済新聞",
+    "domain": "nikkei.com",
+    "url": "https://www.nikkei.com/article/DGXZQOUB27C7R0X21C26A0000000/",
+    "published_at": "2026-10-29 05:00:00",
+    "summary": "電子ウォレット開発のUPBONDと免税アプリ運営の日本免税が連携し、訪日外国人がJPYCで免税還付金を受け取れるウォレット基盤を開発した。11月1日から運用を開始する。"
+   },
+   "articles": [
+    {
+     "title": "訪日客の免税還付にJPYCを導入、UPBONDが11月から - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUB27C7R0X21C26A0000000/",
+     "published_at": "2026-10-29 05:00:00",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "訪日客の免税還付に「JPYC」導入、カード返金不要の新モデルが11月始動 - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/231865.html",
+     "published_at": "2026-10-29 10:59:35",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "日本免税、UPBONDと共に円建てステーブルコイン「JPYC」による免税還付を実用化 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000006.000151022.html",
+     "published_at": "2026-10-29 11:30:02",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "UPBOND、日本免税と共に円建てステーブルコイン「JPYC」による免税還付を実用化 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000081.000065959.html",
+     "published_at": "2026-10-29 11:30:02",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "UPBOND、日本免税と連携し円建てステーブルコイン「JPYC」での免税還付を実現 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/cryptocurrency/34309/",
+     "published_at": "2026-10-29 14:35:13",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "日本免税、JPYCで訪日客に免税還付 制度移行の11月1日開始 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=745397",
+     "published_at": "2026-10-29 15:37:25",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "日本免税、JPYCを活用した円建てステーブルコインによる新しい免税還付サービスの開始 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/business-cards/new-tax-refund-service-jpyc/",
+     "published_at": "2026-10-29 15:55:05",
+     "collected_at": "2026-10-29 21:31:38"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261027-02",
+   "burst_start_date": "2026-10-27",
+   "first_collected_at": "2026-10-27 21:31:14",
+   "last_collected_at": "2026-10-29 21:31:38",
+   "article_count": 6,
+   "tags": [
+    "市場・統計",
+    "制度・規制",
+    "リスク・懸念",
+    "活用事例",
+    "解説・論説",
+    "取扱い・対応",
+    "提携・連携"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "日本の主要な円ステーブルコイン、期待された目標を達成できず、失望の初年度に - CoinDesk",
+    "domain": "coindesk.com",
+    "url": "https://www.coindesk.com/ja/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+    "published_at": "2026-10-27 00:00:00",
+    "summary": "JPYCは初年度の目標を大きく下回り、2023年10月時点で流通量が32億円にとどまり、発行体の期待値の四分の一程度となった。岡部CEOは成長していないことを認め、規制による発行上限が企業採用を阻んでいると指摘した。"
+   },
+   "articles": [
+    {
+     "title": "日本の主要な円ステーブルコイン、期待された目標を達成できず、失望の初年度に - CoinDesk",
+     "domain": "coindesk.com",
+     "url": "https://www.coindesk.com/ja/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+     "published_at": "2026-10-27 00:00:00",
+     "collected_at": "2026-10-28 02:55:26"
+    },
+    {
+     "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+     "published_at": "2026-10-27 09:00:00",
+     "collected_at": "2026-10-27 21:31:14"
+    },
+    {
+     "title": "日本円ステーブルコインJPYC、企業・電子決済に照準 黒字化は道半ば - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUB15BLA0V11C26A0000000/",
+     "published_at": "2026-10-27 16:58:25",
+     "collected_at": "2026-10-28 02:55:26"
+    },
+    {
+     "title": "日本円ステーブルコインJPYC、発行1年で流通32億円止まり…目標の4分の1 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/dc22edfa-5b55-448c-9cbb-6aab3d6191b5",
+     "published_at": "2026-10-27 21:25:25",
+     "collected_at": "2026-10-28 21:31:33"
+    },
+    {
+     "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=745104",
+     "published_at": "2026-10-28 13:20:11",
+     "collected_at": "2026-10-28 21:31:33"
+    },
+    {
+     "title": "JPYC、初年度の発行目標に届かず、創業者が率直に認める - CryptoDnes.bg",
+     "domain": "cryptodnes.bg",
+     "url": "https://cryptodnes.bg/jp/jpyc-yen-stablecoin-misses-year-one-target/",
+     "published_at": "2026-10-29 10:20:34",
+     "collected_at": "2026-10-29 21:31:38"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261029-01",
    "burst_start_date": "2026-10-29",
@@ -65,67 +203,6 @@
      "domain": "iolite.net",
      "url": "https://iolite.net/news/coinpost-745104",
      "published_at": "2026-10-28 14:34:20",
-     "collected_at": "2026-10-28 21:31:33"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261027-02",
-   "burst_start_date": "2026-10-27",
-   "first_collected_at": "2026-10-27 21:31:14",
-   "last_collected_at": "2026-10-28 21:31:33",
-   "article_count": 5,
-   "tags": [
-    "市場・統計",
-    "リスク・懸念",
-    "制度・規制",
-    "活用事例",
-    "解説・論説",
-    "取扱い・対応",
-    "提携・連携"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "日本の主要な円ステーブルコイン、期待された目標を達成できず、失望の初年度に - CoinDesk",
-    "domain": "coindesk.com",
-    "url": "https://www.coindesk.com/ja/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
-    "published_at": "2026-10-27 00:00:00",
-    "summary": "JPYCは初年度の目標を大きく下回り、2023年10月時点で流通量が32億円にとどまり、発行体の期待値の四分の一程度となった。岡部CEOは成長していないことを認め、規制による発行上限が企業採用を阻んでいると指摘した。"
-   },
-   "articles": [
-    {
-     "title": "日本の主要な円ステーブルコイン、期待された目標を達成できず、失望の初年度に - CoinDesk",
-     "domain": "coindesk.com",
-     "url": "https://www.coindesk.com/ja/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
-     "published_at": "2026-10-27 00:00:00",
-     "collected_at": "2026-10-28 02:55:26"
-    },
-    {
-     "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
-     "published_at": "2026-10-27 09:00:00",
-     "collected_at": "2026-10-27 21:31:14"
-    },
-    {
-     "title": "日本円ステーブルコインJPYC、企業・電子決済に照準 黒字化は道半ば - 日本経済新聞",
-     "domain": "nikkei.com",
-     "url": "https://www.nikkei.com/article/DGXZQOUB15BLA0V11C26A0000000/",
-     "published_at": "2026-10-27 16:58:25",
-     "collected_at": "2026-10-28 02:55:26"
-    },
-    {
-     "title": "日本円ステーブルコインJPYC、発行1年で流通32億円止まり…目標の4分の1 - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/dc22edfa-5b55-448c-9cbb-6aab3d6191b5",
-     "published_at": "2026-10-27 21:25:25",
-     "collected_at": "2026-10-28 21:31:33"
-    },
-    {
-     "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=745104",
-     "published_at": "2026-10-28 13:20:11",
      "collected_at": "2026-10-28 21:31:33"
     }
    ]
