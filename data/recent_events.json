@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-10-30 21:32:03",
+ "generated_at": "2026-10-31 02:58:45",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261030-01",
+   "burst_start_date": "2026-10-30",
+   "first_collected_at": "2026-10-31 02:58:24",
+   "last_collected_at": "2026-10-31 02:58:24",
+   "article_count": 1,
+   "tags": [
+    "実証実験",
+    "提携・連携"
+   ],
+   "tags_mode": "実証実験",
+   "representative": {
+    "title": "x402株式会社、一般社団法人ブロックチェーン推進協会（BCCC）に入会｜JPYC × エージェント決済及びエージェンティックコマースにおける研究開発に向けて - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000188987.html",
+    "published_at": "2026-10-30 19:00:01",
+    "summary": "x402株式会社がブロックチェーン推進協会（BCCC）に入会し、JPYCを用いたエージェント決済及びエージェンティックコマースの研究開発を推進する。同社はPolygon mainnet上でJPYCを活用した決済実装を完了し、エージェント間ウォレット決済の確認基準の整備やx402 RFQ Marketなどの市場基盤を開発している。"
+   },
+   "articles": [
+    {
+     "title": "x402株式会社、一般社団法人ブロックチェーン推進協会（BCCC）に入会｜JPYC × エージェント決済及びエージェンティックコマースにおける研究開発に向けて - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000006.000188987.html",
+     "published_at": "2026-10-30 19:00:01",
+     "collected_at": "2026-10-31 02:58:24"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261029-02",
    "burst_start_date": "2026-10-29",
