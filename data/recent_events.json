@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-10-30 03:26:10",
+ "generated_at": "2026-10-30 21:32:03",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,8 +7,8 @@
    "event_id": "EVT-20261029-02",
    "burst_start_date": "2026-10-29",
    "first_collected_at": "2026-10-29 21:31:38",
-   "last_collected_at": "2026-10-30 03:25:19",
-   "article_count": 12,
+   "last_collected_at": "2026-10-30 21:31:32",
+   "article_count": 15,
    "tags": [
     "活用事例",
     "提携・連携",
@@ -61,6 +61,13 @@
     {
      "title": "UPBOND、日本免税と連携し円建てステーブルコイン「JPYC」での免税還付を実現 - ニュースメディアVOIX",
      "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34309/",
+     "published_at": "2026-10-29 14:35:13",
+     "collected_at": "2026-10-30 21:31:32"
+    },
+    {
+     "title": "UPBOND、日本免税と連携し円建てステーブルコイン「JPYC」での免税還付を実現 - ニュースメディアVOIX",
+     "domain": "voix.jp",
      "url": "https://voix.jp/money/cryptocurrency/34309/",
      "published_at": "2026-10-29 14:35:13",
      "collected_at": "2026-10-29 21:31:38"
@@ -78,6 +85,13 @@
      "url": "https://voix.jp/business-cards/new-tax-refund-service-jpyc/",
      "published_at": "2026-10-29 15:55:05",
      "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用 - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/621976",
+     "published_at": "2026-10-29 16:03:49",
+     "collected_at": "2026-10-30 21:31:32"
     },
     {
      "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用（あたらしい経済） - Yahoo!ニュース",
@@ -106,6 +120,13 @@
      "url": "https://finance.biggo.jp/news/31d21366-db96-4e4d-9997-d12d455f41bd",
      "published_at": "2026-10-29 19:25:49",
      "collected_at": "2026-10-30 03:25:19"
+    },
+    {
+     "title": "【10/29話題】グーグルクラウドの金融機関向け暗号資産カストディ基盤「MPC」、DTCCが証券トークン化サービス開始、JPYCによる免税還付11/1開始など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/622038",
+     "published_at": "2026-10-29 21:35:03",
+     "collected_at": "2026-10-30 21:31:32"
     }
    ]
   },
