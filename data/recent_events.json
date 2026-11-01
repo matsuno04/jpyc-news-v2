@@ -1,8 +1,60 @@
 {
- "generated_at": "2026-11-01 02:14:19",
+ "generated_at": "2026-11-01 21:30:56",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261028-01",
+   "burst_start_date": "2026-10-28",
+   "first_collected_at": "2026-10-28 21:31:33",
+   "last_collected_at": "2026-11-01 21:30:39",
+   "article_count": 4,
+   "tags": [
+    "市場・統計",
+    "解説・論説",
+    "取扱い・対応",
+    "提携・連携",
+    "活用事例"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "円連動ステーブルコイン「JPYC」、発行1年で累計発行額120億円超 - 디지털투데이",
+    "domain": "digitaltoday.co.kr",
+    "url": "https://www.digitaltoday.co.kr/jp/view/120740/jpyc-yen-stablecoin-one-year-cumulative-issuance-exceeds-12-billion-yen",
+    "published_at": "2026-10-28 13:57:24",
+    "summary": "JPYCは発行開始から1年で累計発行額120億円を超え、流通額約30億円、口座開設数2万8000件超に達した。LINE NEXTの「UniFi」やau PAYアプリでの取扱い開始、ローソンでのPOS決済実証実験など、決済分野での導入拡大が進んでいる。オカベ代表取締役は黒字転換には流通額を500億～1000億円規模まで拡大する必要があると述べている。"
+   },
+   "articles": [
+    {
+     "title": "円連動ステーブルコイン「JPYC」、発行1年で累計発行額120億円超 - 디지털투데이",
+     "domain": "digitaltoday.co.kr",
+     "url": "https://www.digitaltoday.co.kr/jp/view/120740/jpyc-yen-stablecoin-one-year-cumulative-issuance-exceeds-12-billion-yen",
+     "published_at": "2026-10-28 13:57:24",
+     "collected_at": "2026-10-28 21:31:33"
+    },
+    {
+     "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超 - Iolite（アイオライト）",
+     "domain": "iolite.net",
+     "url": "https://iolite.net/news/coinpost-745104",
+     "published_at": "2026-10-28 14:34:20",
+     "collected_at": "2026-10-28 21:31:33"
+    },
+    {
+     "title": "JPYC岡部氏、黒字化へ「流通額10倍以上に」 アジア需要掘り起こし - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUB149CF0U6A011C2000000/",
+     "published_at": "2026-10-29 18:44:33",
+     "collected_at": "2026-10-30 03:25:19"
+    },
+    {
+     "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る／GMO攻撃者が顧客情報の公開を開始【日曜日に読みたい厳選5本】（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/e6fc93fa56fdd2497f103a9ba82d0da44a76ea6d",
+     "published_at": "2026-11-01 08:00:00",
+     "collected_at": "2026-11-01 21:30:39"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261029-02",
    "burst_start_date": "2026-10-29",
@@ -169,51 +221,6 @@
      "url": "https://news.infoseek.co.jp/article/prtimes_000000006_000188987/",
      "published_at": "2026-10-31 15:40:02",
      "collected_at": "2026-10-31 21:31:41"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261028-01",
-   "burst_start_date": "2026-10-28",
-   "first_collected_at": "2026-10-28 21:31:33",
-   "last_collected_at": "2026-10-30 03:25:19",
-   "article_count": 3,
-   "tags": [
-    "市場・統計",
-    "取扱い・対応",
-    "提携・連携",
-    "活用事例",
-    "解説・論説"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "円連動ステーブルコイン「JPYC」、発行1年で累計発行額120億円超 - 디지털투데이",
-    "domain": "digitaltoday.co.kr",
-    "url": "https://www.digitaltoday.co.kr/jp/view/120740/jpyc-yen-stablecoin-one-year-cumulative-issuance-exceeds-12-billion-yen",
-    "published_at": "2026-10-28 13:57:24",
-    "summary": "JPYCは発行開始から1年で累計発行額120億円を超え、流通額約30億円、口座開設数2万8000件超に達した。LINE NEXTの「UniFi」やau PAYアプリでの取扱い開始、ローソンでのPOS決済実証実験など、決済分野での導入拡大が進んでいる。オカベ代表取締役は黒字転換には流通額を500億～1000億円規模まで拡大する必要があると述べている。"
-   },
-   "articles": [
-    {
-     "title": "円連動ステーブルコイン「JPYC」、発行1年で累計発行額120億円超 - 디지털투데이",
-     "domain": "digitaltoday.co.kr",
-     "url": "https://www.digitaltoday.co.kr/jp/view/120740/jpyc-yen-stablecoin-one-year-cumulative-issuance-exceeds-12-billion-yen",
-     "published_at": "2026-10-28 13:57:24",
-     "collected_at": "2026-10-28 21:31:33"
-    },
-    {
-     "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超 - Iolite（アイオライト）",
-     "domain": "iolite.net",
-     "url": "https://iolite.net/news/coinpost-745104",
-     "published_at": "2026-10-28 14:34:20",
-     "collected_at": "2026-10-28 21:31:33"
-    },
-    {
-     "title": "JPYC岡部氏、黒字化へ「流通額10倍以上に」 アジア需要掘り起こし - 日本経済新聞",
-     "domain": "nikkei.com",
-     "url": "https://www.nikkei.com/article/DGXZQOUB149CF0U6A011C2000000/",
-     "published_at": "2026-10-29 18:44:33",
-     "collected_at": "2026-10-30 03:25:19"
     }
    ]
   },
