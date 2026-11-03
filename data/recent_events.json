@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03 21:31:33",
+ "generated_at": "2026-11-04 04:28:24",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,8 +7,8 @@
    "event_id": "EVT-20261102-01",
    "burst_start_date": "2026-11-02",
    "first_collected_at": "2026-11-03 06:40:43",
-   "last_collected_at": "2026-11-03 21:31:03",
-   "article_count": 6,
+   "last_collected_at": "2026-11-04 04:28:06",
+   "article_count": 7,
    "tags": [
     "制度・規制",
     "市場・統計"
@@ -63,6 +63,13 @@
      "url": "https://bittimes.net/news/232065.html",
      "published_at": "2026-11-03 02:11:16",
      "collected_at": "2026-11-03 21:31:03"
+    },
+    {
+     "title": "ステーブルコイン100万円上限見直しへ｜JPYCなどが緩和要望 - Coinspeaker",
+     "domain": "coinspeaker.com",
+     "url": "https://www.coinspeaker.com/jp/fsa-stablecoin-limit-jpyc-review-2026/",
+     "published_at": "2026-11-03 09:58:57",
+     "collected_at": "2026-11-04 04:28:06"
     }
    ]
   },
