@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-03 06:42:18",
+ "generated_at": "2026-11-03 21:31:33",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,8 +7,8 @@
    "event_id": "EVT-20261102-01",
    "burst_start_date": "2026-11-02",
    "first_collected_at": "2026-11-03 06:40:43",
-   "last_collected_at": "2026-11-03 06:40:43",
-   "article_count": 3,
+   "last_collected_at": "2026-11-03 21:31:03",
+   "article_count": 6,
    "tags": [
     "制度・規制",
     "市場・統計"
@@ -42,6 +42,27 @@
      "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
      "published_at": "2026-11-02 23:00:00",
      "collected_at": "2026-11-03 06:40:43"
+    },
+    {
+     "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/389320/",
+     "published_at": "2026-11-02 23:00:00",
+     "collected_at": "2026-11-03 21:31:03"
+    },
+    {
+     "title": "ステーブルコイン100万円上限、全銀協は慎重・JPYCは緩和を要望 金融庁研究会で見解割れる - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/2a8f1dea-fac7-4b15-8150-7804d17e3eb7",
+     "published_at": "2026-11-02 23:25:44",
+     "collected_at": "2026-11-03 21:31:03"
+    },
+    {
+     "title": "ステーブルコイン「100万円規制」緩和を要望｜全銀協は慎重姿勢崩さず - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/232065.html",
+     "published_at": "2026-11-03 02:11:16",
+     "collected_at": "2026-11-03 21:31:03"
     }
    ]
   },
