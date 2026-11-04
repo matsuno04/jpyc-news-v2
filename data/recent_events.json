@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-04 04:28:24",
+ "generated_at": "2026-11-04 21:31:36",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,8 +7,8 @@
    "event_id": "EVT-20261102-01",
    "burst_start_date": "2026-11-02",
    "first_collected_at": "2026-11-03 06:40:43",
-   "last_collected_at": "2026-11-04 04:28:06",
-   "article_count": 7,
+   "last_collected_at": "2026-11-04 21:31:05",
+   "article_count": 9,
    "tags": [
     "制度・規制",
     "市場・統計"
@@ -70,6 +70,20 @@
      "url": "https://www.coinspeaker.com/jp/fsa-stablecoin-limit-jpyc-review-2026/",
      "published_at": "2026-11-03 09:58:57",
      "collected_at": "2026-11-04 04:28:06"
+    },
+    {
+     "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重 - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/623691",
+     "published_at": "2026-11-04 14:45:53",
+     "collected_at": "2026-11-04 21:31:05"
+    },
+    {
+     "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重 (あたらしい経済) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
+     "published_at": "2026-11-04 14:48:14",
+     "collected_at": "2026-11-04 21:31:05"
     }
    ]
   },
@@ -77,12 +91,13 @@
    "event_id": "EVT-20261029-02",
    "burst_start_date": "2026-10-29",
    "first_collected_at": "2026-10-29 21:31:38",
-   "last_collected_at": "2026-11-03 06:40:43",
-   "article_count": 17,
+   "last_collected_at": "2026-11-04 21:31:05",
+   "article_count": 18,
    "tags": [
     "活用事例",
     "提携・連携",
-    "取扱い・対応"
+    "取扱い・対応",
+    "制度・規制"
    ],
    "tags_mode": "活用事例",
    "representative": {
@@ -211,6 +226,13 @@
      "url": "https://news.infoseek.co.jp/article/prtimes_000000006_000151022/",
      "published_at": "2026-11-01 16:15:47",
      "collected_at": "2026-11-03 06:40:43"
+    },
+    {
+     "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/tvasahi_900203425/",
+     "published_at": "2026-11-04 11:48:00",
+     "collected_at": "2026-11-04 21:31:05"
     }
    ]
   },
@@ -2343,69 +2365,6 @@
      "url": "https://jinacoin.ne.jp/jpysc-corporate-bond-20261006/",
      "published_at": "2026-10-06 00:00:00",
      "collected_at": "2026-10-06 21:31:24"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260926-01",
-   "burst_start_date": "2026-09-26",
-   "first_collected_at": "2026-10-05 12:22:52",
-   "last_collected_at": "2026-10-05 12:22:52",
-   "article_count": 1,
-   "tags": [
-    "取扱い・対応"
-   ],
-   "tags_mode": "取扱い・対応",
-   "representative": {
-    "title": "日本円ステーブルコインのJPYC｜JPYCの最低購入額の引き下げとギフト券交換が100円単位から可能となりました。 - PR TIMES",
-    "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000145.000054018.html",
-    "published_at": "2026-09-26 16:00:00",
-    "summary": "JPYCの最低購入額が10,000JPYCから3,000JPYCに引き下げられ、giftee Box交換単位が5,000JPYCから100JPYC単位に変更された。また購入およびギフト交換の処理時間が最短10分で完了するようになった。"
-   },
-   "articles": [
-    {
-     "title": "日本円ステーブルコインのJPYC｜JPYCの最低購入額の引き下げとギフト券交換が100円単位から可能となりました。 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000145.000054018.html",
-     "published_at": "2026-09-26 16:00:00",
-     "collected_at": "2026-10-05 12:22:52"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260917-03",
-   "burst_start_date": "2026-09-17",
-   "first_collected_at": "2026-10-01 14:46:17",
-   "last_collected_at": "2026-10-05 12:22:52",
-   "article_count": 2,
-   "tags": [
-    "実証実験",
-    "活用事例",
-    "提携・連携"
-   ],
-   "tags_mode": "実証実験",
-   "representative": {
-    "title": "INSPAY、10月2日にステーブルコイン決済イベント「Payment 3.0」を開催 Sui・JPYC・HashPortが“街で使える”条件を議論 - PR TIMES",
-    "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000004.000186424.html",
-    "published_at": "2026-09-17 16:00:00",
-    "summary": "INSPAY株式会社は10月2日に東京でステーブルコイン決済をテーマとしたイベント「Payment 3.0」を開催する。JPYCおよびUSDC on Suiの実際の決済体験を通じ、日本市場での日常決済普及に向けた課題と可能性について、発行・ウォレット・ブロックチェーン・加盟店導入の各視点から議論する。"
-   },
-   "articles": [
-    {
-     "title": "INSPAY、10月2日にステーブルコイン決済イベント「Payment 3.0」を開催 Sui・JPYC・HashPortが“街で使える”条件を議論 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000004.000186424.html",
-     "published_at": "2026-09-17 16:00:00",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "INSPAY、10月2日にステーブルコイン決済イベント「Payment 3.0」を開催 Sui・JPYC・HashPortが“街で使える”条件を議論 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?post_type=pressrelease&p=739566",
-     "published_at": "2026-09-28 13:15:17",
-     "collected_at": "2026-10-05 12:22:52"
     }
    ]
   }
