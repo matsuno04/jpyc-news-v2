@@ -1,8 +1,93 @@
 {
- "generated_at": "2026-11-04 21:31:36",
+ "generated_at": "2026-11-05 21:31:34",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261105-01",
+   "burst_start_date": "2026-11-05",
+   "first_collected_at": "2026-11-05 21:31:09",
+   "last_collected_at": "2026-11-05 21:31:09",
+   "article_count": 1,
+   "tags": [
+    "競合・市場環境",
+    "市場・統計"
+   ],
+   "tags_mode": "競合・市場環境",
+   "representative": {
+    "title": "JR東日本teppayが20%還元、円ステーブルコインJPYCに勝算は？ - CRYPTO TIMES",
+    "domain": "crypto-times.jp",
+    "url": "https://crypto-times.jp/news-teppay-jpyc-stablecoin-payment/",
+    "published_at": "2026-11-05 07:19:41",
+    "summary": "JR東日本のコード決済サービス「teppay」が11月4日に20%ポイント還元キャンペーンを開始した。JPYCは発行開始から1年で累計発行額120億円超、導入事業者150超に達した一方、teppayの加盟店は全国170万カ所以上と大きな差がある。両者は手数料政策と利用者還元という異なる軸から決済シェアを狙う構図となっている。"
+   },
+   "articles": [
+    {
+     "title": "JR東日本teppayが20%還元、円ステーブルコインJPYCに勝算は？ - CRYPTO TIMES",
+     "domain": "crypto-times.jp",
+     "url": "https://crypto-times.jp/news-teppay-jpyc-stablecoin-payment/",
+     "published_at": "2026-11-05 07:19:41",
+     "collected_at": "2026-11-05 21:31:09"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261030-01",
+   "burst_start_date": "2026-10-30",
+   "first_collected_at": "2026-10-31 02:58:24",
+   "last_collected_at": "2026-11-05 21:31:09",
+   "article_count": 5,
+   "tags": [
+    "実証実験",
+    "提携・連携",
+    "活用事例"
+   ],
+   "tags_mode": "実証実験",
+   "representative": {
+    "title": "x402株式会社、一般社団法人ブロックチェーン推進協会（BCCC）に入会｜JPYC × エージェント決済及びエージェンティックコマースにおける研究開発に向けて - PR TIMES",
+    "domain": "prtimes.jp",
+    "url": "https://prtimes.jp/main/html/rd/p/000000006.000188987.html",
+    "published_at": "2026-10-30 19:00:01",
+    "summary": "x402株式会社がブロックチェーン推進協会（BCCC）に入会し、JPYCを用いたエージェント決済及びエージェンティックコマースの研究開発を推進する。同社はPolygon mainnet上でJPYCを活用した決済実装を完了し、エージェント間ウォレット決済の確認基準の整備やx402 RFQ Marketなどの市場基盤を開発している。"
+   },
+   "articles": [
+    {
+     "title": "x402株式会社、一般社団法人ブロックチェーン推進協会（BCCC）に入会｜JPYC × エージェント決済及びエージェンティックコマースにおける研究開発に向けて - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000006.000188987.html",
+     "published_at": "2026-10-30 19:00:01",
+     "collected_at": "2026-10-31 02:58:24"
+    },
+    {
+     "title": "x402がBCCCに入会 JPYC活用したエージェント決済の研究開発を推進 - Dellows News",
+     "domain": "news.dellows.jp",
+     "url": "https://news.dellows.jp/979901/?from=top_category_area",
+     "published_at": "2026-10-31 09:40:38",
+     "collected_at": "2026-11-02 21:31:08"
+    },
+    {
+     "title": "x402株式会社、一般社団法人ブロックチェーン推進協会（BCCC）に入会｜JPYC × エージェント決済及びエージェンティックコマースにおける研究開発に向けて - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/prtimes_000000006_000188987/",
+     "published_at": "2026-10-31 15:40:02",
+     "collected_at": "2026-10-31 21:31:41"
+    },
+    {
+     "title": "x402株式会社、BCCC入会でJPYCのエージェント決済推進を図る - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/business-cards/x402-joins-bccc-advance-jpyc-payments/",
+     "published_at": "2026-11-02 14:32:33",
+     "collected_at": "2026-11-02 21:31:08"
+    },
+    {
+     "title": "x402がBCCCに入会 JPYC活用したエージェント決済の研究開発を推進 - Dellows News",
+     "domain": "news.dellows.jp",
+     "url": "https://news.dellows.jp/979901/",
+     "published_at": "2026-11-05 04:01:59",
+     "collected_at": "2026-11-05 21:31:09"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261102-01",
    "burst_start_date": "2026-11-02",
@@ -233,56 +318,6 @@
      "url": "https://news.infoseek.co.jp/article/tvasahi_900203425/",
      "published_at": "2026-11-04 11:48:00",
      "collected_at": "2026-11-04 21:31:05"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261030-01",
-   "burst_start_date": "2026-10-30",
-   "first_collected_at": "2026-10-31 02:58:24",
-   "last_collected_at": "2026-11-02 21:31:08",
-   "article_count": 4,
-   "tags": [
-    "実証実験",
-    "提携・連携",
-    "活用事例"
-   ],
-   "tags_mode": "実証実験",
-   "representative": {
-    "title": "x402株式会社、一般社団法人ブロックチェーン推進協会（BCCC）に入会｜JPYC × エージェント決済及びエージェンティックコマースにおける研究開発に向けて - PR TIMES",
-    "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000006.000188987.html",
-    "published_at": "2026-10-30 19:00:01",
-    "summary": "x402株式会社がブロックチェーン推進協会（BCCC）に入会し、JPYCを用いたエージェント決済及びエージェンティックコマースの研究開発を推進する。同社はPolygon mainnet上でJPYCを活用した決済実装を完了し、エージェント間ウォレット決済の確認基準の整備やx402 RFQ Marketなどの市場基盤を開発している。"
-   },
-   "articles": [
-    {
-     "title": "x402株式会社、一般社団法人ブロックチェーン推進協会（BCCC）に入会｜JPYC × エージェント決済及びエージェンティックコマースにおける研究開発に向けて - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000006.000188987.html",
-     "published_at": "2026-10-30 19:00:01",
-     "collected_at": "2026-10-31 02:58:24"
-    },
-    {
-     "title": "x402がBCCCに入会 JPYC活用したエージェント決済の研究開発を推進 - Dellows News",
-     "domain": "news.dellows.jp",
-     "url": "https://news.dellows.jp/979901/?from=top_category_area",
-     "published_at": "2026-10-31 09:40:38",
-     "collected_at": "2026-11-02 21:31:08"
-    },
-    {
-     "title": "x402株式会社、一般社団法人ブロックチェーン推進協会（BCCC）に入会｜JPYC × エージェント決済及びエージェンティックコマースにおける研究開発に向けて - Infoseek",
-     "domain": "news.infoseek.co.jp",
-     "url": "https://news.infoseek.co.jp/article/prtimes_000000006_000188987/",
-     "published_at": "2026-10-31 15:40:02",
-     "collected_at": "2026-10-31 21:31:41"
-    },
-    {
-     "title": "x402株式会社、BCCC入会でJPYCのエージェント決済推進を図る - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/business-cards/x402-joins-bccc-advance-jpyc-payments/",
-     "published_at": "2026-11-02 14:32:33",
-     "collected_at": "2026-11-02 21:31:08"
     }
    ]
   },
@@ -2336,35 +2371,6 @@
      "url": "https://www.digitaltoday.co.kr/jp/view/111340/stablecoins-could-support-daily-life-japan-experts-on-a-cashless-era",
      "published_at": "2026-10-06 20:35:00",
      "collected_at": "2026-10-07 03:18:30"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261006-02",
-   "burst_start_date": "2026-10-06",
-   "first_collected_at": "2026-10-06 21:31:24",
-   "last_collected_at": "2026-10-06 21:31:24",
-   "article_count": 1,
-   "tags": [
-    "活用事例",
-    "実証実験",
-    "提携・連携"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "円ステーブルコインJPYSCで利払いする社債、募集開始──年5％・1年 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/jpysc-corporate-bond-20261006/",
-    "published_at": "2026-10-06 00:00:00",
-    "summary": "スターテイルジャパンは、JPYSCで利息と償還金を支払うデジタル社債の募集を開始した。年利率5.00%、1年期限で、1口10万円から申し込み可能であり、発行体はこれをJPYSCの実証実験と位置づけている。スターテイルグループのCEOは、本社債をJPYSCの活用と普及に向けたシステム開発などに充当する予定としている。"
-   },
-   "articles": [
-    {
-     "title": "円ステーブルコインJPYSCで利払いする社債、募集開始──年5％・1年 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/jpysc-corporate-bond-20261006/",
-     "published_at": "2026-10-06 00:00:00",
-     "collected_at": "2026-10-06 21:31:24"
     }
    ]
   }
