@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-05 21:31:34",
+ "generated_at": "2026-11-06 04:53:30",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -2336,41 +2336,6 @@
      "url": "https://t.co/5h6CuZ2k4K",
      "published_at": "2026-10-06 21:41:09",
      "collected_at": "2026-10-08 21:31:09"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261005-02",
-   "burst_start_date": "2026-10-05",
-   "first_collected_at": "2026-10-06 05:42:49",
-   "last_collected_at": "2026-10-07 03:18:30",
-   "article_count": 2,
-   "tags": [
-    "解説・論説",
-    "市場・統計"
-   ],
-   "tags_mode": "解説・論説",
-   "representative": {
-    "title": "ステーブルコインだけで暮らせるか 業界3氏が○×で回答 - CoinPost",
-    "domain": "coinpost.jp",
-    "url": "https://coinpost.jp/?p=740485",
-    "published_at": "2026-10-05 18:20:39",
-    "summary": "AI・オンチェーン金融サミットで、ステーブルコインが生活や国際送金、納税などの領域で活用可能かをテーマに、三井住友フィナンシャルグループ、JPYC、Startale Groupの3者が○×で議論した。ステーバコインだけで生活できる時代の到来、国際送金への活用、納税対応などについて、各登壇者が異なる視点から見解を述べた。"
-   },
-   "articles": [
-    {
-     "title": "ステーブルコインだけで暮らせるか 業界3氏が○×で回答 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=740485",
-     "published_at": "2026-10-05 18:20:39",
-     "collected_at": "2026-10-06 05:42:49"
-    },
-    {
-     "title": "ステーブルコイン生活に現実味 日本勢「既存金融と併存」 - 디지털투데이",
-     "domain": "digitaltoday.co.kr",
-     "url": "https://www.digitaltoday.co.kr/jp/view/111340/stablecoins-could-support-daily-life-japan-experts-on-a-cashless-era",
-     "published_at": "2026-10-06 20:35:00",
-     "collected_at": "2026-10-07 03:18:30"
     }
    ]
   }
