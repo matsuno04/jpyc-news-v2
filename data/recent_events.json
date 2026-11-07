@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-06 21:32:05",
+ "generated_at": "2026-11-07 21:31:26",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,10 +7,11 @@
    "event_id": "EVT-20261106-01",
    "burst_start_date": "2026-11-06",
    "first_collected_at": "2026-11-06 21:31:07",
-   "last_collected_at": "2026-11-06 21:31:07",
-   "article_count": 1,
+   "last_collected_at": "2026-11-07 21:31:02",
+   "article_count": 2,
    "tags": [
-    "解説・論説"
+    "解説・論説",
+    "市場・統計"
    ],
    "tags_mode": "解説・論説",
    "representative": {
@@ -27,6 +28,13 @@
      "url": "https://news.yahoo.co.jp/articles/d9eedab476b321ea4619c4455bb514392c6dcc45",
      "published_at": "2026-11-06 06:14:04",
      "collected_at": "2026-11-06 21:31:07"
+    },
+    {
+     "title": "JPYCデイリー 11/6（金）：BCCC×CertiKの勉強会から考える、JPYC・DeFiの安全な使い方 エックスウィンがレポート - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/4SLntF5bVD",
+     "published_at": "2026-11-07 05:57:54",
+     "collected_at": "2026-11-07 21:31:02"
     }
    ]
   },
@@ -2343,33 +2351,6 @@
      "url": "https://news.yahoo.co.jp/articles/6dc0ec3980c698a3f571659c8dcbf7ed428fb101",
      "published_at": "2026-10-01 11:50:08",
      "collected_at": "2026-10-01 14:46:17"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261006-03",
-   "burst_start_date": "2026-10-06",
-   "first_collected_at": "2026-10-08 21:31:09",
-   "last_collected_at": "2026-10-08 21:31:09",
-   "article_count": 1,
-   "tags": [
-    "活用事例"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "アゼミチ | 近江米のJPYC EC販売 (@azemichi_01) on X - Howl.link",
-    "domain": "t.co",
-    "url": "https://t.co/5h6CuZ2k4K",
-    "published_at": "2026-10-06 21:41:09",
-    "summary": "アゼミチが近江米のJPYC EC販売を行っており、新米の発送準備のため農業実習を行っている。実習期間中の進捗状況がX（旧Twitter）で報告されている。"
-   },
-   "articles": [
-    {
-     "title": "アゼミチ | 近江米のJPYC EC販売 (@azemichi_01) on X - Howl.link",
-     "domain": "t.co",
-     "url": "https://t.co/5h6CuZ2k4K",
-     "published_at": "2026-10-06 21:41:09",
-     "collected_at": "2026-10-08 21:31:09"
     }
    ]
   }
