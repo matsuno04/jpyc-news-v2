@@ -1,8 +1,36 @@
 {
- "generated_at": "2026-11-07 21:31:26",
+ "generated_at": "2026-11-08 02:43:33",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261107-01",
+   "burst_start_date": "2026-11-07",
+   "first_collected_at": "2026-11-08 02:43:19",
+   "last_collected_at": "2026-11-08 02:43:19",
+   "article_count": 1,
+   "tags": [
+    "活用事例",
+    "市場・統計"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "JPYCデイリー 11/7（土）：J歩の加盟店第2号、富山・高岡のお好み焼き「RURU」 JPYC払いで1%分のJPを付与 - Howl.Link",
+    "domain": "t.co",
+    "url": "https://t.co/RubmM2SB84",
+    "published_at": "2026-11-07 21:11:51",
+    "summary": "JPYC デイリーニュースとして、富山・高岡のお好み焼き店「RURU」が J歩の加盟店第2号として JPYC 払いに対応し、1%分の JP を付与するキャンペーンを実施している。同時に JPYC の発行額内訳（Polygon 32.3 億、Ethereum 30.4 億、Avalanche 32.3 億、Kaia 34.7 億）が報告されている。"
+   },
+   "articles": [
+    {
+     "title": "JPYCデイリー 11/7（土）：J歩の加盟店第2号、富山・高岡のお好み焼き「RURU」 JPYC払いで1%分のJPを付与 - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/RubmM2SB84",
+     "published_at": "2026-11-07 21:11:51",
+     "collected_at": "2026-11-08 02:43:19"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261106-01",
    "burst_start_date": "2026-11-06",
