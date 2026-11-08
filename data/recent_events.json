@@ -1,77 +1,14 @@
 {
- "generated_at": "2026-11-08 02:43:33",
+ "generated_at": "2026-11-09 02:54:32",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
   {
-   "event_id": "EVT-20261107-01",
-   "burst_start_date": "2026-11-07",
-   "first_collected_at": "2026-11-08 02:43:19",
-   "last_collected_at": "2026-11-08 02:43:19",
-   "article_count": 1,
-   "tags": [
-    "活用事例",
-    "市場・統計"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "JPYCデイリー 11/7（土）：J歩の加盟店第2号、富山・高岡のお好み焼き「RURU」 JPYC払いで1%分のJPを付与 - Howl.Link",
-    "domain": "t.co",
-    "url": "https://t.co/RubmM2SB84",
-    "published_at": "2026-11-07 21:11:51",
-    "summary": "JPYC デイリーニュースとして、富山・高岡のお好み焼き店「RURU」が J歩の加盟店第2号として JPYC 払いに対応し、1%分の JP を付与するキャンペーンを実施している。同時に JPYC の発行額内訳（Polygon 32.3 億、Ethereum 30.4 億、Avalanche 32.3 億、Kaia 34.7 億）が報告されている。"
-   },
-   "articles": [
-    {
-     "title": "JPYCデイリー 11/7（土）：J歩の加盟店第2号、富山・高岡のお好み焼き「RURU」 JPYC払いで1%分のJPを付与 - Howl.Link",
-     "domain": "t.co",
-     "url": "https://t.co/RubmM2SB84",
-     "published_at": "2026-11-07 21:11:51",
-     "collected_at": "2026-11-08 02:43:19"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261106-01",
-   "burst_start_date": "2026-11-06",
-   "first_collected_at": "2026-11-06 21:31:07",
-   "last_collected_at": "2026-11-07 21:31:02",
-   "article_count": 2,
-   "tags": [
-    "解説・論説",
-    "市場・統計"
-   ],
-   "tags_mode": "解説・論説",
-   "representative": {
-    "title": "暗号資産を守るには何が必要か──BCCCとCertiKの勉強会から、JPYC・DeFiの安全な使い方を考える【エックスウィン】 - Yahoo!ニュース",
-    "domain": "news.yahoo.co.jp",
-    "url": "https://news.yahoo.co.jp/articles/d9eedab476b321ea4619c4455bb514392c6dcc45",
-    "published_at": "2026-11-06 06:14:04",
-    "summary": "ブロックチェーン推進協会（BCCC）がCertiKを招き、Web3セキュリティに関する勉強会を開催した。JPYCやDeFiサービスの安全な使い方を考える上で、秘密鍵管理に加えて承認内容の確認が重要であること、また事業者には複数層の防御対策と説明責任が求められることが解説されている。"
-   },
-   "articles": [
-    {
-     "title": "暗号資産を守るには何が必要か──BCCCとCertiKの勉強会から、JPYC・DeFiの安全な使い方を考える【エックスウィン】 - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/d9eedab476b321ea4619c4455bb514392c6dcc45",
-     "published_at": "2026-11-06 06:14:04",
-     "collected_at": "2026-11-06 21:31:07"
-    },
-    {
-     "title": "JPYCデイリー 11/6（金）：BCCC×CertiKの勉強会から考える、JPYC・DeFiの安全な使い方 エックスウィンがレポート - Howl.Link",
-     "domain": "t.co",
-     "url": "https://t.co/4SLntF5bVD",
-     "published_at": "2026-11-07 05:57:54",
-     "collected_at": "2026-11-07 21:31:02"
-    }
-   ]
-  },
-  {
    "event_id": "EVT-20261029-02",
    "burst_start_date": "2026-10-29",
    "first_collected_at": "2026-10-29 21:31:38",
-   "last_collected_at": "2026-11-06 21:31:07",
-   "article_count": 19,
+   "last_collected_at": "2026-11-09 02:53:47",
+   "article_count": 21,
    "tags": [
     "活用事例",
     "提携・連携",
@@ -107,6 +44,13 @@
      "url": "https://bittimes.net/news/231865.html",
      "published_at": "2026-10-29 10:59:35",
      "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "日本免税、UPBONDと共に円建てステーブルコイン「JPYC」での免税還付の受け取りに対応 (2026年10月29日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32717718/",
+     "published_at": "2026-10-29 11:30:00",
+     "collected_at": "2026-11-09 02:53:47"
     },
     {
      "title": "日本免税、UPBONDと共に円建てステーブルコイン「JPYC」による免税還付を実用化 - PR TIMES",
@@ -149,6 +93,13 @@
      "url": "https://voix.jp/business-cards/new-tax-refund-service-jpyc/",
      "published_at": "2026-10-29 15:55:05",
      "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始(NADA NEWS) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/bba7ae1987e2362e1f5c07672c8fddf2c98ab9fb",
+     "published_at": "2026-10-29 16:00:00",
+     "collected_at": "2026-11-09 02:53:47"
     },
     {
      "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用 - あたらしい経済",
@@ -219,6 +170,144 @@
      "url": "https://honichi.com/news/2026/11/06/tax-refund-jpyc/",
      "published_at": "2026-11-06 00:00:00",
      "collected_at": "2026-11-06 21:31:07"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261027-02",
+   "burst_start_date": "2026-10-27",
+   "first_collected_at": "2026-10-27 21:31:14",
+   "last_collected_at": "2026-11-09 02:53:47",
+   "article_count": 7,
+   "tags": [
+    "市場・統計",
+    "制度・規制",
+    "リスク・懸念",
+    "活用事例",
+    "解説・論説",
+    "取扱い・対応",
+    "提携・連携"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "日本の主要な円ステーブルコイン、期待された目標を達成できず、失望の初年度に - CoinDesk",
+    "domain": "coindesk.com",
+    "url": "https://www.coindesk.com/ja/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+    "published_at": "2026-10-27 00:00:00",
+    "summary": "JPYCは初年度の目標を大きく下回り、2023年10月時点で流通量が32億円にとどまり、発行体の期待値の四分の一程度となった。岡部CEOは成長していないことを認め、規制による発行上限が企業採用を阻んでいると指摘した。"
+   },
+   "articles": [
+    {
+     "title": "日本の主要な円ステーブルコイン、期待された目標を達成できず、失望の初年度に - CoinDesk",
+     "domain": "coindesk.com",
+     "url": "https://www.coindesk.com/ja/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
+     "published_at": "2026-10-27 00:00:00",
+     "collected_at": "2026-10-28 02:55:26"
+    },
+    {
+     "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
+     "published_at": "2026-10-27 09:00:00",
+     "collected_at": "2026-10-27 21:31:14"
+    },
+    {
+     "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る(NADA NEWS) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/4efff3921bb110e120cfc29941a306ae3a030fae",
+     "published_at": "2026-10-27 16:00:00",
+     "collected_at": "2026-11-09 02:53:47"
+    },
+    {
+     "title": "日本円ステーブルコインJPYC、企業・電子決済に照準 黒字化は道半ば - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUB15BLA0V11C26A0000000/",
+     "published_at": "2026-10-27 16:58:25",
+     "collected_at": "2026-10-28 02:55:26"
+    },
+    {
+     "title": "日本円ステーブルコインJPYC、発行1年で流通32億円止まり…目標の4分の1 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/dc22edfa-5b55-448c-9cbb-6aab3d6191b5",
+     "published_at": "2026-10-27 21:25:25",
+     "collected_at": "2026-10-28 21:31:33"
+    },
+    {
+     "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=745104",
+     "published_at": "2026-10-28 13:20:11",
+     "collected_at": "2026-10-28 21:31:33"
+    },
+    {
+     "title": "JPYC、初年度の発行目標に届かず、創業者が率直に認める - CryptoDnes.bg",
+     "domain": "cryptodnes.bg",
+     "url": "https://cryptodnes.bg/jp/jpyc-yen-stablecoin-misses-year-one-target/",
+     "published_at": "2026-10-29 10:20:34",
+     "collected_at": "2026-10-29 21:31:38"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261107-01",
+   "burst_start_date": "2026-11-07",
+   "first_collected_at": "2026-11-08 02:43:19",
+   "last_collected_at": "2026-11-08 02:43:19",
+   "article_count": 1,
+   "tags": [
+    "活用事例",
+    "市場・統計"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "JPYCデイリー 11/7（土）：J歩の加盟店第2号、富山・高岡のお好み焼き「RURU」 JPYC払いで1%分のJPを付与 - Howl.Link",
+    "domain": "t.co",
+    "url": "https://t.co/RubmM2SB84",
+    "published_at": "2026-11-07 21:11:51",
+    "summary": "JPYC デイリーニュースとして、富山・高岡のお好み焼き店「RURU」が J歩の加盟店第2号として JPYC 払いに対応し、1%分の JP を付与するキャンペーンを実施している。同時に JPYC の発行額内訳（Polygon 32.3 億、Ethereum 30.4 億、Avalanche 32.3 億、Kaia 34.7 億）が報告されている。"
+   },
+   "articles": [
+    {
+     "title": "JPYCデイリー 11/7（土）：J歩の加盟店第2号、富山・高岡のお好み焼き「RURU」 JPYC払いで1%分のJPを付与 - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/RubmM2SB84",
+     "published_at": "2026-11-07 21:11:51",
+     "collected_at": "2026-11-08 02:43:19"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261106-01",
+   "burst_start_date": "2026-11-06",
+   "first_collected_at": "2026-11-06 21:31:07",
+   "last_collected_at": "2026-11-07 21:31:02",
+   "article_count": 2,
+   "tags": [
+    "解説・論説",
+    "市場・統計"
+   ],
+   "tags_mode": "解説・論説",
+   "representative": {
+    "title": "暗号資産を守るには何が必要か──BCCCとCertiKの勉強会から、JPYC・DeFiの安全な使い方を考える【エックスウィン】 - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/d9eedab476b321ea4619c4455bb514392c6dcc45",
+    "published_at": "2026-11-06 06:14:04",
+    "summary": "ブロックチェーン推進協会（BCCC）がCertiKを招き、Web3セキュリティに関する勉強会を開催した。JPYCやDeFiサービスの安全な使い方を考える上で、秘密鍵管理に加えて承認内容の確認が重要であること、また事業者には複数層の防御対策と説明責任が求められることが解説されている。"
+   },
+   "articles": [
+    {
+     "title": "暗号資産を守るには何が必要か──BCCCとCertiKの勉強会から、JPYC・DeFiの安全な使い方を考える【エックスウィン】 - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d9eedab476b321ea4619c4455bb514392c6dcc45",
+     "published_at": "2026-11-06 06:14:04",
+     "collected_at": "2026-11-06 21:31:07"
+    },
+    {
+     "title": "JPYCデイリー 11/6（金）：BCCC×CertiKの勉強会から考える、JPYC・DeFiの安全な使い方 エックスウィンがレポート - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/4SLntF5bVD",
+     "published_at": "2026-11-07 05:57:54",
+     "collected_at": "2026-11-07 21:31:02"
     }
    ]
   },
@@ -674,74 +763,6 @@
      "url": "https://news.yahoo.co.jp/articles/e6fc93fa56fdd2497f103a9ba82d0da44a76ea6d",
      "published_at": "2026-11-01 08:00:00",
      "collected_at": "2026-11-01 21:30:39"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261027-02",
-   "burst_start_date": "2026-10-27",
-   "first_collected_at": "2026-10-27 21:31:14",
-   "last_collected_at": "2026-10-29 21:31:38",
-   "article_count": 6,
-   "tags": [
-    "市場・統計",
-    "制度・規制",
-    "リスク・懸念",
-    "活用事例",
-    "解説・論説",
-    "取扱い・対応",
-    "提携・連携"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "日本の主要な円ステーブルコイン、期待された目標を達成できず、失望の初年度に - CoinDesk",
-    "domain": "coindesk.com",
-    "url": "https://www.coindesk.com/ja/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
-    "published_at": "2026-10-27 00:00:00",
-    "summary": "JPYCは初年度の目標を大きく下回り、2023年10月時点で流通量が32億円にとどまり、発行体の期待値の四分の一程度となった。岡部CEOは成長していないことを認め、規制による発行上限が企業採用を阻んでいると指摘した。"
-   },
-   "articles": [
-    {
-     "title": "日本の主要な円ステーブルコイン、期待された目標を達成できず、失望の初年度に - CoinDesk",
-     "domain": "coindesk.com",
-     "url": "https://www.coindesk.com/ja/business/2026/10/27/japan-s-top-yen-stablecoin-falls-short-of-its-target-in-a-disappointing-first-year",
-     "published_at": "2026-10-27 00:00:00",
-     "collected_at": "2026-10-28 02:55:26"
-    },
-    {
-     "title": "【独自】JPYC岡部社長「率直に、伸びていない」──発行1年、誤算を語る（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/4efff3921bb110e120cfc29941a306ae3a030fae",
-     "published_at": "2026-10-27 09:00:00",
-     "collected_at": "2026-10-27 21:31:14"
-    },
-    {
-     "title": "日本円ステーブルコインJPYC、企業・電子決済に照準 黒字化は道半ば - 日本経済新聞",
-     "domain": "nikkei.com",
-     "url": "https://www.nikkei.com/article/DGXZQOUB15BLA0V11C26A0000000/",
-     "published_at": "2026-10-27 16:58:25",
-     "collected_at": "2026-10-28 02:55:26"
-    },
-    {
-     "title": "日本円ステーブルコインJPYC、発行1年で流通32億円止まり…目標の4分の1 - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/dc22edfa-5b55-448c-9cbb-6aab3d6191b5",
-     "published_at": "2026-10-27 21:25:25",
-     "collected_at": "2026-10-28 21:31:33"
-    },
-    {
-     "title": "日本円建てステーブルコイン「JPYC」1周年、累計発行額は120億円超 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=745104",
-     "published_at": "2026-10-28 13:20:11",
-     "collected_at": "2026-10-28 21:31:33"
-    },
-    {
-     "title": "JPYC、初年度の発行目標に届かず、創業者が率直に認める - CryptoDnes.bg",
-     "domain": "cryptodnes.bg",
-     "url": "https://cryptodnes.bg/jp/jpyc-yen-stablecoin-misses-year-one-target/",
-     "published_at": "2026-10-29 10:20:34",
-     "collected_at": "2026-10-29 21:31:38"
     }
    ]
   },
