@@ -1,14 +1,41 @@
 {
- "generated_at": "2026-11-09 02:54:32",
+ "generated_at": "2026-11-09 21:32:01",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
   {
+   "event_id": "EVT-20261109-01",
+   "burst_start_date": "2026-11-09",
+   "first_collected_at": "2026-11-09 21:31:13",
+   "last_collected_at": "2026-11-09 21:31:13",
+   "article_count": 1,
+   "tags": [
+    "取扱い・対応"
+   ],
+   "tags_mode": "取扱い・対応",
+   "representative": {
+    "title": "Zeptが日本円ステーブルコインJPYCの取引を管理するJSLを開発 - Dellows News",
+    "domain": "news.dellows.jp",
+    "url": "https://news.dellows.jp/808721/",
+    "published_at": "2026-11-09 11:40:16",
+    "summary": "Zept株式会社がJPYCの取引を自動記録・一元管理するシステム「JP Stablecoin Ledger（JSL）」を開発した。本システムはステーブルコイン取引の記録と管理機能を提供する。"
+   },
+   "articles": [
+    {
+     "title": "Zeptが日本円ステーブルコインJPYCの取引を管理するJSLを開発 - Dellows News",
+     "domain": "news.dellows.jp",
+     "url": "https://news.dellows.jp/808721/",
+     "published_at": "2026-11-09 11:40:16",
+     "collected_at": "2026-11-09 21:31:13"
+    }
+   ]
+  },
+  {
    "event_id": "EVT-20261029-02",
    "burst_start_date": "2026-10-29",
    "first_collected_at": "2026-10-29 21:31:38",
-   "last_collected_at": "2026-11-09 02:53:47",
-   "article_count": 21,
+   "last_collected_at": "2026-11-09 21:31:13",
+   "article_count": 22,
    "tags": [
     "活用事例",
     "提携・連携",
@@ -170,6 +197,13 @@
      "url": "https://honichi.com/news/2026/11/06/tax-refund-jpyc/",
      "published_at": "2026-11-06 00:00:00",
      "collected_at": "2026-11-06 21:31:07"
+    },
+    {
+     "title": "UPBONDと日本免税、JPYCによる免税還付サービスを2026年11月1日に開始へ - Dellows News",
+     "domain": "news.dellows.jp",
+     "url": "https://news.dellows.jp/946538/",
+     "published_at": "2026-11-09 14:48:45",
+     "collected_at": "2026-11-09 21:31:13"
     }
    ]
   },
