@@ -1,8 +1,99 @@
 {
- "generated_at": "2026-11-10 07:16:24",
+ "generated_at": "2026-11-10 21:31:40",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261102-01",
+   "burst_start_date": "2026-11-02",
+   "first_collected_at": "2026-11-03 06:40:43",
+   "last_collected_at": "2026-11-10 21:31:13",
+   "article_count": 10,
+   "tags": [
+    "制度・規制",
+    "市場・統計"
+   ],
+   "tags_mode": "制度・規制",
+   "representative": {
+    "title": "ステーブルコインの100万円上限、JPYCなどが見直し要望──全銀協は慎重 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/fsa-stablecoin-20261102/",
+    "published_at": "2026-11-02 00:00:00",
+    "summary": "金融庁の研究会でステーブルコインの制度が論点となり、JPYC株式会社が1件100万円の移転上限の見直しを求めた。一方、全国銀行協会は第二種資金移動業の上限撤廃・緩和に極めて慎重な検討を求めるなど、規制業界内での意見が対立している。"
+   },
+   "articles": [
+    {
+     "title": "ステーブルコインの100万円上限、JPYCなどが見直し要望──全銀協は慎重 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/fsa-stablecoin-20261102/",
+     "published_at": "2026-11-02 00:00:00",
+     "collected_at": "2026-11-03 06:40:43"
+    },
+    {
+     "title": "ステーブルコインの100万円上限、金融庁研究会で議論 全銀協は慎重 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=746032",
+     "published_at": "2026-11-02 19:21:32",
+     "collected_at": "2026-11-03 06:40:43"
+    },
+    {
+     "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
+     "published_at": "2026-11-02 23:00:00",
+     "collected_at": "2026-11-03 06:40:43"
+    },
+    {
+     "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/389320/",
+     "published_at": "2026-11-02 23:00:00",
+     "collected_at": "2026-11-03 21:31:03"
+    },
+    {
+     "title": "ステーブルコイン100万円上限、全銀協は慎重・JPYCは緩和を要望 金融庁研究会で見解割れる - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/2a8f1dea-fac7-4b15-8150-7804d17e3eb7",
+     "published_at": "2026-11-02 23:25:44",
+     "collected_at": "2026-11-03 21:31:03"
+    },
+    {
+     "title": "ステーブルコイン「100万円規制」緩和を要望｜全銀協は慎重姿勢崩さず - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/232065.html",
+     "published_at": "2026-11-03 02:11:16",
+     "collected_at": "2026-11-03 21:31:03"
+    },
+    {
+     "title": "ステーブルコイン100万円上限見直しへ｜JPYCなどが緩和要望 - Coinspeaker",
+     "domain": "coinspeaker.com",
+     "url": "https://www.coinspeaker.com/jp/fsa-stablecoin-limit-jpyc-review-2026/",
+     "published_at": "2026-11-03 09:58:57",
+     "collected_at": "2026-11-04 04:28:06"
+    },
+    {
+     "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重 - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/623691",
+     "published_at": "2026-11-04 14:45:53",
+     "collected_at": "2026-11-04 21:31:05"
+    },
+    {
+     "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重 (あたらしい経済) - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
+     "published_at": "2026-11-04 14:48:14",
+     "collected_at": "2026-11-04 21:31:05"
+    },
+    {
+     "title": "米大手銀PNC、法人向けUSDC受け取りサービスを試験開始──ドルへ自動交換 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/pnc-usdc-20261110/",
+     "published_at": "2026-11-10 00:00:00",
+     "collected_at": "2026-11-10 21:31:13"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261109-02",
    "burst_start_date": "2026-11-09",
@@ -498,90 +589,6 @@
      "url": "https://news.dellows.jp/979901/",
      "published_at": "2026-11-05 04:01:59",
      "collected_at": "2026-11-05 21:31:09"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261102-01",
-   "burst_start_date": "2026-11-02",
-   "first_collected_at": "2026-11-03 06:40:43",
-   "last_collected_at": "2026-11-04 21:31:05",
-   "article_count": 9,
-   "tags": [
-    "制度・規制",
-    "市場・統計"
-   ],
-   "tags_mode": "制度・規制",
-   "representative": {
-    "title": "ステーブルコインの100万円上限、JPYCなどが見直し要望──全銀協は慎重 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/fsa-stablecoin-20261102/",
-    "published_at": "2026-11-02 00:00:00",
-    "summary": "金融庁の研究会でステーブルコインの制度が論点となり、JPYC株式会社が1件100万円の移転上限の見直しを求めた。一方、全国銀行協会は第二種資金移動業の上限撤廃・緩和に極めて慎重な検討を求めるなど、規制業界内での意見が対立している。"
-   },
-   "articles": [
-    {
-     "title": "ステーブルコインの100万円上限、JPYCなどが見直し要望──全銀協は慎重 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/fsa-stablecoin-20261102/",
-     "published_at": "2026-11-02 00:00:00",
-     "collected_at": "2026-11-03 06:40:43"
-    },
-    {
-     "title": "ステーブルコインの100万円上限、金融庁研究会で議論 全銀協は慎重 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=746032",
-     "published_at": "2026-11-02 19:21:32",
-     "collected_at": "2026-11-03 06:40:43"
-    },
-    {
-     "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/73940c395759be609c623c800c620ef660717711",
-     "published_at": "2026-11-02 23:00:00",
-     "collected_at": "2026-11-03 06:40:43"
-    },
-    {
-     "title": "ステーブルコインの「100万円上限」、JPYCと全国銀行協会で見解分かれる - NADA NEWS",
-     "domain": "nadanews.com",
-     "url": "https://www.nadanews.com/389320/",
-     "published_at": "2026-11-02 23:00:00",
-     "collected_at": "2026-11-03 21:31:03"
-    },
-    {
-     "title": "ステーブルコイン100万円上限、全銀協は慎重・JPYCは緩和を要望 金融庁研究会で見解割れる - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/2a8f1dea-fac7-4b15-8150-7804d17e3eb7",
-     "published_at": "2026-11-02 23:25:44",
-     "collected_at": "2026-11-03 21:31:03"
-    },
-    {
-     "title": "ステーブルコイン「100万円規制」緩和を要望｜全銀協は慎重姿勢崩さず - BitTimes",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/232065.html",
-     "published_at": "2026-11-03 02:11:16",
-     "collected_at": "2026-11-03 21:31:03"
-    },
-    {
-     "title": "ステーブルコイン100万円上限見直しへ｜JPYCなどが緩和要望 - Coinspeaker",
-     "domain": "coinspeaker.com",
-     "url": "https://www.coinspeaker.com/jp/fsa-stablecoin-limit-jpyc-review-2026/",
-     "published_at": "2026-11-03 09:58:57",
-     "collected_at": "2026-11-04 04:28:06"
-    },
-    {
-     "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重 - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/623691",
-     "published_at": "2026-11-04 14:45:53",
-     "collected_at": "2026-11-04 21:31:05"
-    },
-    {
-     "title": "ステーブルコインの「1件100万円」上限、JPYCが見直し要望。全銀協は緩和に慎重 (あたらしい経済) - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/9a9bab3bb142b1d7480fbcbe6f14de66eeb5c00e",
-     "published_at": "2026-11-04 14:48:14",
-     "collected_at": "2026-11-04 21:31:05"
     }
    ]
   },
