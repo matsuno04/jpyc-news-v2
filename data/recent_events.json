@@ -1,8 +1,80 @@
 {
- "generated_at": "2026-11-11 04:39:57",
+ "generated_at": "2026-11-11 21:31:13",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261111-02",
+   "burst_start_date": "2026-11-11",
+   "first_collected_at": "2026-11-11 21:30:40",
+   "last_collected_at": "2026-11-11 21:30:40",
+   "article_count": 2,
+   "tags": [
+    "活用事例",
+    "実証実験"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "Mi&T、大阪公立大学周辺でステーブルコイン「JPYC」を活用した実店舗決済を開始 - Infoseek",
+    "domain": "news.infoseek.co.jp",
+    "url": "https://news.infoseek.co.jp/article/prtimes_000000005_000187870/",
+    "published_at": "2026-11-11 16:15:26",
+    "summary": "Mi&T株式会社は、2026年11月16日より大阪公立大学周辺の飲食店・小売店でJPYC決済アプリ「Matane」の提供を開始する。本実証事業では、店舗手数料を1.0%に圧縮し即時受取を実現するとともに、利用者に0.5%の還元を行うことで、Web3の複雑さを排除しながら学生街のキャッシュレス課題を解決することを目指している。"
+   },
+   "articles": [
+    {
+     "title": "Mi&T、大阪公立大学周辺でステーブルコイン「JPYC」を活用した実店舗決済を開始 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/prtimes_000000005_000187870/",
+     "published_at": "2026-11-11 16:15:26",
+     "collected_at": "2026-11-11 21:30:40"
+    },
+    {
+     "title": "Mi&T、JPYCを使った新たな実店舗決済サービスを大阪公立大学周辺で始動 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/business-cards/mit-jpyc-in-store-payment-launch/",
+     "published_at": "2026-11-11 16:59:20",
+     "collected_at": "2026-11-11 21:30:40"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261029-01",
+   "burst_start_date": "2026-10-29",
+   "first_collected_at": "2026-10-29 03:18:56",
+   "last_collected_at": "2026-11-11 21:30:40",
+   "article_count": 2,
+   "tags": [
+    "提携・連携",
+    "活用事例",
+    "市場・統計",
+    "取扱い・対応"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "JPYC「オンチェーン金融」に軸足 株や国債即時取引、米サークルと連携 - 日本経済新聞",
+    "domain": "nikkei.com",
+    "url": "https://www.nikkei.com/article/DGXZQOUB197G90Z11C26A0000000/",
+    "published_at": "2026-10-29 02:00:00",
+    "summary": "JPYCは米サークル社と連携し、米ドル建てステーブルコインのUSDCを活用することで、株や国債の即時取引などオンチェーン金融での活用を目指している。金融庁に対しても関連規制の緩和を働きかけ、国内外での浸透を加速させる構えだ。"
+   },
+   "articles": [
+    {
+     "title": "JPYC「オンチェーン金融」に軸足 株や国債即時取引、米サークルと連携 - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUB197G90Z11C26A0000000/",
+     "published_at": "2026-10-29 02:00:00",
+     "collected_at": "2026-10-29 03:18:56"
+    },
+    {
+     "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結 - ネットショップ担当者フォーラム",
+     "domain": "netshop.impress.co.jp",
+     "url": "https://netshop.impress.co.jp/n/2026/11/11/17021",
+     "published_at": "2026-11-11 00:00:00",
+     "collected_at": "2026-11-11 21:30:40"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261111-01",
    "burst_start_date": "2026-11-11",
@@ -903,35 +975,6 @@
      "url": "https://news.yahoo.co.jp/articles/e6fc93fa56fdd2497f103a9ba82d0da44a76ea6d",
      "published_at": "2026-11-01 08:00:00",
      "collected_at": "2026-11-01 21:30:39"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261029-01",
-   "burst_start_date": "2026-10-29",
-   "first_collected_at": "2026-10-29 03:18:56",
-   "last_collected_at": "2026-10-29 03:18:56",
-   "article_count": 1,
-   "tags": [
-    "提携・連携",
-    "活用事例",
-    "市場・統計"
-   ],
-   "tags_mode": "提携・連携",
-   "representative": {
-    "title": "JPYC「オンチェーン金融」に軸足 株や国債即時取引、米サークルと連携 - 日本経済新聞",
-    "domain": "nikkei.com",
-    "url": "https://www.nikkei.com/article/DGXZQOUB197G90Z11C26A0000000/",
-    "published_at": "2026-10-29 02:00:00",
-    "summary": "JPYCは米サークル社と連携し、米ドル建てステーブルコインのUSDCを活用することで、株や国債の即時取引などオンチェーン金融での活用を目指している。金融庁に対しても関連規制の緩和を働きかけ、国内外での浸透を加速させる構えだ。"
-   },
-   "articles": [
-    {
-     "title": "JPYC「オンチェーン金融」に軸足 株や国債即時取引、米サークルと連携 - 日本経済新聞",
-     "domain": "nikkei.com",
-     "url": "https://www.nikkei.com/article/DGXZQOUB197G90Z11C26A0000000/",
-     "published_at": "2026-10-29 02:00:00",
-     "collected_at": "2026-10-29 03:18:56"
     }
    ]
   },
