@@ -1,14 +1,43 @@
 {
- "generated_at": "2026-11-11 21:31:13",
+ "generated_at": "2026-11-12 04:32:36",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
   {
+   "event_id": "EVT-20261111-03",
+   "burst_start_date": "2026-11-11",
+   "first_collected_at": "2026-11-12 04:31:51",
+   "last_collected_at": "2026-11-12 04:31:51",
+   "article_count": 1,
+   "tags": [
+    "提携・連携",
+    "取扱い・対応",
+    "市場・統計"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結 - ｄメニューニュース",
+    "domain": "topics.smt.docomo.ne.jp",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/netshop_impress/trend/netshop_impress-netshop.impress.co.jp_node_17021",
+    "published_at": "2026-11-11 09:30:00",
+    "summary": "デジタルガレージは米Circle Internet Groupの関連会社と基本合意書を締結し、決済基盤「DG SPS」をCircleのブロックチェーン「Arc」に対応させた。これによりUSDC決済を追加開発なしで利用できる環境を整備し、JCBへの提供を開始するとともに、実店舗やEC での決済普及を目指す。"
+   },
+   "articles": [
+    {
+     "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結 - ｄメニューニュース",
+     "domain": "topics.smt.docomo.ne.jp",
+     "url": "https://topics.smt.docomo.ne.jp/amp/article/netshop_impress/trend/netshop_impress-netshop.impress.co.jp_node_17021",
+     "published_at": "2026-11-11 09:30:00",
+     "collected_at": "2026-11-12 04:31:51"
+    }
+   ]
+  },
+  {
    "event_id": "EVT-20261111-02",
    "burst_start_date": "2026-11-11",
    "first_collected_at": "2026-11-11 21:30:40",
-   "last_collected_at": "2026-11-11 21:30:40",
-   "article_count": 2,
+   "last_collected_at": "2026-11-12 04:31:51",
+   "article_count": 4,
    "tags": [
     "活用事例",
     "実証実験"
@@ -35,6 +64,56 @@
      "url": "https://voix.jp/business-cards/mit-jpyc-in-store-payment-launch/",
      "published_at": "2026-11-11 16:59:20",
      "collected_at": "2026-11-11 21:30:40"
+    },
+    {
+     "title": "大阪公立大でJPYC決済実証──学園祭では「おそらく初」とミアット（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/8109f7a3ebd4329e3c797ca32bfdb874d026a535",
+     "published_at": "2026-11-11 18:03:34",
+     "collected_at": "2026-11-12 04:31:51"
+    },
+    {
+     "title": "大阪公立大でJPYC決済実証──学園祭では「おそらく初」とミアット | NADA NEWS（ナダ・ニュース） - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/L5gOqXyuM5",
+     "published_at": "2026-11-11 18:03:34",
+     "collected_at": "2026-11-12 04:31:51"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261111-01",
+   "burst_start_date": "2026-11-11",
+   "first_collected_at": "2026-11-11 04:39:18",
+   "last_collected_at": "2026-11-12 04:31:51",
+   "article_count": 2,
+   "tags": [
+    "リスク・懸念",
+    "市場・統計",
+    "提携・連携"
+   ],
+   "tags_mode": "リスク・懸念",
+   "representative": {
+    "title": "銀行が日本でAPIを停止した後、JPYCは需要の増加を確認 - portalcripto.com.br",
+    "domain": "portalcripto.com.br",
+    "url": "https://portalcripto.com.br/ja/api-jpyc-2026-11-11-1333",
+    "published_at": "2026-11-11 00:00:00",
+    "summary": "GMOあおぞらネット銀行がAPI停止により発行・償還に影響を受けたJPYCは、この障害がブロックチェーン決済の需要を高める可能性があると主張している。JPYC CEOの岡部典孝は、パブリックブロックチェーン上での決済は銀行障害の影響を受けないと述べ、同時に発行1年で累計発行額100億円超に達したものの流通量は目標を下回っていると認めた。"
+   },
+   "articles": [
+    {
+     "title": "銀行が日本でAPIを停止した後、JPYCは需要の増加を確認 - portalcripto.com.br",
+     "domain": "portalcripto.com.br",
+     "url": "https://portalcripto.com.br/ja/api-jpyc-2026-11-11-1333",
+     "published_at": "2026-11-11 00:00:00",
+     "collected_at": "2026-11-12 04:31:51"
+    },
+    {
+     "title": "GMOあおぞらネット銀行、不正通信で銀行APIを再停止 Binance Japan・JPYC・freeeに影響 - 合同会社ロケットボーイズ",
+     "domain": "rocket-boys.co.jp",
+     "url": "https://rocket-boys.co.jp/security-measures-lab/gmo-aozora-bank-api-suspended-unauthorized-traffic/",
+     "published_at": "2026-11-11 01:32:40",
+     "collected_at": "2026-11-11 04:39:18"
     }
    ]
   },
@@ -72,34 +151,6 @@
      "url": "https://netshop.impress.co.jp/n/2026/11/11/17021",
      "published_at": "2026-11-11 00:00:00",
      "collected_at": "2026-11-11 21:30:40"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261111-01",
-   "burst_start_date": "2026-11-11",
-   "first_collected_at": "2026-11-11 04:39:18",
-   "last_collected_at": "2026-11-11 04:39:18",
-   "article_count": 1,
-   "tags": [
-    "リスク・懸念",
-    "市場・統計"
-   ],
-   "tags_mode": "リスク・懸念",
-   "representative": {
-    "title": "GMOあおぞらネット銀行、不正通信で銀行APIを再停止 Binance Japan・JPYC・freeeに影響 - 合同会社ロケットボーイズ",
-    "domain": "rocket-boys.co.jp",
-    "url": "https://rocket-boys.co.jp/security-measures-lab/gmo-aozora-bank-api-suspended-unauthorized-traffic/",
-    "published_at": "2026-11-11 01:32:40",
-    "summary": "GMOあおぞらネット銀行は2026年11月10日から11日にかけて、銀行API接続基盤への不正通信を検知し、APIサービスを二度停止した。Binance Japan・BitTrade・JPYC EX・freeeなどの複数サービスが日本円の入出金や発行・償還機能に一時的な影響を受けたが、各社は当夜のうちにサービスを再開している。"
-   },
-   "articles": [
-    {
-     "title": "GMOあおぞらネット銀行、不正通信で銀行APIを再停止 Binance Japan・JPYC・freeeに影響 - 合同会社ロケットボーイズ",
-     "domain": "rocket-boys.co.jp",
-     "url": "https://rocket-boys.co.jp/security-measures-lab/gmo-aozora-bank-api-suspended-unauthorized-traffic/",
-     "published_at": "2026-11-11 01:32:40",
-     "collected_at": "2026-11-11 04:39:18"
     }
    ]
   },
@@ -2199,86 +2250,6 @@
      "url": "https://www.sanyonews.jp/article/1954243?rct=prtimes_chushikoku&kw=%E7%A6%8F%E7%A5%88",
      "published_at": "2026-10-10 16:00:00",
      "collected_at": "2026-10-13 06:14:17"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20260928-01",
-   "burst_start_date": "2026-09-28",
-   "first_collected_at": "2026-10-01 14:46:17",
-   "last_collected_at": "2026-10-12 21:31:23",
-   "article_count": 8,
-   "tags": [
-    "取扱い・対応",
-    "市場・統計",
-    "競合・市場環境",
-    "制度・規制",
-    "リスク・懸念"
-   ],
-   "tags_mode": "取扱い・対応",
-   "representative": {
-    "title": "JPYC、仮想通貨取引所HTXに上場へ──アップビットに続きイーサリアム版のみ対応 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/jpyc-htx-20260928/",
-    "published_at": "2026-09-28 00:00:00",
-    "summary": "中国発の大手暗号資産取引所HTXが、日本円ステーブルコイン「JPYC」をイーサリアム版のみで上場すると発表した。日本時間28日22時からJPYC/USDTの現物取引とグリッド取引を提供開始する。これはアップビットに続く大手取引所での上場となる。"
-   },
-   "articles": [
-    {
-     "title": "JPYC、仮想通貨取引所HTXに上場へ──アップビットに続きイーサリアム版のみ対応 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/jpyc-htx-20260928/",
-     "published_at": "2026-09-28 00:00:00",
-     "collected_at": "2026-10-05 21:31:18"
-    },
-    {
-     "title": "JPYC、海外取引所HTX（旧Huobi）に上場(NADA NEWS) - Yahoo!ファイナンス",
-     "domain": "finance.yahoo.co.jp",
-     "url": "https://finance.yahoo.co.jp/news/detail/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
-     "published_at": "2026-09-28 16:00:00",
-     "collected_at": "2026-10-12 21:31:23"
-    },
-    {
-     "title": "JPYC、海外取引所HTX（旧Huobi）に上場（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/3352ccda75e874f4883b04b3b1fcfe0db2d68f8a",
-     "published_at": "2026-09-28 19:25:58",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "JPYC、海外取引所HTX（旧Huobi）に上場 - NADA NEWS",
-     "domain": "nadanews.com",
-     "url": "https://www.nadanews.com/369859/",
-     "published_at": "2026-09-28 19:25:58",
-     "collected_at": "2026-10-05 21:31:18"
-    },
-    {
-     "title": "韓国「仮想通貨マーケットメイク」解禁を検討｜JPYC急騰が契機に - bittimes.net",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/229496.html",
-     "published_at": "2026-09-29 06:41:55",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇 - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/611867",
-     "published_at": "2026-09-29 14:53:39",
-     "collected_at": "2026-10-02 21:31:20"
-    },
-    {
-     "title": "円ステーブルコイン「JPYC」がHTXに上場、取引開始直後に一時約2.4円へ上昇（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/8b563086c565aee43366fc4759a6f60ec18a3e19",
-     "published_at": "2026-09-29 14:57:41",
-     "collected_at": "2026-10-01 14:46:17"
-    },
-    {
-     "title": "【9/29話題】Bitcoin Japanがビットコイン初取得、シティがトークン化預金の送金サービスを日本に展開、JPYCがHTXに上場など（音声ニュース） - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/612076",
-     "published_at": "2026-09-29 21:39:05",
-     "collected_at": "2026-10-01 14:46:17"
     }
    ]
   }
