@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-12 21:31:35",
+ "generated_at": "2026-11-13 04:51:46",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,8 +7,8 @@
    "event_id": "EVT-20261111-02",
    "burst_start_date": "2026-11-11",
    "first_collected_at": "2026-11-11 21:30:40",
-   "last_collected_at": "2026-11-12 21:30:46",
-   "article_count": 6,
+   "last_collected_at": "2026-11-13 04:51:18",
+   "article_count": 8,
    "tags": [
     "活用事例",
     "実証実験"
@@ -63,6 +63,20 @@
      "url": "https://t.co/L5gOqXyuM5",
      "published_at": "2026-11-11 18:03:34",
      "collected_at": "2026-11-12 04:31:51"
+    },
+    {
+     "title": "カイア上のJPYC決済実証、大阪公立大の周辺飲食店で開始へ（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/c4e4e01771f8bfda26c7c29458c3b89eede9daad",
+     "published_at": "2026-11-12 18:16:11",
+     "collected_at": "2026-11-13 04:51:18"
+    },
+    {
+     "title": "大阪公立大発のミアット、円建てステーブルコイン「JPYC」決済を周辺店舗で実証へ - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/1cf189b0-972d-4ca5-8903-9f36028da08d",
+     "published_at": "2026-11-12 18:55:45",
+     "collected_at": "2026-11-13 04:51:18"
     }
    ]
   },
@@ -70,8 +84,8 @@
    "event_id": "EVT-20261111-01",
    "burst_start_date": "2026-11-11",
    "first_collected_at": "2026-11-11 04:39:18",
-   "last_collected_at": "2026-11-12 21:30:46",
-   "article_count": 6,
+   "last_collected_at": "2026-11-13 04:51:18",
+   "article_count": 7,
    "tags": [
     "市場・統計",
     "リスク・懸念",
@@ -100,6 +114,13 @@
      "url": "https://rocket-boys.co.jp/security-measures-lab/gmo-aozora-bank-api-suspended-unauthorized-traffic/",
      "published_at": "2026-11-11 01:32:40",
      "collected_at": "2026-11-11 04:39:18"
+    },
+    {
+     "title": "【今日の仮想通貨】銀行停止でもJPYCは使える？野村が仮想通貨子会社の売却検討か - CRYPTO TIMES",
+     "domain": "crypto-times.jp",
+     "url": "https://crypto-times.jp/news-crypto-update-20261112/",
+     "published_at": "2026-11-12 00:00:00",
+     "collected_at": "2026-11-13 04:51:18"
     },
     {
      "title": "JPYCの岡部氏がステーブルコインの重要性を主張、「銀行が停止しても使用は可能」 - CoinPost",
