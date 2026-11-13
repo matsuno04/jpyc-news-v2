@@ -1,8 +1,43 @@
 {
- "generated_at": "2026-11-13 21:31:14",
+ "generated_at": "2026-11-14 04:35:52",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261113-02",
+   "burst_start_date": "2026-11-13",
+   "first_collected_at": "2026-11-14 04:35:29",
+   "last_collected_at": "2026-11-14 04:35:29",
+   "article_count": 2,
+   "tags": [
+    "市場・統計",
+    "発行・資金"
+   ],
+   "tags_mode": "市場・統計",
+   "representative": {
+    "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算（NADA NEWS） - Yahoo!ニュース",
+    "domain": "news.yahoo.co.jp",
+    "url": "https://news.yahoo.co.jp/articles/170cbaf24024f657c5a91147cd1deb4cec870c9e",
+    "published_at": "2026-11-13 17:20:39",
+    "summary": "アステリアは2027年3月期第2四半期の決算短信で、9月末時点の現金及び現金同等物36億9900万円のうち、約3億円がJPYCで構成されていたことを明らかにした。円建てステーブルコインが上場企業の「現金及び現金同等物」に含まれた具体例として注目される。"
+   },
+   "articles": [
+    {
+     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/170cbaf24024f657c5a91147cd1deb4cec870c9e",
+     "published_at": "2026-11-13 17:20:39",
+     "collected_at": "2026-11-14 04:35:29"
+    },
+    {
+     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算 - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/1dy7RepG7W",
+     "published_at": "2026-11-13 17:20:39",
+     "collected_at": "2026-11-14 04:35:29"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261113-01",
    "burst_start_date": "2026-11-13",
