@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14 04:35:52",
+ "generated_at": "2026-11-14 21:31:23",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,11 +7,12 @@
    "event_id": "EVT-20261113-02",
    "burst_start_date": "2026-11-13",
    "first_collected_at": "2026-11-14 04:35:29",
-   "last_collected_at": "2026-11-14 04:35:29",
-   "article_count": 2,
+   "last_collected_at": "2026-11-14 21:30:58",
+   "article_count": 5,
    "tags": [
     "市場・統計",
-    "発行・資金"
+    "発行・資金",
+    "提携・連携"
    ],
    "tags_mode": "市場・統計",
    "representative": {
@@ -35,6 +36,27 @@
      "url": "https://t.co/1dy7RepG7W",
      "published_at": "2026-11-13 17:20:39",
      "collected_at": "2026-11-14 04:35:29"
+    },
+    {
+     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/391313/",
+     "published_at": "2026-11-13 17:20:39",
+     "collected_at": "2026-11-14 21:30:58"
+    },
+    {
+     "title": "アステリア、9月末にJPYCを2.99億円保有──流通量の約8％に相当 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/asteria-jpyc-20261114/",
+     "published_at": "2026-11-14 00:00:00",
+     "collected_at": "2026-11-14 21:30:58"
+    },
+    {
+     "title": "東証上場アステリア、約3億円分のJPYCを現金同等物で保有 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=747923",
+     "published_at": "2026-11-14 06:40:11",
+     "collected_at": "2026-11-14 21:30:58"
     }
    ]
   },
