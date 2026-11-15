@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-14 21:31:23",
+ "generated_at": "2026-11-15 21:30:59",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -2357,34 +2357,6 @@
      "url": "https://jbpress.ismedia.jp/articles/-/97522?page=3",
      "published_at": "2026-10-16 06:00:00",
      "collected_at": "2026-10-17 21:30:45"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261015-01",
-   "burst_start_date": "2026-10-15",
-   "first_collected_at": "2026-10-16 21:30:52",
-   "last_collected_at": "2026-10-16 21:30:52",
-   "article_count": 1,
-   "tags": [
-    "活用事例",
-    "発行・資金"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "円連動目標「JPYdf」発行の「JPY DeFi」、イーサリアムでメインネット公開 - あたらしい経済",
-    "domain": "neweconomy.jp",
-    "url": "https://www.neweconomy.jp/posts/617065",
-    "published_at": "2026-10-15 17:19:15",
-    "summary": "デルタフォーサイトが設計・開発したDeFiプロトコル「JPY DeFi」がイーサリアムメインネットで公開された。wstETHとUSDCを担保にして、日本円との価値連動を目標とする暗号資産型ステーブルコイン「JPYdf」を借り入れられるプロトコルで、過剰担保の仕組みを採用している。同社は9月25日に資金調達を発表しており、調達資金は開発やセキュリティ監査、運用体制整備に充てられる。"
-   },
-   "articles": [
-    {
-     "title": "円連動目標「JPYdf」発行の「JPY DeFi」、イーサリアムでメインネット公開 - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/617065",
-     "published_at": "2026-10-15 17:19:15",
-     "collected_at": "2026-10-16 21:30:52"
     }
    ]
   }
