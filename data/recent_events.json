@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-15 21:30:59",
+ "generated_at": "2026-11-16 21:31:27",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,12 +7,13 @@
    "event_id": "EVT-20261113-02",
    "burst_start_date": "2026-11-13",
    "first_collected_at": "2026-11-14 04:35:29",
-   "last_collected_at": "2026-11-14 21:30:58",
-   "article_count": 5,
+   "last_collected_at": "2026-11-16 21:31:03",
+   "article_count": 6,
    "tags": [
     "市場・統計",
     "発行・資金",
-    "提携・連携"
+    "提携・連携",
+    "取扱い・対応"
    ],
    "tags_mode": "市場・統計",
    "representative": {
@@ -57,6 +58,197 @@
      "url": "https://coinpost.jp/?p=747923",
      "published_at": "2026-11-14 06:40:11",
      "collected_at": "2026-11-14 21:30:58"
+    },
+    {
+     "title": "東証上場アステリア、約3億円分のJPYCを現金同等物に計上（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/468453fe2ca5ee70a3006506dce27eabd2c87d6c",
+     "published_at": "2026-11-16 15:56:11",
+     "collected_at": "2026-11-16 21:31:03"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261029-02",
+   "burst_start_date": "2026-10-29",
+   "first_collected_at": "2026-10-29 21:31:38",
+   "last_collected_at": "2026-11-16 21:31:03",
+   "article_count": 23,
+   "tags": [
+    "活用事例",
+    "提携・連携",
+    "取扱い・対応",
+    "制度・規制"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "訪日客の免税還付、JPYCで受け取り可能に──日本免税が11月1日開始 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/japan-taxfree-jpyc-20261029/",
+    "published_at": "2026-10-29 00:00:00",
+    "summary": "訪日外国人旅行者が消費税の還付金をJPYCで受け取れるサービスが、日本免税とUPBONDにより11月1日に開始される。UPBONDが提供するウォレットを通じて、アバランチ上でJPYCでの還付を受け取ることが可能になり、受け取ったJPYCをUSDCなどの外貨建てステーボルコインに交換することもできる。"
+   },
+   "articles": [
+    {
+     "title": "訪日客の免税還付、JPYCで受け取り可能に──日本免税が11月1日開始 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/japan-taxfree-jpyc-20261029/",
+     "published_at": "2026-10-29 00:00:00",
+     "collected_at": "2026-10-30 03:25:19"
+    },
+    {
+     "title": "訪日客の免税還付にJPYCを導入、UPBONDが11月から - 日本経済新聞",
+     "domain": "nikkei.com",
+     "url": "https://www.nikkei.com/article/DGXZQOUB27C7R0X21C26A0000000/",
+     "published_at": "2026-10-29 05:00:00",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "訪日客の免税還付に「JPYC」導入、カード返金不要の新モデルが11月始動 - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/231865.html",
+     "published_at": "2026-10-29 10:59:35",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "日本免税、UPBONDと共に円建てステーブルコイン「JPYC」での免税還付の受け取りに対応 (2026年10月29日掲載) - ライブドアニュース",
+     "domain": "news.livedoor.com",
+     "url": "https://news.livedoor.com/pr_topics/detail/32717718/",
+     "published_at": "2026-10-29 11:30:00",
+     "collected_at": "2026-11-09 02:53:47"
+    },
+    {
+     "title": "日本免税、UPBONDと共に円建てステーブルコイン「JPYC」による免税還付を実用化 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000006.000151022.html",
+     "published_at": "2026-10-29 11:30:02",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "UPBOND、日本免税と共に円建てステーブルコイン「JPYC」による免税還付を実用化 - PR TIMES",
+     "domain": "prtimes.jp",
+     "url": "https://prtimes.jp/main/html/rd/p/000000081.000065959.html",
+     "published_at": "2026-10-29 11:30:02",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "UPBOND、日本免税と連携し円建てステーブルコイン「JPYC」での免税還付を実現 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34309/",
+     "published_at": "2026-10-29 14:35:13",
+     "collected_at": "2026-10-30 21:31:32"
+    },
+    {
+     "title": "UPBOND、日本免税と連携し円建てステーブルコイン「JPYC」での免税還付を実現 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/money/cryptocurrency/34309/",
+     "published_at": "2026-10-29 14:35:13",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "日本免税、JPYCで訪日客に免税還付 制度移行の11月1日開始 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=745397",
+     "published_at": "2026-10-29 15:37:25",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "日本免税、JPYCを活用した円建てステーブルコインによる新しい免税還付サービスの開始 - ニュースメディアVOIX",
+     "domain": "voix.jp",
+     "url": "https://voix.jp/business-cards/new-tax-refund-service-jpyc/",
+     "published_at": "2026-10-29 15:55:05",
+     "collected_at": "2026-10-29 21:31:38"
+    },
+    {
+     "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始(NADA NEWS) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/bba7ae1987e2362e1f5c07672c8fddf2c98ab9fb",
+     "published_at": "2026-10-29 16:00:00",
+     "collected_at": "2026-11-09 02:53:47"
+    },
+    {
+     "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用 - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/621976",
+     "published_at": "2026-10-29 16:03:49",
+     "collected_at": "2026-10-30 21:31:32"
+    },
+    {
+     "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d37026bb8fc7fcf0f5566e1aa20bb51fc5710f54",
+     "published_at": "2026-10-29 16:06:14",
+     "collected_at": "2026-10-30 03:25:19"
+    },
+    {
+     "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/bba7ae1987e2362e1f5c07672c8fddf2c98ab9fb",
+     "published_at": "2026-10-29 17:00:04",
+     "collected_at": "2026-10-30 03:25:19"
+    },
+    {
+     "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始 | NADA NEWS（ナダ・ニュース） - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/6yLqI9ndiY",
+     "published_at": "2026-10-29 17:00:04",
+     "collected_at": "2026-10-30 03:25:19"
+    },
+    {
+     "title": "訪日客の免税還付、11月からJPYC受け取り開始 日本免税がAvalanche基盤で - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/31d21366-db96-4e4d-9997-d12d455f41bd",
+     "published_at": "2026-10-29 19:25:49",
+     "collected_at": "2026-10-30 03:25:19"
+    },
+    {
+     "title": "【10/29話題】グーグルクラウドの金融機関向け暗号資産カストディ基盤「MPC」、DTCCが証券トークン化サービス開始、JPYCによる免税還付11/1開始など（音声ニュース） - あたらしい経済",
+     "domain": "neweconomy.jp",
+     "url": "https://www.neweconomy.jp/posts/622038",
+     "published_at": "2026-10-29 21:35:03",
+     "collected_at": "2026-10-30 21:31:32"
+    },
+    {
+     "title": "UPBOND、日本免税と共に円建てステーブルコイン「JPYC」による免税還付を実用化 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/prtimes_000000081_000065959/",
+     "published_at": "2026-10-30 00:10:02",
+     "collected_at": "2026-11-01 02:14:04"
+    },
+    {
+     "title": "日本免税、UPBONDと共に円建てステーブルコイン「JPYC」での免税還付の受け取りに対応 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/prtimes_000000006_000151022/",
+     "published_at": "2026-11-01 16:15:47",
+     "collected_at": "2026-11-03 06:40:43"
+    },
+    {
+     "title": "日本免税、UPBONDと共に円建てステーブルコイン「JPYC」での免税還付の受け取りに対応 - 時事ドットコム",
+     "domain": "jiji.com",
+     "url": "https://www.jiji.com/jc/article?k=000000006.000151022&g=prt",
+     "published_at": "2026-11-03 06:40:00",
+     "collected_at": "2026-11-16 21:31:03"
+    },
+    {
+     "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了 - Infoseek",
+     "domain": "news.infoseek.co.jp",
+     "url": "https://news.infoseek.co.jp/article/tvasahi_900203425/",
+     "published_at": "2026-11-04 11:48:00",
+     "collected_at": "2026-11-04 21:31:05"
+    },
+    {
+     "title": "日本免税、新免税制度の還付にJPYC導入 送金コスト低減と安全性両立へ - 訪日ラボ",
+     "domain": "honichi.com",
+     "url": "https://honichi.com/news/2026/11/06/tax-refund-jpyc/",
+     "published_at": "2026-11-06 00:00:00",
+     "collected_at": "2026-11-06 21:31:07"
+    },
+    {
+     "title": "UPBONDと日本免税、JPYCによる免税還付サービスを2026年11月1日に開始へ - Dellows News",
+     "domain": "news.dellows.jp",
+     "url": "https://news.dellows.jp/946538/",
+     "published_at": "2026-11-09 14:48:45",
+     "collected_at": "2026-11-09 21:31:13"
     }
    ]
   },
@@ -529,183 +721,6 @@
      "domain": "news.dellows.jp",
      "url": "https://news.dellows.jp/808721/",
      "published_at": "2026-11-09 11:40:16",
-     "collected_at": "2026-11-09 21:31:13"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261029-02",
-   "burst_start_date": "2026-10-29",
-   "first_collected_at": "2026-10-29 21:31:38",
-   "last_collected_at": "2026-11-09 21:31:13",
-   "article_count": 22,
-   "tags": [
-    "活用事例",
-    "提携・連携",
-    "取扱い・対応",
-    "制度・規制"
-   ],
-   "tags_mode": "活用事例",
-   "representative": {
-    "title": "訪日客の免税還付、JPYCで受け取り可能に──日本免税が11月1日開始 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/japan-taxfree-jpyc-20261029/",
-    "published_at": "2026-10-29 00:00:00",
-    "summary": "訪日外国人旅行者が消費税の還付金をJPYCで受け取れるサービスが、日本免税とUPBONDにより11月1日に開始される。UPBONDが提供するウォレットを通じて、アバランチ上でJPYCでの還付を受け取ることが可能になり、受け取ったJPYCをUSDCなどの外貨建てステーボルコインに交換することもできる。"
-   },
-   "articles": [
-    {
-     "title": "訪日客の免税還付、JPYCで受け取り可能に──日本免税が11月1日開始 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/japan-taxfree-jpyc-20261029/",
-     "published_at": "2026-10-29 00:00:00",
-     "collected_at": "2026-10-30 03:25:19"
-    },
-    {
-     "title": "訪日客の免税還付にJPYCを導入、UPBONDが11月から - 日本経済新聞",
-     "domain": "nikkei.com",
-     "url": "https://www.nikkei.com/article/DGXZQOUB27C7R0X21C26A0000000/",
-     "published_at": "2026-10-29 05:00:00",
-     "collected_at": "2026-10-29 21:31:38"
-    },
-    {
-     "title": "訪日客の免税還付に「JPYC」導入、カード返金不要の新モデルが11月始動 - BitTimes",
-     "domain": "bittimes.net",
-     "url": "https://bittimes.net/news/231865.html",
-     "published_at": "2026-10-29 10:59:35",
-     "collected_at": "2026-10-29 21:31:38"
-    },
-    {
-     "title": "日本免税、UPBONDと共に円建てステーブルコイン「JPYC」での免税還付の受け取りに対応 (2026年10月29日掲載) - ライブドアニュース",
-     "domain": "news.livedoor.com",
-     "url": "https://news.livedoor.com/pr_topics/detail/32717718/",
-     "published_at": "2026-10-29 11:30:00",
-     "collected_at": "2026-11-09 02:53:47"
-    },
-    {
-     "title": "日本免税、UPBONDと共に円建てステーブルコイン「JPYC」による免税還付を実用化 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000006.000151022.html",
-     "published_at": "2026-10-29 11:30:02",
-     "collected_at": "2026-10-29 21:31:38"
-    },
-    {
-     "title": "UPBOND、日本免税と共に円建てステーブルコイン「JPYC」による免税還付を実用化 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000081.000065959.html",
-     "published_at": "2026-10-29 11:30:02",
-     "collected_at": "2026-10-29 21:31:38"
-    },
-    {
-     "title": "UPBOND、日本免税と連携し円建てステーブルコイン「JPYC」での免税還付を実現 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/card/34309/",
-     "published_at": "2026-10-29 14:35:13",
-     "collected_at": "2026-10-30 21:31:32"
-    },
-    {
-     "title": "UPBOND、日本免税と連携し円建てステーブルコイン「JPYC」での免税還付を実現 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/money/cryptocurrency/34309/",
-     "published_at": "2026-10-29 14:35:13",
-     "collected_at": "2026-10-29 21:31:38"
-    },
-    {
-     "title": "日本免税、JPYCで訪日客に免税還付 制度移行の11月1日開始 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=745397",
-     "published_at": "2026-10-29 15:37:25",
-     "collected_at": "2026-10-29 21:31:38"
-    },
-    {
-     "title": "日本免税、JPYCを活用した円建てステーブルコインによる新しい免税還付サービスの開始 - ニュースメディアVOIX",
-     "domain": "voix.jp",
-     "url": "https://voix.jp/business-cards/new-tax-refund-service-jpyc/",
-     "published_at": "2026-10-29 15:55:05",
-     "collected_at": "2026-10-29 21:31:38"
-    },
-    {
-     "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始(NADA NEWS) - Yahoo!ファイナンス",
-     "domain": "finance.yahoo.co.jp",
-     "url": "https://finance.yahoo.co.jp/news/detail/bba7ae1987e2362e1f5c07672c8fddf2c98ab9fb",
-     "published_at": "2026-10-29 16:00:00",
-     "collected_at": "2026-11-09 02:53:47"
-    },
-    {
-     "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用 - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/621976",
-     "published_at": "2026-10-29 16:03:49",
-     "collected_at": "2026-10-30 21:31:32"
-    },
-    {
-     "title": "日本免税とUPBOND、JPYCによる免税還付を11/1開始へ。アバランチ活用（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/d37026bb8fc7fcf0f5566e1aa20bb51fc5710f54",
-     "published_at": "2026-10-29 16:06:14",
-     "collected_at": "2026-10-30 03:25:19"
-    },
-    {
-     "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/bba7ae1987e2362e1f5c07672c8fddf2c98ab9fb",
-     "published_at": "2026-10-29 17:00:04",
-     "collected_at": "2026-10-30 03:25:19"
-    },
-    {
-     "title": "訪日客の免税還付金、JPYCで受け取り可能に──日本免税が11月より開始 | NADA NEWS（ナダ・ニュース） - Howl.Link",
-     "domain": "t.co",
-     "url": "https://t.co/6yLqI9ndiY",
-     "published_at": "2026-10-29 17:00:04",
-     "collected_at": "2026-10-30 03:25:19"
-    },
-    {
-     "title": "訪日客の免税還付、11月からJPYC受け取り開始 日本免税がAvalanche基盤で - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/news/31d21366-db96-4e4d-9997-d12d455f41bd",
-     "published_at": "2026-10-29 19:25:49",
-     "collected_at": "2026-10-30 03:25:19"
-    },
-    {
-     "title": "【10/29話題】グーグルクラウドの金融機関向け暗号資産カストディ基盤「MPC」、DTCCが証券トークン化サービス開始、JPYCによる免税還付11/1開始など（音声ニュース） - あたらしい経済",
-     "domain": "neweconomy.jp",
-     "url": "https://www.neweconomy.jp/posts/622038",
-     "published_at": "2026-10-29 21:35:03",
-     "collected_at": "2026-10-30 21:31:32"
-    },
-    {
-     "title": "UPBOND、日本免税と共に円建てステーブルコイン「JPYC」による免税還付を実用化 - Infoseek",
-     "domain": "news.infoseek.co.jp",
-     "url": "https://news.infoseek.co.jp/article/prtimes_000000081_000065959/",
-     "published_at": "2026-10-30 00:10:02",
-     "collected_at": "2026-11-01 02:14:04"
-    },
-    {
-     "title": "日本免税、UPBONDと共に円建てステーブルコイン「JPYC」での免税還付の受け取りに対応 - Infoseek",
-     "domain": "news.infoseek.co.jp",
-     "url": "https://news.infoseek.co.jp/article/prtimes_000000006_000151022/",
-     "published_at": "2026-11-01 16:15:47",
-     "collected_at": "2026-11-03 06:40:43"
-    },
-    {
-     "title": "外国人への免税分還付に「デジタル日本円」活用検討 送金手続き数秒で完了 - Infoseek",
-     "domain": "news.infoseek.co.jp",
-     "url": "https://news.infoseek.co.jp/article/tvasahi_900203425/",
-     "published_at": "2026-11-04 11:48:00",
-     "collected_at": "2026-11-04 21:31:05"
-    },
-    {
-     "title": "日本免税、新免税制度の還付にJPYC導入 送金コスト低減と安全性両立へ - 訪日ラボ",
-     "domain": "honichi.com",
-     "url": "https://honichi.com/news/2026/11/06/tax-refund-jpyc/",
-     "published_at": "2026-11-06 00:00:00",
-     "collected_at": "2026-11-06 21:31:07"
-    },
-    {
-     "title": "UPBONDと日本免税、JPYCによる免税還付サービスを2026年11月1日に開始へ - Dellows News",
-     "domain": "news.dellows.jp",
-     "url": "https://news.dellows.jp/946538/",
-     "published_at": "2026-11-09 14:48:45",
      "collected_at": "2026-11-09 21:31:13"
     }
    ]
@@ -2320,43 +2335,6 @@
      "url": "https://jinacoin.ne.jp/mizuho-mitsubishi-mitsui-stablecoin-20261017/",
      "published_at": "2026-10-17 00:00:00",
      "collected_at": "2026-10-18 21:30:47"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261016-02",
-   "burst_start_date": "2026-10-16",
-   "first_collected_at": "2026-10-16 21:30:52",
-   "last_collected_at": "2026-10-17 21:30:45",
-   "article_count": 2,
-   "tags": [
-    "市場・統計",
-    "解説・論説",
-    "競合・市場環境",
-    "活用事例"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "韓国人もスマホで「円」を持つ時代に、取引が本格化する「JPYC」、インフレや通貨安への備えが変える通貨の国境 【安木レポート】韓国で始まった円連動型ステーブルコイン「JPYC」、アルゼンチンで米ドルを保有するのと同じ発想か(1/5) - JBpress",
-    "domain": "jbpress.ismedia.jp",
-    "url": "https://jbpress.ismedia.jp/articles/-/97522",
-    "published_at": "2026-10-16 06:00:00",
-    "summary": "記事は、インフレや通貨危機を経験した国々が資産保全手段としてハードカレンシーを保有する傾向を背景に、2026年に韓国で日本円連動型ステーブルコイン「JPYC」の取引が本格化し、現金では困難だった国境を越えた利用が可能になったことを論じている。ステーブルコインにより、日本円が現金の制約を超えてデジタルな形で国際的に利用される新たな局面を迎えることが指摘されている。"
-   },
-   "articles": [
-    {
-     "title": "韓国人もスマホで「円」を持つ時代に、取引が本格化する「JPYC」、インフレや通貨安への備えが変える通貨の国境 【安木レポート】韓国で始まった円連動型ステーブルコイン「JPYC」、アルゼンチンで米ドルを保有するのと同じ発想か(1/5) - JBpress",
-     "domain": "jbpress.ismedia.jp",
-     "url": "https://jbpress.ismedia.jp/articles/-/97522",
-     "published_at": "2026-10-16 06:00:00",
-     "collected_at": "2026-10-16 21:30:52"
-    },
-    {
-     "title": "韓国人もスマホで「円」を持つ時代に、取引が本格化する「JPYC」、インフレや通貨安への備えが変える通貨の国境 【安木レポート】韓国で始まった円連動型ステーブルコイン「JPYC」、アルゼンチンで米ドルを保有するのと同じ発想か(3/5) - JBpress",
-     "domain": "jbpress.ismedia.jp",
-     "url": "https://jbpress.ismedia.jp/articles/-/97522?page=3",
-     "published_at": "2026-10-16 06:00:00",
-     "collected_at": "2026-10-17 21:30:45"
     }
    ]
   }
