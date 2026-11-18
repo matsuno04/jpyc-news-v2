@@ -1,8 +1,50 @@
 {
- "generated_at": "2026-11-18 21:31:18",
+ "generated_at": "2026-11-19 05:25:40",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261118-01",
+   "burst_start_date": "2026-11-18",
+   "first_collected_at": "2026-11-19 05:25:06",
+   "last_collected_at": "2026-11-19 05:25:06",
+   "article_count": 3,
+   "tags": [
+    "リスク・懸念",
+    "市場・統計"
+   ],
+   "tags_mode": "リスク・懸念",
+   "representative": {
+    "title": "JPYC、「JPYC apps」の停止が長期化──再開時期は未定 - JinaCoin",
+    "domain": "jinacoin.ne.jp",
+    "url": "https://jinacoin.ne.jp/jpyc-apps-20261118/",
+    "published_at": "2026-11-18 00:00:00",
+    "summary": "JPYC株式会社は18日、ギフト券購入サービス「JPYC apps」の臨時メンテナンスによる停止が長期化していることを発表した。サービス再開時期は未定で、旧JPYCである「JPYC Prepaid」の保有者はギフト券購入ができない状況が続いている。一方、資金移動業型の「JPYC EX」は通常稼働している。"
+   },
+   "articles": [
+    {
+     "title": "JPYC、「JPYC apps」の停止が長期化──再開時期は未定 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/jpyc-apps-20261118/",
+     "published_at": "2026-11-18 00:00:00",
+     "collected_at": "2026-11-19 05:25:06"
+    },
+    {
+     "title": "JPYC、日本でアプリを無期限停止 - portalcripto.com.br",
+     "domain": "portalcripto.com.br",
+     "url": "https://portalcripto.com.br/ja/jpyc-2026-11-18-1250",
+     "published_at": "2026-11-18 00:00:00",
+     "collected_at": "2026-11-19 05:25:06"
+    },
+    {
+     "title": "日本初の円建てステーブルコイン発行体JPYC、アプリを無期限停止 再開時期は未定 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/2fff81fc-cca1-48cf-8472-c5a0e72d16d0",
+     "published_at": "2026-11-18 22:05:39",
+     "collected_at": "2026-11-19 05:25:06"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261113-02",
    "burst_start_date": "2026-11-13",
