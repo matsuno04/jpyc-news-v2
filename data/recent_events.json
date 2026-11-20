@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20 21:31:33",
+ "generated_at": "2026-11-21 05:02:21",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,12 +7,12 @@
    "event_id": "EVT-20261119-01",
    "burst_start_date": "2026-11-19",
    "first_collected_at": "2026-11-19 21:30:55",
-   "last_collected_at": "2026-11-20 21:31:00",
-   "article_count": 7,
+   "last_collected_at": "2026-11-21 05:01:56",
+   "article_count": 9,
    "tags": [
     "活用事例",
-    "実証実験",
     "取扱い・対応",
+    "実証実験",
     "提携・連携"
    ],
    "tags_mode": "活用事例",
@@ -67,11 +67,25 @@
      "collected_at": "2026-11-20 21:31:00"
     },
     {
+     "title": "通販会社『日本直販』、自社ECにJPYC決済を試験導入 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=748901",
+     "published_at": "2026-11-20 13:10:46",
+     "collected_at": "2026-11-21 05:01:56"
+    },
+    {
      "title": "日本直販、通販サイトでステーブルコイン決済を試験導入。ポリゴン上の「JPYC」に対応（あたらしい経済） - Yahoo!ニュース",
      "domain": "news.yahoo.co.jp",
      "url": "https://news.yahoo.co.jp/articles/d6153f66e86266a9419dccd63c648393ed4c8f87",
      "published_at": "2026-11-20 15:05:50",
      "collected_at": "2026-11-20 21:31:00"
+    },
+    {
+     "title": "通販会社『日本直販』、自社ECにJPYC決済を試験導入 - Iolite（アイオライト）",
+     "domain": "iolite.net",
+     "url": "https://iolite.net/news/coinpost-748901",
+     "published_at": "2026-11-20 22:12:00",
+     "collected_at": "2026-11-21 05:01:56"
     }
    ]
   },
