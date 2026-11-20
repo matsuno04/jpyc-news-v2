@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-20 05:28:34",
+ "generated_at": "2026-11-20 21:31:33",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,8 +7,8 @@
    "event_id": "EVT-20261119-01",
    "burst_start_date": "2026-11-19",
    "first_collected_at": "2026-11-19 21:30:55",
-   "last_collected_at": "2026-11-20 05:28:06",
-   "article_count": 4,
+   "last_collected_at": "2026-11-20 21:31:00",
+   "article_count": 7,
    "tags": [
     "活用事例",
     "実証実験",
@@ -48,9 +48,30 @@
     {
      "title": "日本直販がJPYCを利用した新しいトークン決済をECサイトに導入し、未来の決済体験を実現 - ニュースメディアVOIX",
      "domain": "voix.jp",
+     "url": "https://voix.jp/money/card/34589/",
+     "published_at": "2026-11-19 19:56:00",
+     "collected_at": "2026-11-20 21:31:00"
+    },
+    {
+     "title": "日本直販がJPYCを利用した新しいトークン決済をECサイトに導入し、未来の決済体験を実現 - ニュースメディアVOIX",
+     "domain": "voix.jp",
      "url": "https://voix.jp/money/cryptocurrency/34589/",
      "published_at": "2026-11-19 19:56:00",
      "collected_at": "2026-11-20 05:28:06"
+    },
+    {
+     "title": "日本直販、ECサイトでJPYC決済開始「AYET実用化」へ布石 - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/233178.html",
+     "published_at": "2026-11-20 01:35:28",
+     "collected_at": "2026-11-20 21:31:00"
+    },
+    {
+     "title": "日本直販、通販サイトでステーブルコイン決済を試験導入。ポリゴン上の「JPYC」に対応（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/d6153f66e86266a9419dccd63c648393ed4c8f87",
+     "published_at": "2026-11-20 15:05:50",
+     "collected_at": "2026-11-20 21:31:00"
     }
    ]
   },
