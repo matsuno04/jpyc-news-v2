@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-22 21:31:40",
+ "generated_at": "2026-11-23 04:30:43",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -7,8 +7,8 @@
    "event_id": "EVT-20261119-01",
    "burst_start_date": "2026-11-19",
    "first_collected_at": "2026-11-19 21:30:55",
-   "last_collected_at": "2026-11-21 05:01:56",
-   "article_count": 9,
+   "last_collected_at": "2026-11-23 04:29:18",
+   "article_count": 10,
    "tags": [
     "活用事例",
     "取扱い・対応",
@@ -74,6 +74,13 @@
      "collected_at": "2026-11-21 05:01:56"
     },
     {
+     "title": "通販会社『日本直販』、自社ECにJPYC決済を試験導入(CoinPost) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/592a179a3cef7bc38f80fc6a93b0704382744355",
+     "published_at": "2026-11-20 13:10:46",
+     "collected_at": "2026-11-23 04:29:18"
+    },
+    {
      "title": "日本直販、通販サイトでステーブルコイン決済を試験導入。ポリゴン上の「JPYC」に対応（あたらしい経済） - Yahoo!ニュース",
      "domain": "news.yahoo.co.jp",
      "url": "https://news.yahoo.co.jp/articles/d6153f66e86266a9419dccd63c648393ed4c8f87",
@@ -86,6 +93,171 @@
      "url": "https://iolite.net/news/coinpost-748901",
      "published_at": "2026-11-20 22:12:00",
      "collected_at": "2026-11-21 05:01:56"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261113-02",
+   "burst_start_date": "2026-11-13",
+   "first_collected_at": "2026-11-14 04:35:29",
+   "last_collected_at": "2026-11-23 04:29:18",
+   "article_count": 7,
+   "tags": [
+    "発行・資金",
+    "市場・統計",
+    "提携・連携",
+    "取扱い・対応"
+   ],
+   "tags_mode": "発行・資金",
+   "representative": {
+    "title": "アステリア FY2026通期決算説明会 - BigGo ファイナンス",
+    "domain": "finance.biggo.jp",
+    "url": "https://finance.biggo.jp/quote/3853.T/earnings-call/JP_3853.T_2026-11-13",
+    "published_at": "2026-11-13 17:00:00",
+    "summary": "アステリアのFY2026通期決算説明会で、JPYC保有額が約3億円であり10億円の目標に向けて進行中であること、また累計発行額が100億円を超え120億円程度に達していることが説明された。同社はJPYCを現金同等物として外注先支払いなどに活用する方針を示した。"
+   },
+   "articles": [
+    {
+     "title": "アステリア FY2026通期決算説明会 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/quote/3853.T/earnings-call/JP_3853.T_2026-11-13",
+     "published_at": "2026-11-13 17:00:00",
+     "collected_at": "2026-11-23 04:29:18"
+    },
+    {
+     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/170cbaf24024f657c5a91147cd1deb4cec870c9e",
+     "published_at": "2026-11-13 17:20:39",
+     "collected_at": "2026-11-14 04:35:29"
+    },
+    {
+     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算 - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/1dy7RepG7W",
+     "published_at": "2026-11-13 17:20:39",
+     "collected_at": "2026-11-14 04:35:29"
+    },
+    {
+     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/391313/",
+     "published_at": "2026-11-13 17:20:39",
+     "collected_at": "2026-11-14 21:30:58"
+    },
+    {
+     "title": "アステリア、9月末にJPYCを2.99億円保有──流通量の約8％に相当 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/asteria-jpyc-20261114/",
+     "published_at": "2026-11-14 00:00:00",
+     "collected_at": "2026-11-14 21:30:58"
+    },
+    {
+     "title": "東証上場アステリア、約3億円分のJPYCを現金同等物で保有 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=747923",
+     "published_at": "2026-11-14 06:40:11",
+     "collected_at": "2026-11-14 21:30:58"
+    },
+    {
+     "title": "東証上場アステリア、約3億円分のJPYCを現金同等物に計上（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/468453fe2ca5ee70a3006506dce27eabd2c87d6c",
+     "published_at": "2026-11-16 15:56:11",
+     "collected_at": "2026-11-16 21:31:03"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261112-02",
+   "burst_start_date": "2026-11-12",
+   "first_collected_at": "2026-11-23 04:29:18",
+   "last_collected_at": "2026-11-23 04:29:18",
+   "article_count": 1,
+   "tags": [
+    "提携・連携",
+    "解説・論説"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "ステーブルコイン、トークン化預金、CBDC──「お金」はどう変わるのか - NADA NEWS",
+    "domain": "nadanews.com",
+    "url": "https://www.nadanews.com/390844/",
+    "published_at": "2026-11-12 11:00:00",
+    "summary": "JPYCを含む金融機関・企業が登壇する「NIKKEI・NADAデジタルアセットカンファレンス2026」が2026年11月20日に開催される。本カンファレンスでは、ステーブルコイン、トークン化預金、CBDCなどのデジタルマネーの役割の違いと、決済・金融インフラの未来について複数のセッションを通じて議論される。"
+   },
+   "articles": [
+    {
+     "title": "ステーブルコイン、トークン化預金、CBDC──「お金」はどう変わるのか - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/390844/",
+     "published_at": "2026-11-12 11:00:00",
+     "collected_at": "2026-11-23 04:29:18"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261112-01",
+   "burst_start_date": "2026-11-12",
+   "first_collected_at": "2026-11-23 04:29:18",
+   "last_collected_at": "2026-11-23 04:29:18",
+   "article_count": 1,
+   "tags": [
+    "実証実験",
+    "提携・連携",
+    "解説・論説"
+   ],
+   "tags_mode": "実証実験",
+   "representative": {
+    "title": "『ブロックチェーンが沖縄県の重点分野』。人々の役に立てる仕組みへ｜砂川惠一郎 - JIJICO",
+    "domain": "mbp-japan.com",
+    "url": "https://mbp-japan.com/okinawa/btckyokai/column/5243245/",
+    "published_at": "2026-11-12 00:00:00",
+    "summary": "沖縄県が令和9年度の重点テーマにブロックチェーンの実証支援を新たに盛り込み、観光や地域決済への活用を視野に入れていることが発表された。JPYCを使った決済手数料削減分を地域プロジェクトや住民へ還元する仕組みの構築について、JPYC株式会社の岡部典孝氏に取材した内容を、筆者が解説している。"
+   },
+   "articles": [
+    {
+     "title": "『ブロックチェーンが沖縄県の重点分野』。人々の役に立てる仕組みへ｜砂川惠一郎 - JIJICO",
+     "domain": "mbp-japan.com",
+     "url": "https://mbp-japan.com/okinawa/btckyokai/column/5243245/",
+     "published_at": "2026-11-12 00:00:00",
+     "collected_at": "2026-11-23 04:29:18"
+    }
+   ]
+  },
+  {
+   "event_id": "EVT-20261111-03",
+   "burst_start_date": "2026-11-11",
+   "first_collected_at": "2026-11-12 04:31:51",
+   "last_collected_at": "2026-11-23 04:29:18",
+   "article_count": 2,
+   "tags": [
+    "提携・連携",
+    "取扱い・対応",
+    "市場・統計"
+   ],
+   "tags_mode": "提携・連携",
+   "representative": {
+    "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結 - ｄメニューニュース",
+    "domain": "topics.smt.docomo.ne.jp",
+    "url": "https://topics.smt.docomo.ne.jp/amp/article/netshop_impress/trend/netshop_impress-netshop.impress.co.jp_node_17021",
+    "published_at": "2026-11-11 09:30:00",
+    "summary": "デジタルガレージは米Circle Internet Groupの関連会社と基本合意書を締結し、決済基盤「DG SPS」をCircleのブロックチェーン「Arc」に対応させた。これによりUSDC決済を追加開発なしで利用できる環境を整備し、JCBへの提供を開始するとともに、実店舗やEC での決済普及を目指す。"
+   },
+   "articles": [
+    {
+     "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結 - ｄメニューニュース",
+     "domain": "topics.smt.docomo.ne.jp",
+     "url": "https://topics.smt.docomo.ne.jp/amp/article/netshop_impress/trend/netshop_impress-netshop.impress.co.jp_node_17021",
+     "published_at": "2026-11-11 09:30:00",
+     "collected_at": "2026-11-12 04:31:51"
+    },
+    {
+     "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結 - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/893026652826e68d8c5adc9548b42f9871e0035c",
+     "published_at": "2026-11-11 17:31:04",
+     "collected_at": "2026-11-23 04:29:18"
     }
    ]
   },
@@ -128,71 +300,6 @@
      "url": "https://finance.biggo.jp/news/2fff81fc-cca1-48cf-8472-c5a0e72d16d0",
      "published_at": "2026-11-18 22:05:39",
      "collected_at": "2026-11-19 05:25:06"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261113-02",
-   "burst_start_date": "2026-11-13",
-   "first_collected_at": "2026-11-14 04:35:29",
-   "last_collected_at": "2026-11-16 21:31:03",
-   "article_count": 6,
-   "tags": [
-    "市場・統計",
-    "発行・資金",
-    "提携・連携",
-    "取扱い・対応"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算（NADA NEWS） - Yahoo!ニュース",
-    "domain": "news.yahoo.co.jp",
-    "url": "https://news.yahoo.co.jp/articles/170cbaf24024f657c5a91147cd1deb4cec870c9e",
-    "published_at": "2026-11-13 17:20:39",
-    "summary": "アステリアは2027年3月期第2四半期の決算短信で、9月末時点の現金及び現金同等物36億9900万円のうち、約3億円がJPYCで構成されていたことを明らかにした。円建てステーブルコインが上場企業の「現金及び現金同等物」に含まれた具体例として注目される。"
-   },
-   "articles": [
-    {
-     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/170cbaf24024f657c5a91147cd1deb4cec870c9e",
-     "published_at": "2026-11-13 17:20:39",
-     "collected_at": "2026-11-14 04:35:29"
-    },
-    {
-     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算 - Howl.Link",
-     "domain": "t.co",
-     "url": "https://t.co/1dy7RepG7W",
-     "published_at": "2026-11-13 17:20:39",
-     "collected_at": "2026-11-14 04:35:29"
-    },
-    {
-     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算 - NADA NEWS",
-     "domain": "nadanews.com",
-     "url": "https://www.nadanews.com/391313/",
-     "published_at": "2026-11-13 17:20:39",
-     "collected_at": "2026-11-14 21:30:58"
-    },
-    {
-     "title": "アステリア、9月末にJPYCを2.99億円保有──流通量の約8％に相当 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/asteria-jpyc-20261114/",
-     "published_at": "2026-11-14 00:00:00",
-     "collected_at": "2026-11-14 21:30:58"
-    },
-    {
-     "title": "東証上場アステリア、約3億円分のJPYCを現金同等物で保有 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=747923",
-     "published_at": "2026-11-14 06:40:11",
-     "collected_at": "2026-11-14 21:30:58"
-    },
-    {
-     "title": "東証上場アステリア、約3億円分のJPYCを現金同等物に計上（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/468453fe2ca5ee70a3006506dce27eabd2c87d6c",
-     "published_at": "2026-11-16 15:56:11",
-     "collected_at": "2026-11-16 21:31:03"
     }
    ]
   },
@@ -567,35 +674,6 @@
      "url": "https://iolite.net/news/coinpost-747532",
      "published_at": "2026-11-12 16:59:29",
      "collected_at": "2026-11-12 21:30:46"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261111-03",
-   "burst_start_date": "2026-11-11",
-   "first_collected_at": "2026-11-12 04:31:51",
-   "last_collected_at": "2026-11-12 04:31:51",
-   "article_count": 1,
-   "tags": [
-    "提携・連携",
-    "取扱い・対応",
-    "市場・統計"
-   ],
-   "tags_mode": "提携・連携",
-   "representative": {
-    "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結 - ｄメニューニュース",
-    "domain": "topics.smt.docomo.ne.jp",
-    "url": "https://topics.smt.docomo.ne.jp/amp/article/netshop_impress/trend/netshop_impress-netshop.impress.co.jp_node_17021",
-    "published_at": "2026-11-11 09:30:00",
-    "summary": "デジタルガレージは米Circle Internet Groupの関連会社と基本合意書を締結し、決済基盤「DG SPS」をCircleのブロックチェーン「Arc」に対応させた。これによりUSDC決済を追加開発なしで利用できる環境を整備し、JCBへの提供を開始するとともに、実店舗やEC での決済普及を目指す。"
-   },
-   "articles": [
-    {
-     "title": "デジタルガレージ、ステーブルコイン決済の普及・社会実装を加速。Circle関連会社と基本合意を締結 - ｄメニューニュース",
-     "domain": "topics.smt.docomo.ne.jp",
-     "url": "https://topics.smt.docomo.ne.jp/amp/article/netshop_impress/trend/netshop_impress-netshop.impress.co.jp_node_17021",
-     "published_at": "2026-11-11 09:30:00",
-     "collected_at": "2026-11-12 04:31:51"
     }
    ]
   },
@@ -1634,56 +1712,6 @@
      "url": "https://plus.luremaga.jp/2026/10/22/499194/",
      "published_at": "2026-10-22 00:00:00",
      "collected_at": "2026-10-25 21:31:10"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261022-02",
-   "burst_start_date": "2026-10-22",
-   "first_collected_at": "2026-10-22 21:31:07",
-   "last_collected_at": "2026-10-24 01:59:16",
-   "article_count": 4,
-   "tags": [
-    "解説・論説",
-    "活用事例",
-    "提携・連携"
-   ],
-   "tags_mode": "解説・論説",
-   "representative": {
-    "title": "Zept株式会社、JPYCによるサブスクリプション決済を自動化する「JP Stablecoin Subscription（JSS）」を開発 - PR TIMES",
-    "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000057.000153712.html",
-    "published_at": "2026-10-22 12:00:02",
-    "summary": "Zept株式会社がJPYCを活用したサブスクリプション決済支援サービス「JP Stablecoin Subscription（JSS）」を開発しました。JSSは、ユーザーのウォレットから事業者のウォレットへJPYCを直接送金するパススルー型の仕組みを採用し、初回登録により継続課金を自動化し、Webhook・APIによる既存システムとの連携を支援します。"
-   },
-   "articles": [
-    {
-     "title": "Zept株式会社、JPYCによるサブスクリプション決済を自動化する「JP Stablecoin Subscription（JSS）」を開発 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000057.000153712.html",
-     "published_at": "2026-10-22 12:00:02",
-     "collected_at": "2026-10-24 01:59:16"
-    },
-    {
-     "title": "「もう既存金融は長くない」JPYC代表が警鐘 金融機関への不正アクセス報道を受け - ASCII.jp",
-     "domain": "ascii.jp",
-     "url": "https://ascii.jp/elem/000/004/444/4444963/",
-     "published_at": "2026-10-22 14:55:00",
-     "collected_at": "2026-10-22 21:31:07"
-    },
-    {
-     "title": "「もう既存金融は長くない」JPYC代表が警鐘 金融機関への不正アクセス報道を受け - ASCII.jp",
-     "domain": "ascii.jp",
-     "url": "https://ascii.jp/elem/000/004/444/4444963/galleryimg.html?num=2&utm_source=yahoonews&utm_medium=feed&utm_campaign=4444963",
-     "published_at": "2026-10-22 14:55:00",
-     "collected_at": "2026-10-23 21:31:00"
-    },
-    {
-     "title": "「もう既存金融は長くない」JPYC代表が警鐘 金融機関への不正アクセス報道を受け (アスキー) - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/0eee3aa17dfe4eeac2c24b4b8850295566f044d0",
-     "published_at": "2026-10-22 14:55:00",
-     "collected_at": "2026-10-23 02:05:13"
     }
    ]
   }
