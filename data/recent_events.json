@@ -1,8 +1,87 @@
 {
- "generated_at": "2026-11-23 04:30:43",
+ "generated_at": "2026-11-23 21:31:02",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261113-02",
+   "burst_start_date": "2026-11-13",
+   "first_collected_at": "2026-11-14 04:35:29",
+   "last_collected_at": "2026-11-23 21:30:43",
+   "article_count": 8,
+   "tags": [
+    "発行・資金",
+    "市場・統計",
+    "提携・連携",
+    "取扱い・対応"
+   ],
+   "tags_mode": "発行・資金",
+   "representative": {
+    "title": "アステリア FY2026通期決算説明会 - BigGo ファイナンス",
+    "domain": "finance.biggo.jp",
+    "url": "https://finance.biggo.jp/quote/3853.T/earnings-call/JP_3853.T_2026-11-13",
+    "published_at": "2026-11-13 17:00:00",
+    "summary": "アステリアのFY2026通期決算説明会で、JPYC保有額が約3億円であり10億円の目標に向けて進行中であること、また累計発行額が100億円を超え120億円程度に達していることが説明された。同社はJPYCを現金同等物として外注先支払いなどに活用する方針を示した。"
+   },
+   "articles": [
+    {
+     "title": "アステリア FY2026通期決算説明会 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/quote/3853.T/earnings-call/JP_3853.T_2026-11-13",
+     "published_at": "2026-11-13 17:00:00",
+     "collected_at": "2026-11-23 04:29:18"
+    },
+    {
+     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算(NADA NEWS) - Yahoo!ファイナンス",
+     "domain": "finance.yahoo.co.jp",
+     "url": "https://finance.yahoo.co.jp/news/detail/170cbaf24024f657c5a91147cd1deb4cec870c9e",
+     "published_at": "2026-11-13 17:20:39",
+     "collected_at": "2026-11-23 21:30:43"
+    },
+    {
+     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算（NADA NEWS） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/170cbaf24024f657c5a91147cd1deb4cec870c9e",
+     "published_at": "2026-11-13 17:20:39",
+     "collected_at": "2026-11-14 04:35:29"
+    },
+    {
+     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算 - Howl.Link",
+     "domain": "t.co",
+     "url": "https://t.co/1dy7RepG7W",
+     "published_at": "2026-11-13 17:20:39",
+     "collected_at": "2026-11-14 04:35:29"
+    },
+    {
+     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算 - NADA NEWS",
+     "domain": "nadanews.com",
+     "url": "https://www.nadanews.com/391313/",
+     "published_at": "2026-11-13 17:20:39",
+     "collected_at": "2026-11-14 21:30:58"
+    },
+    {
+     "title": "アステリア、9月末にJPYCを2.99億円保有──流通量の約8％に相当 - JinaCoin",
+     "domain": "jinacoin.ne.jp",
+     "url": "https://jinacoin.ne.jp/asteria-jpyc-20261114/",
+     "published_at": "2026-11-14 00:00:00",
+     "collected_at": "2026-11-14 21:30:58"
+    },
+    {
+     "title": "東証上場アステリア、約3億円分のJPYCを現金同等物で保有 - CoinPost",
+     "domain": "coinpost.jp",
+     "url": "https://coinpost.jp/?p=747923",
+     "published_at": "2026-11-14 06:40:11",
+     "collected_at": "2026-11-14 21:30:58"
+    },
+    {
+     "title": "東証上場アステリア、約3億円分のJPYCを現金同等物に計上（あたらしい経済） - Yahoo!ニュース",
+     "domain": "news.yahoo.co.jp",
+     "url": "https://news.yahoo.co.jp/articles/468453fe2ca5ee70a3006506dce27eabd2c87d6c",
+     "published_at": "2026-11-16 15:56:11",
+     "collected_at": "2026-11-16 21:31:03"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261119-01",
    "burst_start_date": "2026-11-19",
@@ -93,78 +172,6 @@
      "url": "https://iolite.net/news/coinpost-748901",
      "published_at": "2026-11-20 22:12:00",
      "collected_at": "2026-11-21 05:01:56"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261113-02",
-   "burst_start_date": "2026-11-13",
-   "first_collected_at": "2026-11-14 04:35:29",
-   "last_collected_at": "2026-11-23 04:29:18",
-   "article_count": 7,
-   "tags": [
-    "発行・資金",
-    "市場・統計",
-    "提携・連携",
-    "取扱い・対応"
-   ],
-   "tags_mode": "発行・資金",
-   "representative": {
-    "title": "アステリア FY2026通期決算説明会 - BigGo ファイナンス",
-    "domain": "finance.biggo.jp",
-    "url": "https://finance.biggo.jp/quote/3853.T/earnings-call/JP_3853.T_2026-11-13",
-    "published_at": "2026-11-13 17:00:00",
-    "summary": "アステリアのFY2026通期決算説明会で、JPYC保有額が約3億円であり10億円の目標に向けて進行中であること、また累計発行額が100億円を超え120億円程度に達していることが説明された。同社はJPYCを現金同等物として外注先支払いなどに活用する方針を示した。"
-   },
-   "articles": [
-    {
-     "title": "アステリア FY2026通期決算説明会 - BigGo ファイナンス",
-     "domain": "finance.biggo.jp",
-     "url": "https://finance.biggo.jp/quote/3853.T/earnings-call/JP_3853.T_2026-11-13",
-     "published_at": "2026-11-13 17:00:00",
-     "collected_at": "2026-11-23 04:29:18"
-    },
-    {
-     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算（NADA NEWS） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/170cbaf24024f657c5a91147cd1deb4cec870c9e",
-     "published_at": "2026-11-13 17:20:39",
-     "collected_at": "2026-11-14 04:35:29"
-    },
-    {
-     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算 - Howl.Link",
-     "domain": "t.co",
-     "url": "https://t.co/1dy7RepG7W",
-     "published_at": "2026-11-13 17:20:39",
-     "collected_at": "2026-11-14 04:35:29"
-    },
-    {
-     "title": "JPYC約3億円を『現金及び現金同等物』に──アステリア中間決算 - NADA NEWS",
-     "domain": "nadanews.com",
-     "url": "https://www.nadanews.com/391313/",
-     "published_at": "2026-11-13 17:20:39",
-     "collected_at": "2026-11-14 21:30:58"
-    },
-    {
-     "title": "アステリア、9月末にJPYCを2.99億円保有──流通量の約8％に相当 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/asteria-jpyc-20261114/",
-     "published_at": "2026-11-14 00:00:00",
-     "collected_at": "2026-11-14 21:30:58"
-    },
-    {
-     "title": "東証上場アステリア、約3億円分のJPYCを現金同等物で保有 - CoinPost",
-     "domain": "coinpost.jp",
-     "url": "https://coinpost.jp/?p=747923",
-     "published_at": "2026-11-14 06:40:11",
-     "collected_at": "2026-11-14 21:30:58"
-    },
-    {
-     "title": "東証上場アステリア、約3億円分のJPYCを現金同等物に計上（あたらしい経済） - Yahoo!ニュース",
-     "domain": "news.yahoo.co.jp",
-     "url": "https://news.yahoo.co.jp/articles/468453fe2ca5ee70a3006506dce27eabd2c87d6c",
-     "published_at": "2026-11-16 15:56:11",
-     "collected_at": "2026-11-16 21:31:03"
     }
    ]
   },
