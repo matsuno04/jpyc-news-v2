@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25 21:32:15",
+ "generated_at": "2026-11-26 21:31:17",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
@@ -1517,62 +1517,6 @@
      "url": "https://coinpost.jp/?post_type=pressrelease&p=744989",
      "published_at": "2026-10-28 11:30:02",
      "collected_at": "2026-10-28 21:31:33"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261027-03",
-   "burst_start_date": "2026-10-27",
-   "first_collected_at": "2026-10-27 21:31:14",
-   "last_collected_at": "2026-10-27 21:31:14",
-   "article_count": 1,
-   "tags": [
-    "市場・統計",
-    "解説・論説"
-   ],
-   "tags_mode": "市場・統計",
-   "representative": {
-    "title": "ステーブルコインの認知度が大企業で42%超に！期待は「決済の速さ」や「送金手数料の安さ」、普及の鍵は「システム連携」 - PR TIMES",
-    "domain": "prtimes.jp",
-    "url": "https://prtimes.jp/main/html/rd/p/000000456.000010008.html",
-    "published_at": "2026-10-27 14:00:01",
-    "summary": "アステリア株式会社が企業の財務・会計・経理担当者8,000名以上を対象に実施したステーブルコイン認知度調査で、大企業における認知率が42.5%に達したことが判明。認知層の6割以上が送金速度や手数料削減などのメリットを評価する一方、導入には既存システムとの連携や安全な運用環境整備が課題となっていることが明らかになった。"
-   },
-   "articles": [
-    {
-     "title": "ステーブルコインの認知度が大企業で42%超に！期待は「決済の速さ」や「送金手数料の安さ」、普及の鍵は「システム連携」 - PR TIMES",
-     "domain": "prtimes.jp",
-     "url": "https://prtimes.jp/main/html/rd/p/000000456.000010008.html",
-     "published_at": "2026-10-27 14:00:01",
-     "collected_at": "2026-10-27 21:31:14"
-    }
-   ]
-  },
-  {
-   "event_id": "EVT-20261027-01",
-   "burst_start_date": "2026-10-27",
-   "first_collected_at": "2026-10-27 21:31:14",
-   "last_collected_at": "2026-10-27 21:31:14",
-   "article_count": 1,
-   "tags": [
-    "提携・連携",
-    "市場・統計"
-   ],
-   "tags_mode": "提携・連携",
-   "representative": {
-    "title": "ブラックロック、SBIの円ステーブルコインJPYSCとトークン化MMFの連携を検討 - JinaCoin",
-    "domain": "jinacoin.ne.jp",
-    "url": "https://jinacoin.ne.jp/sbi-blackrock-jpysc-20261027/",
-    "published_at": "2026-10-27 00:00:00",
-    "summary": "SBIホールディングスとStartale Groupは、米資産運用大手のブラックロックと、トークン化マネー・マーケット・ファンド（MMF）と円建てステーブルコインJPYSCの連携に向けた基本合意書を結んだ。3社は技術・インフラ、事業・販売、規制・市場整備の領域での連携可能性を検討する。JPYSCの発行残高は9月30日時点で約200億円。"
-   },
-   "articles": [
-    {
-     "title": "ブラックロック、SBIの円ステーブルコインJPYSCとトークン化MMFの連携を検討 - JinaCoin",
-     "domain": "jinacoin.ne.jp",
-     "url": "https://jinacoin.ne.jp/sbi-blackrock-jpysc-20261027/",
-     "published_at": "2026-10-27 00:00:00",
-     "collected_at": "2026-10-27 21:31:14"
     }
    ]
   }
