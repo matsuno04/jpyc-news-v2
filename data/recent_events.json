@@ -1,8 +1,37 @@
 {
- "generated_at": "2026-11-27 21:31:52",
+ "generated_at": "2026-11-28 06:07:09",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
+  {
+   "event_id": "EVT-20261127-01",
+   "burst_start_date": "2026-11-27",
+   "first_collected_at": "2026-11-28 06:06:43",
+   "last_collected_at": "2026-11-28 06:06:43",
+   "article_count": 1,
+   "tags": [
+    "制度・規制",
+    "競合・市場環境",
+    "リスク・懸念"
+   ],
+   "tags_mode": "制度・規制",
+   "representative": {
+    "title": "日銀・神山氏、円ステーブルコイン発行迫る中で償還ルールの安定性を強調 - BigGo ファイナンス",
+    "domain": "finance.biggo.jp",
+    "url": "https://finance.biggo.jp/news/633b1b4b-62e3-47ff-a633-189d36bcf980",
+    "published_at": "2026-11-27 22:55:41",
+    "summary": "日本銀行の神山理事は、円ステーブルコインの準備金・償還基準の策定を進めており、2027年3月の三大メガバンクのローンチに向けて中央銀行による監督体制を整備する方針を示した。この発表は、JPYCが提携銀行の不正アクセスを受けてアプリを無期限停止させた直後に行われ、ステーバルコインの準備金保有と償還スキームの脆弱性が改めて焦点となっている。"
+   },
+   "articles": [
+    {
+     "title": "日銀・神山氏、円ステーブルコイン発行迫る中で償還ルールの安定性を強調 - BigGo ファイナンス",
+     "domain": "finance.biggo.jp",
+     "url": "https://finance.biggo.jp/news/633b1b4b-62e3-47ff-a633-189d36bcf980",
+     "published_at": "2026-11-27 22:55:41",
+     "collected_at": "2026-11-28 06:06:43"
+    }
+   ]
+  },
   {
    "event_id": "EVT-20261119-01",
    "burst_start_date": "2026-11-19",
