@@ -1,28 +1,65 @@
 {
- "generated_at": "2026-11-28 06:07:09",
+ "generated_at": "2026-11-28 21:31:59",
  "window_days": 30,
  "timezone": "JST(+09:00)",
  "events": [
   {
+   "event_id": "EVT-20261128-01",
+   "burst_start_date": "2026-11-28",
+   "first_collected_at": "2026-11-28 21:31:33",
+   "last_collected_at": "2026-11-28 21:31:33",
+   "article_count": 1,
+   "tags": [
+    "活用事例",
+    "提携・連携"
+   ],
+   "tags_mode": "活用事例",
+   "representative": {
+    "title": "元素騎士「USDT・JPYC軸」の新体制に｜12月1日サービス正式再開 - BitTimes",
+    "domain": "bittimes.net",
+    "url": "https://bittimes.net/news/233751.html",
+    "published_at": "2026-11-28 06:23:02",
+    "summary": "ブロックチェーンゲーム「元素騎士オンライン」は12月1日にサービスを再開し、新運営体制では従来のMV・RONDトークンのゲーム内利用を終了し、USDTとJPYCを軸とした決済環境に移行する。NFTマーケットプレイスでの売買もUSDTとJPYCの2種類のステーブルコインに限定され、ゲーム内通貨として新ポイント「M」「R」が導入される。"
+   },
+   "articles": [
+    {
+     "title": "元素騎士「USDT・JPYC軸」の新体制に｜12月1日サービス正式再開 - BitTimes",
+     "domain": "bittimes.net",
+     "url": "https://bittimes.net/news/233751.html",
+     "published_at": "2026-11-28 06:23:02",
+     "collected_at": "2026-11-28 21:31:33"
+    }
+   ]
+  },
+  {
    "event_id": "EVT-20261127-01",
    "burst_start_date": "2026-11-27",
    "first_collected_at": "2026-11-28 06:06:43",
-   "last_collected_at": "2026-11-28 06:06:43",
-   "article_count": 1,
+   "last_collected_at": "2026-11-28 21:31:33",
+   "article_count": 2,
    "tags": [
     "制度・規制",
-    "競合・市場環境",
-    "リスク・懸念"
+    "リスク・懸念",
+    "市場・統計",
+    "解説・論説",
+    "競合・市場環境"
    ],
    "tags_mode": "制度・規制",
    "representative": {
-    "title": "日銀・神山氏、円ステーブルコイン発行迫る中で償還ルールの安定性を強調 - BigGo ファイナンス",
-    "domain": "finance.biggo.jp",
-    "url": "https://finance.biggo.jp/news/633b1b4b-62e3-47ff-a633-189d36bcf980",
-    "published_at": "2026-11-27 22:55:41",
-    "summary": "日本銀行の神山理事は、円ステーブルコインの準備金・償還基準の策定を進めており、2027年3月の三大メガバンクのローンチに向けて中央銀行による監督体制を整備する方針を示した。この発表は、JPYCが提携銀行の不正アクセスを受けてアプリを無期限停止させた直後に行われ、ステーバルコインの準備金保有と償還スキームの脆弱性が改めて焦点となっている。"
+    "title": "日本銀行、2027年のステーブルコイン償還に警鐘 - PortalCripto",
+    "domain": "portalcripto.com.br",
+    "url": "https://portalcripto.com.br/ja/bank-of-japan-warns-of-stablecoin-redemptions-in-2027-27-11-2026-1301",
+    "published_at": "2026-11-27 22:06:22",
+    "summary": "日本銀行の神山専務理事は11月27日のIMFセミナーで、ステーブルコインの準備資産と償還条件の安定性を強調し、中央銀行マネーとの統合の重要性を述べた。同氏は2027年3月の円建て共同ステーブルコイン商用取引開始を見据えつつ、スマートコントラクトのリスクや決済システムの課題など5つの圧力点を指摘した。JPYCのアプリ停止やGMO Aozora Net Bankの障害も背景として言及されている。"
    },
    "articles": [
+    {
+     "title": "日本銀行、2027年のステーブルコイン償還に警鐘 - PortalCripto",
+     "domain": "portalcripto.com.br",
+     "url": "https://portalcripto.com.br/ja/bank-of-japan-warns-of-stablecoin-redemptions-in-2027-27-11-2026-1301",
+     "published_at": "2026-11-27 22:06:22",
+     "collected_at": "2026-11-28 21:31:33"
+    },
     {
      "title": "日銀・神山氏、円ステーブルコイン発行迫る中で償還ルールの安定性を強調 - BigGo ファイナンス",
      "domain": "finance.biggo.jp",
